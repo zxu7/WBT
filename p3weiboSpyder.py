@@ -173,11 +173,11 @@ user_id = 1669879400  # ���Ըĳ�����Ϸ����û�id���
 filter = 1  # ֵΪ0��ʾ��ȡȫ����΢����Ϣ��ԭ��΢��+ת��΢������ֵΪ1��ʾֻ��ȡԭ��΢��
 wb = Weibo(user_id, filter)  # ����weibo�࣬����΢��ʵ��wb
 wb.start()  # ��ȡ΢����Ϣ
-print('username: ', wb.userName)
+print('username: ', wb.userName.decode('gbk')) # need to decode to 'gbk' to display chinese
 print('weibo_number: ', str(wb.weiboNum))
 print('weibo_following: ', str(wb.following))
 print('weibo_follower: ', str(wb.followers))
-print('weibos[0]: ', wb.weibos[0])  # ��filter=1��Ϊ���µ�ԭ��΢����������û�΢����Ϊ0����len(wb.weibos)==0,��ӡ�������ͬ
+print('weibos[0]: ', wb.weibos[0].decode('gbk'))  # need to decode to 'gbk' to display chinese
 print('weibo_numzan: ', str(wb.num_zan[0]))
 print('weibo_num_forwarding:', str(wb.num_forwarding[0]))
 print('weibo_num_comment: ', str(wb.num_comment[0]))
