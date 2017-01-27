@@ -144,28 +144,26 @@ class Weibo:
 
 
     def writetxt(self):
-        try:
-            if self.filter == 1:
-                resultHeader = '\n\nԭ��΢�����ݣ�\n'
-            else:
-                resultHeader = '\n\n΢�����ݣ�\n'
-            result = '�û���Ϣ\n�û��ǳƣ�' + self.userName + '\n�û�id��' + str(self.user_id) + '\n΢������' + str(
-                self.weiboNum) + '\n��ע����' + str(self.following) + '\n��˿����' + str(self.followers) + resultHeader
-            for i in range(1, self.weiboNum2 + 1):
-                text = str(i) + ':' + self.weibos[i - 1] + '\n' + '��������' + str(
-                    self.num_zan[i - 1]) + '	 ת������' + str(self.num_forwarding[i - 1]) + '	 ��������' + str(
-                    self.num_comment[i - 1]) + '\n\n'
-                result = result + text
-            if os.path.isdir('weibo') == False:
-                os.mkdir('weibo')
-            f = open("weibo/%s.txt" % self.user_id, "wb")
-            f.write(result)
-            f.close()
-            file_path = os.getcwd() + "\weibo" + "\%d" % self.user_id + ".txt"
-            print
-            '΢��д���ļ���ϣ�����·��%s' % (file_path)
-        except Exception as e:
-            print("Error: ", e)
+        if self.filter == 1:
+            resultHeader = '\n\noriginal weibo content: \n'
+        else:
+            resultHeader = '\n\nweibo content: \n'
+        result = 'userinfo\nusernickname: ' + self.userName.decode('GBK') + '\nuser id: ' + str(self.user_id) + '\nweiboNum: ' + str(
+            self.weiboNum) + '\nfollowings: ' + str(self.following) + '\nfollowers: ' + str(self.followers) + resultHeader
+        for i in range(1, self.weiboNum2 + 1):
+            text = str(i) + ':' + self.weibos[i - 1].decode('GBK') + '\n' + 'num_zan: ' + str(
+                self.num_zan[i - 1]) + '   forwardings: ' + str(self.num_forwarding[i - 1]) + ' comments: ' + str(
+                self.num_comment[i - 1]) + '\n\n'
+            result = result + text
+        if os.path.isdir('weibo') == False:
+            os.mkdir('weibo')
+        f = open("weibo/%s.txt" % self.user_id, "w")
+        f.write(result)
+        f.close()
+        file_path = os.getcwd() + "\weibo" + "\%d" % self.user_id + ".txt"
+        print('file path is: ', file_path)
+
+
 
 
 # ʹ��ʵ��,����һ���û�id��������Ϣ����洢��wbʵ����
@@ -182,4 +180,4 @@ print('weibo_numzan: ', str(wb.num_zan[0]))
 print('weibo_num_forwarding:', str(wb.num_forwarding[0]))
 print('weibo_num_comment: ', str(wb.num_comment[0]))
 
-# wb.writeTxt()
+wb.writetxt() # write in .txt
