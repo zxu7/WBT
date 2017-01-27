@@ -160,7 +160,7 @@ class Weibo:
         f = open("weibo/%s.txt" % self.user_id, "w")
         f.write(result)
         f.close()
-        file_path = os.getcwd() + "\weibo" + "\%d" % self.user_id + ".txt"
+        file_path = os.getcwd() + "/weibo" + "/%d" % self.user_id + ".txt"
         print('file path is: ', file_path)
 
 
