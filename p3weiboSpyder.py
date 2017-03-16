@@ -3,7 +3,17 @@ import os
 import requests
 from lxml import etree
 import traceback
+import math
+import csv
+import unicodecsv
+import time
 
+# new cookie
+cookies = "_T_WM=a85ab53b99784a1487b65c1751d50ed6; ALF=1492200360; SCF=AmES_i-r8gJgsJjWSlNRlA0B0d_5cKUigF8UCDVgKNU5lVZExrA_Zz7amrYoln4KQN8FRa3lRPUkXewngGortkc.; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5M7oS2VRfSs0gDk6TRvlOr5JpX5o2p5NHD95Qp1K.41KqfSoz0Ws4DqcjTCs8EMrLkg.ykgG-t; SUB=_2A251ze-TDeTxGedH4lsY9ivKyT-IHXVXMfHbrDV6PUJbkdBeLRikkW0mwCsqBtxLjbyAh1GZT8ZUut0axg..; SUHB=0z1R9Lxp_Izg83; SSOLoginState=1489608643"
+cookie = {k:v for cookie in cookies.split(';') for (k, v) in [cookie.split('=')]}
+
+# start time
+start_time = time.time()
 
 '''
     Manual Scrapping Weibo data
@@ -11,24 +21,12 @@ import traceback
 '''
 
 
-class Weibo:
-    _cookie = {"_T_WM": 'c08cdb625aad5b5d39c7ff083b60b110',
-              "SCF": 'AhQquoQdLEeDlLQTfn-lvh4L-X2uzJhyJOnOG_nDZNbt27Pc5IcmEjad561dU1kPI-doq9gvWULyWq5Nyv_F5TQ.',
-              "WEIBOCN_WM": '3349',
-              "H5_wentry": 'H5',
-              "backURL": 'http%3A%2F%2Fm.weibo.cn%2F',
-              "SUBP": '0033WrSXqPxfM725Ws9jqgMF55529P9D9WF1QPMOr_F7zp0rdq_i6Z715JpX5o2p5NHD95Qf1hBR1hz0ShqcWs4DqcjeqJ8.'
-                      '9cHEPNxDUs8V',
-              "H5_INDEX": '3',
-               "H5_INDEX_TITLE": 'Harry_ZH_Xu',
-              "M_WEIBOCN_PARAMS": 'luicode%3D10000011%26lfid%3D102803_ctg1_8999_-_ctg1_8999_home%26fid%3D102803_ctg1'
-                                  '_8999_-_ctg1_8999_home%26uicode%3D10000011',
-              "SUB": '_2A251gg9YDeTxGedH4lsY9ivKyT-IHXVWjJEQrDV6PUJbkdBeLXCjkW1oxcLA9m-GqmbPcuTCF0X91EoLEg..',
-              "SUHB": '0FQ63KZHNkLeCn',
-              "SSOLoginState": '1485209352'}
+class Weibo(object):
     _info_url = 'http://weibo.cn/%d/info'
     _filter_url = 'http://weibo.cn/u/%d?filter=%d&page=1'
     _page_url = 'http://weibo.cn/u/%d?filter=%d&page=%d'
+    _following_url = 'http://weibo.cn/%d/follow?page=%d'
+    _cookie = cookie
 
     # initialize weibo parameters
     def __init__(self, user_id, filter=0):
@@ -43,6 +41,7 @@ class Weibo:
         self.num_like = []  # number of posts that this person liked
         self.num_forwarding = []  # number of posts that this person forwarded
         self.num_comment = []  # number of comments
+        self.num_requests = 0  # number of requests sent
         self.save_file_name = "weibo/{0}.txt".format(self.user_id) if not self.original_weibo_filter \
             else "weibo/{0}_filter.txt".format(self.user_id)
 
@@ -61,6 +60,8 @@ class Weibo:
         try:
             url = self._info_url % (self.user_id)
             html = requests.get(url, cookies=Weibo._cookie).content
+            self.num_requests += 1
+            self.check_requests_time()
             selector = etree.HTML(html)
             userName = selector.xpath("//title/text()")[0]
             self.userName = userName[:-3].encode('gbk')
@@ -74,6 +75,8 @@ class Weibo:
         try:
             url = self._filter_url % (self.user_id, self.original_weibo_filter)
             html = requests.get(url, cookies=Weibo._cookie).content
+            self.num_requests += 1
+            self.check_requests_time()
             selector = etree.HTML(html)
             pattern = r"\d+\.?\d*"
 
@@ -103,6 +106,8 @@ class Weibo:
         try:
             url = self._filter_url % (self.user_id, self.original_weibo_filter)
             html = requests.get(url, cookies=Weibo._cookie).content
+            self.num_requests +=1
+            self.check_requests_time()
             selector = etree.HTML(html)
             if not selector.xpath('//input[@name="mp"]'):
                 pageNum = 1
@@ -112,6 +117,8 @@ class Weibo:
             for page in range(1, pageNum + 1):
                 url2 = self._page_url % (self.user_id, self.original_weibo_filter, page)
                 html2 = requests.get(url2, cookies=Weibo._cookie).content
+                self.num_requests +=1
+                self.check_requests_time()
                 selector2 = etree.HTML(html2)
                 info = selector2.xpath("//div[@class='c']")
                 if len(info) > 3:
@@ -150,6 +157,100 @@ class Weibo:
             print("Error: ", e)
             traceback.print_exc()
 
+    def get_following_info(self, to_csv = False):
+        """
+        get a list of [name, id, nb_fans] user_id is following
+        :param to_csv:
+        :return:
+        """
+        url = self._following_url % (self.user_id, 1)
+        # number of followers
+        html = requests.get(url, cookies=cookie).content
+        self.num_requests +=1
+        self.check_requests_time()
+        selector = etree.HTML(html)
+        selector_span = selector.xpath("//span[@class='tc']")
+        # selector_span = selector.xpath("//input[@type='submit']")
+        nb_following = int(re.findall(r"\d+\.?\d*",selector_span[0].text)[0])
+        # number of pages
+        pages = math.ceil(nb_following/10)
+        following_info = [['name','id','nb_fans']]
+        # parse each page
+        for page in range(1,pages+1):
+            url = self._following_url % (self.user_id, page)
+            html = requests.get(url, cookies=cookie).content
+            self.num_requests +=1
+            self.check_requests_time()
+            selector = etree.HTML(html)
+            # all td tags
+            selector_tdtag = selector.xpath("//td[@valign='top']")
+            for tag in selector_tdtag:
+                tag_a = tag.xpath("a")
+                tag_br = tag.xpath("br")
+                # following name, id, nb_fans
+                following_info1 = []
+                for tag_a1 in tag_a:
+                    if tag_a1.text:
+                        tag_a1_href = tag_a1.attrib['href']
+                        if '?uid=' in tag_a1_href:
+                            uid = re.findall(r"uid=\d*&",tag_a1_href)[0]
+                            uid = re.findall(r"\d+\d*",uid)[0]
+                            following_info1.append(uid)
+                        else:
+                            tag_a1_text = tag_a1.text
+                            following_info1.append(tag_a1_text)
+                if tag_br:
+                    tag_br1 = etree.tostring(tag_br[0]).decode('gbk')
+                    nb_fans = tag_br1.split(';')[-2].split('&')[0] # number of fans
+                    following_info1.append(nb_fans)
+                if following_info1:
+                    following_info.append(following_info1)
+        if to_csv:
+            csv_filename = "{}_following_info.csv".format(self.user_id)
+            with open(csv_filename,'wb') as f:
+                csv_writer = unicodecsv.writer(f, delimiter=',')
+                csv_writer.writerows(following_info)
+                print("file {} created...".format(csv_filename))
+        return following_info
+
+    def get_1stlayer_info(self, threshold):
+        """
+        get the 1st layer info of user_id
+        :param threshold:
+        :return:
+        """
+        print("get following's information...")
+        followings = self.get_following_info(to_csv=False)
+        folder_name = '{}_following'.format(self.user_id)
+        if not os.path.isdir(folder_name):
+            os.mkdir(folder_name)
+        ticker=0
+        os.chdir(folder_name)
+        print("start parsing following's weibo posts...")
+        for following in followings:
+            if len(following) == 3 and following[2].isnumeric():
+                if int(following[2])<threshold:
+                    user_id = int(following[1])
+                    post_filter = 0
+                    wb = Weibo(user_id, post_filter)
+                    wb.start()
+                    print("username: ", wb.userName.decode('GBK'))
+                    wb.save_results()
+            ticker+=1
+            if ticker%10 == 0:
+                print("{} of {} followings' weibo posts parsed...".format(ticker,len(followings)))
+        os.chdir('..')
+
+    def check_requests_time(self):
+        """
+        make sure the request frequency is under 900 requests/hour
+        :return: 
+        """
+        time_elapsed = time.time()-start_time
+        req_time_ratio = self.num_requests/time_elapsed
+        if req_time_ratio > 900/3600: # 900 requests per hour
+            time.sleep(3600/900*self.num_requests-time_elapsed)
+
     ''' Save restuls in TXT file'''
     def save_results(self):
         if self.original_weibo_filter == 1:
@@ -178,10 +279,16 @@ class Weibo:
 
 # ---------------------------- Main Function -------------------------- #
 if __name__ == "__main__":
-    user_id = 1669879400
+    user_id = 1917901324
     post_filter = 0
     wb = Weibo(user_id, post_filter)
-    wb.start()
+    # print(wb._cookie)
+    # wb.start()
+
+    # print('following:', wb.get_following_info(to_csv=True))
+    wb.get_1stlayer_info(threshold=3000)
+    print(time.time()-start_time)
+
     print('username: ', wb.userName.decode('gbk'))  # need to decode to 'gbk' to display chinese
     print('weibo_num_posts: ', str(wb.weiboNum))
     print('weibo_num_followings: ', str(wb.following))
@@ -190,4 +297,4 @@ if __name__ == "__main__":
     print('weibo_num_likes: ', str(wb.num_like[0]))
     print('weibo_num_forwardings:', str(wb.num_forwarding[0]))
     print('weibo_num_comments: ', str(wb.num_comment[0]))
-    wb.save_results()
+    # wb.save_results()
