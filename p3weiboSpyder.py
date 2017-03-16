@@ -159,9 +159,9 @@ class Weibo(object):
 
     def get_following_info(self, to_csv = False):
         """
-        get a list of [name, id, nb_fans] user_id is following
-        :param to_csv:
-        :return:
+        get a list of [name, id, nb_fans] the user_id is following
+        :param to_csv: True if wants an csv output;
+        :return: following_info: list of [name, id, nb_fans]
         """
         url = self._following_url % (self.user_id, 1)
         # number of followers
@@ -170,7 +170,6 @@ class Weibo(object):
         self.check_requests_time()
         selector = etree.HTML(html)
         selector_span = selector.xpath("//span[@class='tc']")
-        # selector_span = selector.xpath("//input[@type='submit']")
         nb_following = int(re.findall(r"\d+\.?\d*",selector_span[0].text)[0])
         # number of pages
         pages = math.ceil(nb_following/10)
@@ -215,9 +214,9 @@ class Weibo(object):
 
     def get_1stlayer_info(self, threshold):
         """
-        get the 1st layer info of user_id
-        :param threshold:
-        :return:
+        get user_id's 1st layer friends' weibo info and store them in a folder
+        :param threshold: number of fans threshold. weibos of users fans above or equal to threshold will not be considered
+        :return: None
         """
         print("get following's information...")
         followings = self.get_following_info(to_csv=False)
@@ -240,6 +239,7 @@ class Weibo(object):
             if ticker%10 == 0:
                 print("{} of {} followings' weibo posts parsed...".format(ticker,len(followings)))
         os.chdir('..')
+        return None
 
     def check_requests_time(self):
         """
@@ -250,6 +250,7 @@ class Weibo(object):
         req_time_ratio = self.num_requests/time_elapsed
         if req_time_ratio > 900/3600: # 900 requests per hour
             time.sleep(3600/900*self.num_requests-time_elapsed)
+        return None
 
     ''' Save restuls in TXT file'''
     def save_results(self):
