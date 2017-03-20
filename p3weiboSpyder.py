@@ -5,8 +5,6 @@ from lxml import etree
 import traceback
 import unicodecsv
 from datetime import datetime
-import time
-
 
 '''
     Manual Scrapping Weibo data
@@ -57,14 +55,12 @@ class Weibo(object):
         self.num_like = []  # number of posts that this person liked
         self.num_forwarding = []  # number of posts that this person forwarded
         self.num_comment = []  # number of comments
-        self.num_requests = 0  # number of requests sent
 
     # get user name
     def _get_user_name(self, user_id):
         try:
             url = self._info_url % user_id
             html = self.weibo_request(url)
-            self.num_requests += 1
             # self.check_requests_time()
             selector = etree.HTML(html)
             userName = selector.xpath("//title/text()")[0]
@@ -79,7 +75,6 @@ class Weibo(object):
         try:
             url = self._filter_url % (user_id, self.original_weibo_filter)
             html = self.weibo_request(url)
-            self.num_requests += 1
             # self.check_requests_time()
             selector = etree.HTML(html)
             pattern = r"\d+\.?\d*"
@@ -110,7 +105,6 @@ class Weibo(object):
         try:
             url = self._filter_url % (user_id, self.original_weibo_filter)
             html = self.weibo_request(url)
-            self.num_requests += 1
             # self.check_requests_time()
             selector = etree.HTML(html)
             if not selector.xpath('//input[@name="mp"]'):
@@ -121,7 +115,6 @@ class Weibo(object):
             for page in range(1, pageNum + 1):
                 url2 = self._page_url % (user_id, self.original_weibo_filter, page)
                 html2 = self.weibo_request(url2)
-                self.num_requests += 1
                 # self.check_requests_time()
                 selector2 = etree.HTML(html2)
                 info = selector2.xpath("//div[@class='c']")
@@ -289,7 +282,6 @@ class Weibo(object):
         f = open(save_file_name, "w")
         f.write(result)
         f.close()
-        # file_path = os.getcwd() + "/weibo" + "/%d" % user_id + ".txt"
         print('saved data to file: %s' % save_file_name)
 
 

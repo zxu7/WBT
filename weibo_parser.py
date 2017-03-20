@@ -49,7 +49,6 @@ class WeiboParser(object):
         if rm_stopw:
             with open('stopwords.txt', 'r') as f:
                 self.STOP_WORDS = f.read().split('\n')
-        #     self.STOP_WORDS += stopwords.words('chinese')
         self.LOGGER.info("Finished Initialization")
 
     def run(self, data):
