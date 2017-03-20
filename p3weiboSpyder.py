@@ -178,18 +178,20 @@ class Weibo(object):
         folder_name = '{}_following'.format(user_id)
         if not os.path.isdir(folder_name):
             os.mkdir(folder_name)
-        ticker=0
+        ticker = 0
         os.chdir(folder_name)
         print("start parsing following's weibo posts...")
         for following in followings:
             if len(following) == 3 and following[2].isdigit():
                 if int(following[2]) < threshold:
+                    ticker += 1
                     user_id = int(following[0])
-                    print("Parsing username: ", following[1].decode('GBK'))
+                    print("Parsing username: ", following[1])   #.decode('GBK'))
                     self.scrap_user(user_id)
                     self.save_results(user_id)
+                else:
+                    print("Skip parsing username: ", following[1])
 
-            ticker += 1
             if ticker % 10 == 0:
                 print("{} of {} followings' weibo posts parsed...".format(ticker, len(followings)))
         os.chdir('..')
