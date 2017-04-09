@@ -8,7 +8,6 @@ import re
 import logging
 import traceback
 from jieba import cut, tokenize
-from nltk.stem.porter import PorterStemmer
 
 
 class WeiboParser(object):
@@ -35,7 +34,7 @@ class WeiboParser(object):
     URL_REGEX = re.compile(URL_EXP)
 
     # nltk parameters
-    STOP_WORDS = list("#$%&\()+-/:;<=>@[\\]^_`{|}~") + ['rt', 'via', 'http', '…']
+    PUNCTUATION = list("#$%&\()+-/:;<=>@[\\]^_`{|}~") + ['rt', 'via', 'http', '…']
     KEPT_STOP_WORDS = list(",.?!'")
 
     # spelling correction threshold
@@ -45,7 +44,6 @@ class WeiboParser(object):
 
     def __init__(self, debug=False, rm_stopw=False):
         self.DEBUG = debug
-        self.pstm = PorterStemmer()
         if rm_stopw:
             with open('stopwords.txt', 'r') as f:
                 self.STOP_WORDS = f.read().split('\n')
@@ -88,8 +86,8 @@ class WeiboParser(object):
                 sentence, hashtags = self._extract_hashtag(sentence)
                 tokens = cut(sentence)
                 # self._remove_escapted_quotation(tokens)
-                tokens = [w for w in tokens if w and w not in self.STOP_WORDS]
-                processed_text += "".join(["{0} ".format(v) for v in tokens if not v.isspace() and v not in self.STOP_WORDS])
+                tokens = [w for w in tokens if w and w not in self.PUNCTUATION]
+                processed_text += "".join(["{0}".format(v) for v in tokens if not v.isspace() and v not in self.PUNCTUATION])
                 # processed_text = self._postprocessing(processed_text)
                 if self.DEBUG:
                     print('[processed text] ', processed_text)
@@ -178,11 +176,6 @@ class WeiboParser(object):
 # ------------------- main function -------------- #
 if __name__ == "__main__":
     parser = WeiboParser(debug=True)
-    text = "我的三个老婆 @王洋爱傻笑 @ice艾晓琪  @楼佳悦Artemis ……还有@演员马可 当时马可老师在水里[微笑]今晚彩色电视机里见[微笑]#电视剧麻辣变形计# "
-    parser.run(text)
-
-    print('-'*30)
-
-    parser = WeiboParser(debug=True,rm_stopw=True)
-    text = "我的不尽三个老婆 @王洋爱傻笑 @ice艾晓琪  @楼佳悦Artemis ……还有@演员马可 当时马可老师在水里[微笑]今晚彩色电视机里见[微笑]#电视剧麻辣变形计# "
+    text = "【迪士尼放话要千万片酬有条件 艾玛沃森两周做到】女星艾玛-沃森（Emma Watson）26岁已经红遍全球，在以《美女与野兽》中聪明、" \
+           "勇敢的贝儿刷新观众的印象，先前传出迪士尼为了请到她演出，开出美金1500万元天价，不过开出一个条件，“只要达成就能拿到片酬”"
     parser.run(text)
