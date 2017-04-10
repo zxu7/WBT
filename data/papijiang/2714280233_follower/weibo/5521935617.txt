@@ -1,0 +1,13 @@
+user_info or user_nickname: 经神经神经神经神经神
+user_id: 5521935617
+weibo_Num: 2
+Num_followings: 195
+Num_followers: 4
+
+weibo content: 
+1:Netfits 云墙，一款为您量身定做的网络加速器。#玩的就是速度# http://t.cn/RqNo6GB 
+num_like: 0   forwardings: 0 comments: 0
+
+2:我分享了微博视频 
+num_like: 0   forwardings: 0 comments: 0
+

@@ -1,0 +1,76 @@
+user_info or user_nickname: 彼若此时
+user_id: 6112710286
+weibo_Num: 23
+Num_followings: 95
+Num_followers: 29
+
+weibo content: 
+1:想回到穿校服的学生时代，想和你谈一场不分手的学生恋爱 
+num_like: 1   forwardings: 0 comments: 0
+
+2:真的，演唱会还是要和自己爱的人一起去！当然，爱你的人还是要懂你，不然泪点都不知道哪来的！live的感觉还是不错的！希望下次能有幸和爱的人去听喜爱的歌星的演唱会！[拳头]晚安 
+num_like: 1   forwardings: 0 comments: 0
+
+3:或许我还是那么无理取闹吧！可是不是谁都会追着你道歉啊，所以就。。。 
+num_like: 0   forwardings: 0 comments: 0
+
+4:让人又哭又笑的，不止是感情，还有电视剧，情节让人又哭又笑的是回忆。 
+num_like: 0   forwardings: 0 comments: 0
+
+5:孤单零落，七拼八凑，人没了，狗也没了 
+num_like: 0   forwardings: 0 comments: 0
+
+6:不知道你会不会想我，希望新主人会对你好好的，我连最后一眼都没有看你。也是他妈的！凭什么没经过我同意，就送走她！你又不是属于一个人的！想起来就生气！生气得眼泪唰唰往下掉！土豆，对不起，还是没有能力照顾你！[泪] 
+num_like: 0   forwardings: 0 comments: 0
+
+7:今天滴滴帅哥司机问我：你是老师吗？我长得像老师？沉默那你大几？大二。哦，大二就是，那什么，高三读完读大一，大一读完读大二是吧？我。。。嗯，是的这是史上最尴尬的尬聊？[摊手]哥，你是要碰瓷还是咋地？ 
+num_like: 0   forwardings: 0 comments: 0
+
+8:我想我可以把自己照顾好 
+num_like: 0   forwardings: 0 comments: 0
+
+9:那就让快乐来得更简单些吧！哈哈哈 
+num_like: 1   forwardings: 0 comments: 0
+
+10:从今往后，要做个善良的女孩，不为小事怒火冲天，也不为烦事忧心忡忡，相信美好，享受孤独！ 
+num_like: 0   forwardings: 0 comments: 0
+
+11:后来，我想再看一眼你的背影都难。 
+num_like: 0   forwardings: 0 comments: 0
+
+12:看过的电影就不要再看，爱过的人儿就让他散落尘埃。 
+num_like: 0   forwardings: 0 comments: 0
+
+13:如果你想知道某事，一定可以有办法得到结果，但结果往往不尽人意，有时候还是不要自作多情的好。 
+num_like: 0   forwardings: 0 comments: 0
+
+14:可能又要和自己较上个几年的劲了 
+num_like: 0   forwardings: 0 comments: 0
+
+15:还是会期望有个如你一般的人，所以才要努力经营自己呀！待你到来时，不慌不忙，话一句：恭候多时！[幽灵] 
+num_like: 1   forwardings: 0 comments: 0
+
+16:放下，原来也就他妈的一瞬间的事情，活得优雅淡然，很好，这就是我原来所期望的生活。[微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+17:话不多，可能只是因为懒而已！[眼泪] 
+num_like: 0   forwardings: 0 comments: 0
+
+18:也许终有一天，我会带着一把破木吉他[吉他]去流浪吧 
+num_like: 0   forwardings: 0 comments: 0
+
+19:不爱就大胆往前走吧！去他妈的狗屁爱情！！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+20:好久不见[微笑]一起去喝一杯吧！ 
+num_like: 0   forwardings: 0 comments: 0
+
+21:每个人的一生都可编成一本书，当然，一本书不能倾其所有故事。当你遇到知己时，你会相见恨晚，也总有一首歌能入你心，make your tears falling down. 
+num_like: 0   forwardings: 0 comments: 0
+
+22:没有所谓对不起，错的只是你不爱我！四年了啊，我还以为你不记得我了。总之，想见不如怀念，怀念不如不见。 
+num_like: 0   forwardings: 0 comments: 0
+
+23:走过你来时的路 
+num_like: 0   forwardings: 0 comments: 0
+

@@ -1,0 +1,526 @@
+user_info or user_nickname: Donuts_Little_Bai
+user_id: 2755092963
+weibo_Num: 173
+Num_followings: 124
+Num_followers: 58
+
+weibo content: 
+1:天气预报明天：晴转多云，局部地区有萧敬腾[下雨] 
+num_like: 0   forwardings: 0 comments: 0
+
+2:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+3:天气预报明天：晴转多云，局部地区有萧敬腾[下雨] 
+num_like: 0   forwardings: 0 comments: 0
+
+4:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+5:天气预报明天：晴转多云，局部地区有萧敬腾[下雨] 
+num_like: 0   forwardings: 0 comments: 0
+
+6:一组表情包送给各位鸽苦等下一次更博了[作揖] 
+num_like: 0   forwardings: 0 comments: 0
+
+7:(@白敬亭 给您参考下)当别人关心你飞得高不高，飞得累不累的时候，只有我。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。  不 全文
+num_like: 0   forwardings: 0 comments: 0
+
+8:老板发博了，是不是很开心！没睡的白鸽，统一转发 @白敬亭  每人一句晚安[心] 增加提及量！ 
+num_like: 0   forwardings: 0 comments: 0
+
+9:天气预报明天：晴转多云，局部地区有萧敬腾[下雨] 
+num_like: 0   forwardings: 0 comments: 0
+
+10:天气预报明天：晴转多云，局部地区有萧敬腾[下雨] 
+num_like: 0   forwardings: 0 comments: 0
+
+11:#白敬亭# 
+num_like: 0   forwardings: 0 comments: 0
+
+12:天气预报明天：晴转多云，局部地区有萧敬腾[下雨] 
+num_like: 0   forwardings: 0 comments: 0
+
+13:天气预报明天：晴转多云，局部地区有萧敬腾[下雨] 
+num_like: 0   forwardings: 0 comments: 0
+
+14:你叫我？ 
+num_like: 0   forwardings: 0 comments: 0
+
+15:你叫我？ 
+num_like: 0   forwardings: 0 comments: 0
+
+16:#白敬亭##白敬亭明星大侦探# 为什么今天是这周五不是下周五！！！啊啊啊啊想要一瞬间到下周五啊！！@白敬亭 
+num_like: 1   forwardings: 0 comments: 0
+
+17:#白敬亭# 
+num_like: 0   forwardings: 0 comments: 0
+
+18:#明星人气榜#【4月份·最受欢迎新人偶像评选②】黄景瑜、蒋梓、许魏洲、晏紫东、孟瑞、盛一伦、白敬亭、张彬彬、张若昀、于朦胧、鞠婧祎、郭子凡、肖战、谷嘉诚、张云龙、张天爱、李溪芮等。关注微博、微信“@明星微杂志”为更多明星同步打榜、踢馆《STAR!明星微杂志》中国明星排行榜新媒体年度人气盛典百位群星宣传片 投票#明星人气榜#【4月份·最受欢迎新人偶像评选②】 
+num_like: 0   forwardings: 0 comments: 0
+
+19:#白敬亭# 这样的爷们儿气概难道不算撩吗 
+num_like: 0   forwardings: 0 comments: 0
+
+20:#白敬亭##白敬亭夏至未至#〔He ate my heart .芳心纵火犯@白敬亭 〕#梦伴[音乐]# 
+num_like: 0   forwardings: 0 comments: 0
+
+21:…………………… 
+num_like: 0   forwardings: 0 comments: 0
+
+22:#白敬亭#  #白敬亭明星大侦探#  今日份的里头白[哆啦A梦花心] 明星大侦探第二季第12案《收官派对》预告CUT[doge] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+23:#爱豆驾到# 纯粹干净的小哥哥#白敬亭#送给你~满满的少年感搭配青春特有的活力，试问哪位迷妹不喜欢这样阳光气质的学长？[害羞]反正我敲喜欢的~怎么会有这么干净的男孩子[爱你]@白敬亭后援会官博 
+num_like: 0   forwardings: 0 comments: 0
+
+24:今天今天今天！有下集预告看了～～～[泪][泪][泪][泪]激动到清醒@白敬亭 
+num_like: 3   forwardings: 0 comments: 0
+
+25:#全球插画师# 来自法国插画师的作品，更多：http://t.cn/RGD20g3 
+num_like: 0   forwardings: 0 comments: 0
+
+26:现在这么看看，bjt以前真是太会撩了[作揖] 
+num_like: 0   forwardings: 0 comments: 0
+
+27:小合集，不知不觉又画了一堆JK.... 
+num_like: 0   forwardings: 0 comments: 0
+
+28:大侦探都有cos版啦！[哆啦A梦吃惊]@明星大侦探官微 【明星大侦探】01案公主嫁到-----案件还原cos版 #哔哩哔哩# 【明星大侦探】01案公主嫁到-----案件还原cos版 
+num_like: 0   forwardings: 0 comments: 0
+
+29:我中毒太深@白敬亭[二哈][二哈][二哈]白的段子[鲜花]还有其他段子哟[耶][耶]期待夏至未至的到来#白敬亭夏至未至#[心]#白敬亭# 
+num_like: 0   forwardings: 0 comments: 0
+
+30:#白敬亭# 
+num_like: 0   forwardings: 0 comments: 0
+
+31:收官！#明星大侦探# 
+num_like: 0   forwardings: 0 comments: 0
+
+32:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+33:今天没有微博～～小白培养出了一群会自娱自乐的白鸽[摊手][摊手]～～@白敬亭 晚安 
+num_like: 5   forwardings: 0 comments: 0
+
+34:搜狗明星人气榜火热评选中！白敬亭已获得74444票，在男演员人气榜中排名12名，小伙伴们赶紧来投票吧！ http://t.cn/RtVFSUS 
+num_like: 0   forwardings: 0 comments: 0
+
+35:收官！#明星大侦探# 
+num_like: 0   forwardings: 0 comments: 0
+
+36:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+37:抱歉，由于作者设置，你暂时没有这条微博的查看权限哦。查看帮助：http://t.cn/RfdBWwP 
+num_like: 0   forwardings: 0 comments: 0
+
+38:#白敬亭# 
+num_like: 0   forwardings: 0 comments: 0
+
+39:#白敬亭# 
+num_like: 0   forwardings: 0 comments: 0
+
+40:白啊~又吃明星大侦探道具[捂脸] 
+num_like: 0   forwardings: 0 comments: 0
+
+41:#白敬亭##白敬亭明星大侦探# 20170331长沙[飞机]北京 迷妹：“小白你最帅！”[色][色][色]小白：“你才知道？”[喵喵][喵喵][喵喵]仿佛看到了口罩后边的傲娇脸[笑cry][笑cry][笑cry]喵佳喵佳的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+42:我可太喜欢我们小白白的这个啾啾了吧！！好可爱哇[大哭][大哭][大哭][大哭][大哭][大哭][大哭][大哭] 
+num_like: 0   forwardings: 0 comments: 0
+
+43:#绘画参考# 真人手势参考~。 系统学习#CG绘画# 日式唯美插画班：日式唯美插画班 | CG窝游戏动漫学院 
+num_like: 0   forwardings: 0 comments: 0
+
+44:白敬亭和少年感是不是顶配[污]隔壁班气质干净的学长既视感 
+num_like: 0   forwardings: 0 comments: 0
+
+45:#白敬亭#小白探班《歌手》，为萧敬腾庆生～ 
+num_like: 0   forwardings: 0 comments: 0
+
+46:春 
+num_like: 0   forwardings: 0 comments: 0
+
+47:画师Namie最近BGO新作～twitter：namgoreng 
+num_like: 0   forwardings: 0 comments: 0
+
+48:春天主题的练习合集。旧图也有。还没有画够，但清明一过忽然就热成狗了…… 
+num_like: 0   forwardings: 0 comments: 0
+
+49:【余淮X乔燃】【刘昊然X白敬亭】盛夏光年 #哔哩哔哩#挖槽！！！ 【余淮X乔燃】【刘昊然X白敬亭】盛夏光年 
+num_like: 0   forwardings: 0 comments: 0
+
+50:收官！#明星大侦探# 
+num_like: 0   forwardings: 0 comments: 0
+
+51:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+52:#白敬亭明星大侦探#[羞嗒嗒]#白敬亭夏至未至# 【2016年6月 《Jstyle精美》 @白敬亭 采访视频】[圈]最满意自己的什么地方？[圈]把校服穿好看的秘诀是什么？[圈]收到过最惊喜的礼物是什么？[下]答案就在视频里！[下]白敬亭后援会的秒拍视频感谢@精美JSTYLE 
+num_like: 0   forwardings: 0 comments: 0
+
+53:#全球插画师# 来自韩国插画师的作品，更多：http://t.cn/RGFqulu 
+num_like: 0   forwardings: 0 comments: 0
+
+54:收官！#明星大侦探# 
+num_like: 0   forwardings: 0 comments: 0
+
+55:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+56:没睡的白鸽，统一转发 @白敬亭  每人一句晚安[心] 增加提及量！！！  
+num_like: 0   forwardings: 0 comments: 0
+
+57:没睡的白鸽，统一转发 @白敬亭  每人一句晚安[心] 增加提及量！！！  
+num_like: 0   forwardings: 0 comments: 0
+
+58:震惊！可以说是无比震惊！我今天才知道某宝会偷偷读取我们的相册信息，然后据此推荐商品到你的首页！反正听屎宝妈说了以后我马上自己试了一下，8:26我拍了一张锅的照片（图4），8:27这个锅就出现在了我的某宝首页推荐中（图6）！[拜拜]所以...... 大家千万不要再拍裸照了！马爸爸能看见！！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+59:#白敬亭##白敬亭夏至未至##小白# 时尚写真释出[偷笑][偷笑][偷笑]迷妹们快来舔屏[互粉][互粉][互粉] 
+num_like: 0   forwardings: 5 comments: 0
+
+60:【综艺前沿】腾讯综艺美食节目《#黄小厨的深夜食堂#》嘉宾：刘烨、陈赫、袁姗姗、何炅、吴磊、刘宪华、白敬亭、方家翊。 
+num_like: 0   forwardings: 0 comments: 0
+
+61:和之前的一起无耻地除个草凑个六。竟然整个三月都没有产出[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+62:#白敬亭# 震惊哭……[笑cry][笑cry][笑cry]，请看最后一张图……这不就是白敬亭吗？[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+63:#明星猜猜猜# 明天#ELLESHOP#将发布我们新栏目#壹周星Look# 的第一期明星大片啦！赶快猜猜是谁？关键词：温暖、鞋控、冒险精神。我们将通过@微博抽奖平台 抽出3名答对并转发本条微博的粉丝，送出签名照哦！结果将在下周五公布。更多明星同款就在ELLESHOP官方App http://t.cn/RfNBxju 
+num_like: 0   forwardings: 0 comments: 0
+
+64:#白敬亭# 突然出现～摸一个眼镜白【重发 之前那个忘带tag 
+num_like: 0   forwardings: 0 comments: 0
+
+65:#白敬亭# 17.3.31 白敬亭 长沙[飞机]北京 机场私服LOOK飞行夹克：alpha industriesT恤：LION X JAMZ & BUN 棒球帽：VERUTUM （图源：logo ） 
+num_like: 0   forwardings: 0 comments: 0
+
+66:居然在某摄影师朋友的朋友圈翻到这个，我是不是赚到啦！对白衬衣的白，木有丝毫抵抗力……#白敬亭# @白敬亭工作室 @白敬亭后援会官博 比利时·鲁汶 
+num_like: 0   forwardings: 0 comments: 0
+
+67:#白敬亭##白敬亭助阵大张伟# 咳咳…思来想去我还是把这段视频放上来了[喵喵]演唱会现场讨论喝尿真的好么[喵喵]@大张伟 大老师你太坏了！前方高能[污] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+68:謝謝你們大家過了一個開心的生日我愛你們[好愛哦][好愛哦][好愛哦] 
+num_like: 0   forwardings: 0 comments: 0
+
+69:#绘画#情侣姿势绘画参考！twi:misatomiduki 
+num_like: 0   forwardings: 0 comments: 0
+
+70:#白敬亭##白敬亭明星大侦探# 啊哈哈哈哈哈！很认真的在发朋友圈的白白～@白敬亭 
+num_like: 1   forwardings: 0 comments: 0
+
+71:#白敬亭# 壁纸四月清和雨乍晴[太阳] 
+num_like: 0   forwardings: 0 comments: 0
+
+72:[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+73:这次应该成功了[笑cry]tag也不带了[笑cry]是白鸽就再坚持18秒[doge] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+74:收官！#明星大侦探# 
+num_like: 0   forwardings: 0 comments: 0
+
+75:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+76:#白敬亭# #白敬亭夏至未至# wow战鸽们都辛苦了送你们一朵小fafa！！！！@白敬亭 
+num_like: 0   forwardings: 0 comments: 0
+
+77:邁向下一個20年。 你怎麼做，你怎麼活，就決定了你是誰...。 What's your story?五月天 [ What's Your Story? ] MV秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+78:【预告】#杜丽莎# #李健# #张碧晨# #白敬亭# 等人凌晨录制完《我是歌手》走出湖南广电，小白作为驻唱嘉宾想想还是蛮期待的[哆啦A梦花心][哆啦A梦花心]14:10更多路透猛戳→ http://t.cn/RfwgjBT 
+num_like: 0   forwardings: 0 comments: 0
+
+79:邁向下一個20年。 你怎麼做，你怎麼活，就決定了你是誰...。 What's your story?五月天 [ What's Your Story? ] MV秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+80:#全球插画师# 来自日本插画师的作品，更多：http://t.cn/RqvMdOG 
+num_like: 0   forwardings: 0 comments: 0
+
+81:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+82:收官！#明星大侦探# 
+num_like: 0   forwardings: 0 comments: 0
+
+83:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+84:#科普#超好懂！4步让你学会： 如何制作自己的同人本？ 
+num_like: 0   forwardings: 0 comments: 0
+
+85:#白敬亭##战斗吧男神白敬亭# 买萌吗？买个萌吧。 
+num_like: 0   forwardings: 0 comments: 0
+
+86:#白敬亭明星大侦探#[求关注]#白敬亭夏至未至# 【170326 《周一见》录制 高清9P】每一次看到你那双爱笑的眼睛迷人又有魅力[鲜花]拍摄by 七月修图by 瑞瑞，Nox 
+num_like: 0   forwardings: 0 comments: 0
+
+87:敬騰說~這是小白送的公牛20周年紀念外套哦！[good][good][good]@白敬亭 @蕭敬騰-LION獅子合唱團 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+88:笑死了 @ bjt 
+num_like: 1   forwardings: 0 comments: 0
+
+89:让我先笑一会儿 
+num_like: 0   forwardings: 0 comments: 0
+
+90:#白敬亭明星大侦探#[酷]#白敬亭夏至未至# 【170326 《周一见》录制 高清8P】[气球]白三岁成功上线[气球]不管是穿成了大胖子，还是裹成了毛毛虫都是超级可爱的@白敬亭 拍摄by 瓜瓜修图by 瓜瓜 
+num_like: 0   forwardings: 0 comments: 0
+
+91:一组经典动画手稿动态图 
+num_like: 0   forwardings: 0 comments: 0
+
+92:#底妆# 2016年新出新试的底妆盘点！终于决定硬气上进一回了[奥特曼]夏混油冬混干，中性1.5白（最近晒黑了变2白吧），喜好肤色并且能提升皮肤质感的底妆。入底妆坑三四年了，原先写过的一些老生常谈的这篇里就不写来凑数了。这篇写了十七样新底妆，希望对大家的选择有帮助！最后一张有福利，卷发关注吃 全文
+num_like: 0   forwardings: 0 comments: 0
+
+93:#白敬亭##白敬亭夏至未至# 170331  心情分两种见得到你和见不到你@白敬亭 
+num_like: 0   forwardings: 0 comments: 0
+
+94:是 
+num_like: 0   forwardings: 0 comments: 0
+
+95:#明星大侦探# 【每日晚安】金丝边眼镜美男子1-4号，你会选择谁？大大：爆灯爆灯，全部爆灯[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+96:吃法式料理就是麻烦，量太少了，要一个劲儿的按铃[喵喵] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+97:白敬亭真的是超耿直的小哥哥了，问啥答啥，不问也说——“喜欢什么类型，是女的就行”；“第一次试戏进复试，觉得导演组心还挺大”；“出道前微博有200个粉丝，其中100是花5块钱买的”；“有段时间不看电视，以为海绵宝宝真的是发糕”......诶诶，小白你不按爱豆套路出牌啊，别人都在立人设，你咋全都 全文
+num_like: 0   forwardings: 0 comments: 0
+
+98:日本插画师 フゴ 一组小清新插画（作者主页>>>blog.livedoor.jp/nokoki/） 
+num_like: 0   forwardings: 0 comments: 0
+
+99:哈哈哈哈哈哈哈哈陈信宏太可爱了吧！！截出来我也就看了两百遍！！！成名在望 
+num_like: 0   forwardings: 0 comments: 0
+
+100:收官！#明星大侦探# 
+num_like: 0   forwardings: 0 comments: 0
+
+101:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+102:#夏至未至# 暖风拂过窗帘，阳光倾泻墙角…头顶电扇不懈转动消散闷热，讲台前老师还在奋笔疾书，同学们的笔尖刷刷划过纸面……这一切，你都听到了吗？……还有那个潜藏在我心底的秘密[绿叶]@陈学冬#郑爽#@白敬亭@夏梓桐@柴柴柴碧云@庞瀚辰@王玉雯Uvin@张超Juck@郑合惠子 
+num_like: 0   forwardings: 0 comments: 0
+
+103:#王牌对王牌#到底谁的耳机里面才有真的音乐？“葫芦娃”“忐忑”“青春修炼手册”齐上阵，没想到，隐藏最深的@白敬亭 才是真的在听歌的人。跟小白一起唱起来~就是这个feel倍儿爽~[哈哈]微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+104:2017.3.29 #五月天20周年#  [ 回到 1997.3.29 ] 7号公园第一天 演唱会（来自一直播:五月天正在直播）APP下载地址：http://t.cn/RMTjWBI 
+num_like: 0   forwardings: 0 comments: 0
+
+105:“希望大家不要破费 如果真的自己有了一些钱的话 多给父母买一些礼物”“因为我有什么喜欢的我会通过自己的努力去买”昨天疯狂补采访的我真的觉得我的小哥哥太好了啊[泪] 
+num_like: 0   forwardings: 0 comments: 0
+
+106:#白敬亭##白敬亭夏至未至# 夏至未至壁纸 
+num_like: 0   forwardings: 0 comments: 0
+
+107:包装印刷及工艺 
+num_like: 0   forwardings: 0 comments: 0
+
+108:@白敬亭 正在 #明星势力榜# 内地榜打榜，动动手指冠军就是我们的！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+109:@白敬亭 已经在#明星势力榜#内地榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第24位  
+num_like: 0   forwardings: 0 comments: 0
+
+110:想像你在某個城市，某片星空，某片草地，某個學生宿舍或公寓 ？你是獨自戴上耳機，或與好友放聲同歌 ？任何的位置，都是最好的相遇，因為你心，與我同在。20年前，你不認識我，我不認識你，20年後，你就在這裡。這是我所知的，最美好的事情。明天見。-[ 五月天 20 週年音樂會 ]回到1997.3 全文
+num_like: 0   forwardings: 0 comments: 0
+
+111:#白敬亭# 晚安[月亮] 
+num_like: 0   forwardings: 0 comments: 0
+
+112:九种光源 
+num_like: 0   forwardings: 0 comments: 0
+
+113:啊啊啊窒息！想看有人演一个“斯文败类”型的角色——白天在人潮中隐藏着，夜晚卸下伪装变回本体。美颜与荷尔蒙，少年与黑暗系，外表纯良的腹黑学霸，聪明的人儿更危险！天哪，想想就带感！我要提名以下几位啊啊啊，个个儿戴起眼镜来都瞬间变身，气场切换的毫无痕迹，自体水仙真的是太喜欢了！！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+114:#白敬亭明星大侦探# [奥特曼]#白敬亭年轻的选择# [奥特曼]一级战斗警报注意！这不是演习白氏鲜肉为何消失大本营？白家一姐为何热舞《shake it off》？白静婷为何歌颂《小拜年》？白rap 为何竟在回归舞台上失忆？官博发誓绝对不是黑粉！[喵喵]也请白鸽看完本视频后不要变成黑鸽以及 全文
+num_like: 0   forwardings: 0 comments: 0
+
+115:9张[爱心]()#白敬亭王牌对王牌# 
+num_like: 0   forwardings: 0 comments: 0
+
+116:第一个留意到人群之外有一个小孩 你真好 
+num_like: 0   forwardings: 0 comments: 0
+
+117:今日打烊白敬亭都不更博 我也不要更 
+num_like: 0   forwardings: 0 comments: 0
+
+118:#白敬亭0804出道两周年快乐##白敬亭陆之昂##我们战斗吧白敬亭##白敬亭#  小白爱白鸽…… 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+119:#白敬亭# 摸不到电脑只好拿起笔画草稿～～～晚安～～小白哥哥 
+num_like: 10   forwardings: 0 comments: 6
+
+120:#白敬亭##白敬亭周一见# 周一是盯着话筒的可爱男孩 
+num_like: 0   forwardings: 0 comments: 0
+
+121:摄影必备技能：10秒钟修出大白牙，很多美白牙齿修图教程都异常复杂，这里告诉大家一个超简单的方法，3分钟就学会，只需10秒让女票拥有大白牙！日常图、旅行图、各种图统统适用！让微笑更自信！（摄影@贺小棠 出镜@大玉仔- ）#摄影技巧##大摄影师#王者不修图的秒拍视频（使用 #秒拍# 录制） 
+num_like: 0   forwardings: 0 comments: 0
+
+122:20170326 周一见录制预览但你是这世上我最无条件的喜欢@白敬亭 #白敬亭#建议大家 好好品品p4 
+num_like: 0   forwardings: 0 comments: 0
+
+123:【一个小提醒！】很久之前，网宣就出过有关超级话题的整顿通知。近期又发现了一些不规范。特此提醒:必须尊重他人原创，有版权意识，发他人的任何产出必须取得授权（或在原作者允许的条件下cr.）。禁盗图、禁盗教程。禁二改、去水印，未经原作者许可条件下，禁一切。 如若不明白，可观下图[下]或 全文
+num_like: 0   forwardings: 0 comments: 0
+
+124:#白敬亭#  【关于接机、接站行为的公告】由于最近有很多白鸽私信官博询问接机组织情况，现官博在此作出统一声明望各位白鸽能够遵守【安全接送机秩序】做到三项基本原则：文明素质尊重他人注意安全请各位牢记，你的行为不只代表你自己，更代表全体白鸽，代表白敬亭的 全文
+num_like: 0   forwardings: 0 comments: 0
+
+125:#白敬亭##白敬亭周一见# 过了很久终于我愿抬头看，你就在对岸走的好慢[爱心]@白敬亭 
+num_like: 0   forwardings: 0 comments: 0
+
+126:韩国画师ファジョボレ的作品，或飒爽，或甜美，或娇羞[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+127:#白敬亭##白敬亭周一见# 小白哥哥的美貌就是只用调亮一下就ok了（连背影都好好看噢…兔子眼也太可爱了）今天真的太幸运了 希望下次还能见面啦 
+num_like: 0   forwardings: 0 comments: 0
+
+128:#白敬亭# #白敬亭王牌对王牌# 仿佛晚了一万年那么久的repo完整版？花絮也没有小白哥哥的镜头非常可惜了，记性不太好的人能写的仿佛只有这么点 
+num_like: 0   forwardings: 0 comments: 0
+
+129:公开说了吧 能不能不要再他面前说他注孤生了呀 
+num_like: 0   forwardings: 0 comments: 0
+
+130:#明星大侦探# #白敬亭明星大侦探# 【《绝望的主妇》白保险@白敬亭 单线整理】失恋失身又失业，但三失青年绝不放弃自己，誓与疑似骗保人员进行最后的斗争[拳头] 
+num_like: 0   forwardings: 0 comments: 0
+
+131:#明星大侦探# 听说白保险的二维码一公布出来，白太太们集体疯了[doge]大大知道你们真的！只是！单纯的！着急！想买份保险！而已！[doge]  
+num_like: 0   forwardings: 0 comments: 0
+
+132:#白敬亭周一见# @白敬亭 170326 Love is like a movie.#[音乐]# 
+num_like: 0   forwardings: 0 comments: 0
+
+133:#白敬亭明星大侦探##白敬亭##白敬亭周一见##听见了吗?[音乐]# 舌甘酉卒了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+134:#白敬亭##明星大侦探# 啊哈哈哈哈哈道具组很神了～～～太可爱了 
+num_like: 9   forwardings: 0 comments: 15
+
+135:#白敬亭##白敬亭周一见# 别的爱豆都是亲亲抱抱举高高，可是到了小白就变成运动会了[笑cry][笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+136:#白敬亭##白敬亭夏至未至# 【白敬亭】光棍節福利 - 白鸽什么的不干啦！（怒摔）@白敬亭 一首白鸽集体脱粉（失败）的歌曲，如果你是新掉坑的新白鸽，就赶快来了解一下当白鸽的生涯到底是有多凄美，赶快断了要当你里白女友粉的念头吧，如果听完全曲你还是决定要留下来，那就证明你是个真爱了。爱上白敬 全文
+num_like: 0   forwardings: 0 comments: 0
+
+137:#明星大侦探# 每人一句slogan版海报上线，喜欢哪句就可以把哪个人领走喔[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+138:今天小白哥哥。又高又帅又暖心[心]#白敬亭##白敬亭明星大侦探# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+139:坐在演播厅里打了一下午瞌睡太无聊憋出的产物[拜拜]little白美颜盛世不想多说，but……789p是什么鬼！嘿！注孤生！你还是我们认识的那个注孤生吗[大笑]#白敬亭##白敬亭明星大侦探# 
+num_like: 0   forwardings: 0 comments: 0
+
+140:今日营业cr.@白敬亭后援会官博 感谢授权 
+num_like: 0   forwardings: 0 comments: 0
+
+141:@何炅 @魏大勋 @白敬亭 @撒贝宁 [爱心][爱心][爱心][爱心][爱心][爱心][爱心][爱心][爱心][爱心][爱心][爱心]@明星大侦探官微 大家辛苦了！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+142:#白敬亭明星大侦探#[心]#白敬亭王牌对王牌# 170325 22:35 @白敬亭 ins更新【配文： ～[爱心]～】恭喜《明星大侦探》第二季圆满收官恭喜后援会团队红毯应援任务圆满结束[噢耶]感谢@明星大侦探官微 工作人员与@白敬亭工作室 对本次应援的全力支持感谢这一周以来在线上线下劳作准备的白鸽们[女孩儿]希 全文
+num_like: 0   forwardings: 0 comments: 0
+
+143:收官！#明星大侦探# 
+num_like: 0   forwardings: 0 comments: 0
+
+144:收官！#明星大侦探# 
+num_like: 0   forwardings: 0 comments: 0
+
+145:#白敬亭# #白敬亭明星大侦探# 涂个白保险，又名卖保险的小男孩，一只流落在华灯璀璨的街头落寞地啃着苹果思考着家里还剩几袋泡面啥时候把骗保的都捆吧捆吧绑了的三失青年。心疼我白，这季的角色一个比一个惨啊……还是多吃点道具补偿回来吧[喵喵]~【PS。今天红毯路透让我词穷血尽了差点忘记发图……_ 全文
+num_like: 0   forwardings: 0 comments: 0
+
+146:#白敬亭明星大侦探#[喵喵]#白敬亭王牌对王牌#【《时尚先生Esquire》杂志拍摄cut】一种简约的时尚，诠释一种年轻的态度丹宁新风格，一起感受@白敬亭 的活力吧[太阳]白敬亭后援会的秒拍视频cut by 鹌鹑感谢@时尚先生Esquire 
+num_like: 0   forwardings: 0 comments: 0
+
+147:大姨今天心情好 送一张#白敬亭#签名照下周三中午由@芒果姨父 开奖 规则：转发关注大姨和姨夫哦[心][心] 
+num_like: 0   forwardings: 0 comments: 0
+
+148:我要爆灯了我和你们讲[花痴] 长沙 
+num_like: 0   forwardings: 0 comments: 0
+
+149:抱歉，由于作者设置，你暂时没有这条微博的查看权限哦。查看帮助：http://t.cn/RfdBJrG 
+num_like: 0   forwardings: 0 comments: 0
+
+150:20170325 明星大侦探红毯「大家好 我是白白」@白敬亭 滚s白白白啾的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+151:#明星大侦探# 【录制现场】之【魄魄】导演：小白和鬼鬼聊会天～ @白敬亭 ：我们没什么可聊的[摊手]@鬼鬼吴映洁 ：你怎么每次都这么嫌弃我！我们没什么可聊的吗？你是演员你可以演！@白敬亭 ：我给你捶背…@鬼鬼吴映洁 ：你不能这样捶，你要捏我的肩膀！@白敬亭 ：那我走了…大大：怎么连糖渣都 全文
+num_like: 0   forwardings: 0 comments: 0
+
+152:#白敬亭明星大侦探# 170325 红毯 今天是西装白签名可潇洒[污] 
+num_like: 0   forwardings: 0 comments: 0
+
+153:#白敬亭王牌对王牌#[心]#白敬亭明星大侦探# 170325 8:14 @白敬亭 ins更新&秒删[二哈]【无配文】早安，小白早安，白鸽[太阳] 
+num_like: 0   forwardings: 0 comments: 0
+
+154:#白敬亭# #白鸽周刊# 看到第一眼 60秒内转发的话 三月好事不断 不管你信不信 反正我是信了 
+num_like: 0   forwardings: 0 comments: 0
+
+155:请问白保险这么帅这么会撩为什么还在卖保险！！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+156:#白敬亭# 中间休息[耶] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+157:#白敬亭# 我翻以前发的微博翻到的，估计有些新白鸽没见过吧…[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+158:#白敬亭# 晚安！白保险！！么么啾 
+num_like: 0   forwardings: 0 comments: 0
+
+159:小高个儿的烦恼 
+num_like: 0   forwardings: 0 comments: 0
+
+160:#白敬亭王牌对王牌# [喵喵]#王牌对王牌# 白BOSS@白敬亭 下达秘密指令！“重要情报丢失，诚邀各位志愿军一同搜寻”[作揖]今晚20:20来组团破解“天狼”之谜”[来] 
+num_like: 0   forwardings: 0 comments: 0
+
+161:#白敬亭# “注孤生”系列，6分钟带你极速体验小白的“注孤生”汇总芒果娱乐的秒拍视频 看完，妥妥的被这个大男孩圈粉了[耶]UP主：elainechiu2003 
+num_like: 0   forwardings: 0 comments: 0
+
+162:#白敬亭#[女孩儿]#白敬亭明星大侦探#                                              【舔唇·今天白保险有点渴[污]】 
+num_like: 0   forwardings: 0 comments: 0
+
+163:#白敬亭王牌对王牌# [喵喵]#王牌对王牌# 白BOSS@白敬亭 下达秘密指令！“重要情报丢失，诚邀各位志愿军一同搜寻”[作揖]今晚20:20来组团破解“天狼”之谜”[来] 
+num_like: 0   forwardings: 0 comments: 0
+
+164:#白敬亭##白敬亭明星大侦探# 170324 失踪人口终于出现啦@白敬亭 
+num_like: 0   forwardings: 0 comments: 0
+
+165:#白敬亭# 170324名为你的幸运会怎样来到我身边呢@白敬亭 #[音乐]# 
+num_like: 0   forwardings: 0 comments: 0
+
+166:#白敬亭##白敬亭王牌对王牌# 
+num_like: 0   forwardings: 0 comments: 0
+
+167:#白敬亭# 【20170324北京[飞机]长沙 预览】白boy出发去“撩”啦[喵喵]*原谅一个只爱发预览，不爱发高清的po煮[笑cry]* 
+num_like: 0   forwardings: 0 comments: 0
+
+168:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+169:#白敬亭# 可是时间回不去了。 一直爱着你。用我自己的方式。[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+170:#白敬亭##白敬亭王牌对王牌# 北京太冷了！需要小白抱抱才敢从被窝钻出来！ 
+num_like: 1   forwardings: 0 comments: 0
+
+171:#巧乐兹周一见#【看图猜爱豆】这一期我们请到的嘉宾，是穿着白衬衫的“国民初恋”，也是思维缜密的大侦探，还是一名被颜值耽误的段子手，这道送分题，你能答对吗？转发此条微博并 @伊利巧乐兹 ，就将有机会参与“周一见”节目录制，结果会在24号揭晓哦~想被爱豆壁咚+摸头杀吗？拔剑吧，情敌们！！！ 全文
+num_like: 0   forwardings: 0 comments: 0
+
+172:#白敬亭# p1第一次熱搜p2第二次熱搜 p3第三次熱搜p4第四次熱搜p5白鴿對莫名熱搜的態度p6白鴿對莫名熱搜而來的群眾態度p7白鴿想對被營銷號帶著跑馬拉松的孩子想說的話p8白鴿表示就算老板不更博我們平時也很忙的好伐？p9以後遇事請先冷靜 
+num_like: 0   forwardings: 0 comments: 0
+
+173:发微博这种事情一定要三思而后行。。。。。。。。。。可不可以明天发？可不可以下周发？可不可以下个月发？三思过后……这就是我一个月没发微博的原因[喵喵][喵喵][喵喵][怒骂][疑问] 
+num_like: 0   forwardings: 0 comments: 0
+

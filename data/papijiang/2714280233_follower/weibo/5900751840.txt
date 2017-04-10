@@ -1,0 +1,127 @@
+user_info or user_nickname: 要思行
+user_id: 5900751840
+weibo_Num: 40
+Num_followings: 45
+Num_followers: 42
+
+weibo content: 
+1:这只鹦鹉要成精了！诺克斯维尔动物园的鹦鹉Einstein已经三十岁了，精通各种对话各种口技，对答如流。史上第一最最搞的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+2:传说中17个最难认的汉字，你认识几个？ 
+num_like: 0   forwardings: 0 comments: 0
+
+3:大神用针筒和纸板制作出了一个机械手，给跪[二哈]#设计小课堂# 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+4:13个跟人打赌必赢的小游戏，马住留着聚会玩儿！[耶] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+5:外焦里嫩的小酥肉，好吃的不要不要的！快快收走吧！[色]  !秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+6:【不失败醉鸡做法】关键秘诀：鸡腿煮好后泡冰水至透，才会有汤冻。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+7:卧槽！完整版终于找到了！国外火爆的吊炸天鞋带系法，这个必须转走收藏！！技能get√~秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+8:#视野#【日本街头的一首《海阔天空》 唱得女孩感动大哭】近日，一段夹杂着日语和粤语的《海阔天空》弹唱引爆网络。小伙在东京街头演唱日语版《海阔天空》，在旁边听的女孩开始不知他是中国人，用粤语跟着哼唱。小伙笑了笑，然后用粤语唱了下去…异国他乡的相遇，女孩瞬间泪奔。他乡遇故知！东京街头《海阔天空》唱哭同胞 
+num_like: 0   forwardings: 0 comments: 0
+
+9:语法精髓，十节课补完初中高中英语所有语法。 
+num_like: 0   forwardings: 0 comments: 3
+
+10:【孔雀开屏清蒸鱼】 吃一口总是鲜美到差点连舌头都吞下去的清蒸鱼，所有的鲜嫩滋味儿都在蒸制的过程中完美保留下来~ 
+num_like: 0   forwardings: 0 comments: 0
+
+11:#睡前音乐# 【电影《醉乡民谣》插曲《Five Hundred Miles》汽笛声响起，你知道是该道别的时候，不说冗长的话，只一句多保重，转身，眼眶泛红。】我们终将拥有另一个人，我们也终将失去自己的青春。漂泊的日子不知道什么时候是个头儿，只知道为了爱的人我们一直在路上。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+12:【20天甩掉小肚腩】史上最全30种方法练腹肌，不信你练不出型！连续坚持20天即可拥有马甲线或者6块腹肌！男人练腹肌，女人练马甲，胖子减肚皮！[来]每个动作30秒，实际做完真的会抖！赶紧马走，12月拥有腹肌马甲线不是梦[good]健身君的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+13:厨房装修经验，过来人的血泪超全总结。以后用得着！ 
+num_like: 0   forwardings: 0 comments: 0
+
+14:脑洞好大的牛逼技能，每个人都能用得到[good] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+15:3分钟秒杀a lot of / lots of / a lot  #A路人洋屁教室# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+16:屌爆了，看了这个视频才知道这么多年泡面白吃了，居然不知道还有这么高逼格的吃法，教你7种完美泡面的吃法，速速mark起来！ 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+17:新技能让你网速加快10倍！！get~~秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+18:卧槽，吓死我了！赶紧抽支烟压压惊。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+19:这智商真够笨地[doge]你特么的逗我！[笑cry]是要火啊。。。哈哈哈哈看多少遍，能把人笑死~[笑cry]！~[笑cry][笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+20:万无一失的糖醋汁配方，可根据实际添加量，比例不变，喜欢吃糖醋排骨，糖醋里脊之类的朋友可以转发收藏  [微笑][微笑] 心灵阅者的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+21:教你做简单又美味的糖醋里脊，看起来好好吃！[太开心]#秒拍# @迷迭香Rosemary_ 来秒拍APP美食频道看更多→迷迭香美食的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+22: 这确实是我最近看过的最好的广告。 央视新闻的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+23:喵星人偷吃东西 听到主人声音那一瞬间， 瞧那眼神  那速度，你咋不上天呢？[笑cry][笑cry]#笑话#    秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+24:超实用！！ 不花money，2分钟立马缓解颈椎疼痛！白领和低头族们都应该收着，非常管用，一做就不疼了，快分享给你身边需要的童鞋get√ [好棒]健身君的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+25:回归本职工作，事情由繁入简已经完成，现在要开始由简入繁。 都江堰·龙潭湾 
+num_like: 1   forwardings: 0 comments: 0
+
+26:上手萌丢丢两天，一切很满意[鼓掌][鼓掌]@春田花花Flow 都江堰·幸福镇 
+num_like: 0   forwardings: 0 comments: 1
+
+27:【预约转发送R9巴萨定制版】等了这么久，#OPPO巴萨定制版R9#终于开始预约了！红蓝配色、镀金logo、定制UI、球星签名手机壳，预约还能赢取定制机！我已经等不及了，快戳  http://t.cn/R5biyOq 预约起来！预约成功并转发本条微博，抽一个萨迷送巴萨定制机一台！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+28:男生必须撩妹技巧，一元纸币变百元大钞，简单易学，赶紧学会去女生面前装逼吧！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+29:好久没来陌生城市，刚来兰州就一场大雨 兰州 
+num_like: 0   forwardings: 0 comments: 0
+
+30:一段友谊就此终结了，哈哈哈忍不住笑出声了！[笑cry]秒拍视频 #囧事短片# 
+num_like: 0   forwardings: 0 comments: 0
+
+31:牛逼的手工达人教你做一把玩具手枪！看完直接跪了。 [赞]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+32:今天累成狗 
+num_like: 0   forwardings: 0 comments: 0
+
+33:【[推荐]太实用！两分钟教您如何判断车距】对于新手来说，在日常行驶时，一定要对车与车、车与周边的距离有概念，这样才不容易发生事故，小动画为大家讲解一下判断车距的小窍门，或许对你驾驶有所帮助，但因车而异，需要自己再做一些灵活变通和调整。@天津交警 一和一传媒的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+34:阿诺德施瓦辛格的励志演讲[心]健身君的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+35:文艺讨伐单身狗 
+num_like: 0   forwardings: 0 comments: 0
+
+36:单身狗们可以取名叫孤狼[阴险][阴险] 
+num_like: 0   forwardings: 0 comments: 0
+
+37:超有创意的弹珠多米诺，简直天衣无缝，铺主竟然看完了[赞]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+38:外国的创意舞蹈，不得不佩服的创意！超赞！！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+39:总是在梦里看到自己走在归乡的路上 分享单曲故乡 （@网易云音乐 ） 
+num_like: 0   forwardings: 0 comments: 0
+
+40:今天我的「微博等级」又升一级，记录一下我在微博的成就http://t.cn/RznUBIb 
+num_like: 0   forwardings: 0 comments: 0
+

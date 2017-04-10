@@ -1,0 +1,103 @@
+user_info or user_nickname: Alisa喜感妹
+user_id: 2304791545
+weibo_Num: 33
+Num_followings: 154
+Num_followers: 343
+
+weibo content: 
+1:最近很流行的一道美味——鱼香烘蛋，味道超级赞，简单快手！值得试一试！  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+2:【微波炉红豆双皮奶】五分钟就能搞定的广式甜品，简单易做，好吃到停不下来！[馋嘴]罐头视频的秒拍视频 (罐头视频) 
+num_like: 0   forwardings: 0 comments: 0
+
+3:【DIY丨如何做一条会动的鱼】幼儿手工纸艺学起来！[二哈] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+4:【收藏丨YouTube上播放最多的200首单曲】视频时长47分钟，歌荒救星！看看有没有你喜欢的歌，建议先马住再听~[酷] YouTube精彩视频的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+5:#冷了个冷的红包#Boomshakalaka！我在冷了个冷 的红包中抽到了@聚美陈欧 提供的“聚美百元礼包”，2017年的小惊喜！也许你的惊喜更大哦~冷了个冷 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+6:目前为止神曲《seve》舞蹈教程最简单的版本，这个讲解的太好了，只看了一遍，我就学会了！[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+7:#让红包飞的红包#boom boom boom！我在@让红包飞 的红包中抽到了“滴滴贺岁感恩券”！2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+8:这两天seve舞蹈又爆火起来，奉上详细的舞蹈分解教学动作视频，喜欢的可以学学看 我的脑壳长了个包的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+9:馒头大翻身——芝士馒头！普通的馒头也能大变样，让你意想不到的芝士馒头隆重登场，芝士控的吃货们准备好了吗？快马起来试试吧！ 
+num_like: 0   forwardings: 0 comments: 0
+
+10:【童年记忆——萝卜丸子】儿时记忆，总会有很多油炸食物：丸子、麻叶、麻花、糖糕、春卷、、、 
+num_like: 0   forwardings: 0 comments: 0
+
+11:【30种简单易学的手绘植物】国外插画家实力教学，这个很适合拿去教小朋友，建议留着，以后和孩子一起画起来！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+12:饺子的五种包法，每个都好可爱，赶紧收了，下次照着做哦~秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+13:#深夜美食报社#一口一个生煎包，浓浓肉汁口水流下来了！好想吃[馋嘴]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+14:我只是煮了一碗饭给你，而那个把你从小养到大的人却在等你回家[泪]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+15:十种关于醋的生活小技巧，真心涨姿势啦~get！999道私房菜的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+16:最懒的蛋糕做法没有之一，柠檬酸奶蒸蛋糕。特别适合懒人和没有烤箱、微波炉的吃货，赶快学起来吧~[馋嘴] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+17:原来饮料瓶还可以这样用，涨姿势了！！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+18:尴尬期刘海打理教程，全靠一支小黑夹！超实用简单～[赞][爱你]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+19:时间好快 
+num_like: 3   forwardings: 0 comments: 1
+
+20:#生活妙招# 新技能get！再也不怕一个人换被套啦！[耶]哄着自己玩的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+21:#营养食材# 哈哈这饺子皮能做这么多好吃的！太棒了，咱也试试吧，果断转走！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+22:塑料袋神收纳，简直像是学到了绝世技能[doge] 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+23:一部看哭了上亿人的短片！！父母的时间都去哪儿了？用来爱我们了 [泪][泪][泪][泪]秒拍视频（使用#秒拍#录制） 
+num_like: 0   forwardings: 0 comments: 0
+
+24:妹子实拍卷发棒教程，惊呆噜 微博视频 
+num_like: 0   forwardings: 1 comments: 0
+
+25:游泳游泳  
+num_like: 1   forwardings: 0 comments: 2
+
+26:来荡秋千里 
+num_like: 0   forwardings: 0 comments: 1
+
+27:晚上不知廉耻的吃了一碗40块钱的果条.哈哈哈哈哈哈哈哈 http://t.cn/zQp8YFO 
+num_like: 0   forwardings: 0 comments: 9
+
+28:出售,本田龟. http://t.cn/zHmFdEV 
+num_like: 0   forwardings: 0 comments: 0
+
+29:今天把小红卖了[悲伤]你好自为之 
+num_like: 0   forwardings: 0 comments: 8
+
+30:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+31:欧洲中,拿了一条[抓狂]不好抽 我在:嵩山南路 
+num_like: 0   forwardings: 0 comments: 0
+
+32:吃饭了[馋嘴] 我在:南浦大道 
+num_like: 0   forwardings: 0 comments: 0
+

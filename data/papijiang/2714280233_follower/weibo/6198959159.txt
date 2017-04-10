@@ -1,0 +1,7 @@
+user_info or user_nickname: 用户6198959159
+user_id: 6198959159
+weibo_Num: 0
+Num_followings: 60
+Num_followers: 2
+
+weibo content: 

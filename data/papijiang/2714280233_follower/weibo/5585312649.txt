@@ -1,0 +1,64 @@
+user_info or user_nickname: 安素之年yu
+user_id: 5585312649
+weibo_Num: 22
+Num_followings: 21
+Num_followers: 13
+
+weibo content: 
+1:6步教你跳热舞seve，目前为止神曲《seve》舞蹈教程最简单的版本简直了，这个讲解的简直太好了，真赞[good]#新年乐不停# 最搞视频的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+2:每个人都应该知道的事实 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+3:蒋蒋啊，你怎么能又删微博呢[思考]@蒋蒋JANG 
+num_like: 0   forwardings: 0 comments: 0
+
+4:#本兮逝世# 本兮官方工作室官微@本兮的奇妙屋 发布讣告，90后创作女歌手本兮(原名马晓晨)于12月24日因故离世，年仅22岁。[蜡烛]歌手本兮因故去世 年仅22岁 前两天本兮才刚发布新歌…… 
+num_like: 0   forwardings: 0 comments: 0
+
+5:【瑜趣闻】节操碎了一地[笑cry]这个张老师太逗了，好口才是怎样练成的？哈哈哈，瞎说什么大实话，怎么越看越像吕子乔[二哈]#满满的套路#秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+6:一个忠告：如图，街上看到有人穿的少别跟着学，可能她藏了一身暖贴 
+num_like: 0   forwardings: 0 comments: 0
+
+7:生快！颖宝宝[爱你][蛋糕][蛋糕][蛋糕] 
+num_like: 0   forwardings: 0 comments: 0
+
+8:#蜜汁笑点# 什么叫中国好女友啊，看看这个吧，男孩女孩们都看看吧...幸好我看到最后了，差点直接发给女友了，搞不好的会一言不合就分手！[笑cry][笑cry][笑cry] 最神奇的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+9:乔任梁这个阳光帅气的男孩,露出痞痞的笑但是总会温暖人心,让人怎么忍心接受你已与世长辞呢,只要你还在笑,不管在哪里,世界没什么大不了[泪] 
+num_like: 0   forwardings: 0 comments: 0
+
+10:这就是我的数学老师！简直一毛一样[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+11:别人说你胸小怎么办？这妹纸霸气啊！想要把很多衣服穿出味道，首先要有一个很平的胸，汝不平何以平天下。。。[笑cry]最神奇的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+12:【花式煎饺】听说最近流行酱紫包饺子…简单又漂亮有没有…#家乡味#天天美食推荐的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+13:【《爵迹》片场真人秀之使徒修炼手册(使徒上)】又来了！@范冰冰 变身女战士、@陈学冬 成长力MAX、一不小心就中了导演套路的@杨幂 、@林允Jelly 成剧组杀手、好奇宝宝@李治廷 以及一言不合就跳舞的@TFBOYS-王源 ……没想到高冷照片的背后是这样的画风→微博视频[笑cry]#爵迹燃魂930# 
+num_like: 0   forwardings: 0 comments: 0
+
+14:不更. 
+num_like: 0   forwardings: 0 comments: 0
+
+15:记住这7个电脑热键 ，你就能玩转你的电脑！！！get√  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+16:蒋蒋生日快乐[蛋糕] 天津·芦台经济技术开发区 
+num_like: 0   forwardings: 0 comments: 0
+
+17:#我为赵丽颖拉票#如此美腻的小骨，萤火虫们还不赶快抱回家！！#微博之夜#最后冲刺倒计时两天，萤火虫们快来释放洪荒之力助她登顶Queen，用@微博相机 拉票，一票顶五票，拉票页面戳[向右] http://t.cn/RU1277g 
+num_like: 0   forwardings: 0 comments: 0
+
+18:#花千骨# @赵丽颖 得知自己是师父的生死劫，却不料在仙魔界又引发了新一轮大战。长留掌门白子画#霍建华#，魔界圣君杀阡陌@演员马可 ，紫薰仙子@蒋欣 ，牙垢夫妇@曾虹畅 以及春秋大婶都卷入这场混战中。最后，有人竟丧心病狂立下了生死劫的诅咒！@电视剧花千骨 #上芒果TV看花千骨#花千骨 第27集 
+num_like: 1   forwardings: 0 comments: 0
+
+19:这就是境界！ 
+num_like: 1   forwardings: 0 comments: 0
+

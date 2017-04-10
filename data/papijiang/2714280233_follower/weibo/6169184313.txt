@@ -1,0 +1,7 @@
+user_info or user_nickname: 郄雅浩
+user_id: 6169184313
+weibo_Num: 1
+Num_followings: 27
+Num_followers: 6
+
+weibo content: 

@@ -1,0 +1,1396 @@
+user_info or user_nickname: 地球da表哥
+user_id: 5319341185
+weibo_Num: 466
+Num_followings: 387
+Num_followers: 49
+
+weibo content: 
+1:[笑cry][笑cry]你以为女生玩王者农药的时候还是女生吗？我的损友是个极品的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+2:长得嫩是种怎样的体验，卧槽，最后一句我也是服。。[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+3:一个很火的鬼步舞，简单易学，卧槽，碉堡了，好帅！！！ 留着！！！ 转需！！！   秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+4:【奇葩帖】自古大学出奇才，大学是个流弊有爱的地方。。。 
+num_like: 0   forwardings: 0 comments: 0
+
+5:据说，每个班都有这么一位同学，老师的内心是崩溃的。。。[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+6:现在当老师不容易啊，要与时俱进。[二哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+7:#袁心玥玥玥的红包#Boomshakalaka！我在袁心玥玥玥 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~袁心玥玥玥 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+8:#郎平的红包#红包不停，好运连连！d(≧▽≦*d)我刚刚抢到了郎平 和@曹国伟 联手发出的现金红包！小心脏激动得扑通扑通哒~新的一年跟我一起抢红包吧！郎平 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+9:#王子文Olivia的红包#Boomshakalaka！我在王子文Olivia 的红包中抽到了@滴滴出行 提供的“滴滴贺岁感恩券”，2017年的小惊喜！也许你的惊喜更大哦~王子文Olivia 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+10:#王子文Olivia的红包#Boomshakalaka！我在王子文Olivia 的红包中抽到了@粉丝夺宝 提供的“粉丝夺宝大礼包”，2017年的小惊喜！也许你的惊喜更大哦~王子文Olivia 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+11:【超励志！没有太晚，只要你下定决心】他叫王德顺。44岁学英语，49岁北漂研究哑剧，50岁开始健身，57岁创造“活雕塑”，65岁学骑马，70岁练成腹肌，78岁骑摩托，79岁上T台。2015年一场时装周上的走秀引爆全场……没有太晚，没有谁能阻止你成长，只要你下定决心。  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+12:最近网络上非常火爆的seve舞蹈被玩坏了，几位小哥跳得也是没谁了！好炫酷！炸裂！[酷]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+13:哈哈什么仇什么怨！！哈哈哈哈哈哈哈哈神经病啊现在满脑子都是马冬梅[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+14:【给世界一个微笑】温暖，感动，让你了解一下真正的华仔！mark~#皓伦王明川# 秦岭 二月的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+15:据说这才是吃货的正确打开方式[挤眼]，一颗柚子的零浪费吃法，真的是连皮都不剩！转存~ 美食秘诀的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+16:【[话筒]一次性帮你解决word排版问题】据人民日报学期论文，年终总结，工作报告，内容写得好，格式也要好看。戳图↓↓一次性帮你解决word排版问题！看图操作，转需不谢！ 
+num_like: 0   forwardings: 0 comments: 0
+
+17:【超实用冬装清洁技巧】冬天的衣服总是比较厚重，本来就清洗不易，把不便宜的衣服洗变形了更崩溃……毛线衣缩水怎么救？羊绒衣物怎么保养？羽绒服脏了怎么洗？火锅渍、酱油渍、啤酒渍都怎样去？这份#冬装清洁技巧#，你一定用得到！（人民网） 
+num_like: 0   forwardings: 0 comments: 0
+
+18:承认吧，这就是冬天早晨的你[doge] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+19:承认吧，这就是冬天早晨的你[doge] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+20:承认吧，这就是冬天早晨的你[doge] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+21:【[话筒]Excel超实用动图教程 get√】1、自动筛选；2、字符替换；3、表里编辑宏；4、表中导入外部数据；5、行列快速转换；6、在表中运行宏；7、在表中添加宏；8、文字与字母的分列合并；9、加多个视图。 
+num_like: 0   forwardings: 0 comments: 0
+
+22:大多数人目前的状态就是：学不进去，玩不痛快，睡不踏实，浑身不对劲，吃得还特多..... 
+num_like: 0   forwardings: 0 comments: 0
+
+23:高端有内涵的小学生作文，这真的是熊孩子写出来的吗！最后的一段简直怒赞~[赞] 
+num_like: 0   forwardings: 0 comments: 0
+
+24:军训遇到顺拐，卧槽，这销魂的姿势，你是来搞笑的吧，把后面的人都带歪了。。。笑话菌的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+25:本地喵和外地喵吵架，语言不通一脸懵逼[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+26:当你听到你的小伙伴比你早开学时[doge]哈哈哈哈哈哈太魔性了[笑cry][笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+27:推荐一个高品质摄影图片网站（Eput.com），我已经开通入驻了，希望大家多多点评分享我的作品，让我的摄影作品分数涨起来，谢谢。 http://t.cn/RtTdlZQ 
+num_like: 0   forwardings: 0 comments: 0
+
+28:你瘦你先玩，我胖我喘会儿[doge] 
+num_like: 1   forwardings: 0 comments: 0
+
+29:卧槽，我想请问一下现在学车的朋友，这是科目几啊！ . 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+30:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+31:【低头族、电脑族私家必备颈椎操！转发】长期低头玩手机或者在电脑前办公，颈椎都会出现一点小毛病，试试这套颈椎操，非常实用！每个动作30s，分享给电脑、办公族们吧！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+32:一男子与女朋友去某万达广场看电影，没买到票，女朋友叫他去死，为什么把命看得那么淡呢，一点都不值得，真牛逼！！ 真的心疼[拜拜][拜拜][拜拜]年轻人不要冲动[拜拜] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+33:超强悍的山东英语老师，用方言怒斥学生奇葩翻译！太特么搞笑了，我八块腹肌都笑裂了[哈哈]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+34:高考出分以后....家长，您敢再逗点么？[哈哈][哈哈][哈哈]http://t.cn/R5pDjnW 
+num_like: 0   forwardings: 0 comments: 0
+
+35:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+36:高考结束以后，希望你们依然理直气壮地活着 
+num_like: 0   forwardings: 0 comments: 0
+
+37:看完这个再不会表白就狗带！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+38:揪心！家有宝宝，家长一定要注意看护！[吃惊][吃惊][吃惊]http://t.cn/Rqs89nw 
+num_like: 0   forwardings: 0 comments: 0
+
+39:【捡到钱包 九次转账寻失主】近日，广州女孩小原丢失钱包，包里有两千多现金和银行卡、身份证。随后，小原手机收到好几条银行交易信息，不过不是钱被划走，而是有人往卡里存钱！原来，在广州定居超过8年的印度籍女士Bani捡到了小原的钱包，在朋友帮助下想到用转账留言的方式找失主。 全文
+num_like: 0   forwardings: 0 comments: 0
+
+40:【水果的高智商切法[偷乐]】夏天到了，爽口的水果必不可少。2分钟视频教给你，水果的正确打开方式↓↓转走不谢！微在涨姿势的秒拍视频 @微在涨姿势 
+num_like: 0   forwardings: 0 comments: 0
+
+41:#一米三的陈奕迅# 粉到深处自然黑…让我笑一会再睡…[笑cry][笑cry] (部分图via:@迅的话筒在飞 ) 
+num_like: 0   forwardings: 0 comments: 0
+
+42:终于找到小胖算2+1的原视频啦，哈哈哈，简直笑哭了。。。[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+43:【#高三光荣榜神奇语录# 一本正经神吐槽[doge]】每次高三贴光荣榜都能看到神奇的语录，有学霸一本正经的神吐槽，更有大神直接打起了广告出租光荣榜广告位...网友：智商高的人被激发了逗比气质是很可怕的。哪张戳中了你的笑点？（via@ 吴宇曦95044）高三光荣榜雷人语录 
+num_like: 0   forwardings: 0 comments: 0
+
+44:小时候我们没有看懂，现在你懂了么？[笑cry]#热门视频秀#秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+45:#淄博身边事#也许你不是淄川人民，你不关心淄川一个小女孩的失联，但是你知道吗，一天时间，淄川两千多汽车跑遍了整个淄博，跑到了潍坊临沂东营济南莱芜，淄川所有朋友圈不再发别的东西，也麻烦您动动手指转发一下，给孩子一点点希望！[心][心]还没找到，大家帮转吧！扩散一次就是一次希望。 
+num_like: 0   forwardings: 0 comments: 0
+
+46:还在喝冰雪碧?简直弱爆了[doge]快来学学雪碧的6种高格调喝法，好喝又好看，让你清凉整个夏天 [馋嘴][馋嘴]  #美食#  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+47:最近英国一家医院手术室里，医生拆除骨折病人腿上的钢板的一段视频...... 这大锤一声声敲的.... 网友表示这哪是手术.. 简直在修车嘛[笑cry]英国那些事儿的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+48:喵说道：“有种你拿走”[喵喵]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+49:那些被禁止的体操动作，运动员们都太了不起了！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+50:小朋友很有想法，求妈妈的心理阴影面积。。。[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+51:还珠格格好方表情包，看完我整个人都方了[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+52:难怪凤姐要去美国发展。。。原来在米国人眼里凤姐是女神级的，最后那位小哥已经彻底沦陷了....[doge]秒拍视频 
+num_like: 2   forwardings: 0 comments: 0
+
+53:一个小女孩开玩具汽车不小心撞到了大妈，结果大妈就不起来了！[doge] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+54:这才是狗带的正确姿势，你他妈的转个弯给我看看[喵喵]秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+55:#和二逼铲屎官的日常# 主淫和我周末在家的状态[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+56:这是在一本正经的胡说八道吗。。。我读书少，你不要骗我[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+57:电影特效拍摄前后对比图。。哈哈哈哈哈，我就想知道拍的时候不会笑场吗[笑cry][笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+58:做了个图哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 
+num_like: 1   forwardings: 0 comments: 0
+
+59:31个哈利波特拍摄背后的秘密 
+num_like: 0   forwardings: 0 comments: 0
+
+60:困扰了我多年的校园九大未解之谜，简直无法反驳啊！[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+61:跟尔康一起撕逼，一起吃药 ！！[doge] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+62:老师教了三年的PS全部在这里了，都是精华！赶紧收藏吧~ 
+num_like: 0   forwardings: 0 comments: 0
+
+63:哈哈哈哈，笑岔气了，总算看到完整版了，#治愈#到不行，看完心情棒棒哒[笑哈哈]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+64:宅男宅女必备！泡面的50种营养花样吃法,我知道这个你找了好久~每天不重样的吃也要吃上两个月[馋嘴] 泡面的50种做法！ 
+num_like: 0   forwardings: 0 comments: 0
+
+65:你是否愿意开学[微笑] 
+num_like: 1   forwardings: 0 comments: 0
+
+66:#韩红的红包#跟我一起唱：恭喜恭喜恭喜我呀，恭喜恭喜我~我刚抢到西藏昌都人韩红 的新年红包喔！不要太幸运，你也试试吧~西藏昌都人韩红 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+67:#倪萍的红包#一不小心又中奖了！(  )我在倪萍 的红包中抽到了@有信打打打 提供的“有信180分钟话费”，好实在的新年礼物，让宝宝心情美丽一整天～倪萍 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+68:#这次红包玩大了#跟我一起唱：恭喜恭喜恭喜我呀，恭喜恭喜我~我刚抢到@我的头好重啊啊啊 的新年红包喔，就喜欢这么有诚意的新年祝福！我的头好重啊啊啊 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+69:39平的房间分出8个独立功能区，太牛逼了，太实用了，涨知识！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+70:“终于有人总结春晚黑历史了！历届春晚大吐槽，根本停不下来”秒拍视频（使用#秒拍#录制） 
+num_like: 0   forwardings: 0 comments: 0
+
+71:这才是我们记忆中的春晚，每张图片都是一段美好的回忆。。。[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+72:真的是有被这一段笑到！黄子韬模仿宋小宝，一个个儿的真是太能玩了！[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+73:#佟大为的红包#ㄟ( ▔, ▔ )ㄏ这几天最开心的事——我抽到了@佟大为 和@聚美陈欧 的红包！新的一年肯定有财运～不信你试试佟大为 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+74:昨晚的山东春晚上，六小龄童与一群小“猴子们”表演《大圣归来》，猴年大师兄的首次亮相，宝刀未老，回忆满满！[爱你] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+75:黑科技火锅，手机放进去才能加热，感觉终于可以好好吃饭了_(:зゝ∠)_ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+76:六小龄童在开讲啦中的一段演讲：苦练七十二变，笑对八十一难！[good] 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+77:新浪微博Android客户端V3.3.5全新升级！支持在线主题下载，精美主题不容错过;全新话题功能，参与话题讨论更快捷！下载地址：404 Page Not Found 
+num_like: 0   forwardings: 0 comments: 0
+
+78:#不按常规秀# 哈哈哈哈哈哈。。。并没有什么不对啊。。。[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+79:每当我看到这个视频的时候，就笑得停不下来，心疼发型  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+80:这视频太有魔性了，我看了好几遍！让你变幽默的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+81:又是猴年，银幕上的孙悟空换了又换。。。哪个才是你心中的大圣呢？ 秒拍视频 
+num_like: 0   forwardings: 1 comments: 0
+
+82:感动！这个猴年广告我给九分，满分十分，少一分是怕他以后骄傲。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+83:那些年陪我们长大的音乐，直到世界的尽头音乐一响差点哭出来 逗逼榜的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+84:#最丑雪人大赛#【看过你们堆的雪人 我被丑哭了[笑cry][笑cry]】寒潮来袭，全国很多地方都在下雪，特别是南方盆友见到雪都高兴疯了，大家都在堆！雪！人！但是，这些小雪人丑！哭！啦！南方人堆雪人的技巧让人胆战心惊，北方人堆雪人也是好不正经...[笑cry][笑cry]只有更丑没有最丑，斗图大赛现在开始！ 
+num_like: 0   forwardings: 0 comments: 0
+
+85:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+86:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+87:德国人设计的喵星人专用家具，瞬间觉得自己活的还不如一只喵[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+88:【谁娶了多愁善感的你，谁他妈倒霉到底。】我准备删掉这首歌了[拜拜]#我的极品评论# 
+num_like: 1   forwardings: 0 comments: 0
+
+89:【颈椎病的自我治疗方法】据不完全统计，中国大约有10-15%的人患颈椎病，今天教大家一套缓解预防颈椎病的操，非常实用，所有动作视频中均有详细说明，照着做就是！时间较长，建议大家先马后练！！[钟]健身君的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+90:「那些年我们一起经历过的中国式教育」#小优推荐# 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+91:【小学男生给女同学写情书：我学习不好但是长得帅】网友@留恋不如思念_LL 在小学二年级妹妹的文具袋里发现了一封稚嫩的情书，从内容上看，这位写情书的小男生可痴情了：“我zhi道我学习不好，但是我长的帅呀……以后我们会有我们的小宝宝，一家三口可以坐在一起看电视，吃huo锅。”@大河报 
+num_like: 1   forwardings: 0 comments: 0
+
+92:东北胖妞因为减肥的事跟麻麻吵架：我一天到晚都没吃饭，减肥能有这么样减的吗，我都被饿成皮包骨头了.........[哈哈][哈哈]@90后 段子坊的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+93:简直给这创意跪了，你们城里人太TM会玩了！[good]微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+94:【花式小米粥，总有一款让你欢喜】小米，冬季吃最能健脾暖胃、补肾益气。小米富含维生素、氨基酸及碳水化合物，营养丰富，有“代参汤”的美称，特别适合胃肠功能不好的童鞋哟 
+num_like: 0   forwardings: 0 comments: 0
+
+95:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+96:晚安～好梦[睡][月亮] 
+num_like: 2   forwardings: 0 comments: 0
+
+97:那些无节操的神级PS合集，贴吧求助大神帮忙P帅一点，结果笑尿了，哈哈哈#特长生分享# 秒拍视频 ，cr 水印 
+num_like: 0   forwardings: 1 comments: 0
+
+98:#范冰冰的红包#一不小心又中奖了！(  )我在范冰冰 的红包中抽到了@微博会员 提供的“会员15元代金券”，我就喜欢这么实在的礼物，分享给你～范冰冰 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+99:这视频，没wifi也一定要看完它！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+100:这就是创意，百看不厌……道具蜀黍我给满分！[笑cry]秒拍视频 。[笑cry]更多#搞笑#视频请关.注.我 
+num_like: 0   forwardings: 0 comments: 0
+
+101:口袋书香的秒拍视频 你从没见过的中国宣传片《Hi，I'm China》，震撼灵魂】 
+num_like: 0   forwardings: 0 comments: 0
+
+102:【9款“吸毒”植物】你最喜欢哪一款？选一盆搬回家吧 
+num_like: 0   forwardings: 0 comments: 0
+
+103:看完这个视频，才发现这么多年可乐白喝了！#可乐美食#微在涨姿势的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+104:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+105:6分钟，让你看懂中国式教育，分析得深入又透彻，说出了许多人的心声。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+106:我本来以为只是白喝一碗汤，没想到[拜拜]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+107:北方的雾霾能有多严重？当你开着车的时候，找不到路；当你找到路的时候……车呢？！[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+108:抱歉，由于作者设置，你暂时没有这条微博的查看权限哦。查看帮助：http://t.cn/RfdBWwP 
+num_like: 0   forwardings: 0 comments: 0
+
+109:两个萌货口活不错啊，干净利落[doge] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+110:国民父女@贾乃亮 &甜馨无敌神曲《大王叫我来巡山》编舞完整版公开[推荐]！担纲本魔性舞蹈编排的@夏震老师 亲自上阵领舞[求关注]，SDT精英舞者共同录制，新一代神舞再次诞生，诙谐幽默的动作，有趣又易学，快来学起吧[好棒]！另外预祝《万万没想到：西游篇》票房大丰收！美拍 
+num_like: 0   forwardings: 0 comments: 0
+
+111:丧心病狂的泡面的另类吃法，感觉我这些年的泡面都白吃了秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+112:北上广不相信眼泪，江浙沪晒不干棉被，辽吉黑不相信喝醉，京津冀你得有好肺。 
+num_like: 0   forwardings: 0 comments: 0
+
+113:馒头还有这么高逼格的吃法，瞬间逼格飙升秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+114:拯救剩饺子皮的高能食谱，简单还实用，果断#get#！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+115:#万象#【男孩不想妈妈生二胎：你要是敢生我就敢死】近日，一段男孩要求妈妈不生二胎的视频走红，男孩边哭边控诉，“妈，我今儿就把话撂这儿了，你要是敢生二胎，我就敢死！”“我不想要弟弟妹妹，你们把爱分给弟弟妹妹更多，就不爱我了……”[笑cry]男孩拒妈生二胎:你敢生我敢死 http://t.cn/R4ZNM8L 
+num_like: 0   forwardings: 0 comments: 0
+
+116:假如让你遇到10年前的自己，你要对ta说什么？ 
+num_like: 1   forwardings: 1 comments: 0
+
+117:#不按常规秀# 卧槽。。。这什么玩法？？秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+118:每个孩子刚出生时都是一样的，父母言传身教起决定性的作用，要孩子成为什么素质的人，首先你就得成为什么素质的人。一个很棒的视频短片。心灵阅者的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+119:不用花一分钱，轻松治好颈椎病，转给身边需要的人！~秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+120:为什么这么多人黑周星驰？低情商，易害羞，拍功夫一夜白头！#娱乐圈蜀黍# 
+num_like: 0   forwardings: 0 comments: 0
+
+121:【摄影技巧】这个视频一定值得你花3分钟来看，摄影大师 Steve McCurry 教你如何构图更专业。转需！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+122:【都说尔康是心机boy，令妃心机才深好么！来扒扒还珠1里这个心机girl令妃】小时候大家都好喜欢令妃吧！，重温《还珠》之后才发现，皇后真是情商低的可以！令妃才是满满的心机girl啊！#圈内扒爷# 
+num_like: 0   forwardings: 1 comments: 0
+
+123:最近被这个视频逗疯了，明明是想发脾气打人，却变成了卖萌~[笑cry] cr.梅梅盼达 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+124:心机girl令妃心机boy尔康，还珠格格出来的都是人才 #√# [笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+125:这视频有毒！一个人抵一个乐队系列，我竟爱上了这鬼畜的弹奏，请大神收下我的膝盖！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+126:2016即将投拍的网络小说改编剧 
+num_like: 0   forwardings: 0 comments: 0
+
+127:一年级数学题，5分钟内做不出来的请重返学前班深造。。 （转） 
+num_like: 0   forwardings: 0 comments: 0
+
+128:普京被吻手VS普京强行握手[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+129:这个创意广告也是看醉了！没事多喝水！多喝水！多喝水！[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+130:被翻译成28国语言的哲理短片《死后的四十种生活》，把人的一生的日常拆开，每件事到底占多大比重。一生中竟然只有十四分钟纯粹的快乐的。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+131:“人到了一定年龄，上天就会拿掉你的一些梦想，再拿掉一些朋友，让你在现实面前一再失望。慢慢发现跟身边人各自追求的东西都不一样，有时互相不能理解彼此的想法，就像不在同一个层次也不在同一次元上。不必勉强交心，已走的不用惋惜，留下的好好珍惜。” --没机缘或没法交融的人随它，爱情友情皆是。 
+num_like: 0   forwardings: 0 comments: 0
+
+132:非常值得一看的视频，听力练起来吧！思想聚焦的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+133:印度，是一个神奇的国度，跪着看完了这个视频！[喵喵]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+134:哈哈这个逼装的我给满分[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+135:网友自制《蒲公英的约定和多啦A梦》 的完美结合，送给我们再也回不去的童年！[爱你]当时我就震惊了的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+136:无形的装逼最为致命，这个我给满分！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+137:结局太温馨，爸爸的心都萌化（sui）了最神奇的秒拍视频 
+num_like: 0   forwardings: 2 comments: 1
+
+138:最近一个很火的反整容广告，看完后整个人都不好了，再也不想去韩国了。。。[拜拜]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+139:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+140:创意不错哦，就像童话里的一样！秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+141:真爱不穷！！！看哭了！！ [泪]最神奇的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+142:你知道在南极当一只企鹅有多难吗！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+143:这个小男孩偷用爸爸的剃刀，结果一不小心，就给自己整了一个酷炫的造型[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+144:《猫和老鼠》中最悲催，最现实的一集，小时候没看懂，现在看再也笑不出来了[悲伤]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+145:身高这种东西，大家都一米多，有什么好问的。[汗] 
+num_like: 0   forwardings: 0 comments: 0
+
+146:新浪微博Android客户端V3.3.5全新升级！支持在线主题下载，精美主题不容错过;全新话题功能，参与话题讨论更快捷！下载地址：404 Page Not Found 
+num_like: 0   forwardings: 0 comments: 0
+
+147:一个亲姐，一本正经的和爸爸讨论，怎么把弟弟卖去宠物店换点钱给自己买玩具，心疼弟弟英国报姐的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+148:一天赚80块钱的爸爸给女儿买了个手机 6000多，爸爸从头到尾没有笑过。今天有多少做子女的，既要美国式的自由，又要中国式的宠爱，却没有美国孩子的自立，又失去了中国传统的孝道，索取得太过随意甚至理直气壮。人生可以追求，但切莫攀比；你虚荣可以，但一定要靠自己。 
+num_like: 0   forwardings: 0 comments: 0
+
+149:我们挥霍着夜晚，谁都舍不得先说晚安 #宇宙心事# 
+num_like: 0   forwardings: 0 comments: 0
+
+150:【推荐27部票房过亿的喜剧片】最受观众欢迎的爆笑喜剧~无聊的时候可以找来慢慢看了 
+num_like: 0   forwardings: 0 comments: 0
+
+151:韩泰语综合版还珠格格，这配音简直了！一开口我就跪了！！我读书少你可别骗我！微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+152:有时候排队就是这样的，真心想把这地方炸了，看着就生气！[哼] 
+num_like: 0   forwardings: 0 comments: 0
+
+153:尔康光棍三年，发现容嬷嬷侧脸好美丽。。。[哈哈][哈哈]逗自己玩呐的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+154:看机器人如何巧妙答 总理提问！简直太机智幽默了 [哈哈] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+155:奥利奥的花样吃法--别再扭一扭舔一舔了，这才是奥利奥的正确打开方式。看了这个奥利奥教学片，你可以去开店了![馋嘴] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+156:别让天堂变成炼狱，拜托停止叙利亚战争。 
+num_like: 0   forwardings: 0 comments: 0
+
+157:看进击的丈母娘，你要火啊！卧槽，心口一疼！[笑cry]当时我就震惊了的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+158:86版西游记拍摄全过程，老一辈艺术家的职业与奉献精神让人动容。[话筒]看完不分享的几乎为零。[good]#国史古风# 
+num_like: 0   forwardings: 0 comments: 0
+
+159:#淄博身边事#[泪]【悲痛！[伤心]淄博临淄爷孙俩遭杀害小孩才3岁，原因疑为债务纠纷！！】10月6日，淄博市临淄区辛店街道窝托新村生活区发生一起凶杀案，犯罪嫌疑人李强（化名）疑因债务纠纷持匕首将同村村民爷孙二人杀害。以下是赴该生活区对此事进行的采访内容。 
+num_like: 0   forwardings: 0 comments: 0
+
+160:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 0   forwardings: 0 comments: 0
+
+161:#我整个人都感到不太好了# 衡水中学的英语作文，我选择死亡[拜拜] 
+num_like: 1   forwardings: 0 comments: 0
+
+162:一部超温馨的动画短片《家的记忆》,容易被遗忘的角落，往往留着最深的感动 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+163:我选择狗带[doge] 
+num_like: 1   forwardings: 0 comments: 0
+
+164:一个反虐童的公益短片，短短几十秒，让人好心疼。I can't wait...童年是有多痛苦，才想赶快长大？ 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+165:【推荐！你应该知道的全球50大在线学习网站】羡慕大神们编程、设计样样精通？想入门学习而找不到教程资源？要提高综合素质，你必须常常给自己“充电”！全球50个非常实用的在线学习网站，涉及摄影、顶尖大学课程、语言学习、App开发、大数据分析……戳图↓↓转给需要get新技能的TA吧！#顶好阅读#  
+num_like: 1   forwardings: 0 comments: 0
+
+166:不到4分钟，让你感受到地球有多渺小。太震撼了！转了给家人朋友看，一起涨知识![good][good][good]心灵阅者的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+167:出门旅行，行李的正确打包方式，你get了吗？ 
+num_like: 1   forwardings: 0 comments: 0
+
+168:九种中国结饰品的详细教程，实用收藏！#顶好阅读#  
+num_like: 0   forwardings: 0 comments: 0
+
+169:这个女神经太逗了！哈哈哈哈哈，笑得我根本停不下来！！！[笑cry]这个女神经太逗了！哈哈哈哈哈，笑得我根本停不下来！！！[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+170:祖国强，我强，祖国富，我富。让我们一起祝愿伟大的祖国永远繁荣昌盛！首页国旗接龙挂起来！ 
+num_like: 0   forwardings: 0 comments: 0
+
+171:#女孩遭生父性侵怀孕#【惊！临沂18岁女孩遭父亲性侵4年怀孕流产[怒]】近日，一则“兰陵女孩遭父亲性侵4年并怀孕”的视频引关注。视频中，女孩自称18岁，其父亲从她14岁时开始强暴她。现在父亲时不时找其发生关系，前两天怀孕做了流产。目前，公安机关已立案，正网上追逃女孩父亲。【拍客】18岁女孩遭亲生父亲性侵4年致怀孕 
+num_like: 0   forwardings: 0 comments: 0
+
+172:一外国朋友煞费心思做了一个有趣而复杂的设置，只为翻一页报纸。。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+173:姜太公钓鱼， 罚款十元。。[笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 1
+
+174:这个看哭了[泪][泪]~中秋，记得回家吃饭[心][心]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+175:打了无数次的扑克牌，今天才知道扑克牌的花牌是12个历史人物和故事，这些你知道吗 
+num_like: 0   forwardings: 0 comments: 0
+
+176:“你们还记得日本对我们国家做的那些事吗？还记得731是什么吗？ 一位有名的韩国讲师让你回忆日本留给中韩两国的残忍历史！秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+177:这个逼装得还可以[doge] 
+num_like: 1   forwardings: 0 comments: 0
+
+178:TED演讲：一个风靡美国的中国小孩邹奇奇告诉人们，成年人应该从小孩身上学到什么。秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+179:这才是中国好声音啊，笑尿了 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+180:预备唱：希望你过的没我好，死得比我早，吃不好也睡不好，还特别的显老。——致对我不好的人。 
+num_like: 1   forwardings: 0 comments: 0
+
+181:别等到失去才知道珍惜，特别是父母。一部感人短片「 时光教会了你什么 」。时光模糊了曾经，却教会了我们懂得与珍惜。请仔细看完[心][心][心]#读书官网#秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+182:那些感人的正能量，生命因爱而伟大[心]最神奇的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+183:大学教授开设斗地主选修课，有这样的老师，上课再也不怕困了！[笑cry] 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+184:我祖国的对称之美！美哭了[泪][泪]#北京事儿# 
+num_like: 1   forwardings: 0 comments: 0
+
+185:这销魂的小脚步，摩擦摩擦。。。 
+num_like: 1   forwardings: 0 comments: 0
+
+186:牛人街头4分钟作画，看到最后，妥妥地献上我的膝盖！！！秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+187:#淄博一化工厂爆炸#【山东淄博一化工厂发生爆炸 2公里内有震感】据@齐鲁晚报 消息，今晚20点40分许，位于山东省淄博市桓台县果里镇东付村的润兴化工厂发生爆炸并起火，具体原因不明。化工厂附近村内多户居民玻璃震碎，空中漂浮有不明物体，已有救护车到达现场。 
+num_like: 1   forwardings: 0 comments: 0
+
+188:一个创意炫酷还考验眼力的视频，看完简直有点不敢相信，都蒙圈了！！[doge] 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+189:把最珍贵的，给最爱的人。看完就泪奔了。 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+190:看一次，哭一次，人生就是这样，携手一生记忆最深的却是这些点点滴滴不完美的小事，凝聚成我们心中的完美！ 猪猪爱讲冷笑话的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+191:一位妈妈说叫女儿起床她总是不醒，于是老妈直接请来一个乐队，敲锣打鼓地把闺女给弄醒了，这歌也是给人唱醉了…真·亲妈！ 秒拍视频 . 
+num_like: 1   forwardings: 0 comments: 0
+
+192:一群同样值得我们尊敬的勇士们，人可以戴着口罩，但你们什么都没有，人类的新闻里也不会报出你们的死伤情况，但你们同样是无声的英雄。 
+num_like: 1   forwardings: 0 comments: 0
+
+193:一段故事，阐述了团队的重要小婊砸avi的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+194:一部获得了全世界102个奖项的短片，一定要看完全部。这个世界上，我们究竟站在什么样的位置？ 电影Mr的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+195:一位老师犀利吐槽当下学生普遍面临的问题，说的太赞了！ 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+196:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 1   forwardings: 0 comments: 0
+
+197:他们平凡，他们默默无闻，但是他们却又伟大！能否想象，当你舒舒服服坐在家里上网时，他们正奋斗在各种危险场所的第一线！消防官兵，和平年代最危险的兵种，向他们致以最崇高的敬意！[good] 
+num_like: 0   forwardings: 0 comments: 0
+
+198:蒸淋茄子：教大家一款开胃下饭的素菜，蒸淋茄子！夏天减肥必备菜，想吃的戳图学起来~转 
+num_like: 0   forwardings: 0 comments: 0
+
+199:【重磅推荐】马云在辽宁的最新演讲：坦克装上翅膀，未必是飞机！PS：谈未来趋势，谈企业转型，最后和王健林的PK亮了。。。[嘻嘻] #IT工程师的视频# 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+200:什么是闺蜜，说得真对。[good] 
+num_like: 0   forwardings: 0 comments: 0
+
+201:哈哈哈哈猜不到结局，这是一个悲伤的故事。[笑cry]微博视频 
+num_like: 1   forwardings: 0 comments: 0
+
+202:一个非常棒的视频，绝对震撼人心，一定要看！当时我就震惊了的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+203:哈哈哈哈哈哈这校长太机智了，简直防不胜防啊。[笑cry][笑cry][笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+204:这摇头的节奏竟然和《Uptown Funk》这么搭，萌了我一脸！[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+205:看完后暖到了心底，很感动！我们生活在同一个地球上！[心]#地球人都知道我这么拽# 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+206:我靠，这粘土特效简直了！！http://t.cn/RLNTS8N 
+num_like: 0   forwardings: 0 comments: 0
+
+207:弹钢琴的男孩真棒，我要是笑成这样肯定弹不下去了。[笑cry]微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+208:华妃娘娘7分钟最全魔性逗比的高光时刻，哈哈哈哈哈哈哈，娘娘万福金安，给您跪了！[笑cry]当时我就震惊了的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+209:14部苹果演绎浪漫追爱之旅,，太会玩了！！[爱你]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+210:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+211:一条百变的围巾，感觉在她手里完全像拉面！[拜拜] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+212:没文化真可怕。。。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+213:亲爱的朋友无论多忙，请认真看完。一个找寻孩子的真实故事，短短几分钟，感动无数家长，也给千万家长敲响了警钟！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+214:人生就是要拥有这些吊炸天的神器，才能算圆满！其实我想说，给我最后一个就好！[笑cry][笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+215:7分钟直戳我的泪点，活下去的理由，我爱僵尸爸爸[泪流满面]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+216:这得需要多大的耐心，才能设计出这么缜密多米诺啊！看得好爽！！[doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+217:陪主人晨练的汪星人，有点儿腻害！[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+218:看到一图。中国式的教育，让人深思！ 
+num_like: 0   forwardings: 0 comments: 0
+
+219:#淄博身边事##大美淄博#【大淄博方言，你知多少？】中午—晌午头里；傍晚—傍黑天；过一会—待盼子；知了—烧前猴；蜗牛—巴拉油；蚂蚁—蚁样；躺下—切下；专心致志听—支崩着个 耳朵，愣头愣脑—愣而呱唧；东张西望—撒莫...你还知道哪些有意思的淄博方言？大家一起来接龙吧！（壹心壹意的空谷幽兰） 
+num_like: 0   forwardings: 0 comments: 0
+
+220:首尔大街上出现一只拽人头发的兔子，路人们都很生气，但是结局瞬间震惊了我！[泪] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+221:这什么神曲，好魔性！太洗脑了。。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+222:马云96年跑业务视频，马云都如此，我们有什么资格不坚持[泪][泪][泪]，正能量，献给每个正在坚持着的年轻#人#！[心][心][心]励志这件小事的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+223:我尼玛这小孩绝壁是个天才！！！！！！！！！！！！歪果的小孩真会玩！！！#囧事短片# 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+224:一位叫Muharrem的失聪的男子，为了给他完美的一天，小镇里的所有人都学会了手语，看湿了眼眶，太暖心了[心][心] 微博视频 
+num_like: 1   forwardings: 0 comments: 0
+
+225:【机器灵 砍菜刀】70后80后听着听着都听哭了，90后也被触动了听了一遍，里面有太多童年的回忆，故乡是你永远回不去的地方，既然回不去，就把这些记忆留在心底吧！ [心] 最神奇的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+226:太太临产，丈夫在送去医院的路上 拍下了宝宝在车上出来的视频！画面很揪心，赞叹母亲的伟大！！[good] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+227:给大家分享一组平面设计排版格式参考，适用于画册排版、文字排版、海报排版、图文排版设计等。简单易懂的图谱，收藏学习~#photoshop# 
+num_like: 0   forwardings: 0 comments: 0
+
+228:新浪微博Android客户端V3.3.5全新升级！支持在线主题下载，精美主题不容错过;全新话题功能，参与话题讨论更快捷！下载地址：404 Page Not Found 
+num_like: 0   forwardings: 0 comments: 0
+
+229:#中国好声音那英#那姐V5，就这样被你征服~今年带出第三个冠军可好？金罐加多宝#中国好声音#第四季，我最看好你哟！ 
+num_like: 3   forwardings: 0 comments: 0
+
+230:【年轻人能为世界做什么】北大法律系女学生的惊人演讲，震撼所有中国人！强烈推荐听一听！！！#旅行笔录# ~秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+231:说每个人身边都有这样一个逗比朋友....[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+232:哈哈哈~这个绝对是史诗级的撕逼大战.。。。。。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+233:卧槽，这居然真的是画出来了....[酷] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+234:慢镜头下的喵星人，霸气逼人！ 
+num_like: 0   forwardings: 0 comments: 0
+
+235:好想养这样一只狗狗[可怜]#韩网精选# 秒拍视频 
+num_like: 0   forwardings: 1 comments: 0
+
+236:小北鼻把洋葱当成水果了，自己选的洋葱，含着泪也要把它啃完！小伙子有前途[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+237:谁做的，太油菜了[赞]！一个剧一句歌词，全都是童年的美好回忆[心]。有的画面一出来，热泪盈眶啊！[泪] 话说，这里面有多少个剧呢，有点数不清了呢！[害羞]微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+238:金星的吐槽真是稳狠准，句句在理一针见血！#[赞]#当时我就震惊了的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+239:道高一尺魔高一丈。。。[笑cry][笑cry][笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+240:「微信」是什么？    上午： 基本没动静。 中午： 各种晒，晒胸晒大腿，晒幸福，晒方向盘，应有尽有。 傍晚： 开始各种饭局，ktv，求陪同，求偶遇。 午夜 各种饿，各种吃，各种明天开始减肥。 凌晨： 各种失眠，各种感悟，各种胡言乱语。 总结：「微信」是腾讯开的精神病院。 只能微信！不能全信！ 
+num_like: 0   forwardings: 0 comments: 0
+
+241:论拔牙的正确方式[doge]粑粑们学着点，不谢！ 
+num_like: 0   forwardings: 0 comments: 0
+
+242:究竟有多少人都输给了“我以为”。[悲伤] 
+num_like: 0   forwardings: 0 comments: 0
+
+243:流浪狗妈妈和它的狗仔被收留之后，狗妈妈流下了感谢的泪水。。希望它们以后会越来越好！[悲伤] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+244:人是不能闲的，一闲就会想得太多，一闲就会感情泛滥 ，所谓矫情屁事多，空虚寂寞冷，都是因为懒散堕落闲。 
+num_like: 0   forwardings: 0 comments: 0
+
+245:开口那一刻我就惊呆了！唱得真棒！！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 1
+
+246:人家只是想静静·不要说我在卖萌[可爱][可爱] 
+num_like: 0   forwardings: 0 comments: 0
+
+247:过马路的时候千万别低头玩手机，太危险了！[doge] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+248:清凉油90%的用处，get√ 
+num_like: 0   forwardings: 0 comments: 0
+
+249:[拜拜]我不能接受这是翡翠……绝！对！不！[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+250:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 0   forwardings: 0 comments: 0
+
+251:上下五千年都被你一人承包了嘛！！！！！！[笑cry][笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+252:#手机#，主要是看外壳！[doge] 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+253:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+254:全国普及普通话的重要性。辛苦了字幕君[笑cry][笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+255:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+256:泰国公益广告：还记得你小时候的梦想吗？是科学家还是发明家？最神奇的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+257:没流量也要看的一段视频，满满的正能量！！！#假如你有100万，你会怎么花# 卡法牧羊人的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+258:最感人的面试，一个催泪短片，刚开始没看懂，结局却感动哭了！[心] 微博视频 
+num_like: 1   forwardings: 0 comments: 0
+
+259:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 1   forwardings: 0 comments: 0
+
+260:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 1   forwardings: 0 comments: 0
+
+261:起初我以为很NB。。。。结果我笑成了SB。。。[笑哈哈][笑哈哈] 
+num_like: 1   forwardings: 0 comments: 0
+
+262:人类一直在被原谅！一个让人深思的视频。。。秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+263:一朋友姓周，他老婆姓李。他老婆生了个双胞胎，老丈人提要求了: ①给孩子取名字一个姓周，一个姓李； ②名字取的要有纪念意义； ③两人名字要同个意思。今天朋友告诉我，名字取好了。。。一个叫周末。一个叫李拜天。[笑cry][笑cry] 
+num_like: 1   forwardings: 0 comments: 0
+
+264:最近最火的视频！一定要耐心看完！竟是你猜不到的结局！据说看完的人都流泪了。。。[心][心][心][泪][泪][泪]我的脑壳长了个包的秒拍视频 
+num_like: 0   forwardings: 0 comments: 3
+
+265:困了吗？来吧....哥给你当枕头靠着睡！[心]#宠物卖萌中心# 
+num_like: 1   forwardings: 0 comments: 0
+
+266:看我们的地球有多小 ！没看完就吓哭了[泪流满面]秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+267:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+268:人为什么活着？ 催人泪下(请自备纸巾)，作为儿女的我们都应该看看 [泪流满面]#√#已亮瞎狗眼的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+269:一网友家里会唱歌的逗比鹦鹉，纤夫的爱，山路18弯神马高音都难不倒它，这歌声简直逆天了[笑cry]微博视频 
+num_like: 1   forwardings: 0 comments: 0
+
+270:一网友所画，老婆从怀孕到生产的所有细小节，真是一段既辛苦，又幸福的过程啊！！[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+271:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+272:双子说：我们痴情着呢。白羊说：我们脾气好着呢。射手说：我们踏实着呢。金牛说：我们大方着呢。双鱼说：我们美着呢。狮子说：我们谦虚着呢。水瓶说：我们脸皮薄着呢 。天秤说：我们专一着呢。处女说：我们完美着呢。巨蟹说：我们勤快着呢。天蝎说：我们温柔着呢。摩羯说：哦。 
+num_like: 0   forwardings: 0 comments: 0
+
+273:一个馨爷霸气的视频集锦，哈哈哈太聪明了！[笑cry][笑cry]秒拍视频 @这视频也是醉了 
+num_like: 0   forwardings: 0 comments: 0
+
+274:给你十个理由找一个金牛座做女朋友！ 
+num_like: 0   forwardings: 0 comments: 0
+
+275:感动哭了的异地恋沙画，愿得一人心，白首不相离[心][心][心]秒拍视频 
+num_like: 1   forwardings: 1 comments: 0
+
+276:请珍惜那些给你发“。。。”的人，他们不是在敷衍你，而是要告诉你，即使我词穷，什么都不能说，但我还在。[心] 
+num_like: 1   forwardings: 0 comments: 0
+
+277:国外一个街头游戏：让两个流浪汉掰手腕比赛，赢的人将会得到100美金的奖励，而输的人将什么也拿不到，看他们为了金钱会有多努力。。。最后的结果着实让人吃了一惊。。。秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+278:为什么我们会喜欢宠物[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+279:越长大就越发觉，最离不开的还是家人。不求多富贵，只要家人都无痛无病无灾，身体健康就很好。终究会明白，真正的幸福，并不来自于权与利，而是来自于家庭。有同感吗？ 
+num_like: 0   forwardings: 0 comments: 0
+
+280:人一旦倒霉起来，真是挡也挡不住啊！！！于是就有了#幸灾乐祸#这个词哈哈！[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+281:经典视觉错误，太神奇了！最后连喵星人都上当了！[喵喵] 秒拍视频 
+num_like: 1   forwardings: 1 comments: 0
+
+282:会开冰箱的喵星人.....最后那个，也是没什么#出息# [哈哈] （投稿请私信） 
+num_like: 0   forwardings: 0 comments: 0
+
+283:人生就是一万米长跑，如果有人非议你，那你就要跑得快一点，把那些声音甩在你的身后，你就再也听不见了。 
+num_like: 0   forwardings: 0 comments: 0
+
+284:“用你的笑容去改变这个世界，别让这个世界改变了你的笑容。”#早安#[哆啦A梦微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+285:【教你如何“清洗”你的电脑】1、每天关机前清洗；2、随时进行清理；3、一星期进行所有盘的垃圾清理；4、给宽带加速，一分钟学会释放电脑保留的20%宽带资源！转走，不谢#get#[赞] 
+num_like: 0   forwardings: 0 comments: 0
+
+286:有时候，这个世界很大很大，大到我们一辈子都没有机会遇见。有时候，这个世界又很小很小，小到一抬头就看见了你的笑脸。所以，在遇见时，请一定要感激；相爱时，请一定要珍惜；转身时，请一定要优雅；挥别时，请一定要微笑。#早安#[微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+287:加州一对结婚75年的老夫妻，生命的最后一刻，拥抱着彼此，离开了这个世界。爱能创造奇迹。 
+num_like: 0   forwardings: 0 comments: 0
+
+288:【北京一对女同性恋情侣举行结婚仪式】2015年7月2日，中国一对女同性恋情侣Teresa和李婷婷在北京举行了简单的结婚仪式，向公众宣布她们的“结合”，为推进中国同性婚姻的合法化进程做出努力。 
+num_like: 0   forwardings: 0 comments: 0
+
+289:那些精简机智的回答，满满的高智商！[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+290:岛国一妹子买了支冰淇淋，吃之前突然想起应该摆拍一张留着发到网上……没想到拍下了奇迹的瞬间[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+291:你…给我留点儿喵星人的尊严…让……我……走……！[喵喵][喵喵][喵喵] 
+num_like: 0   forwardings: 0 comments: 0
+
+292:话说一对喵星人粑麻最近生了小宝宝，每当宝宝吃饭的时候，粑粑麻麻都会靠在它们旁边看著它们吃......好温馨的一家喵啊~~~ 
+num_like: 1   forwardings: 0 comments: 0
+
+293:铲屎官和汪星人被鬼吓到后的不同反应。。。。铲屎官真是弱爆了[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+294:#微博桌面美图# 
+num_like: 0   forwardings: 0 comments: 0
+
+295:凑铲屎的，本宫不约！！[笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+296:你们城里人真会玩，我就静静的看你们装逼！！[笑cry]#笑点补习班# 
+num_like: 1   forwardings: 0 comments: 0
+
+297:吓死宝宝了！[泪流满面] #编凑士合集# 
+num_like: 0   forwardings: 0 comments: 0
+
+298:真是吓死劳资了！哈哈哈哈哈[笑cry]秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+299:削芒果新技能，这个可以有。。。看完真的好想吃.[馋嘴]#只凭眼神认出你#秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+300:老喜欢光头强的这些话了，很精辟！！ [心][心][心] 
+num_like: 0   forwardings: 0 comments: 0
+
+301:只要升等级就有福利享，变身土豪就靠它，想想就有点小激动呢[太开心]小伙伴儿们速来围观，领取你的#微博等级专享礼#吧微博等级，升等级享好礼 
+num_like: 1   forwardings: 0 comments: 0
+
+302:印度的一家游乐场里设置的人力摩天轮[doge][doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+303:喵爷我正在吃饭呢，打嗝！打你妹的打嗝！！# 笑cry# [笑cry] 微博视频 
+num_like: 0   forwardings: 1 comments: 0
+
+304:【为抢救韩国MERS患者 广东15天花掉逾800万元】惠州市卫生局局长许岸高介绍说，仅设备上的投入就达800多万元。而由于患者病情加重，医疗部门还紧急转移8名原住在ICU的重症病人，清空救治场所。截至目前，金某的治疗费用自己没掏一分钱，但中国医护人员却一直冒着生命危险救治他。@广州日报 
+num_like: 0   forwardings: 0 comments: 0
+
+305:今天看到一句很暖的话：“你瘦的时候走进我心里，后来胖了，卡在里面就再也出不来了……”[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+306:你认识我的时候我已经是这个样子 是个符合或者不符合你想法的成品 你也无法参与我的成长 不能看到我从不懂事到懂事 从不温柔到温柔 所以 你认识的 喜欢的终究只是半个我 你不能理解我各种奇怪的忌讳 无法明白我的坚持 放弃 隐忍 等待 但希望最后 你还是会选择我 会找到我 拥抱我 
+num_like: 0   forwardings: 0 comments: 0
+
+307:贱人真的无处不在，没有最贱只有更贱。 
+num_like: 0   forwardings: 0 comments: 0
+
+308:超牛的设计，魔术般的把空间利用发挥到了极致，太神奇了！简直不可思议[赞][赞]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+309:“马云说：生孩子，明明知道痛，可却还是生了。投资，明明知道有风险，但还是投了；一点都不想付出，却想着月入过万，十几万？那是做梦了。成功人的两会：开会、培训会。普通人的两会：约会、聚会。穷人的两会：这也不会，那也不会。奋斗的人两会：必须会，一定得会！”——#致自己# 
+num_like: 0   forwardings: 0 comments: 0
+
+310:别人恭维你时，偷偷高兴一下就可以了，但不可当真，因为那十有八九是哄你的；别人批评你时，稍稍不开心一下就可以了，但不可生气，因为那十有八九是真的。 
+num_like: 0   forwardings: 0 comments: 0
+
+311:我擦！这也太不科学……[喵喵] 
+num_like: 0   forwardings: 0 comments: 0
+
+312:高手在民间！这哥们真是太屈才了，能切鱼，能切屌[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+313:狗狗，你让那些不会骑车的人类情何以堪啊…… 
+num_like: 0   forwardings: 0 comments: 0
+
+314:别人家的宠物#洗澡#时[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+315:原来，军队里的鸡是这样的哈哈哈哈哈[哈哈]微博视频 
+num_like: 1   forwardings: 0 comments: 0
+
+316:前世五百次的回眸，才换来今生的一次神同步[哈哈][哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+317:哇噻！我今天在#115网盘每日签到#获得了1GB永久空间，连签到15天，就可领取120GB哟！115网盘可安全备份你的所有照片、文档、音乐、影视到云端，随时随地都可以在任意电脑、手机、平板电脑查看，分享文件也很快捷哦。选网盘就用最好的，推荐你使用：http://t.cn/R7uS6go @115网盘   
+num_like: 0   forwardings: 0 comments: 0
+
+318:快把手放好，酱紫很危险会掉下去哒。。。毕竟。。。。。掉下去就没法铲屎啦[微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+319:甜馨闺女灰常到位的魔性表情：我们白着呢！最后的眼神，你要多可爱就有多可爱！[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+320:@卵母细胞 跟我说这是澳大利亚的短尾矮袋鼠。什么？？？？！！！！！我从来没见过这么可爱的袋鼠！！！！！！！！！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+321:有些情绪 应该说给懂的人听~~[doge] 
+num_like: 1   forwardings: 0 comments: 0
+
+322:”全部都依赖别人的话永远都不能成为独当一面的人，所谓选择道路，并不一定要选择好走又安全的道路。有什么不好，就算迟了也要努力到最后。“ 
+num_like: 1   forwardings: 0 comments: 0
+
+323:【 一组很有节操的对话 4.0 】 看完给笑跪了！！！ [笑哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+324:光阴好像，流水飞。是淡淡的青春，纯纯的爱。#厕所必修课# 
+num_like: 1   forwardings: 0 comments: 0
+
+325:无聊时逗喵星人神马的最好玩了！哈哈哈哈笑点好低[哈哈]#笑点补习班# 
+num_like: 0   forwardings: 0 comments: 0
+
+326:一句话形容你的专业，给即将填报志愿的学弟妹们，所以，是不要读大学的意思么..[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+327:真是高手高高手，这一辈纸估计都不太能学会的。[吃惊] 
+num_like: 0   forwardings: 0 comments: 0
+
+328:这俩外国小朋友太会玩啊哈哈哈，完全神同步，根本看不出差别[笑cry]秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+329:天气太热了，小狗趴着吃东西的样子实在是太萌了，口水肩也很抢戏o(*￣▽￣*)ブ 
+num_like: 0   forwardings: 0 comments: 0
+
+330:一网友向我们展示如何在10秒内吃完一根玉米棒子，已经报警了.... http://t.cn/R23K8Up . 
+num_like: 0   forwardings: 0 comments: 0
+
+331:你们跟喵亲热时，其实它内心基本是要崩溃的[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+332:我分享了2015 Father's Day 混剪，总有一处打动你 BY天幕制作 
+num_like: 1   forwardings: 0 comments: 0
+
+333:父亲 Father —— F - firm and fair 坚强、公平；A - adorable 值得崇拜；T - teacher 老师；H - heroic 有英雄气概，hilarious 滑稽；E - entertaining 有趣；R - reliable 可信赖。You are the best dad in the world. Happy Father's Day! 您是世界上最好的爸爸。父亲节快乐！ 
+num_like: 0   forwardings: 0 comments: 0
+
+334:其实，爸爸也会累，也会烦，有时候也害怕，时常也无奈。只是他们往往不太善于表达，习惯把一切都闷在内心里，压在肩上。他们也渴望你的关心，虽然会故作不在意的说好好的你花这个冤枉钱，废这个劲干啥。其实，心里早就乐开了花。为了坚强而脆弱的爸爸，请照顾好他！父亲节，你懂的[哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+335:再玩一次这个……吴邪来之前VS吴邪来之后 
+num_like: 0   forwardings: 0 comments: 0
+
+336:狗狗伸爪子扶了一下喵的动作好有爱啊，心都化了。。。[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+337:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 0   forwardings: 0 comments: 0
+
+338:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+339:今天给你萌介绍一下我的头像：考拉君。来大家伙感受一下。 
+num_like: 0   forwardings: 0 comments: 0
+
+340:#厕纸说事# 【十二星座的缺点】你有中枪吗[doge] 
+num_like: 1   forwardings: 0 comments: 0
+
+341:混血小萌娃，学中文难道是为了吃包子？微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+342:打喷嚏打不出来，大概就是这样的感觉ww...( ω ) 
+num_like: 1   forwardings: 0 comments: 0
+
+343:哇噻！我今天在#115网盘每日签到#获得了2GB永久空间，连签到15天，就可领取120GB哟！115网盘可安全备份你的所有照片、文档、音乐、影视到云端，随时随地都可以在任意电脑、手机、平板电脑查看，分享文件也很快捷哦。选网盘就用最好的，推荐你使用：http://t.cn/R7uS6go @115网盘   
+num_like: 0   forwardings: 0 comments: 0
+
+344:我刚参加了115云8TB空间马上领，注册即获真正无限永久空间，自动增长，引爆云时代，速度来参与！ @115云 http://t.cn/R7Qb7LS  
+num_like: 0   forwardings: 0 comments: 0
+
+345:高温联播，哈哈哈哈什么鬼啊[笑cry][笑cry][笑cry] 微博视频 
+num_like: 1   forwardings: 0 comments: 0
+
+346:#我整个人都感到不太好了#就怕学生无聊，课堂上什么都玩得出来[doge] 
+num_like: 1   forwardings: 0 comments: 0
+
+347:哎呦，卧槽！！！狗比狗，气死个#狗#。。。 [doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+348:等它们长大，很快就可以穿上制服，抓捕坏人啦[哆啦A梦花心] 
+num_like: 0   forwardings: 0 comments: 0
+
+349:现在的熊孩子脑洞都这么多大么，最后一个写得真让人心生酸楚！！！[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+350:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+351:一只立体几何满分的学霸狗，深深的感到被虐了！[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+352:如果能有这种女友，何愁成就不了大事！[给力] [给力]  
+num_like: 0   forwardings: 1 comments: 0
+
+353:我就这样静静的看着你装逼。[doge] 秒拍视频 #我们爱讲俏皮话# 
+num_like: 0   forwardings: 0 comments: 0
+
+354:动态图加上文字后，简直毫无违和感！！！[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+355:跑步机原来可以这么用！表示涨姿势了。。。[笑cry]#笑话趣图大百科# 
+num_like: 0   forwardings: 0 comments: 0
+
+356:当《喜欢你》走进广场舞，醉的我好想加入~~[笑cry][笑cry][笑cry]微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+357:就算是砸锅卖铁，也不能让孩子输在起跑线上！ 
+num_like: 0   forwardings: 1 comments: 0
+
+358:(＾＾)血槽瞬间掏空……就算它们把天捅塌了，你能舍得揍？！ 
+num_like: 0   forwardings: 0 comments: 0
+
+359:原来，上大学真的可以改变一个人，让我们来看一个屌丝的蜕变[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+360:有很多衣服呢，穿了一下，又没有脏到需要洗，也没有好看到让我想连续穿的冲动，所以，就堆在那儿吧……[微笑]还有，懒癌患者，很累很累，看到床 ，可以毫无顾忌地躺下去，管它乱不乱…[可爱] 
+num_like: 0   forwardings: 0 comments: 0
+
+361:一坨喵星人 和 一根喵星人[哈哈]旁边那坨是化了吗！？[偷笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+362:国外一失聪宝宝第一次带上助听器时的反应，看到他笑的那一刹那，我也笑了[心]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+363:老公跟我表达 “你爱我有多深” 的方式有点粗暴…… 
+num_like: 0   forwardings: 0 comments: 0
+
+364:数学老师有口音是怎样一种体验~！！！[笑cry]哈哈哈说不出的痛~！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+365:遇到这样的司机只能自求多福了，太疯狂了[笑cry] 秒拍视频 
+num_like: 0   forwardings: 1 comments: 0
+
+366:于妈在召唤，全国小笼包广播体操现在开始！！！！！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+367:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+368:一条发错的短信，引发的情感思考~ 我们总是忽略无条件对我们好的人~[泪] 
+num_like: 0   forwardings: 0 comments: 0
+
+369:Σ(°°)..!动物界的伪装大师，瞎了……除了最后个逗逼，能一眼看出几个[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+370:假期时，我和我妈的清晨对话[doge][doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+371:那些一听就爱上的歌[赞]，小伙们赶紧get 
+num_like: 0   forwardings: 0 comments: 0
+
+372:卧擦，猜到了开头万万没猜到这结尾啊！[笑cry][笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+373:对不起您的智商已欠费，请及时充值！ 
+num_like: 0   forwardings: 0 comments: 0
+
+374:国外一个小哥因为没在自行车道上骑车被罚了5千美元，然后不服气的他就用自身行动证明了在自行车道上骑车也一样不安全。。。[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+375:惹女汉子是一种怎么的后果？为了您的身心健康，务必远离女汉子[笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+376:再有一个月，夜里的日本长野就会变成萤火虫飞舞的天堂，美哭[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+377:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+378:简单粗暴实用的防狼技巧，女童鞋们赶紧来学学！哈哈最后一条简直醉了[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+379:一只骨折复诊的喵，原来喵骨折也要吊着，萌cry惹~[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+380:团结就是力量，国外最有意义的创意广告！[赞]我的脑壳长了个包的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+381:哈哈哈哈哈女人好野蛮，小新真的好可爱。[笑cry][笑cry]微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+382:教你一句话噎死对方，也是无法反驳！[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+383:听说脸大的人脾气一般都超好，因为脸大翻脸真的好辛苦的。。 
+num_like: 0   forwardings: 0 comments: 0
+
+384:已被这两孩子萌哭，不知道大家小时候有没有这样的青梅竹马小伙伴[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+385:玩一发最近很火的以「礼让」为主题的表情包，想要的拿走~[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+386:智商是硬伤，哈哈哈哈哈蠢哭了[哈哈][哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+387:谁给推荐一款不容易坏的U盘？挺急的… 
+num_like: 0   forwardings: 0 comments: 0
+
+388:英国一户人家主人拍下他家猫调戏小鼠鼠的全过程。。。。。小鼠内心是崩溃的。。。。-。- 
+num_like: 0   forwardings: 0 comments: 0
+
+389:在你那里，这几种蔬菜分别叫什么？……和几个朋友在群里争了一上午，再次感受到祖国之大[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+390:妹子和情人开房被老公抓住了，看完我也是惊呆了！[doge][doge][doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+391:周末在家的状态，跟这只猫是一样一样的…… 
+num_like: 0   forwardings: 0 comments: 0
+
+392:新浪微博Android客户端V3.3.5全新升级！支持在线主题下载，精美主题不容错过;全新话题功能，参与话题讨论更快捷！下载地址：404 Page Not Found 
+num_like: 0   forwardings: 0 comments: 0
+
+393:每天早上就这么循环，你们感受一下！！！[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+394:他们上辈子一定是情侣.....微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+395:新浪微博Android客户端V3.3.5全新升级！支持在线主题下载，精美主题不容错过;全新话题功能，参与话题讨论更快捷！下载地址：404 Page Not Found 
+num_like: 0   forwardings: 0 comments: 0
+
+396:一只激光笔把这群逗比玩坏了，哈哈哈最后一个简直笑尿！[笑cry] 
+num_like: 0   forwardings: 1 comments: 0
+
+397:喵星人到底有多喜欢晒太阳？ 
+num_like: 0   forwardings: 0 comments: 0
+
+398:#90后看不看春晚#看完这个采访后，我想对那个高冷男孩说，如果你上春晚，我就把电视砸了。[拜拜] 春晚敢有双马尾吗 
+num_like: 0   forwardings: 0 comments: 0
+
+399:哪位大神的配音！！哈哈哈太亮了！！微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+400:什么是真正的女神。 
+num_like: 0   forwardings: 0 comments: 0
+
+401:不开心的都忘掉，#从今天开始微笑#！被wuli女神@angelababy 九连拍萌哭[泪流满面]笑着抱走！想看更多的戳右边啦→http://t.cn/RZWoKLr 
+num_like: 0   forwardings: 0 comments: 0
+
+402:所以说 从小就有个陪伴的话是件多美好的事情～ 
+num_like: 0   forwardings: 0 comments: 0
+
+403:所以说 从小就有个陪伴的话是件多美好的事情～ 
+num_like: 0   forwardings: 0 comments: 0
+
+404:爸妈带孩子与奶奶带孩子的区别，还是特可爱！笑疯了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+405:宠物们与主人神同步，简直要笑死了~[偷乐] 
+num_like: 0   forwardings: 0 comments: 0
+
+406:一只霸道任性的喵星人[喵喵] 
+num_like: 0   forwardings: 0 comments: 0
+
+407:一群白滚滚的萨摩耶.....萌化了~~~~~好！治！愈！(≧≦) 
+num_like: 0   forwardings: 0 comments: 0
+
+408:该笑的时候！！！论如何让汪星人笑!!![doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+409:那些年老师们的奇葩回答，看到哪条你语塞了？ 
+num_like: 0   forwardings: 0 comments: 0
+
+410:喵星人证件照，很严肃，气场也很强大 ！[威武] 喜欢的转走！[喵喵] 
+num_like: 0   forwardings: 0 comments: 0
+
+411:做什么都是违纪。。。据说就是就是衡水高校出名的原因。。。 
+num_like: 0   forwardings: 0 comments: 0
+
+412:哇噻！我今天在#115网盘每日签到#获得了2GB永久空间，连签到15天，就可领取120GB哟！115网盘可安全备份你的所有照片、文档、音乐、影视到云端，随时随地都可以在任意电脑、手机、平板电脑查看，分享文件也很快捷哦。选网盘就用最好的，推荐你使用：http://t.cn/R7uS6go @115网盘   
+num_like: 0   forwardings: 0 comments: 0
+
+413:哇噻！我今天在#115网盘每日签到#获得了1GB永久空间，连签到15天，就可领取120GB哟！115网盘可安全备份你的所有照片、文档、音乐、影视到云端，随时随地都可以在任意电脑、手机、平板电脑查看，分享文件也很快捷哦。选网盘就用最好的，推荐你使用：http://t.cn/R7uS6go @115网盘   
+num_like: 0   forwardings: 0 comments: 0
+
+414:哇噻！我今天在#115网盘每日签到#获得了2GB永久空间，连签到15天，就可领取120GB哟！115网盘可安全备份你的所有照片、文档、音乐、影视到云端，随时随地都可以在任意电脑、手机、平板电脑查看，分享文件也很快捷哦。选网盘就用最好的，推荐你使用：http://t.cn/R7uS6go @115网盘   
+num_like: 0   forwardings: 0 comments: 0
+
+415:哇噻！我今天在#115网盘每日签到#获得了1GB永久空间，连签到15天，就可领取120GB哟！115网盘可安全备份你的所有照片、文档、音乐、影视到云端，随时随地都可以在任意电脑、手机、平板电脑查看，分享文件也很快捷哦。选网盘就用最好的，推荐你使用：http://t.cn/R7uS6go @115网盘   
+num_like: 0   forwardings: 0 comments: 0
+
+416:【降半旗】#国家公祭日#早安，南京。2014年12月13日清晨，天气晴冷，来自北京的国旗护卫队，在侵华日军南京大屠杀遇难同胞纪念馆将国旗升起后又徐徐降下。我们为死难同胞，降半旗致哀。[蜡烛] 
+num_like: 0   forwardings: 0 comments: 0
+
+417:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+418:生活如此多娇，骚年你这么吊，你父母知道吗？[哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+419:西方人眼中，中国是可以这样使用筷子的。。。 
+num_like: 0   forwardings: 0 comments: 0
+
+420:【这样看 故宫也是萌萌哒！！！！！[心]】都这么拍了还不转，臣妾做不到啊！近日，一组摄影师在故宫拍摄的Q版公仔照走红网络，栩栩如生的“皇上”“皇后”“嫔妃”“格格”，萌到爆的表情，熟悉的场景，让你想起了哪一段台词？（来源：影像北京） 
+num_like: 0   forwardings: 0 comments: 0
+
+421:2014年网络流行语及出处，看完真是醉了。。。[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+422:#五魁首啊！六六六啊！#说实话，没见过打戏这么难看的小龙女。。。 
+num_like: 0   forwardings: 0 comments: 0
+
+423:人一但倒霉起来。有时候喝凉水都塞牙[可怜] 
+num_like: 0   forwardings: 0 comments: 0
+
+424:“小明，滚出去！”完整版本来了！让我一次笑个够~[笑哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+425:“说说那些唱串的歌词，看谁的最搞笑____________________”看完热门评论，我已经不会唱歌了[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+426:最熟悉的陌生题，致我们终将逝去的解题能力！！[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+427:不要跟二货一起吃饭升级版之动物如何吃饭，哈哈哈哈哈简直就是深井冰！[哈哈][哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+428:“我们都是木头人，不许说话不许动” 
+num_like: 0   forwardings: 0 comments: 0
+
+429:怎么可以辣么可爱！太萌了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+430:我就是不想好好走路！[右哼哼] 
+num_like: 0   forwardings: 0 comments: 0
+
+431:关于wifi的一些小故事，笑尿了哈哈哈哈哈！有wifi的人就可以随便任性！ 
+num_like: 0   forwardings: 0 comments: 0
+
+432:交友需谨慎啊！交到逗比损友，下场只能是这样了。。[哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+433:这是一个忧桑的故事，自我被录取那一年开始。。。（省略一万字）。。。我就被大学变成这样紫了.... 
+num_like: 0   forwardings: 0 comments: 0
+
+434:这……以后必成大器啊！！[哈哈][哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+435:有时，我们应该换个姿势想~~~ 满满正能量！ 
+num_like: 0   forwardings: 0 comments: 0
+
+436:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+437:小动物打瞌睡的样子，简直要萌死啊! 
+num_like: 0   forwardings: 0 comments: 0
+
+438:数学课上，老师以4G的速度讲课，学神以wifi的速度听着，学霸以3G速度记着，学婊以2G速度干瞅着，学屌经常掉线，学渣是搜不到也连不上，最后自动关机了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+439:各种中国式，谁总结的，简直太精辟了。。。[good] 
+num_like: 0   forwardings: 0 comments: 0
+
+440:想备份重要资料？想在线看视频？想与朋友分享出游照片？快下载#百度云#客户端！！http://t.cn/zYeDU7Z 现在注册送15G超大空间，快来注册吧： （分享自 @百度云） http://t.cn/Rz7uEzK  
+num_like: 0   forwardings: 0 comments: 0
+
+441:#动漫美图#这副图不叫快到碗里来，而是应该叫快来当我的晚餐#动漫# 
+num_like: 0   forwardings: 0 comments: 0
+
+442:国产动画片也是陪伴我们一起度过童年的，看过的请转走 
+num_like: 0   forwardings: 0 comments: 0
+
+443:阿拉斯加小时候就是一团萌球~[花心] 
+num_like: 1   forwardings: 0 comments: 1
+
+444:直到今天，我终于懂了，真的是蠢到深处自然萌啊！太可爱了！！ 
+num_like: 1   forwardings: 0 comments: 0
+
+445:哇噻！我今天在#115网盘每日签到#获得了4GB永久空间，连签到15天，就可领取120GB哟！115网盘可安全备份你的所有照片、文档、音乐、影视到云端，随时随地都可以在任意电脑、手机、平板电脑查看，分享文件也很快捷哦。选网盘就用最好的，推荐你使用：http://t.cn/R7uS6go @115网盘   
+num_like: 0   forwardings: 0 comments: 0
+
+446:我刚刚登陆了图片114免费素材网，这里有180万张图片素材免费下载，分享给你！图片114_最大免费素材网！ 
+num_like: 0   forwardings: 0 comments: 0
+
+447:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 0   forwardings: 0 comments: 0
+
+448:哇噻！我今天在#115网盘每日签到#获得了3GB永久空间，连签到15天，就可领取120GB哟！115网盘可安全备份你的所有照片、文档、音乐、影视到云端，随时随地都可以在任意电脑、手机、平板电脑查看，分享文件也很快捷哦。选网盘就用最好的，推荐你使用：http://t.cn/R7uS6go @115网盘   
+num_like: 0   forwardings: 0 comments: 0
+
+449:哇噻！我今天在#115网盘每日签到#获得了2GB永久空间，连签到15天，就可领取120GB哟！115网盘可安全备份你的所有照片、文档、音乐、影视到云端，随时随地都可以在任意电脑、手机、平板电脑查看，分享文件也很快捷哦。选网盘就用最好的，推荐你使用：http://t.cn/R7uS6go @115网盘   
+num_like: 0   forwardings: 0 comments: 0
+
+450:哈哈哈哈哈哈哈哈哈哈毫无违和感。 
+num_like: 0   forwardings: 0 comments: 0
+
+451:关键时候... 老爸真是这个世上最伟大的.... [心] 
+num_like: 0   forwardings: 0 comments: 0
+
+452:哈哈哈……为什么我就没遇见这么萌的快递小哥[得意地笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+453:哇噻！我今天在#115网盘每日签到#获得了1GB永久空间，连签到15天，就可领取120GB哟！115网盘可安全备份你的所有照片、文档、音乐、影视到云端，随时随地都可以在任意电脑、手机、平板电脑查看，分享文件也很快捷哦。选网盘就用最好的，推荐你使用：http://t.cn/R7uS6go @115网盘   
+num_like: 0   forwardings: 0 comments: 0
+
+454:那些人生中不能忍的崩溃画面，样样都无比精准，令人发指！[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+455:来看看每月的“大姨妈”拟人场景，第一天到第六天，仔细体会，还挺贴切的. 
+num_like: 0   forwardings: 0 comments: 0
+
+456:真的被这些小崽子们给蠢哭了。。[哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+457:对于贱人的厚脸皮和不要脸，我们只能笑了。亏她能做得出来，亏她能说自己有尊严！真是人不要脸天下无敌！@零zero-公子 @森林白小白 @你是太深的梦 
+num_like: 1   forwardings: 0 comments: 0
+
+458:人的忍耐有限度，我们的忍耐却早已超出了最大值。说什么换位思考，你在做那些没脸没皮的事情时为什么不换位思考！还说什么强颜欢笑，是谁笑得跟狗一样！更可笑的是居然谈尊严！你有么你配么！说出来也不怕人耻笑！做了一年的朋友我们已经人到了极限。绝交最好，老死不相往来！@零zero-公子 @森林白小白 
+num_like: 0   forwardings: 0 comments: 0
+
+459:腿到用时方恨短。。。。 小短腿你伤不起啊。。哈哈看一次笑一次！[哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+460:秀恩爱没有那么容易，单身狗也有她的脾气。。。。哈哈哈哈哈哈 #投稿# 
+num_like: 0   forwardings: 0 comments: 0
+
+461:长得普通是一种怎样的体验？最后看哭了[泪][拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+462:【创意】来自韩国的年轻艺术家Sung Yeonju巧妙利用食物特有的纹理与质感，用蔬菜搭配成独特的“礼服”。独特的时尚美感不是一般材料所能达到的，现在去猜猜看组成这些独特时装的是什么材料吧！这可是真正的秀色可餐哦。http://t.cn/zTDGjKp 
+num_like: 0   forwardings: 0 comments: 0
+
+463:小伙伴们，快来围观！我已经升级为V6新版微博，简洁的界面带来更流畅的体验。准备好了吗？和我们一起发现新的世界吧！升级猛戳:http://t.cn/R7vgnNI 微博视频 
+num_like: 0   forwardings: 0 comments: 0
+

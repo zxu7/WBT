@@ -1,0 +1,49 @@
+user_info or user_nickname: 宋明清的小迷妹
+user_id: 5539286423
+weibo_Num: 14
+Num_followings: 65
+Num_followers: 25
+
+weibo content: 
+1:每日一更 
+num_like: 0   forwardings: 0 comments: 0
+
+2:不如做个迷人的混蛋 
+num_like: 0   forwardings: 0 comments: 0
+
+3:风景最美不过因为身旁有个你 
+num_like: 0   forwardings: 0 comments: 0
+
+4:愿我们都能被这个世界温柔以待#爱# 
+num_like: 0   forwardings: 0 comments: 0
+
+5:说说你身上你觉得最好看的地方么#小蛮腰##美##腿##眼睛##锁骨# 
+num_like: 1   forwardings: 0 comments: 0
+
+6:愿我们都将瘦成自己想要的模样#瘦##美##马甲线##小蛮腰# 
+num_like: 1   forwardings: 0 comments: 0
+
+7:你们有没有在爱里一瞬间很委屈 委屈到下一秒就能哭出来的那种感觉#爱##想哭# 
+num_like: 2   forwardings: 0 comments: 0
+
+8:喜欢一个人一定要全世界都知道才好#喜欢# 
+num_like: 0   forwardings: 0 comments: 0
+
+9:这个世界上总有特别好看的小动物#猫咪##秋田犬##可爱动物照片# 
+num_like: 0   forwardings: 0 comments: 0
+
+10:艺考加油#艺考# 
+num_like: 1   forwardings: 0 comments: 0
+
+11:嗨 #漂亮的李慧珍# 
+num_like: 0   forwardings: 1 comments: 0
+
+12:我走过最长的路就是你的套路 
+num_like: 1   forwardings: 1 comments: 0
+
+13:初雪 
+num_like: 1   forwardings: 1 comments: 0
+
+14:如果我掉了一个苹果5s但是我妈妈又给我换了个苹果6s我不会不开心 反而有点开心 如果我男朋友跟我提了分手 而我男神却给我告白 我也会很开心 人啊 或许不是害怕失去而是害怕失去后没有更好的的#失去# 
+num_like: 1   forwardings: 1 comments: 0
+

@@ -1,0 +1,16 @@
+user_info or user_nickname: 宇哥2017
+user_id: 6124758784
+weibo_Num: 3
+Num_followings: 59
+Num_followers: 9
+
+weibo content: 
+1:画画的时候，老师说只剩3分钟的时候…… 
+num_like: 0   forwardings: 0 comments: 0
+
+2:很多城市都有属于自己的一首歌，这首歌我听完了后简直想报警，一首罪恶的呻吟，充满了无耻的缅怀…… 王尼玛的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+3:乘风破浪(2017)[星星][星星][星星][星星][半星]，#最强贺岁档# 
+num_like: 1   forwardings: 0 comments: 0
+

@@ -1,0 +1,37 @@
+user_info or user_nickname: PLA_海峰
+user_id: 5680575144
+weibo_Num: 10
+Num_followings: 23
+Num_followers: 5
+
+weibo content: 
+1:【推荐十部能够充实自己的电影】知乎上的最高票回答！十部电影，每个电影都能让你知道自己年轻应该是怎么样的一种状态！白日梦想家 教父 死亡诗社 电锯惊魂 卑劣的街头 弱点  
+num_like: 0   forwardings: 0 comments: 0
+
+2:“周杰伦”教练教你10分钟全身燃脂！由于长相酷似筋肉版周杰伦，Jordan爆红网络，但是他的健身水平过硬！这次带来10分钟全身燃脂训练，3分钟一轮，做2-3轮即可在接下来的24小时内达到等同于跑步1小时的燃脂效果，不需要特别器械，甩掉脂肪！#篮球课堂#  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+3:儿子女儿的名字库，以后不用费脑子想了！收藏备用吧！ [赞] 
+num_like: 0   forwardings: 0 comments: 0
+
+4:#明日之星#16岁天才前锋Zion Williamson最新集锦！美媒称他是勒布朗-詹姆斯之后的最强高中生！声色NBA的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+5:“papi酱的“30岁30问”答网友问！感谢所有给我提问的盆友们，希望我们以后可以时不时地有些小互动、小交流～（祝我30岁生日快乐～～...比30个心[心]”papi酱的秒拍视频（使用#秒拍#录制,免流量看热门短视频!） 
+num_like: 0   forwardings: 0 comments: 0
+
+6:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+7:【从600度降到现在的150度】一篇近视纠正教程，岛国眼科院独创的7日视力恢复运动，用一只笔就可以练习！而且大人，小孩都适合，活到60岁也不会得老花眼的教程！~近视的同学可以马一个试试~[熊猫][熊猫]#为爱而动#健身君的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+8:#微博讲礼#Boomshakalaka！我在微博讲礼 的红包中抽到了@粉丝夺宝 提供的“粉丝夺宝大礼包”，2017年的小惊喜！也许你的惊喜更大哦~微博讲礼 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+9:今天我的「微博等级」又升一级，记录一下我在微博的成就微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+10:#我的第一条微博#来一发 
+num_like: 1   forwardings: 0 comments: 0
+

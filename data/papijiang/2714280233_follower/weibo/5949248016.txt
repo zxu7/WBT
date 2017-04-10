@@ -1,0 +1,28 @@
+user_info or user_nickname: 川之江上
+user_id: 5949248016
+weibo_Num: 7
+Num_followings: 58
+Num_followers: 5
+
+weibo content: 
+1:#微博搞笑排行榜的红包#Boomshakalaka！我在微博搞笑排行榜 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~微博搞笑排行榜 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+2:#微博搞笑排行榜的红包#Boomshakalaka！我在微博搞笑排行榜 的红包中抽到了@聚美陈欧 提供的“聚美百元礼包”，2017年的小惊喜！也许你的惊喜更大哦~微博搞笑排行榜 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+3:#小米MIX微博有礼#如此低投入高回报的大转盘活动怎可少了我！这不科学！拼人品的时候到了！转盘转起来，大奖快到碗里来！我参加了活动“上微博，赢小米MIX手机”，你也来试试手气 上微博，赢小米MIX手机 
+num_like: 0   forwardings: 0 comments: 0
+
+4:我刚刚领到了@微博电影 送出的5元通用电影代金券，福利分享给你们，关注微博电影福利领不停。全民观影福利，折后直减现金 
+num_like: 0   forwardings: 0 comments: 0
+
+5:我发起了一个投票 【你觉得十二星座里谁的情商最高？】你觉得十二星座里谁的情商最高？ 
+num_like: 0   forwardings: 0 comments: 0
+
+6:#双11来了#双11必抢好货有哪些？@学徒王自健 @马薇薇 @回忆专用小马甲 购物车里都有什么？2016天猫双11官方爆款全球发布，正在阿里巴巴西溪园区进行直播，立即点击观看！转发就能抽天猫双11红包。 微博直播 . 
+num_like: 0   forwardings: 0 comments: 0
+
+7:#声音的战争#五大导师阵容尘埃落定！[威武]殿堂级导师Vocal女王@aMEI_feat_阿密特 、Pop双子星羽泉组合@胡海泉 @陈羽凡 、Rock Star@蕭敬騰 、Live 精灵@田喜碧Hebe 、Music Knight@林俊杰 携手莅临。10月起每周五晚，QQ音乐#声音的战争#燃情开唱[话筒]你最支持哪位导师？ 
+num_like: 0   forwardings: 0 comments: 0
+

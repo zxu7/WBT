@@ -1,0 +1,64 @@
+user_info or user_nickname: 浮华烟云1314
+user_id: 5996204922
+weibo_Num: 19
+Num_followings: 58
+Num_followers: 20
+
+weibo content: 
+1:祝你生日快乐 
+num_like: 1   forwardings: 0 comments: 0
+
+2:#子曦_SoPhie的红包#Boomshakalaka！我在子曦_SoPhie 的红包中抽到了@让红包飞 提供的“巨蟹座财神卡”，2017年的小惊喜！也许你的惊喜更大哦~子曦_SoPhie 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+3:你绝对猜不到，这个帅哥@-南二- 是靠什么从XXL码减到S码的，我听完之后真的感觉男默女泪了好吗。。。 #减肥# 我的秒拍作品，一起来看~杰小米脑丝的秒拍视频（使用#秒拍#录制,免流量看热门短视频!） 
+num_like: 0   forwardings: 0 comments: 0
+
+4:快看商城http://t.cn/RJIjJL5送开学福利啦[爱你]！一件小清新文具，让你爱上开学季[doge]！现在购买，全场5折起，专场满89包邮哟[兔子]。转发本条微博抽1人送牛轰轰新年台历[坏笑]！ 
+num_like: 0   forwardings: 0 comments: 0
+
+5:我发起了一个投票 【《别闹，我想静静》宝宝们希望谁是男主？】《别闹，我想静静》宝宝们希望谁是男主？ 
+num_like: 0   forwardings: 0 comments: 0
+
+6:#骆驼不是女神的红包#Boomshakalaka！我在骆驼不是女神 的红包中抽到了@让红包飞 提供的“限量版财神卡-更”，2017年的小惊喜！也许你的惊喜更大哦~骆驼不是女神 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+7:#曹露Lukiya的红包#Boomshakalaka！我在曹露Lukiya 的红包中抽到了@众筹吧 提供的“众筹现金券”，2017年的小惊喜！也许你的惊喜更大哦~曹露Lukiya 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+8:#让红包飞的红包#Boomshakalaka！我在让红包飞 的红包中抽到了@粉丝夺宝 提供的“粉丝夺宝大礼包”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+9:#让红包飞的红包#Boomshakalaka！我在让红包飞 的红包中抽到了@粉丝夺宝 提供的“粉丝夺宝大礼包”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+10:#让红包飞的红包#boom boom boom！我在@让红包飞 的红包中抽到了“处女座财神卡”！2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+11:#让红包飞的红包#boom boom boom！我在@让红包飞 的红包中抽到了“处女座财神卡”！2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+12:#让红包飞的红包#Boomshakalaka！我在让红包飞 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+13:#让红包飞的红包#Boomshakalaka！我在让红包飞 的红包中抽到了@理财平台 提供的“188元理财大礼包”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+14:我还是很喜欢你，像老旧的黑白电影，无声无息。我还是很喜欢你，像四季的更替，马不停蹄。我还是很喜欢你，像日月的交替，不理潮汐。我还是很喜欢你，像风行了八万里，不知归期。我还是很喜欢你，像钗头凤的最后一句，相思成疾。我还是很喜欢你，像柴米油盐，日日提及。可惜你是流星，明亮，闪烁 全文
+num_like: 1   forwardings: 1 comments: 0
+
+15:#让红包飞的红包#Boomshakalaka！我在让红包飞 的红包中抽到了@微博会员 提供的“50元会员红包”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+16:#让红包飞的红包#Boomshakalaka！我在让红包飞 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+17:#让红包飞的红包#Boomshakalaka！我在让红包飞 的红包中抽到了@聚美陈欧 提供的“聚美百元礼包”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+18:Learning to be resolute and independent, to smile, and to give up on love that is not worth it, are signs of maturity.一个人成熟的标志，是学会狠心，学会独立，学会微笑，学会丢弃不值得的感情。 
+num_like: 0   forwardings: 0 comments: 0
+
+19:血染忘川，血染沙。曼珠沙华，彼岸花。 忘川河边，共携手。奈何桥头，随君走。                                           ---------------浮华烟云    在下浮华烟云，偶获灵感，妙生此句，望各位喜欢。 
+num_like: 1   forwardings: 1 comments: 0
+

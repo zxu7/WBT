@@ -1,0 +1,16 @@
+user_info or user_nickname: sllL1
+user_id: 3859235533
+weibo_Num: 3
+Num_followings: 31
+Num_followers: 33
+
+weibo content: 
+1:2017 
+num_like: 2   forwardings: 8 comments: 0
+
+2:Play With Fire[樱花] 
+num_like: 0   forwardings: 0 comments: 0
+
+3:“ 
+num_like: 6   forwardings: 19 comments: 0
+

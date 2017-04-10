@@ -1,0 +1,574 @@
+user_info or user_nickname: ZCY哟哟哟s
+user_id: 6035076653
+weibo_Num: 190
+Num_followings: 197
+Num_followers: 56
+
+weibo content: 
+1:我有这么正确的三观，全靠这电视剧……[哆啦A梦微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+2:这就是健身和不健身的差别，一起共勉！！！全球热门搜罗的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+3:又到了吃桃的时节，来站个队，你喜欢吃脆桃还是软桃？[馋嘴]  
+num_like: 1   forwardings: 0 comments: 0
+
+4:【新华社三问#泸县学生校内身亡#事件:拿出事实需要多久】4月1日，四川泸县1名学生在宿舍楼外身亡。官方次日称，死亡学生符合高坠伤特征，排除他杀。但有人质疑，死亡孩子后背有大面积青紫，疑遭霸凌。新华社记者调查时，数公里外车就被拦下，电话骚扰更是到了无法忍受的地步。http://t.cn/R63i5Ro 
+num_like: 0   forwardings: 0 comments: 0
+
+5:#跟着习主席去芬兰#【习近平会见芬兰总理西比莱】国家主席习近平5日在赫尔辛基会见芬兰总理西比莱。习近平强调，中芬关系传统友好。中方愿同芬方携手努力，推进科技创新、节能环保、北极事务、旅游体育等重点领域务实合作。习近平指出，芬兰是今年北欧理事会轮值主席国，中方愿同芬方共同推动中国—北 全文
+num_like: 1   forwardings: 0 comments: 0
+
+6:【暖心boy！女童被卡悬窗外，男孩爬墙托举[心]】4月3日，江西宜春一个3岁小女孩头卡防盗窗，身悬窗外。在操场玩耍的小学生张凯浩和彭浩明看到后，机智爬墙“托举”，小女孩随后被消防安全救下。梨视频的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+7:分享图片 
+num_like: 5   forwardings: 0 comments: 0
+
+8:诶？突然喜欢这张图哈！哈！哈！[兔子] 
+num_like: 6   forwardings: 0 comments: 20
+
+9:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 2   forwardings: 1 comments: 0
+
+10:【韩开展“拯救乐天”市民运动 乐天仍坚持不撤出中国：等待！】据韩国《朝鲜日报》4日报道，乐天集团因向韩国国防部提供“萨德”用地而遭到中方持续的“报复”，韩国市民团体“为创造新韩国的国民运动”开展“拯救乐天”市民运动，其中包括向消费者宣传围绕“萨德”部署的安保状况、奖励购买乐天产品等 全文
+num_like: 2   forwardings: 0 comments: 0
+
+11:reddit上网友拍到的一只海星，可能遇到了一些重大的人生挫折，整只海星看起来很沧桑很疲惫，想给它送瓶啤酒，听听它的故事。 
+num_like: 2   forwardings: 0 comments: 0
+
+12:【2岁女儿经常受伤 父母装摄像头拍下揪心一幕】方女士和丈夫请了一位保姆照顾孩子，自从保姆来了之后，两岁的女儿就开始莫名奇妙地受伤。多次询问，保姆却称孩子受伤与她无关。为了弄清楚事情的缘由，方女士偷偷买了一个监视器放在家中，而她看到的一切，几乎令她崩溃↓↓2岁女儿总是受伤 父母装摄像头拍下揪心一幕 
+num_like: 2   forwardings: 0 comments: 0
+
+13:有什么东西看起来不值钱却贵得不可思议  
+num_like: 1   forwardings: 0 comments: 0
+
+14:这样的家人真是神助攻啊，厉害了！  
+num_like: 1   forwardings: 0 comments: 0
+
+15:放假在家时的妈妈和你，哈哈哈太形象了！[哈哈]  
+num_like: 0   forwardings: 0 comments: 0
+
+16:狗狗看到三年未见的男主，先是愣了一下，然后扑到身上，看哭了……汪星人：“这些年你都去哪儿了，好想你～” [心]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+17:【推荐20部口碑超高的天才电影】每部都是高分佳作，好看到炸裂，片荒的不要错过！ @电影工厂 
+num_like: 0   forwardings: 0 comments: 0
+
+18:#全民K歌#我等待空气静的冒烟的我，吸了空气呛出故事的我 >> 《你安静起来(Live)》-ZCY哟哟哟>>http://t.cn/R60Ea9t (来自@全民K歌) 
+num_like: 0   forwardings: 2 comments: 0
+
+19:【韩国老奶奶出动，把萨德勘探卡车赶走了[围观] 】当地时间3月29日下午1时左右，韩国庆尚北道星州郡草田面韶成里会馆前的道路被一群反对“萨德”部署的老奶奶们堵住了，使得四辆4.5吨的卡车和一辆5吨的卡车无法前往乐天天山星州乡村俱乐部，并在此停了下来，“你们这些家伙，不行！不能在我们村子里部 全文
+num_like: 0   forwardings: 0 comments: 0
+
+20:孩砸，你这么会玩，你爸妈造嘛？ 
+num_like: 0   forwardings: 0 comments: 0
+
+21:【#刺死辱母者#案，为何最高检介入，最高法按兵不动？】原因很简单：法院系统依托审级制度保证审理的公正性，全国四级人民法院应当保持相对独立，上级法院非因法定原因不能干预下级法院正在办理的案件。最高检能够在此阶段介入，真正原因是“检察一体化”原则，何解？戳这里：媒体:为何是最高检介入于欢案 
+num_like: 0   forwardings: 0 comments: 0
+
+22:#热点#【136天后，丽江被打女孩首次公开近照和遗书】医院内，那个曾经在丽江被打到面目全非的女孩小董（@琳哒是我 ）说，去年被打至今，她既要承受身体的痛楚，又要直面无情的诽谤，容貌尊严被践踏，妈妈病倒，男友分手，甚至不知道自己为什么而活。小董说，绝望时曾留下遗书。丽江被打女孩公开近照和遗书 
+num_like: 0   forwardings: 0 comments: 0
+
+23:#HenrikHolm# 小哥哥今天真的心情很好齁[鲜花]但是咱好好说话，手手在干嘛呢[笑cry][笑cry] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+24:#henrikholm# 一直没有告诉大家给Henrik的礼物是什么 其实做了两个他的角色的人偶给他 本来以为他不是很喜欢 结果今天去餐厅 他的室友说他很喜欢我的礼物 甚至带回家的时候给他所有朋友说了看了[笑cry] 然后还让他朋友拍了照 我今天去他朋友给我看了 我拍了他的手机[二哈]也是十分的开心了  全文
+num_like: 0   forwardings: 0 comments: 0
+
+25:分享视频 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+26:#HenrikHolm# 你好呀[大哭]，阿森真是太棒了，打开微信暴击！私心分享给大家[大哭]「我不知道挪威语说的啥」HenrikHolm_ALL的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+27:#HenrikHolm# 今天一下午都在学单车，回宿舍累瘫了，本来没打算画图了，但是回来一看手机就炸成了烟花，我们的小哥哥真的是太暖啦吧，中文贼苏，画也超级棒，我都自愧不如了。“你好，么么哒！”[心] 可以磕一辈子了。 
+num_like: 0   forwardings: 0 comments: 0
+
+28:#HenrikHolm# 170328 Twitter更新相关一则视频 cr：_takeadsadsong“Xxxx 过的怎么样？为什么你没有来这里呢？你下次也应该跟我们在一起”讲英文超苏了 最后的笑声也可爱[飞吻]YEECHOU的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+29:权志龙怒推中国粉丝，满脸厌恶冷漠。网友：杀马特滚出中国 秒拍视频 
+num_like: 3   forwardings: 0 comments: 0
+
+30:【大妈因准儿媳长得漂亮 要求开“正经工作证明”】27日，王女士到派出所要求开一份“正经工作证明”。王女士称，自己儿子去南方打工，带回女友准备订婚。但是女孩长得太漂亮，打扮得花枝招展，冬天还穿裙子，一点都不正经，想让派出所证明女孩是不是有正经工作…（齐鲁晚报）只因准儿媳长得漂亮，淄博老妇要开“正经工作证明” 
+num_like: 0   forwardings: 0 comments: 0
+
+31:【#罗志祥周扬青结婚#？双方家长同赴夏威夷】据台媒，有爆料称23日罗志祥周扬青及双方家长同赴夏威夷度假，28日又一同抵台。周扬青曾po文称看到爸妈牵手的场景，希望几十年后也拥有这样的爱情。3月初她更晒出大束捧花称“度过了一个难忘的夜晚”。有网友猜测两人是否婚期将至？传罗志祥夏威夷秘婚周扬青 
+num_like: 0   forwardings: 0 comments: 0
+
+32:【奇葩帖】你有没有很心疼陌生人的瞬间？每一张都直戳泪腺[悲伤][悲伤]  
+num_like: 0   forwardings: 0 comments: 0
+
+33:现做香肠，非常新鲜[笑cry] 外国人会玩[doge][doge] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+34:#热点#【男子骗环卫工大爷血汗钱 得手后挥金如土】深圳龙岗，环卫工龚大爷正在清扫路面，自称是公司财务的男子突然找他，说给他发放退休补助，但要登记身份证和银行卡号。龚大爷立即提供了身份证和银行卡，还把密码告诉他。经查，该男骗12名环卫工19万多，不是豪赌就是买衣服。看看新闻Knews的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+35:Henrik Holm 亨利克·霍尔姆 
+num_like: 0   forwardings: 0 comments: 0
+
+36:【人民日报评“辱母杀人案”：法律如何回应伦理困局】法律不仅关乎规则，还关乎规则背后的价值诉求，关乎回应人心所向、塑造伦理人情。回应好人心诉求，审视案件中的伦理情境、正视法治中的伦理命题，才能“让人民群众在每一个司法案件中都感受到公平正义”。 【锐评】辱母杀人案：法律如何回应伦理困局 
+num_like: 0   forwardings: 0 comments: 0
+
+37:【晚安】荷兰有一个小镇，几乎是翻版的《楚门的世界》，商店，酒吧，餐厅都是假的.但是，这个虚假的小镇却是为了给那些患阿兹海默综合症的老人一个最好的生活[心] @英国报姐 
+num_like: 0   forwardings: 0 comments: 0
+
+38:如果有人说你脸大，就这么回他。。[哈哈][哈哈]  
+num_like: 0   forwardings: 0 comments: 0
+
+39:【奇葩贴】少一些套路，多一些真诚可好[摊手][笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+40:【#电视剧极光之恋# 超长版片花曝光】#极光之恋片花首发# 高能！高甜！高虐！你的青春里一定也有这样的故事，信息量太大，不看个10遍怎么够呢[好喜欢] [好喜欢] [好喜欢]@演员马可@关晓彤@张晓龙@赵韩樱子@王千赫 @朱晓鹏@演员马赫@导演刘礴 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+41:#徐海乔恋情曝光# 徐海乔带一漂亮妹子搓火锅，二人席间互动甜蜜。饭后徐海乔搂上女方肩膀，还体贴地给对方拎包，俩人最后一同返回公寓！整个过程甜齁了，五哥祝你们幸福99呦[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+42:白鲸你就这么喜欢给小盆友制造心理阴影么……[笑cry]  
+num_like: 1   forwardings: 0 comments: 0
+
+43:一看绝逼是亲生的。。。哈哈哈哈没毛病~[笑cry][笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+44:【奇葩贴】和外国人的交往过程中，你经历过哪些令人哭笑不得的误会[笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+45:【狗血贴】讲真，特种兵我就服你一个！！！哈哈哈容我先笑一会[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+46:下一题：8种类型的小姐姐，你选哪一种？...我选3和6[太开心]  
+num_like: 0   forwardings: 0 comments: 0
+
+47:【奇葩贴】卧槽，几个恐怖又诡异的场景，你敢进去吗？看来我需要小姐姐陪才敢去[笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+48:哈哈哈哈笑喷了，估计这只仓鼠是蓝翔毕业的。 
+num_like: 0   forwardings: 0 comments: 0
+
+49:那些让我们记忆犹新充满魅力勾人的眼神，你最抵挡不住的是哪一种？[哆啦A梦花心]  
+num_like: 0   forwardings: 0 comments: 0
+
+50:“嘤嘤嘤，我是不是超可爱啊锤你胸口~~”"去你妈的吧！"[doge]  
+num_like: 0   forwardings: 0 comments: 0
+
+51:你居然把委屈表现得淋漓尽致[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+52:那些中文十级的翻译大神们！看的我都信了[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+53:涨姿势了！1.丹凤眼 2.瑞凤眼 3.杏眼 4.柳叶眼 5.桃花眼 你是哪一种呢？[doge]  
+num_like: 0   forwardings: 0 comments: 0
+
+54:#徐海乔##一路陪伴徐海乔#  这不是一个表情包吗？[摊手][摊手][摊手]一模一样啊简直[喵喵][喵喵][喵喵]@徐海乔 
+num_like: 0   forwardings: 0 comments: 0
+
+55:都说“男大十八变”…………这波的画风，变得有点猝不及防……[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+56:【人民日报：中外文夹杂 真让人犯晕】“明天conference（会议）上，要对你那个report（报告）进行discuss（讨论）……”听到热播电视剧里这样中外夹杂的表达，你觉得“高大上”还是有点“硌牙”？“不少人觉得，使用中文时夹杂着外文是一种时尚。”北京语言大学人文学院教授石定果认为，这既是文化不自 全文
+num_like: 0   forwardings: 0 comments: 0
+
+57:【韩将向中方送还28具志愿军遗骸 今日入殓[蜡烛]】韩国国防部20日称，为向中方送还28具志愿军遗骸，今将举行遗骸入殓仪式。仪式定于当地时间20日下午，在韩国仁川市的遗骸临时安置点进行，韩中两国人士参加。据悉这28具遗骸是韩国国防部于去年挖掘的，经DNA鉴定确定身份，将于22日送还中方。 全文
+num_like: 0   forwardings: 0 comments: 0
+
+58:【老师  #请别当孩子面批评我#】何先生的女儿曾在东莞莞城一所小学读书，有一次女儿忘记带作业去学校，班主任在教室门口把孩子和他批评了一顿。“批评我可以，但不能当着孩子的面批评我。”何先生说，没过多久，他给女儿办了转学。何先生经营着一家出名的餐饮公司，管理着数百上千名员工。“爸爸在孩子 全文
+num_like: 0   forwardings: 0 comments: 0
+
+59:我还能说什么？[doge]辣眼睛！[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+60:【奇葩贴】看完这些照片，你会更热爱你的生活！[心]  
+num_like: 0   forwardings: 0 comments: 0
+
+61:告诉我这不是真的...  
+num_like: 0   forwardings: 0 comments: 0
+
+62:谁说不能和女朋友讲道理，只是你们用的方式不对[笑cry][笑cry][笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+63:【狗血贴】一哥们发帖吐槽自己和二货老婆的婚后生活[doge]，哈哈哈又蹭一碗狗粮[摊手][笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+64:现实总是会给你致命一击[doge]卧槽，太形象了[哈哈]  
+num_like: 0   forwardings: 0 comments: 0
+
+65:奇葩贴！自从有了“迟到表演，上课再也不敢怠慢了！[doge]  
+num_like: 0   forwardings: 0 comments: 0
+
+66:穆雅斓喊麦 女主播去乐天超市偷喝饮料 捏方便面[微笑]爱国的同时有点脑子不好吗[微笑]麻烦有些NC出门带好自己的脑子 爱国首先抵制蠢货 
+num_like: 0   forwardings: 0 comments: 0
+
+67:【新毒品Spice现英国 吸食者如行尸走肉】据英国《镜报》报道，英国街头近日常出现一种诡异景象，几个人如“丧尸”般走路跌跌撞撞，还会忽然静止不动、丧失意识，犹如行尸走肉。原来这是服用一种名为Spice的新毒品后的反应。据称，这种毒品效力比大麻强百倍，甚至造成多起死亡案例，令政府十分担忧。 （ 全文
+num_like: 0   forwardings: 0 comments: 0
+
+68:哈哈哈哈哈这个泰坦尼克我服[摊手][摊手]秒拍视频 #全国搞笑排行# 
+num_like: 0   forwardings: 0 comments: 0
+
+69:这就很尴尬了…… [doge]秒拍视频 #全国搞笑排行# 
+num_like: 0   forwardings: 0 comments: 0
+
+70:有一个不会拍照的男朋友是怎样的体验 。。卖家秀活活拍成了买家秀。。[笑cry] #全国搞笑排行# 
+num_like: 0   forwardings: 0 comments: 0
+
+71:马上要过愚人节了，先给大家提个醒小心身边的损友了。[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+72:#热点#【3400名中国游客在韩国济州岛拒下邮轮 韩媒震惊】据韩联社报道，日前韩国首次发生乘坐国际邮轮抵济州的3400余名中国游客拒绝下船事件。当时事发码头已有80余台观光大巴等候，免税店等购物场所和数十名导游正准备接待。当得知中国游客拒绝下船的消息时都感到白忙一场。3400名中国游客在韩拒下邮轮 
+num_like: 0   forwardings: 0 comments: 0
+
+73:#热点#【万人围观捕杀野生动物 多平台现打野直播】有这样一群人，每天通过挖洞、放猎夹、下猎套等各种方式捕捉野生动物，有些动物“落网”后被逼着撕咬互斗。而这样的猎捕行为，通过网络被全程直播，上万人同时观看。直播中除了一些常见的普通动物，甚至涉及国家重点保护动物。多平台现“打野直播”.图 
+num_like: 0   forwardings: 0 comments: 0
+
+74:【60个只有医生才知道的健康知识，每个人都应该看一看！】①减肥只有一个方法：让摄入的能量低于消耗掉的，就是迈开腿，管住嘴。②“健康零食”基本就三种：水果、坚果和酸奶；③疲劳时别喝咖啡浓茶：会对心血管系统造成巨大伤害；④老咬舌头可能是中风。⑤头发能不染就不染。更多↓为健康转！ 
+num_like: 0   forwardings: 0 comments: 0
+
+75:卧槽，这样的恶作剧也太可怕了吧。。。感觉我会被吓出心脏病。[二哈]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+76:”人体竟然可以扭曲到这种程度？“塞尔维亚美女艺术家Kika的人体彩绘微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+77:【史上最搞笑的一次抢劫】俄罗斯发生的一起抢劫案。。。劫匪：卧槽，我抢劫呢，请尊重一下我的职业。。。[笑cry] 全球热门搜罗的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+78:这一个视频有毒，看完只想说：卧槽，惊呆了！！！ [doge] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+79:女朋友要求男朋友给换iPhone7，这理由完全无法反驳~~ .   秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+80:一个被同学们当作“娘炮”的小男孩的故事，不需要一句台词，便甜到人心坎里，喜欢了[心][心][心]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+81:#韩国旅行#今天在微博上面看见韩国喷字针对中国去韩国旅行降低成数，把中国人贬得一文不值。说真的，当时候看见好气愤，好想也发条微博骂回去。可是想起我们的大中国是礼仪之邦，好口舌之战不是我们应有的大国风范。从之前爱看韩剧，密切关注双宋，到一次饭桌听同事说韩国根本不喜欢我们中国人，我开始 全文
+num_like: 0   forwardings: 0 comments: 0
+
+82:#韩国旅行#就算这事过去了。我也不买韩国货了。都他妈傻逼。 
+num_like: 0   forwardings: 0 comments: 0
+
+83:萨德是什么？萨德!一个进入我生命的全新词汇！！！我相信很多人跟我一样在翻阅很多新闻了解之后还是有点半懵的状态！在简单看过“漫画”分析后大概知道是个什么东西了。 
+num_like: 0   forwardings: 0 comments: 0
+
+84:中韩因萨德持续发酵，金泰妍晒出乐天的糖果：“ 你今天为什么这h么好吃 这样下去都要吃掉了” 虽然我不讨厌她，但是希望粉丝也别把你的爱豆当什么也不知道的天使，两个国家闹的这么大你觉得她不知道？事后金泰妍ins关评论，中国粉丝说对不起没能保护好你[摊手] 
+num_like: 0   forwardings: 0 comments: 0
+
+85:2017，跟我去！跟我去哪里？#乐天免税店#邀您跟我去乐天首尔！乐天釜山！乐天济州！提前预约，购物满意，酒店还能免费住！多达40万韩币的代金卡等你拿！不！仅！如！此！更有大家喜爱的分店VIP会员卡也可有机会免费领取！不想说，想要去的地方太多啦！趁此机会每个地方都去吧！快来戳图了解详情喽！ 
+num_like: 0   forwardings: 0 comments: 0
+
+86:“鸡”星高照！#乐天免税店春节现金红包#我们就是要送大的！亲爱滴各位小伙伴！乐天免税店春节活动已经正式开启啦！！活动期间，wuli官博每天1名2017元微博现金红包！今日起~至2月3日为止，活动期间内，关注乐天免税店微博，带话题#乐天免税店2017红包天天送#留下你的新年愿望，并转发此微博，即有机会 全文
+num_like: 0   forwardings: 0 comments: 0
+
+87:#文章说我挺好的# 文章说我挺好的，其实你好就很好了。虽然你犯过混，做过错事。但是你虚心去承认错误并改正我觉得是挺好的，总比做错了事还不改的人好。很欣慰能够看到你大丈夫能屈能伸的精神，也希望你今后比从前更努力去做一个好艺人、好丈夫、好男人。祝你@文章同學 跟@马伊琍 幸福美满！[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+88:#看不懂现在小学生聚会了#还好我是99的？[喵喵][doge][摊手] 
+num_like: 0   forwardings: 6 comments: 0
+
+89:土豆最洋气的吃法！看完你还忍得住吗？ 
+num_like: 0   forwardings: 0 comments: 0
+
+90:【开博以来最心动的抽奖活动】一共抽520个宝宝！只要转发本条微博+关注@省钱学妹  即可参与全部抽奖！雨露均沾，总有一款奖品是你心动的[心]3月26号   抽1人| iPhone7  32G  颜色可选             3月25号   抽1人| OPPO R9s 年度最热销手机 3月24号   抽1人| Beats Solo2 明星都在戴的耳机3月23号 全文
+num_like: 0   forwardings: 0 comments: 0
+
+91:#完整漫画集# #搞笑漫画# 整理了一下毁童年系列，几个重口味公主，哪个是你的菜？[摊手]作者：@小矛 
+num_like: 0   forwardings: 0 comments: 0
+
+92:#法定婚龄降到18岁# 脑补一下去大学食堂吃个饭旁桌俩大学生小夫妻一边喂孩子一边卿卿我我 而你还是个单身狗[doge] 
+num_like: 1   forwardings: 0 comments: 0
+
+93:金毛妈妈教宝宝下楼梯。“不要怕！快下...别跑！你今天非得把下楼梯给我学会了！怎么停下来了？继续！快点！”好严厉的麻麻[哈哈]。。。。。。#全国搞笑排行# 
+num_like: 0   forwardings: 0 comments: 0
+
+94:【奇葩贴】妈妈不在时，脑洞大开的爸爸是这样喂奶的！哈哈哈笑岔气了！[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+95:当你感觉不开心时，不妨试试模仿一下这些动作……[doge] 
+num_like: 1   forwardings: 0 comments: 1
+
+96:给鳄鱼穿衣服，涂指甲油，按摩...姐们，你到底是在养鳄鱼，还是在养娃啊？！... [笑cry][摊手][抱抱] 
+num_like: 0   forwardings: 0 comments: 0
+
+97:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 0   forwardings: 0 comments: 0
+
+98:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 0   forwardings: 0 comments: 0
+
+99:她，这个在埃博拉病毒面前无敌的女人....  然而，人们却用恐惧杀死了她...... 
+num_like: 0   forwardings: 0 comments: 0
+
+100:重新认识元素周期表，118个元素 ，涨姿势了！！！[酷]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+101:【爱美的姑娘当心了！兰芝护肤品检出病菌被拒入境】国家质检总局公布今年1月未予准入的食品化妆品名单，共403批次。其中韩国兰芝臻白净透保湿乳、兰芝水活力喷雾（保温修护、舒润）被检出金黄色葡萄球菌，目前已被销毁。名单还包括日本日清方便面、香港美心月饼等，而台湾商品超四成。（人民日报） 
+num_like: 0   forwardings: 0 comments: 0
+
+102:【狗血帖】女朋友十九岁生日收到男朋友的礼物，高能虐狗 [拜拜]   #全国搞笑排行# 
+num_like: 0   forwardings: 0 comments: 0
+
+103:【￥49】学院风衬衫女，这个季节穿出自己的风格，让别人去跟风吧！ 
+num_like: 0   forwardings: 0 comments: 2
+
+104:【8道清爽减脂沙拉 边吃边瘦[耶]】冬天冬天悄悄过去留下小脂肪，露肉的季节正在悄悄逼近，自己的腰上却还有三层游泳圈？别怕，送你8道清爽的减脂沙拉，三文鱼鳄梨沙拉、煎土豆沙拉、牛油果蔬菜沙拉……边吃边瘦不是梦~[坏笑] @华西都市报 
+num_like: 0   forwardings: 0 comments: 0
+
+105:【澳白人男子辱骂殴打一名华人女子 大喊“滚出我的国家”】据香港媒体3日报道，澳大利亚悉尼华人聚居的Burwood区近日发生一宗种族袭击事件，一白人男子辱骂一名华人女子后又一拳打在对方脸上，还在行凶时大喊：“滚出我的国家!”当事人及目击的华人都对警方拒绝把事件列为种族攻击来处理而感到不解。 全文
+num_like: 0   forwardings: 0 comments: 0
+
+106:卧槽！！三月，对我残忍一点吧。让我沉迷学习，日渐消瘦…[doge][doge]  
+num_like: 1   forwardings: 0 comments: 0
+
+107:好朋友生病了，太矫情怎么办？哈哈哈[摊手][笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+108:我已经不是个孩子了，老娘很清楚自己想要什么！[笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+109:哈哈哈哈这图哪位大神P的，我是真的信了[笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+110:「十二部少女漫改电影高甜混剪」啊看完了......好想谈恋爱o(*////▽////*)      UP主：鹫尾尚弥    二次元的秒拍视频 珠海·香洲区 
+num_like: 0   forwardings: 0 comments: 0
+
+111:生活神技能，不时之需用得上。 秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+112:#李钟硕##李钟硕当你沉睡时# 郑载灿检察官，这个做的不错，期待哦～[心][心][心] cr ins 
+num_like: 0   forwardings: 0 comments: 0
+
+113:#李钟硕# 170225泰国FM～昨天记者会上钟硕白衬衣上的黑丝带很瞩目，晚上FM手上还戴了一个黑色手环，原来是表达对泰国国王的纪念与尊重，细节好评，泰妃深受感动[心]cr：kookkaikpanisara1/moowiwan 
+num_like: 0   forwardings: 0 comments: 0
+
+114:男人看了沉默，女人看了流泪，标题党震惊全世界60亿人！[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+115:中国几亿学生就服你。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+116:你的心理年龄几岁，这个据说很准，我们也来试试[可爱]秒拍视频 .  
+num_like: 0   forwardings: 0 comments: 0
+
+117:别太任性了，别赌气对抗了；你能伤害到的的，都是最爱你的人！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+118:和音音翻唱的《凉凉》我们就瞎唱，你们瞎听就行~ 随（gan）口（jin）夸两句Skm破音的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+119:卧槽，我可能有一个假爸爸系列[摊手] 
+num_like: 0   forwardings: 0 comments: 0
+
+120:[笑cry][笑cry][笑cry]快找你女友试试！！！壁咚技能Max！！[笑cry][笑cry] 秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+121:一段小学生的爱恨纠葛，看完以后感觉自己是真的老了。。。  
+num_like: 1   forwardings: 0 comments: 0
+
+122:一看就是被玻璃门深深伤害过的孩纸，心疼[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+123:记忆里我上学时就是这个样子的 
+num_like: 1   forwardings: 0 comments: 1
+
+124:你以为自己撩头发的样子VS别人眼中你撩头发的样子 [doge]哈哈哈不能再形象了[笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+125:【奇葩贴】晒一下你手机里最搞笑的一张照片，哈哈哈评论里笑屎系列[笑cry] 
+num_like: 1   forwardings: 0 comments: 0
+
+126:尼玛，这是我见过最毒的了，不得不信！[拜拜] 
+num_like: 1   forwardings: 0 comments: 0
+
+127:凭什么我没有一个美得惊世骇俗的同桌而我同桌却有 
+num_like: 0   forwardings: 0 comments: 0
+
+128:推荐一部高颜值电影《少年汉尼拔》，全程舔屏，讲述了食人魔汉尼拔的童年以及他是如何一步一步从明朗少年走向恶魔的深渊。加斯帕德·尤利尔超级帅，巩俐的东方魅力尤为突出，“我爱你”“你的心中哪有爱的位置呢？”绝赞！在线：【剧情/惊悚】少年汉尼拔 2007Hannibal Rising.BD1280高清中英双字 
+num_like: 0   forwardings: 0 comments: 0
+
+129:【1万元手术费被偷！做不了手术他只能慢慢瞎掉[伤心]】糖尿病并发症导致39岁的刘大哥双眼几近失明，14日，他独自来到郑大一附院做手术，可还没见到医生，包里1万元就不见了。刘大哥说，此前看病已花了不少钱，这1万块是东拼西凑来的，手术是重见光明的唯一的机会…目前他已报案。【扩散】做不了手术，他只能慢慢瞎掉！急寻偷救命钱的小偷！ 
+num_like: 0   forwardings: 0 comments: 0
+
+130:卧槽，说得好有道理，我竟无力反驳。。。[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+131:昨天睡梦中，突然感觉我的嘴被堵住了。我睁眼看见一个披头散发的女人正在给我嘴对着嘴。吓得我半死，我问媳妇：大晚上不睡觉你干嘛？她说“刚刚起来上厕所，看你睡觉的样子很可爱，忍不住亲你两口。吓死我了我还以为大半夜哪来的阴鬼吸我阳气[拜拜]  
+num_like: 0   forwardings: 0 comments: 0
+
+132:【440斤胖子摔倒 20多人努力2小时没扶起】13日，武汉三医院门口，440斤男子小黄脚下一滑，一屁股坐在地上，20余人用各种方法也未能扶他起来。最终在消防官兵、民警及市民的帮助下，小黄先“滚”到床单上，众人抬起后再“滚”到医疗救护床上。整个救援长达2小时。（楚天都市报） 
+num_like: 1   forwardings: 0 comments: 3
+
+133:家长会快乐[喵喵][doge][摊手]@鹿鹿鹿露露255 
+num_like: 3   forwardings: 6 comments: 2
+
+134:【今天，你愿意转发，拯救“微笑天使”吗？】日前，一头受伤的成年江豚现身鄱阳湖，背部身挂巨大鱼钩令人揪心。虽然近年来对江豚的保护力度逐年加大，但长江江豚种群数量已不足千头。它们被船只螺旋桨打死，被鱼钩刮伤，被掏空内脏……保护江豚，刻不容缓！留住“微笑天使”，转发扩散！ 
+num_like: 0   forwardings: 0 comments: 0
+
+135:#全民K歌# >> 《IF YOU》-ZCY哟哟哟>>http://t.cn/RJUCCeF (来自@全民K歌) 
+num_like: 0   forwardings: 5 comments: 1
+
+136:说出来你可能不信，是鞭炮自己跑过去的，哈哈哈看一次笑一次！[笑cry]微博视频  
+num_like: 0   forwardings: 0 comments: 3
+
+137:妹子你想太多了[笑cry]  
+num_like: 1   forwardings: 0 comments: 2
+
+138:实力装逼合集，哈哈哈太搞笑了！！个个都是演技派！[笑cry] 微博视频  
+num_like: 0   forwardings: 0 comments: 0
+
+139:哈哈哈哈哈猝不及防[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+140:这个女团跟外面那些妖艳贱货不一样！简直是女团中的一股泥石流！[笑cry]买家秀极品的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+141:给爸爸发信息“爸，我过年不回家了”……卧槽，这可能是假爸爸[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+142:狗脸懵逼：我可能遇到了假主人[doge]  
+num_like: 0   forwardings: 0 comments: 0
+
+143:哈哈~套路太深！这逼装的到位！秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+144:论配音的重要性 ，笑死人不偿命的搞笑集锦，一起来感受一下。[笑cry] 秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+145:当闺蜜有了对象 [笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+146:外国网友盘点自己喝多后所做的一些事，这一看就是喝嗨了[笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+147:我一定是看到了假人[笑cry]  
+num_like: 0   forwardings: 0 comments: 0
+
+148:过年时，过年后[微笑]  
+num_like: 0   forwardings: 0 comments: 0
+
+149:我草，还能这么穿啊  
+num_like: 0   forwardings: 0 comments: 0
+
+150:这一看就知道是俄罗斯电视台！！[摊手]  
+num_like: 0   forwardings: 0 comments: 0
+
+151:【狗血贴】哪个瞬间让你觉得可以考虑和他/她结婚了？ 
+num_like: 0   forwardings: 0 comments: 0
+
+152:开着灯我就觉得很好看了，卧槽，没想到关灯后。。。 秒拍视频 .  
+num_like: 0   forwardings: 0 comments: 0
+
+153:当发现自己被偷拍后，美的都在笑，丑的都在闪躲。。。哈哈哈哈萌翻了  
+num_like: 0   forwardings: 0 comments: 0
+
+154:【厉害了我的包！中国小伙在哈佛卖包子 40块一个还要排长队[馋嘴]】哈佛大学哈佛广场有一家中国包子店Tom's Baobao，2016年7月开张以来，每天吸引众多人排队。主人Tom Tong是浙江温岭人，在国内长三角地区已有近200家包子店。店里员工都是美国人，龙虾包每只税前至少6美元，最便宜的鲜橙红薯包3美元。 
+num_like: 0   forwardings: 0 comments: 0
+
+155:奥巴马要走了，他的两只白宫萌主也要离开了。。。然而，有的美国网友已经开始忍不住怀念这两条小汪了。。。。。。 
+num_like: 0   forwardings: 0 comments: 0
+
+156:四对双胞胎在地铁上演同一台戏........ 果然乘客都懵逼了....[doge][doge]  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+157:养了一只特别蠢的宠物是怎样一种体验？卧槽，没有最蠢，只有更蠢[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+158:汪星人虽然不会说话，但对主人的满满爱意都在行动里，有时候你都怀疑它是不是投错胎了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+159:一些剧情神反转的小故事，太搞笑了！哈哈哈哈哈笑出眼泪来了[笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+160:打扰下，我可以吻下你女朋友吗 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+161:被火腿肠卡住的那一刻，喵星人的内心是懵逼的……秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+162:一只打鸣把自己打笑了的公鸡，哈哈哈哈笑死我了，看了好几遍[哈哈]微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+163:一只喜欢站立的小折耳猫，萌爆惹！ 
+num_like: 0   forwardings: 0 comments: 0
+
+164:麻麻说孩子长这么大不容易啊！现在也是能理解了。。[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+165:卧槽，挂科的好像原因找到了，我可能。。。[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+166:教你一些萌死人的表白方法！！[阴险] 
+num_like: 0   forwardings: 0 comments: 0
+
+167:嘴上说着不要，身体却很诚实[doge][doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+168:拖延症选择困难症强迫症等等现代病可千万别沾上[doge]不然关键时刻会误事的[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+169:这样的男朋友还能要吗？哈哈哈哈哈笑得肚子疼[笑cry][笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+170:细数网友那些稳准狠的一句话问答，卧槽，精辟得让人无言以对！[黑线] 
+num_like: 0   forwardings: 0 comments: 0
+
+171:真佩服那些学霸们，作为学渣的我，我的期末看书复习是这样的...[二哈][二哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+172:林志玲:她是台湾第一美女，和前男友虐恋15年后传再复合，她到底有多爱他？[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+173:期末了，教你一招，不用谢我，怀念有考试的日子[doge]#搞笑# 
+num_like: 0   forwardings: 0 comments: 0
+
+174:愿看到此微博的人以后都可以嫁给爱情 
+num_like: 0   forwardings: 0 comments: 0
+
+175:记者暗拍清洁工跌倒，看路过的中国军人是怎么做的？网友都被帅哭了！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+176:突然觉得醋是万能的，真心涨姿势，get~~秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+177:那些令人捧腹的逗逼发明，哈哈感觉个个都很实用啊[摊手] 
+num_like: 0   forwardings: 0 comments: 0
+
+178:韩国搞笑节目，恶搞版《奶酪陷阱》，那男人和那女人的恐怖罗曼史[doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+179:#鬼怪#ost「Stay with me」钢琴版，真的超好听！ 秒拍视频  孔刘 李栋旭 金高银 
+num_like: 0   forwardings: 0 comments: 0
+
+180:这位大姐太兴奋了，气沉丹田，声音洪亮，警察叔叔瞬间懵逼了！怎么感觉大姐好像没说错什么！[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+181:哈哈哈，生动形象！ 
+num_like: 2   forwardings: 0 comments: 0
+
+182:48条知乎神回复，针针见血。卧槽！全看完之后整个人通透多了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+183:那些表面上看起来风平浪静，实际内心早就波涛汹涌了… 
+num_like: 0   forwardings: 0 comments: 0
+
+184:浣熊在吃东西之前都习惯洗一洗，直到有一天它遇到了棉花糖，崩溃的内心。哈哈哈 
+num_like: 0   forwardings: 0 comments: 0
+
+185:厉害了，柚子皮还能这么用，get起来！[good] 
+num_like: 0   forwardings: 0 comments: 0
+
+186:狗血了，方言辣么重，还能好好沟通吗 
+num_like: 0   forwardings: 0 comments: 0
+
+187:这首歌，我想打电话唱给你听[爱心] Skm破音的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+188:又是别人家的男朋友[微笑] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+189:来看看我拍的视频：“几种不同类型的女生被告知自己迟到之后的反应#搞笑##第一个美拍##自拍#第一次做视频，略渣，纯属娱乐，请笑纳”，点此播放>>美拍（通过 #美拍# 拍摄） 
+num_like: 0   forwardings: 5 comments: 0
+

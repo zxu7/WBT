@@ -1,0 +1,82 @@
+user_info or user_nickname: 星星hhhhhhhhhhh
+user_id: 5464114076
+weibo_Num: 26
+Num_followings: 88
+Num_followers: 7
+
+weibo content: 
+1:只要升等级就有福利享，变身土豪就靠它，想想就有点小激动呢[太开心]小伙伴儿们速来围观，领取你的#微博等级专享礼#吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+2:只要升等级就有福利享，变身土豪就靠它，想想就有点小激动呢[太开心]小伙伴儿们速来围观，领取你的#微博等级专享礼#吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+3:#周扬青的红包#红包不停，好运连连！d(≧▽≦*d)我刚刚抢到了周扬青 和@上海整形咨询-张医师 联手发出的现金红包！小心脏激动得扑通扑通哒~新的一年跟我一起抢红包吧！周扬青 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+4:#_童可可的红包#红包不停，好运连连！d(≧▽≦*d)我刚刚抢到了童可可 和@童可可福建后援会官博 联手发出的现金红包！小心脏激动得扑通扑通哒~新的一年跟我一起抢红包吧！童可可 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+5:#周扬青的红包#红包不停，好运连连！d(≧▽≦*d)我刚刚抢到了周扬青 和@上海整形咨询-张医师 联手发出的现金红包！小心脏激动得扑通扑通哒~新的一年跟我一起抢红包吧！周扬青 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+6:#赵奕欢Chloe的红包#Boomshakalaka！我在赵奕欢Chloe 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~赵奕欢Chloe 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+7:#成龙的红包#Boomshakalaka！我在成龙 的红包中抽到了@众筹吧 提供的“众筹现金券”，2017年的小惊喜！也许你的惊喜更大哦~成龙 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+8:#杨蓉的红包#Boomshakalaka！我在杨蓉 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~杨蓉 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+9:#袁冰妍的红包#Boomshakalaka！我在袁冰妍 的红包中抽到了@众筹吧 提供的“众筹现金券”，2017年的小惊喜！也许你的惊喜更大哦~袁冰妍 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+10:#我的星座很招财#Boomshakalaka！我在宋茜 的红包中抽到了@让红包飞 提供的“限量版财神卡-更”，2017年的小惊喜！也许你的惊喜更大哦~宋茜 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+11:#黄梦莹maggie的红包#Boomshakalaka！我在黄梦莹maggie 的红包中抽到了@让红包飞 提供的“限量版财神卡-要”，2017年的小惊喜！也许你的惊喜更大哦~黄梦莹maggie 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+12:只要升等级就有福利享，变身土豪就靠它，想想就有点小激动呢[太开心]小伙伴儿们速来围观，领取你的#微博等级专享礼#吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+13:#vivo前置双摄X9让红包飞#哟！2017伊始运气不错哦！我抽中了@vivo智能手机 的现金红包，你也快一起来比比谁的红包更大吧~vivo智能手机 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+14:只要升等级就有福利享，变身土豪就靠它，想想就有点小激动呢[太开心]小伙伴儿们速来围观，领取你的#微博等级专享礼#吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+15:#唐嫣的红包#ㄟ( ▔, ▔ )ㄏ这几天最开心的事——我抽到了唐嫣 和@Dream微整形 的现金红包！听说也有你的一份哦～不信你试试唐嫣 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+16:只要升等级就有福利享，变身土豪就靠它，想想就有点小激动呢[太开心]小伙伴儿们速来围观，领取你的#微博等级专享礼#吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+17:转发关注@曹司令ing11月7日抽一位送佳能单反相机11月14日抽一位送iphone7 两个活动均可兑现喔 转发期间不断开各种幸运奖祝你们好运由@微博抽奖平台 监督开 不造假转发这条微博事事顺心[黄心][绿心][紫心] 
+num_like: 0   forwardings: 0 comments: 0
+
+18:苹果7和7plus来了转发+关注@曹司令ing9.30号抽一位宝宝送iPhone7 颜色自选10.15号抽一位宝宝送iPhone7 plus 颜色自选为了更多宝宝享受中奖的喜悦 本人决定转发期间有各种幸运奖等惊喜哦 由@微博抽奖平台 公布#礼迎金秋# 已经备案放心转发！！#喜迎国庆#司令本人自掏腰包给你们办的福利 好 全文
+num_like: 0   forwardings: 0 comments: 0
+
+19:@微博Android客户端 #机型识别问题反馈#版本6.7.0,系统识别机型vivo-vivo X6SPlus D,系统5.1.1,WLAN。我正在使用的机型是： 
+num_like: 0   forwardings: 0 comments: 0
+
+20:【看直播赢X7】6月30日19：30，北京·中国电影导演中心，vivo X7新品发布会即将举行，将发布X7/X7Plus，届时官方微博将全程直播。带话题#vivo柔光自拍X7#转评任意一条直播微博，每条送出2条耳机，转发最高的一条将送出X7一部。转发本微博，随机送出X7一部。7月4日公布名单。 
+num_like: 0   forwardings: 0 comments: 0
+
+21:@微博Android客户端 #机型识别问题反馈#版本6.6.0,系统识别机型vivo-vivo X6SPlus D,系统5.1.1,cmnet。我正在使用的机型是： 
+num_like: 0   forwardings: 0 comments: 0
+
+22:#电影魔兽#为了艾泽拉斯大陆，为了联盟！For the Alliance！ 我正在使用“联盟”专属卡片背景，愿圣光与你同在！ 卡片背景：联盟 
+num_like: 0   forwardings: 0 comments: 0
+
+23:我分享了@新浪新闻 的文章 中央通过全面深化公安改革若干重大问题意见 
+num_like: 0   forwardings: 0 comments: 0
+
+24:我分享了@新浪新闻 的文章 春运今将迎客流最高峰 预计有53万人乘火车出京 
+num_like: 0   forwardings: 0 comments: 0
+
+25:我刚刚在#微博等级专享礼#中领取了由@微博会员 提供的“7天会员体验”专享礼包[发红包]这里人人升级有福利，让你任性让你high！快去领取你的专享礼吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+

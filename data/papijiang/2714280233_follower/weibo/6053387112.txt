@@ -1,0 +1,7 @@
+user_info or user_nickname: 小思子哟
+user_id: 6053387112
+weibo_Num: 0
+Num_followings: 11
+Num_followers: 13
+
+weibo content: 

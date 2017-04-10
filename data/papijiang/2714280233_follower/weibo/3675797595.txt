@@ -1,0 +1,16 @@
+user_info or user_nickname: 王靖涵Abby
+user_id: 3675797595
+weibo_Num: 3
+Num_followings: 167
+Num_followers: 1298
+
+weibo content: 
+1:来我身边不好吗 你为什么要当一只特立独行的猪呢 
+num_like: 9   forwardings: 0 comments: 2
+
+2:[伤心][伤心][伤心] 
+num_like: 4   forwardings: 0 comments: 4
+
+3:我回来啦 日照·东港区 
+num_like: 6   forwardings: 0 comments: 7
+

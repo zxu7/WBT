@@ -1,0 +1,25 @@
+user_info or user_nickname: 用户6173068878
+user_id: 6173068878
+weibo_Num: 7
+Num_followings: 110
+Num_followers: 19
+
+weibo content: 
+1:新鲜打捞的淮河鱼。 明光市 秒拍视频 . 
+num_like: 1   forwardings: 0 comments: 0
+
+2:@用户6173068878 正在直播，场面异常火爆，小伙伴们速来围观（http://t.cn/R6ulMQe） 
+num_like: 0   forwardings: 0 comments: 0
+
+3:#宠物与车#老司机你能不能慢点，有位乘客掉了。。 。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+4:我正在使用“爱你”#微博头像挂件#，快来使用，向你爱的的人表达心意吧～ 头像挂件：爱你 
+num_like: 0   forwardings: 0 comments: 0
+
+5:只要升等级就有福利享，变身土豪就靠它，想想就有点小激动呢[太开心]小伙伴儿们速来围观，领取你的#微博等级专享礼#吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+6:#甜幂桃花唇#萌萌哒 明光市 
+num_like: 0   forwardings: 0 comments: 0
+

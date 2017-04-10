@@ -1,0 +1,13 @@
+user_info or user_nickname: 用户6198956183
+user_id: 6198956183
+weibo_Num: 2
+Num_followings: 19
+Num_followers: 5
+
+weibo content: 
+1:句句干货！300个最常用英语短语，助你秒变口语达人  
+num_like: 0   forwardings: 0 comments: 0
+
+2:【9种手链编法】妹纸们赶紧马了学起来[好喜欢] （每日小技能） 
+num_like: 0   forwardings: 0 comments: 0
+

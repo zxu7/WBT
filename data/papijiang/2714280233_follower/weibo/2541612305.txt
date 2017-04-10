@@ -1,0 +1,775 @@
+user_info or user_nickname: 小马的二次方
+user_id: 2541612305
+weibo_Num: 287
+Num_followings: 281
+Num_followers: 175
+
+weibo content: 
+1:突然想起 以前在初中补习英文，爸爸给了我600块的补习费，可我自己却把它用光了，导致没有钱给补习老师，现在想起来还是觉得很内疚～ 
+num_like: 1   forwardings: 0 comments: 2
+
+2:想要通宵复习迎接明天的考试。。可是如果真的这样做，会不会猝死阿。。。真是细致思恐 
+num_like: 0   forwardings: 0 comments: 2
+
+3:人鱼传说★★★★★，#人鱼传说# 小时候最喜欢看的电影 
+num_like: 0   forwardings: 0 comments: 0
+
+4:【致富新方】爱尔兰小伙辞职周游世界赚100万美元 #爱尔兰新闻##爱尔兰吧##爱尔兰生活#【致富新方】爱尔兰小伙辞职周游世界赚100万美元 
+num_like: 0   forwardings: 0 comments: 0
+
+5:蒋介石是英雄、毛泽东小人//【张文生：抬高蒋介石形象改写不了历史】  http://t.cn/RywQwI1 
+num_like: 0   forwardings: 0 comments: 0
+
+6:一个很棒的公益广告！不要对女性使用暴力，即使你手捧鲜花。[赞]微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+7:陈冠希反拍狗仔，但不得不说，这种反问维护自己的方式真的很棒！狗仔都不好意思了！！#语气炸了！#http://t.cn/RLC7U8H 
+num_like: 0   forwardings: 0 comments: 0
+
+8:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 1 comments: 0
+
+9:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+10:本人闲置一条百兆宽带，到2016.12.30到期，因自身用不到诚心转出，市场价2000元一年，现打算1200元转出，有意者快快联系我哦！～仅限南京地区使用 
+num_like: 0   forwardings: 0 comments: 0
+
+11:一辆心无所恋的单车，选择用这种方式结束自己的生命…… 
+num_like: 1   forwardings: 0 comments: 0
+
+12:雏妓★★★★★，看到眼湿湿 Point West Dr 
+num_like: 0   forwardings: 0 comments: 0
+
+13:我要去台湾？[害羞] Bairdmore Blvd 
+num_like: 1   forwardings: 0 comments: 4
+
+14:感冒了感觉人生真没意思～ Lee Blvd 
+num_like: 0   forwardings: 0 comments: 6
+
+15:【外表VS事实】美国摄影师Joel Parés拍了一组人物外表和事实的对比照，旨在告诉人们不要以貌取人。 
+num_like: 0   forwardings: 0 comments: 0
+
+16:我分享了韦德：威少很难防 雷霆仍具备竞争力 
+num_like: 1   forwardings: 0 comments: 0
+
+17:好似暗示我这样～该怎么办呢 Bairdmore Blvd 
+num_like: 4   forwardings: 0 comments: 0
+
+18:科比穿什么都很帅～衣架啊//【科比潮装现身洛杉矶】  科比潮装现身洛杉矶 
+num_like: 1   forwardings: 0 comments: 0
+
+19:每次去完polo park 、我就像[生病][生病][吐][吐] 
+num_like: 0   forwardings: 0 comments: 0
+
+20:讨厌杜兰特 
+num_like: 2   forwardings: 0 comments: 4
+
+21:Game 4 
+num_like: 0   forwardings: 0 comments: 1
+
+22:搬家了[笑cry]～好多东西～ 
+num_like: 4   forwardings: 0 comments: 0
+
+23:The secret life of the American teenagers [赞][赞][耶][耶] 
+num_like: 0   forwardings: 0 comments: 0
+
+24:有点喜欢讲英语了........ 
+num_like: 1   forwardings: 0 comments: 4
+
+25:margin of error啥意思啊[懒得理你] 
+num_like: 1   forwardings: 0 comments: 1
+
+26:学到现在、又饿又困[打哈气][打哈气] 
+num_like: 0   forwardings: 0 comments: 0
+
+27:一天两门考试！妈蛋 R3T 
+num_like: 5   forwardings: 0 comments: 3
+
+28:最后两道送分题没把握住、没把公式看清楚啊[生病][生病][生病][生病][生病][生病] http://t.cn/RhnYlWV 
+num_like: 0   forwardings: 0 comments: 0
+
+29:真想买个ps4玩下 LOL 
+num_like: 3   forwardings: 0 comments: 0
+
+30:快跪了、感觉发热了、还腹泻[生病][生病] 
+num_like: 4   forwardings: 0 comments: 2
+
+31:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 1   forwardings: 0 comments: 2
+
+32:Keep pushing myself[汗][汗] 
+num_like: 1   forwardings: 0 comments: 1
+
+33:#福利来啦#11月12日是威少26岁生日，为了给大西布庆生，关注@LOVE_维斯布鲁克 和 @超级大嘴泉 。转发本微博并@ 三位好友，将送上忍者神龟T恤一件。获奖名额两名，于11月12日在@转发抽奖平台 抽出！[兔子] http://t.cn/R7lhmtb 
+num_like: 1   forwardings: 0 comments: 0
+
+34:我刚刚在“威少上一场砍下36分，本场能够砍下多少分？”中投给了“30-40分” 我在看#雷霆VS快船# （我看到了这里雷霆VS快船） 
+num_like: 1   forwardings: 0 comments: 0
+
+35:想吃兰州拉面～或者沙县小吃[悲伤] 
+num_like: 0   forwardings: 0 comments: 5
+
+36:去night club掉了个手机、坑爹[泪][泪] 
+num_like: 1   forwardings: 0 comments: 6
+
+37:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 1   forwardings: 0 comments: 0
+
+38:一晚睡就不行了[衰][衰]～上课晕乎乎的[汗][生病][生病] R3T 
+num_like: 3   forwardings: 0 comments: 1
+
+39:Chango Leon，被领养前是流浪狗，被收养后变网红。 
+num_like: 0   forwardings: 0 comments: 0
+
+40:等个subway等个四十分钟～[吃惊][吃惊] 加拿大Winnipeg 
+num_like: 2   forwardings: 0 comments: 3
+
+41:#力挺周星驰# 一只穿云箭，千军万马来相见！ 力挺周星驰（星爷）  @C张成 详情:力挺周星驰 
+num_like: 1   forwardings: 0 comments: 0
+
+42:没带iclicker～没法过啊[泪][泪] 加拿大Winnipeg 
+num_like: 1   forwardings: 0 comments: 0
+
+43:#鄧紫棋粉絲福利# 遲來的1300萬粉絲福利終於公佈啦～這次福利是我的秋冬季X.X.X. Live巡演門票！沈陽、廣州、成都、泉州、南京及寧波，六個站每站兩位幸運兒，每人兩張門票～只要你關注了我，從現在起48小時內，轉發及回覆此微博，就有機會獲得門票，開始～X.X.X. Live 售票網：2015邓紫棋G.E.M.X.X.X.LIVE演唱会_邓紫棋2014巡演-大麦专题 
+num_like: 0   forwardings: 0 comments: 0
+
+44:开学一大队琐事要搞[笑cry][笑cry] Rue Dakota 
+num_like: 2   forwardings: 0 comments: 1
+
+45:我刚刚安装了#微拍#，手机视频真人秀，很多美女帅哥，唱歌跳舞，真好玩！下载猛击==>weipai（来自@爱微拍） 
+num_like: 0   forwardings: 0 comments: 0
+
+46:开学前生病总得生一个[感冒][感冒][感冒] 公园南路 
+num_like: 0   forwardings: 0 comments: 2
+
+47:吃力来乱翻～但不过昆布拉[衰][衰] 公园南路 
+num_like: 2   forwardings: 0 comments: 3
+
+48:1943年，宋美齡前往美國求援，美國人對這位東方臉孔，穿著旗袍，說道地英文的第一夫人近乎瘋狂，尤其她來自毫無外援，獨自與日本艱苦抗戰了四年的中國。本視頻收錄美國國會、紐約、芝加哥及洛杉磯四場精華演說，讓你感受那來自七十年前的現場震撼! 宋美齡美國四場演說精華 （转） 
+num_like: 2   forwardings: 0 comments: 0
+
+49:每个人都有不同的经历，别老是埋怨自己为什么这么不幸，就算跌到谷底那又怎么样，不等于你要认命，不等于你永远都爬不起来。你要记住，死是最糟最糟的选择，你不是没得选，没人可以决定你的人生，出路是要靠自己去找出来的 ——忠奸人 
+num_like: 1   forwardings: 0 comments: 0
+
+50:Son of a bitch 鹤霞路 
+num_like: 2   forwardings: 0 comments: 1
+
+51:阿根廷必败[酷][酷] 公园南路 
+num_like: 1   forwardings: 0 comments: 1
+
+52:总分6.5是没问题了～就看写作能不能过6了[怒][怒] 杭大路 
+num_like: 1   forwardings: 0 comments: 9
+
+53:@我手捧铅华落满地 我最近在玩美拍，#视频界的美图秀秀#太赞了，怎么拍都好看，推荐你一起来玩！下载地址：http://t.cn/zYxLkj0 
+num_like: 0   forwardings: 0 comments: 0
+
+54:海贼王太好看了[害羞][害羞][害羞] 加拿大Winnipeg 
+num_like: 0   forwardings: 0 comments: 0
+
+55:大爷你的球技、步法好叼！！！[吃惊] (net) 
+num_like: 0   forwardings: 0 comments: 0
+
+56:就像犯错了的小孩[生病][生病] 加拿大Winnipeg 
+num_like: 2   forwardings: 0 comments: 0
+
+57:手机被老师没收了之后，哈哈哈哈哈哈太机智了！[笑哈哈] (net) 
+num_like: 0   forwardings: 0 comments: 0
+
+58:contain my  instinct  加拿大Winnipeg 
+num_like: 0   forwardings: 0 comments: 0
+
+59:奥兰多的房价略屌 我在:加拿大Winnipeg 
+num_like: 2   forwardings: 0 comments: 0
+
+60:去杭州考好了～～反正都没去过[馋嘴] 我在:加拿大Winnipeg 
+num_like: 2   forwardings: 0 comments: 14
+
+61:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 1   forwardings: 0 comments: 0
+
+62:[失望][失望][失望] 我在:Gull Lake Rd 
+num_like: 1   forwardings: 0 comments: 0
+
+63:〖TVB里的英文插曲合集〗TVB里的英文插曲总是那么好听，不服不行～@动手达人  
+num_like: 0   forwardings: 0 comments: 1
+
+64:Happy day[炸鸡和啤酒] 
+num_like: 0   forwardings: 0 comments: 0
+
+65:一下午都在酝酿这个番外，即使惊涛骇浪亦无法动摇我写他的欲望，这一生或许不能让所有人明白，但请相信不存在的地方总有一双眼睛注视着我，这就够了！#宫锁连城# 
+num_like: 0   forwardings: 0 comments: 0
+
+66:【琼瑶举报于正抄袭：心如刀绞一气病倒】今天下午，76岁高龄的琼瑶给广电总局写了一封公开信，举报于正抄袭，呼吁观众不要看于正剧。琼瑶称被欺凌到无法保持沉默，必须站出来。她称《宫3》故事更是全部抄袭《梅花烙》，“实在心如刀绞。一气之下，已经病倒”http://t.cn/8s0fUAo 
+num_like: 0   forwardings: 0 comments: 0
+
+67:当太多时间在智能手机上了～～[衰][衰][衰][衰]。。手机滚粗[愤怒][愤怒][愤怒][愤怒]！！！我要学习[愤怒][愤怒][愤怒][愤怒][愤怒] 我在:Chancellor Dr 
+num_like: 0   forwardings: 0 comments: 1
+
+68:keep passionate , life should be like this 我在:Chancellor Dr 
+num_like: 1   forwardings: 0 comments: 0
+
+69:我的那一年，是2011年，你呢？ 
+num_like: 0   forwardings: 0 comments: 2
+
+70:今天看完快船比赛的唯一心情。。。保罗你就长点心吧，看看对面的威少，你让我咋接着在别人面前吹你是第一控卫。。。 
+num_like: 0   forwardings: 0 comments: 0
+
+71:肚子疼[生病][生病][生病][生病][生病] 我在:Chancellor Dr 
+num_like: 1   forwardings: 0 comments: 1
+
+72:不想特意讨好别人 我在:加拿大Winnipeg 
+num_like: 1   forwardings: 0 comments: 0
+
+73:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+74:#每晚读书一小时#微博、微信夺走我们太多的时间，不知不觉成了微博、微信控。地铁上，路上，饭桌上，同学聚会，夜晚在家，卫生间，凡是超过半分钟的时间都要打开手机看看。自媒体夺走我们太多的读书学习和情感交流的时间。倡议每晚关掉手机一小时，离开那并不急需的鸡汤信息，读读书，您愿意响应吗? 
+num_like: 0   forwardings: 0 comments: 0
+
+75:娱乐圈这种事当看看新闻就好了～～大家为什么这么关注[衰][衰][衰] 我在:Chancellor Dr 
+num_like: 0   forwardings: 0 comments: 0
+
+76:#鄧紫棋粉絲福利# 900萬粉絲了，太感謝你們了[心] 上次800萬的福利我沒忘記，所以這次加起來要送大禮：G.E.M. X.X.X. LIVE 世界巡回演唱會門票！演唱會暫時公佈了9場，每站一位幸運兒總共9個，每人兩張門票：）只要你關注了我，從現在起48小時內，轉發及回覆此微博，就有機會獲得演唱會門票，開始囉！ 
+num_like: 0   forwardings: 0 comments: 0
+
+77:超级大逗比[哈哈][哈哈] 我在:Chancellor Dr 
+num_like: 2   forwardings: 0 comments: 1
+
+78:我觉得马来没那么愚蠢会设计这次灾难.......少一点指责、多一点祈祷吧～～ 我在:Chancellor Dr 
+num_like: 2   forwardings: 0 comments: 0
+
+79:熬夜搞assignment[怒][怒] 我在:Chancellor Dr 
+num_like: 4   forwardings: 0 comments: 1
+
+80:王石：你没有变强是因为你一直很舒服。 
+num_like: 0   forwardings: 0 comments: 0
+
+81:翻翻以前的人人、果然年轻不懂事啊、排那么多自拍[衰][衰] 我在:Chancellor Dr 
+num_like: 1   forwardings: 0 comments: 3
+
+82:好想看心灵鸡汤的节奏[拜拜][拜拜] 我在:Chancellor Dr 
+num_like: 2   forwardings: 0 comments: 1
+
+83:转发评论:中美友谊长存 《习近平今日同奥巴马通话》  http://t.cn/8sPoXSj 
+num_like: 1   forwardings: 0 comments: 1
+
+84:#祈福马航#相信会有奇迹发生 详情:祈福马航 
+num_like: 0   forwardings: 0 comments: 0
+
+85:是谁把玻璃擦这么亮。特么想撞死劳资~[哼]  
+num_like: 1   forwardings: 0 comments: 0
+
+86:【胸部最能吸引男人目光】新西兰惠灵顿维多利亚大学进行的调查显示，胸部是男性最先关注，且关注时间最长的部位。另外一个调查表示，每天关注女性胸部几分钟可以增进男性的健康状况，甚至能延寿4—5年。 
+num_like: 0   forwardings: 0 comments: 0
+
+87:想着回国各种high、哎、但还有三个月[怒][怒] 我在:Chancellor Dr 
+num_like: 1   forwardings: 0 comments: 10
+
+88:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+89:有小伙伴需要加拿大代购吗？六月份回国[爱你] 我在:Chancellor Dr 
+num_like: 1   forwardings: 0 comments: 4
+
+90:儿童节回国[拜拜][拜拜] 我在:加拿大Winnipeg 
+num_like: 1   forwardings: 0 comments: 9
+
+91:据说，有“研究”发现：床乱糟糟的人，比整洁的人，创造力要高出50%；经常迟到的人，比不迟到的人，幽默感高出70%；饭量大的人，比饭量小的人，情商高出90%；研究还发现爱丟三落四的人更淡泊功利；爱睡懒觉的人更具同情心。。。哎呀，一不小心就优秀了起来 ！ 
+num_like: 0   forwardings: 0 comments: 0
+
+92:江湖人称“男巫”的剪辑王 Zach King，他的“魔术”风格很新颖哦！[酷] 而且都很好笑呢！[江南style] 
+num_like: 0   forwardings: 1 comments: 0
+
+93:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+94:当男人碰上了喵星人... 各种粉红泡泡，好有爱好可爱啊！[爱你] (net) 
+num_like: 1   forwardings: 0 comments: 0
+
+95:想太多，会失去勇气～～ 我在:加拿大Winnipeg 
+num_like: 3   forwardings: 0 comments: 0
+
+96:不要对平静的湖水开机关枪 我在:Chancellor Dr 
+num_like: 1   forwardings: 0 comments: 0
+
+97:装嫖客暗访东莞的记者真是妓者 我在:Chancellor Dr 
+num_like: 1   forwardings: 0 comments: 1
+
+98:睡觉了，难受。 我在:加拿大Winnipeg 
+num_like: 0   forwardings: 0 comments: 1
+
+99:#鄧紫棋粉絲福利# 感謝感謝!!! 大年初三500萬粉絲了!!! 新年嘛，給大家發紅包喔！這五封紅包裡面除了有我的簽名照，還有我親手寫的新年祝福，封封不同。只要是關注了我的朋友，從現在起24小時內，轉發及回覆此微博，就有機會獲得新年大紅包啦，名額5個，開始囉：） 
+num_like: 0   forwardings: 0 comments: 0
+
+100:她離開我一年了...但她看見我之後驚喜的眼神和笑容，還有她呼喚我的聲音，我全部都記得好清楚。不是說時間會淡化一切嗎？可能真的所有東西都會被淡忘，除了愛。真正的愛，永遠都不會消逝吧，因為無論妳離開我多遠，我一直都感覺妳很靠近。我好愛妳，好愛好愛！ 
+num_like: 0   forwardings: 0 comments: 1
+
+101:睡不着、好辛苦啊 我在:Chancellor Dr 
+num_like: 1   forwardings: 0 comments: 2
+
+102:俄羅斯攝影師Elena Shumilova，這個系列是以自己的两个小兒子為主人翁的摄影作品，宛如魔幻的童話世界。[霹靂] 
+num_like: 0   forwardings: 0 comments: 0
+
+103:关于天气的各种自嘲。自从温尼伯录得自1893年最低的十二月平均气温以来，经常可以看到各种恶搞的对比，之前有人截图手机的天气预报，温尼伯比北极寒冷，连官方媒体也来玩一下，原来比火星还冷，火星还有-29度，温尼伯的气温加上风速达到极寒-50。当我想起还有个城市叫黄刀比这更冷，我就心存感激[黑线] 
+num_like: 1   forwardings: 0 comments: 0
+
+104:喜欢邓紫棋的请转发 
+num_like: 0   forwardings: 0 comments: 1
+
+105:普林斯真废材 我在:加拿大Winnipeg 
+num_like: 1   forwardings: 0 comments: 0
+
+106:英语终于进步了小小了......... 我在:加拿大Winnipeg 
+num_like: 1   forwardings: 0 comments: 7
+
+107:If you change nothing, nothing will change 我在:Lake Grove Bay 
+num_like: 2   forwardings: 0 comments: 0
+
+108:少年，你真的是因为感觉到痒所以才笑的么？？？(转) 
+num_like: 0   forwardings: 0 comments: 0
+
+109:新版微博客户端全新发布啦！发布器全面升级，更多兴趣快捷分享；新增微博支付，移动消费一触即达；手机端快捷参与#让红包飞#活动，新春豪礼送不停！赶紧更新抢红包！下载地址：微博：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 0
+
+110:@GEM鄧紫棋 扮金鱼。。GEM你这么萌，你家里人知道吗？ 【截图来自队长的微博 http://weibo.com/1887826884/AqkGhrTiB 】 
+num_like: 0   forwardings: 1 comments: 0
+
+111:25部经典正能量电影，你看过多少？（转） 
+num_like: 0   forwardings: 0 comments: 0
+
+112:大自然真的好残酷[哈哈][哈哈] 
+num_like: 1   forwardings: 0 comments: 0
+
+113:play like a champion. Train like an underdog 我在:Barrington Ave 
+num_like: 0   forwardings: 0 comments: 0
+
+114:这首歌超好听[可爱][可爱] 我在:Barrington Ave 
+num_like: 1   forwardings: 0 comments: 0
+
+115: 我在等一个和你的家  
+num_like: 1   forwardings: 0 comments: 1
+
+116:玩了半天植物大战僵尸[衰][衰] 我在:St Vital Rd 
+num_like: 1   forwardings: 0 comments: 0
+
+117:不用这么耍我吧[生病][生病] 
+num_like: 1   forwardings: 0 comments: 0
+
+118:好像要发烧了[泪] 我在:St Vital Rd 
+num_like: 1   forwardings: 0 comments: 2
+
+119:新版微博客户端，好听，好看，更好玩！自定义背景、封面；音、视频直接播放；好友圈好友消息不错过；信息流滑动速度提升；支持屏蔽广告微博；广场音乐、电影、美食等频道升级。[good]快试试一键听歌：夜空中最亮的星 下载地址：微博：在 App Store 上的内容 
+num_like: 1   forwardings: 0 comments: 0
+
+120:当别人滔滔不绝地吹牛逼时，我的表情 
+num_like: 0   forwardings: 0 comments: 0
+
+121:在地铁上。他靠在旁边的人肩膀上睡着了。旁边的人也一动不动的坐在那，过了一分钟，有人问要不要叫醒他，他说，“让他睡吧，今天他一定累坏了。 我们都有这样的时候不是么。。” 最后，他醒了，而旁边的他坐过了12站。。 生活中的正能量大概就是这样吧。。。(英国那些事儿) 
+num_like: 0   forwardings: 0 comments: 1
+
+122:【足球场人物】#亚冠决赛# 后卫Defender 分为 Left back(左后卫), Centre back（中后卫）Right back（右后卫）；后腰Midfielder；中场 Midfielder；前锋 Striker；边锋Winger；守门员 Goal keeper；裁判 Referee ； 教练 Manager；球迷Fans；清道夫sweeper ；啦啦队Cheering team； 观众 Crowd 
+num_like: 0   forwardings: 0 comments: 0
+
+123:【微博客户端完美支持iOS7啦~！】微博iPhone客户端新版发布，全面支持苹果iOS7系统，完美演绎简约设计风格；优化VoiceOver语音辅助功能，无障碍获取信息。赶快下载体验吧！AppStore下载：微博：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 0
+
+124:It's really true [大笑][记录] 
+num_like: 0   forwardings: 0 comments: 0
+
+125:【微博客户端完美支持iOS7啦~！】微博iPhone客户端新版发布，全面支持苹果iOS7系统，完美演绎简约设计风格；优化VoiceOver语音辅助功能，无障碍获取信息。赶快下载体验吧！AppStore下载：微博：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 0
+
+126:好不开心a[泪][泪][泪] 我在:Barrington Ave 
+num_like: 1   forwardings: 0 comments: 6
+
+127:【新浪微博iPhone客户端4.0版全新发布】你有多久没旅行了？回味旅途点滴，一起来分享旅行中的风景、美食与自拍，完成任务还有大奖哦~快开启旅行模式，#带着微博去旅行#[飞机]！下载地址：微博：在 App Store 上的内容 
+num_like: 1   forwardings: 0 comments: 0
+
+128:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 1   forwardings: 0 comments: 0
+
+129:一块多刀[爱你] 
+num_like: 1   forwardings: 0 comments: 13
+
+130:在床上写作业还是比较舒服的[哈哈][哈哈] 我在:St Vital Rd 
+num_like: 2   forwardings: 0 comments: 17
+
+131:我刚更新了微博HD V3.3.6！支持多图查看，左右翻页切换大图；修复bug，快来下载体验吧！微博 HD：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 2
+
+132:disaster[衰][衰] 我在:Dunkirk Dr 
+num_like: 0   forwardings: 0 comments: 0
+
+133:【新浪微博iPhone客户端4.0版全新发布】你有多久没旅行了？回味旅途点滴，一起来分享旅行中的风景、美食与自拍，完成任务还有大奖哦~快开启旅行模式，#带着微博去旅行#[飞机]！下载地址：微博：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 0
+
+134:我在这里：#BAIRDMORE PARK #诶诶、睡早了现在纠结了 我在:Point West Dr 
+num_like: 1   forwardings: 0 comments: 2
+
+135:出国这么久，才知道在海外也能淘宝！支持外币支付，国际运费优惠，宅兄宅弟们有救啦！ http://t.cn/z84gReo 
+num_like: 1   forwardings: 0 comments: 12
+
+136:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+137:快要开学前病倒了[泪][泪][泪][泪][泪] 
+num_like: 0   forwardings: 0 comments: 5
+
+138:你们是先看到了黄道十二宫呢还是AJ5呢还是毫无艺术感的链子呢还是那颗看着就加了很多色素的糖？(  `) 
+num_like: 0   forwardings: 0 comments: 0
+
+139:【送Harrison温泉免费住宿】温哥华海岸山脉区旅游局开通了中文网站“来玩吧”，里面专门介绍大温及周边的旅游、活动、优惠信息，欢迎串门：http://t.cn/zQmpws8 关注@来玩吧laVAN8 和@城市知道-温哥华 转发此微博并@ 至少一名好友即可参加抽奖，奖品：免费入住Harrison温泉度假村一晚（含双人餐）！ 
+num_like: 0   forwardings: 0 comments: 0
+
+140:【人生一定要听的三个演讲】1）乔布斯2005年斯坦福大学毕业演讲：乔布斯2005年斯坦福大学毕业演讲（流畅） ；2）罗琳2008年哈佛大学毕业演讲： JK罗琳2008哈佛毕业典礼演讲 带中文字幕 ；3）兰迪教授的最后一课：兰迪教授的最后一课 
+num_like: 0   forwardings: 0 comments: 0
+
+141:【新浪微博iPhone客户端4.0版全新发布】你有多久没旅行了？回味旅途点滴，一起来分享旅行中的风景、美食与自拍，完成任务还有大奖哦~快开启旅行模式，#带着微博去旅行#[飞机]！下载地址：微博：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 0
+
+142:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+143:【续】要开学啦！美帝课本贵死有木有！对我等穷学生，每学期上千刀的书本费的确是一笔很大的开销。新学期买书在哪里买又便宜又好呢？ 或者干脆不买纯租呢？？小编总结了一些比较常用的买课本，租课本网站，供童鞋们参考！详情： http://t.cn/zQrcDnz 
+num_like: 0   forwardings: 0 comments: 11
+
+144:还有十多天去卖你拖把大学咯[汗][汗] 
+num_like: 0   forwardings: 0 comments: 0
+
+145:去骗我感情、尼玛[怒] 
+num_like: 0   forwardings: 0 comments: 0
+
+146:签证等出翔[泪][泪] 
+num_like: 0   forwardings: 0 comments: 3
+
+147:currently being processed、my god damn [抓狂][抓狂][怒][怒] 
+num_like: 0   forwardings: 0 comments: 0
+
+148:新浪微博客户端换新装！全新界面，卡片化浏览体验；主页全面升级，新增高清头图；右上角更精彩，轻松扫二维码、摇周边。新浪微博客户端3.6.0为你而改变 [good]！观看视频，了解更多：新浪微博360版客户端新装亮相 下载地址：微博：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 0
+
+149:Last day of camp.  Kids were amazing!   
+num_like: 0   forwardings: 0 comments: 0
+
+150:明天终于递交签证了@[哈哈][哈哈][哈哈] 
+num_like: 0   forwardings: 0 comments: 9
+
+151:笑你麻痹 
+num_like: 0   forwardings: 0 comments: 0
+
+152:喝了点咖啡、怎么也睡不着了[泪][泪][泪][泪] 
+num_like: 0   forwardings: 0 comments: 0
+
+153:[哈哈] 
+num_like: 1   forwardings: 0 comments: 2
+
+154:梦想在哪儿？就在离你手指尖1厘米的地方。距离仅一厘米，但如果你不去奋力触摸的话,梦想就永远停在可望不可即的地方。不伸出手，梦想永远不会变成现实。 
+num_like: 0   forwardings: 0 comments: 1
+
+155:你怎么对待生活、生活就会怎么回报你 
+num_like: 0   forwardings: 0 comments: 2
+
+156:碉堡的一指、真风骚 
+num_like: 0   forwardings: 0 comments: 0
+
+157:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+158:加币快点贬值、、贬值[哈哈][哈哈][哈哈] 
+num_like: 0   forwardings: 0 comments: 2
+
+159:【各种love各种爱】deep~ 深深的爱;chaste~ 贞洁的爱;devoted~ 专一的爱; loyal~ 忠诚的爱;tender~ 温柔的爱;sincere~ 真挚的爱;fervent~ 热烈的爱;burning~ 炽热的爱;intense~ 强烈的爱;wild~ 狂热的爱; ~at first sight一见钟情; ~story爱情故事; ~triangle三角恋爱; ~affair风流韵事~  
+num_like: 0   forwardings: 0 comments: 0
+
+160:不要拿一个人的往事，去怀疑一个人的本质。  
+num_like: 0   forwardings: 0 comments: 0
+
+161:First time seeing anything like this in person, a true tragedy.  BUT it felt good to go out and help the families that we could to make them smile. 
+num_like: 0   forwardings: 0 comments: 0
+
+162:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+163:我刚更新了微博HD V3.3.0！信息流全面改造，带来新鲜的阅读体验；全面支持赞，轻松表达态度！快来下载体验吧！微博 HD：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 0
+
+164:新浪微博客户端3.5.1全新升级！信息流图片加载速度提升；发布器支持多张图片一键分享；新增emoji、浪小花表情。观看视频，了解更多！新浪微博手机客户端 App Store下载地址：微博：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 1
+
+165:8人轮换，6人得分上双，哈登感冒，书豪受伤，德妃伤退，逼得你们砍了7次阿西克，客场再胜，你们服么？休斯顿见！这是一支让人骄傲的球队，我爱你们，爱的没错！ 
+num_like: 0   forwardings: 0 comments: 0
+
+166:我刚更新了微博HD V3.2.1，提高了版本稳定性和流畅度！你也快来下载体验吧：http://t.cn/zWy447r 
+num_like: 0   forwardings: 0 comments: 0
+
+167:Go Thunder! 
+num_like: 0   forwardings: 0 comments: 0
+
+168:I'll be back 
+num_like: 0   forwardings: 2 comments: 2
+
+169:1 more!!!!!!!!!! #thunderup 
+num_like: 0   forwardings: 0 comments: 0
+
+170:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+171:新浪微博客户端升级了！信息流图片加载速度提升；发布器支持多张图片一键分享；新增emoji、浪小花表情。观看视频，了解更多！新浪微博手机客户端 我在全新微博客户端3.5.0，我为雅安祈福。App Store下载地址：微博：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 0
+
+172:Been a long day, but want to thank everyone for the messages and well wishes during this tough time. I really appreciate it .. 
+num_like: 0   forwardings: 0 comments: 0
+
+173:You guys ready for the playoffs? 
+num_like: 0   forwardings: 0 comments: 0
+
+174:新年新气象，春节版微博iPhone客户端好喜庆！新版特性:1.新增精美新年主题;2.全新话题功能;3.支持分享到微信!微博：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 1
+
+175:明天有两场nba看[哼][哼] 我在:民胜南路 
+num_like: 0   forwardings: 0 comments: 0
+
+176:#颜色#【你不可不知的穿衣搭配学问】1.红色配白色、黑色、蓝灰色、米色、灰色;2.咖啡色配米色、鹅黄、砖红、蓝绿色、黑色; 3.黄色配紫色、蓝色、白色、咖啡色、黑色;4.绿色配白色、米色、黑色、暗紫色、灰褐色、灰棕色;5.蓝色配白色、粉蓝色、酱红色、金色、银色、橄榄绿、橙色、黄色 @vivi心水推荐 
+num_like: 0   forwardings: 0 comments: 0
+
+177:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 0   forwardings: 0 comments: 0
+
+178:上课干过这事的童鞋举手 ！！！[偷笑]（转） 
+num_like: 0   forwardings: 0 comments: 1
+
+179:Great day out with the whole Thunder organization today at the Regional Food Bank of Oklahoma! 
+num_like: 0   forwardings: 0 comments: 0
+
+180:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+181:要想赢得尊重，就得变得更强 
+num_like: 1   forwardings: 0 comments: 0
+
+182:#NBA精彩GIF# 威斯布鲁克过科比这个脚步够不够华丽？[嘻嘻] 
+num_like: 0   forwardings: 0 comments: 0
+
+183:A pic from yesterday's game... Any fans in China get to watch? I know it must have been a late night if so! 
+num_like: 0   forwardings: 0 comments: 0
+
+184:转好照片：美国人拍摄的1983年的中国  
+num_like: 0   forwardings: 0 comments: 1
+
+185:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+186:听说甄嬛传要在美国播出了，我想到时一定是这样的。。。 
+num_like: 0   forwardings: 0 comments: 0
+
+187:高超的技术，神一样的配合  
+num_like: 0   forwardings: 0 comments: 0
+
+188:没主见真可怕，不能迁就别人苦了自己[汗][汗][汗][汗] 
+num_like: 0   forwardings: 0 comments: 0
+
+189:爷爷去世了、希望他在天堂一切安好[泪][泪] 
+num_like: 0   forwardings: 0 comments: 3
+
+190:春节版的微博iPhone客户端好喜庆~我给大家拜个年送个红包#让红包飞#mini汽车、千台HTC手机等你拿!猛戳:让红包飞 2013 | 微博帮你送红包 千万大奖等你拿新版特性:1.新增精美新年主题;2.全新话题功能;3.支持分享到微信!微博：在 App Store 上的内容 
+num_like: 0   forwardings: 0 comments: 4
+
+191:不管你学什么专业，找工作一定要找个你喜欢的，这样你每天早晨六点到晚上八点都是高兴的。再找个喜欢的人在一起，这样晚上八点到早晨六点就是开心的，这就是生活。 
+num_like: 0   forwardings: 0 comments: 0
+
+192:到了六分，改日再战[泪][泪] 
+num_like: 0   forwardings: 0 comments: 4
+
+193:再不知道海淘，我们就老了。原来想买美国的东西只要有一张双币信用卡就行啊。http://t.cn/zjDwAYE 
+num_like: 0   forwardings: 0 comments: 0
+
+194:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+195:【英语口语中“很简单”的说法】1. It's really simple. 很简单。2.It's as easy as ABC. 太容易了！3. It's as easy as pie. 真是易如反掌。4. It's no big deal! 没什么大不了的！5. It's a no-brainer! 这很简单，不用动什么脑筋的！6.That's no sweat at all! 那一点都不难！ 
+num_like: 0   forwardings: 0 comments: 0
+
+196:我刚更新了#微博客户端冬季版# 1. 信息流全面支持赞；2. 新增精彩密友功能，支持发布密友微博、查看密友圈、添加密友；3. 优化发布器，支持显示当前帐号昵称；4. 支持手势返回前页。 下载地址：http://t.cn/zlB2BEw 
+num_like: 0   forwardings: 0 comments: 0
+
+197:http://t.cn/zjsdI83 我刚刚搬了一个视频~~看看威少打小牛坐在场边自娱自乐唱钱婆的die young~~~唱的还挺开心！@杜兰特中文网 
+num_like: 0   forwardings: 0 comments: 0
+
+198:【老外的口头禅】1.You bet. 一点也没错。2.Kind of. 是有那么一点。3.That's OK. 不用了。4.Go out on a limb. 冒险。5.Same here. 我也是。6. It's still up in the air. 不确定。6.Just checking. 只是随口问问。7.The thing is.重点是。8. fix up/hook up 撮合某人。 
+num_like: 0   forwardings: 0 comments: 0
+
+199:明天雅思考试了、、感觉还是没有复习到位啊，，没事、、相信自己的英语天赋、长期的积累、没事的、come on小马哥[怒骂][怒骂] 我在:东延路 
+num_like: 0   forwardings: 0 comments: 5
+
+200:真的很開心KiKi的案件引起了大家的共鳴，正因為她充滿正能量的性格特質，令大家對她的遭遇感到萬分惋惜與氣憤！她一直堅信的法律可否為她討回公道呢？密切留意#法網狙擊#[鼓掌]~p.s. 其實每一條評論我都有看，無論是鼓勵或建議，都會成為我繼續努力的原動力！[親親]未能一一回覆，請見諒！[委屈] 
+num_like: 0   forwardings: 0 comments: 0
+
+201:一直有两个自己在挣扎 我在:吴中大道 
+num_like: 0   forwardings: 0 comments: 0
+
+202:【不就被炒了鱿鱼，多大点事！】1)They kicked me out. 2)I got fired. 3)I got sacked. 4)I got the sack. 5)I got the boot. 6) I was laid off.7)I was canceled.我被解雇了。 8)My boss told me to find a "better" job. 老板让我“另谋高就”。9)I got a pink slip. 我收到解僱通知书。 
+num_like: 0   forwardings: 0 comments: 0
+
+203:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+204:@杜小梨同學 ：喂！喂！中间这位，你是没拍过集体照吧 [汗] 
+num_like: 0   forwardings: 0 comments: 0
+
+205:#留学Tips#【加拿大酒店管理专业六所名校】在中国就业市场上，随着越来越多的国际大型活动在中国频繁举行，酒店管理人员在中国十大百万年薪职业中排名第六。小编为您推荐：凯波布兰顿大学、维多利亚大学、圭尔夫大学、皇家路大学、滑铁卢大学、尼亚加拉学院。咨询电话：83312981 @陈健成-谈加拿大留学 
+num_like: 0   forwardings: 2 comments: 0
+
+206:我已经抢"鲜"升级#新版微博#，想体验你的微博生活么？快来升级吧~~404错误 ；这里有我的曾经、现在和未来！这是我的微博生活~~ 点击播放：http://t.cn/zjWRbjf 
+num_like: 0   forwardings: 1 comments: 0
+
+207:三分绝杀再绝杀再反绝杀再究极绝杀，解说精疲力竭嚎啕大哭！！这比赛真是精彩，笑死我了 ！！ http://t.cn/zlT26gL  趣味生活请关注@趣味生活大杂烩 
+num_like: 0   forwardings: 1 comments: 0
+
+208:1. anemia 贫血；2. asthma 哮喘；3. bronchitis 支气管炎；4. cancer 癌症；5. cardiac failure 心力衰竭；6. cirrhosis 肝硬化；7. diabetes 糖尿病；8. dysentery 痢疾；9. gastritis 胃炎；10. gastric ulcer 胃溃疡；11. hepatitis 肝炎；12. hypertension 高血压； 
+num_like: 0   forwardings: 0 comments: 0
+
+209:【shit口语说】1.I don’t give a shit! 我才不管! 2.take a shit 拉屎 3.no shit不会吧,真的吗? 4.shit happens 糟糕的事难免会发生 5. ….and shit 之类的东西: You said you had maps and shit. 你说过你有地图之类的东西。 6.treat sb like shit 恶劣地对待某人 7.You’re full of shit.你竟胡扯。 
+num_like: 0   forwardings: 0 comments: 0
+
+210:药房 pharmacy, 药店 drug store, 处方 prescription, , 非处方药non-prescription medicine, over-the-counter drugs(OTC), 症状 symptom, 服药的计量dose, 副作用 side effects, 医生作出的诊断diagnosis(图片来自网络) 
+num_like: 0   forwardings: 0 comments: 0
+
+211:【重要词汇】basic基本的;essential 基本的；必要的；cardinal 主要的，基本的；fundamental 基本的；radical 根本的；彻底的；significant 重大的；有意义的；primary 主要的；基本的；important 重要的；有地位的；key 关键的；crucial 重要的；决定性的；momentous 重要的；vital 至关重要的； 
+num_like: 0   forwardings: 0 comments: 0
+
+212:【这些潮词你不能不知道！】秒杀instant kill；团购 group purchase；发烧友fancier；宅男indoorsman；菜鸟/新手rookie/newbie； 给力gelivable； 非主流的offbeat；娘娘腔sissy；围观circusee 
+num_like: 0   forwardings: 0 comments: 0
+
+213:据说考前转发此图的童鞋都超过了7分。 
+num_like: 0   forwardings: 0 comments: 0
+
+214:一些常用的词，有哪些更多样的说法呢？1. 勤奋 diligent;hardworking;studious;conscientious 2.有名的 well-known;renowned;legendary;popular 3. 好吃 yummy;tasty;appetizing;delicious 4. 真遗憾That’s too bad;It’s a shame;It’s a pity（图片来自网络） 
+num_like: 0   forwardings: 0 comments: 0
+
+215:男人，要有一个男人的样子，利利索索痛痛快快，不要扭扭捏捏婆婆妈妈。男人，要保护女人尊重女人，不要强迫她做不愿意的事；不要打女人，无论她伤过你还是骗过你。男人，要说话算话，吐出去的东西再咽回来，自己都觉得恶心。男人，可以不帅，但一定要有风度修养内涵底蕴。男人，可以丑，但决不能丑陋。 
+num_like: 0   forwardings: 0 comments: 0
+
+216:#水瓶座九个缺点#1、过于温柔，经常把爱人惯坏。2、霸道，有很强占有欲。3、懒，超级怕麻烦。4、喜欢吃，super吃货。5、超自恋，没事就爱臭美。6、爱捉弄人，事后还经常自鸣得意。7、爱笑，然后是大笑。8、容易害羞，遇到喜欢的人反而会疏远。9、外冷内热，对陌生人视而不见。  
+num_like: 0   forwardings: 0 comments: 0
+
+217:【容易忽略的英国好电影】《摇滚黑帮》《跳出我天地》《秘密与谎言》《雾都孤儿》《哈利布朗》《好事夜未眠》《僵尸肖恩》《两小无猜》《希望与荣耀》《红色之路》《两小无猜》《偷拐抢骗》《国王的演讲》http://t.cn/zjUifIU（新浪唯一无广告电影微博，每天上千人关注@热门电影频道 [奥特曼]） 
+num_like: 0   forwardings: 0 comments: 0
+
+218:【13招自警提升个人能力】1.每天读书。2.学习新的语言。3.战胜你的恐惧。4.升级你的技能。5.给未来的自己写一封信。6.承认自己的缺点。7. 立即行动。8.向你佩服的人学习。9.减少在QQ上的时间。10.培养一个新的习惯。 11.让过去的过去。12.送人玫瑰,手有余香。13.好好休息。@心理学秘语  
+num_like: 0   forwardings: 0 comments: 0
+
+219:不要忘掉别人生气时说的话，因为往往那才是真相；不要记恨说这话的人，因为这是他用另一种方式让你看清楚自己。[转] 
+num_like: 0   forwardings: 0 comments: 0
+
+220:#水瓶很珍惜朋友#很少有人和别人交往是从绝对的信任开始 水瓶是 他们最希望获得朋友的信任 如果从一个朋友那得不到信任 他不会再与这个朋友交往 水瓶的交友观也很随便 他可能会和贵族很好 也可能会和乞丐聊天 一切的一切只是心灵的交往 很少有水瓶会势力眼 除非你这个人人品太差 。@水瓶座-心理学  
+num_like: 0   forwardings: 0 comments: 0
+
+221:白色的奥利奥！吃过么？？我连见都没见过，好想尝尝是神马味道[馋嘴]    
+num_like: 0   forwardings: 0 comments: 0
+
+222:我的人生态度是，如果你攻击我的某个弱点，那我就把这个所谓的弱点变成优点。 ——迈克尔·乔丹 #23日# 
+num_like: 0   forwardings: 0 comments: 0
+
+223:#CCTV5分享#37岁的小贝，又要离开了，离开代表着一个新的开始，无论何去何从，无论曾经的小贝，还是现在的小贝，命中注定他为足球而生，感谢小贝曾经，现在带给我们对足球的美好记忆，绿茵场因为有他而精彩，【冠军欧洲】特别企划：他们的青春我们的记忆-小贝：http://t.cn/zjySHwA，祝各位晚安！ 
+num_like: 0   forwardings: 0 comments: 0
+
+224:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 0   forwardings: 0 comments: 0
+
+225:你知不知道，当苦难发生的时候，人怎么老喜欢问为什么？我想可能是因为人忘记了，这其实是我们生命中必经的一部分，所以当死亡接近我们的时候，我们会变得很惊慌、很无助。我们便会不停的问，为什么？其实，只要我们认真的记住，每个人都会死，我们就会懂得珍惜余下来的日子。——《on call 36小时》  
+num_like: 0   forwardings: 0 comments: 0
+
+226:我刚更新了微博HD3.1.1版，全新表情表达你的喜怒哀乐，集成天气插件创造美好生活！还等什么？快来下载体验吧：http://t.cn/zWy447r 
+num_like: 0   forwardings: 0 comments: 0
+
+227:我刚更新了微博HD3.1.0版，全新表情表达你的喜怒哀乐，集成天气插件创造美好生活！还等什么？快来下载体验吧：http://t.cn/zWy447r 
+num_like: 0   forwardings: 0 comments: 0
+
+228:【请按月份吃水果】反季节水果很多都口味不好，且有可能营养价值不高。来看看应季水果吧：一月：猕猴桃；二月：甘蔗；三月：菠萝；四月：山竹；五月：草莓；六月：樱桃；七月：桃子；八月：西瓜；九月：葡萄；十月：梨；十一月：苹果；十二月：橘子。这月吃梨。 
+num_like: 0   forwardings: 0 comments: 0
+
+229:全球14部精彩“密室”电影：《异次元杀阵》 《战栗空间》《东方快车谋杀案》 《八面埋伏》《针孔旅社》 《极限空间》《捕蝇纸》 《电锯惊魂》 《九人禁闭室》 《终极面试》 《死亡实验》 《玩命记忆》 《电梯里的恶魔》《黑暗面》。（新浪唯一无广告电影微博，每天上千人关注@热门电影频道 [奥特曼]） 
+num_like: 0   forwardings: 0 comments: 0
+
+230:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+231:#烤鸭加油站#喜爱旅游的童鞋，一定会觉得这些词非常有用的吧！Cliffs 悬崖;Sandy Beaches 砂质沙滩;Pebble Beaches 卵石滩;Bays 海湾;Snow-Capped Peaks 雪顶山峰;Breathtaking 美的惊人的;Valleys 山谷,溪谷;Fertile 富饶的;Foothills 山麓小丘;Rolling Hills 波状丘陵地;Plains 平原;（图来自网络） 
+num_like: 0   forwardings: 0 comments: 0
+
+232:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+233:初吻还在的同学，请默默转发，证明你最纯洁的时候到了！！ 
+num_like: 0   forwardings: 0 comments: 2
+
+234:曹操得了头痛症。华佗认为曹操头痛的病根在颅中，于是禀告曹操：要、要~切开脑。 曹操听完大怒：老子头痛的要死，你还敢唱歌，来人，拖出去斩了。 华佗，卒！！！！！（via@莫大) 
+num_like: 0   forwardings: 0 comments: 0
+
+235:一旦心死了，再怎么安慰也没用~ 
+num_like: 0   forwardings: 0 comments: 0
+
+236:城堡里住着美丽的公主，她在等着远方的王子，一起谱写美丽的童话～[心] 爱摄影，爱旅行，关注@咱们一起去旅行 (转) 
+num_like: 0   forwardings: 0 comments: 0
+
+237:[虎扑翻译团]威斯布鲁克：其实你们不懂我的心 http://t.cn/zWw0Yna 在威少身上，适用一条诡异的定理。当雷霆输了的时候，这就是他的错。而当雷霆赢了，则是杜兰特带来的荣耀。 
+num_like: 0   forwardings: 0 comments: 0
+
+238:我刚更新了#微博客户端夏日版#，信息流阅读体验全新升级，更支持表情解析哦；周边功能，让你了解周边的人和事儿；另外，新增对繁体中文、英文版的支持；还有全新的四季壁纸等你来体验！清凉夏日版，快来和我一起开启微博新能量吧！手机大奖等你来拿哦！http://t.cn/zOFn3Vp 
+num_like: 0   forwardings: 0 comments: 0
+
+239:穿腻了牛仔裤，偶尔换换休闲裤也是不错的~！潮男心水地址：http://t.cn/zOFN1Vp   
+num_like: 0   forwardings: 0 comments: 0
+
+240:首页-苏衣缇旗舰店-男装- 天猫Tmall.com http://t.cn/zORp8lS 
+num_like: 0   forwardings: 0 comments: 0
+
+241: http://t.cn/zORp8lS 
+num_like: 0   forwardings: 0 comments: 0
+
+242:首页-【晨风男馆】新款夏装 韩版男装 短袖T恤 衬衫 polo衫 休闲短裤-男装- 淘宝网 http://t.cn/zORp8lS 
+num_like: 0   forwardings: 0 comments: 0
+
+243:两只靓妞去【厦门鼓浪屿】后总结的自由行攻略！准备去的人儿，转起备用哟！！   
+num_like: 0   forwardings: 0 comments: 0
+
+244:写这个得人是高手啊，神人般地膜拜下【欢迎关注@潮流时尚大百科】@微博精选 #搞笑# #各种萌#  
+num_like: 0   forwardings: 0 comments: 0
+
+245:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+246:【水瓶座的你，是这样的小孩吗？】1、水瓶是泪点很低小孩子；2、没有人照顾的时候，水瓶很坚强，但是一旦有人在身边，水瓶就成了小孩子；3、会幻想家人出事怎么办，想着想着，水瓶就哭了；4、喜欢与喜欢的人对着干；5、喜欢自己一个人玩棋盘类的游戏。 
+num_like: 0   forwardings: 0 comments: 0
+
+247:床，你放开我！不要这样子。我是一个要上班的人！！！！！ [抓狂] 
+num_like: 0   forwardings: 0 comments: 0
+
+248:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+249:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+250:三轮车上不错哦[哈哈][嘻嘻][握手] 
+num_like: 0   forwardings: 0 comments: 2
+
+251:在山塘转转[嘻嘻][嘻嘻][嘻嘻] 
+num_like: 0   forwardings: 0 comments: 0
+
+252:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+253:我刚更新了新浪微博iPad客户端v2.7.0，推荐你也一起来体验 微博 HD：在 App Store 上的内容 新版增加夜间模式、多张精美壁纸，支持发微博分享详细位置信息，快快更新吧! 
+num_like: 0   forwardings: 0 comments: 0
+
+254:【英超】“步子迈的大了，容易扯着蛋”，葛优这句名言如今在英超赛场上应验了。上周末英超布莱克本主场负于西布朗一战中，主队后卫丹恩比赛中因射门用力过猛导致睾丸撕裂，但他竟浑然不觉得坚持了18分钟的比赛。赛后他感到了痛楚，但直到次日才发现问题严重并立即接受手术，据悉他将因此缺阵休养6周。 
+num_like: 0   forwardings: 0 comments: 0
+
+255:上联：去年光棍，今年光棍，明年好像还是光棍 下联：同事有主，同学有主，同龄似乎全都有主 横批：单身很好！ 
+num_like: 0   forwardings: 0 comments: 0
+
+256:我刚更新了新浪微博ipad客户端，推荐你也一起来体验微博 HD：在 App Store 上的内容。好东西一定要分享噢！ 
+num_like: 0   forwardings: 0 comments: 0
+

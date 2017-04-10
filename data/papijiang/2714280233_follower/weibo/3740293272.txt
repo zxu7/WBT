@@ -1,0 +1,25 @@
+user_info or user_nickname: iillss
+user_id: 3740293272
+weibo_Num: 6
+Num_followings: 73
+Num_followers: 28
+
+weibo content: 
+1:谁来拯救我，痛ing[大哭] [大哭] [大哭] [大哭] [大哭] 
+num_like: 0   forwardings: 0 comments: 0
+
+2:健身+规律的生活坚持21天 
+num_like: 0   forwardings: 0 comments: 0
+
+3:艾特那只属于你的猪。[猪头] 
+num_like: 0   forwardings: 0 comments: 0
+
+4:科普贴：一些比较有用的知识，十八岁以上的朋友请在父母的陪同下阅读！！！  
+num_like: 0   forwardings: 0 comments: 0
+
+5:蠢蠢欲动的甜点 [舔屏] 
+num_like: 0   forwardings: 0 comments: 0
+
+6:老外到底有多羡慕中国？你不懂中国军人，看完莫名的就中了泪点！cr：蛙哥漫画 
+num_like: 0   forwardings: 0 comments: 0
+

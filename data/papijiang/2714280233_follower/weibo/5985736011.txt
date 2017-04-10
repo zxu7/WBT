@@ -1,0 +1,16 @@
+user_info or user_nickname: HRQYU
+user_id: 5985736011
+weibo_Num: 3
+Num_followings: 90
+Num_followers: 64
+
+weibo content: 
+1:听说洪荒少女@傅园慧o_O 受邀参加2017央视#春晚#啦，你希望在今年春晚舞台上看到哪位奥运健儿呢？速度戳投票吧→2017央视#春晚#，你希望看到哪位奥运健儿？ 
+num_like: 0   forwardings: 0 comments: 0
+
+2:【#看你往哪跑# #超跑同框大赛#套路开跑，火力全开你支持哪队？】@孙杨 @徐海乔 @张继科 @贾乃亮 @孙延笙 @朱嘉琦z @机房张小妹 @迎宾张二毛 @曾嘉琪Seven @David_Chiang_dStar 陪你看直播！投票支持你最爱的队伍还能获得独家签名照！还不快来？#看你往哪跑#套路开跑，你支持哪队？ 
+num_like: 0   forwardings: 0 comments: 0
+
+3:只要升等级就有福利享，变身土豪就靠它，想想就有点小激动呢[太开心]小伙伴儿们速来围观，领取你的#微博等级专享礼#吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 9 comments: 9
+

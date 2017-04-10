@@ -1,0 +1,37 @@
+user_info or user_nickname: -陈黛黛
+user_id: 3729614010
+weibo_Num: 11
+Num_followings: 8
+Num_followers: 11
+
+weibo content: 
+1:#猫的树Cattree#合集如果我们不曾相遇我会是在哪里如果我们从不曾相识不存在这首歌曲 猫的树Cattree的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+2:每一个不曾起舞的日子 都是对生命的辜负 
+num_like: 0   forwardings: 0 comments: 0
+
+3:http://weibo.com/u/3729614010 [二哈]为什么总是失眠 
+num_like: 0   forwardings: 0 comments: 0
+
+4:[浮云][音乐][微风]假装很开心吧今天 
+num_like: 0   forwardings: 0 comments: 0
+
+5:天冷以后，一份热腾腾的麻辣香锅越发暖人。辣椒的辣，麻椒的麻，各种调料的香味融合在一起，尽情挑选自己喜欢的肉类、蔬菜，鲜香热辣的一锅，真叫一个欲罢不能。一起来吧！ 鲜香热辣的麻辣香锅，就是这么过瘾 | 利仁特约食谱 
+num_like: 0   forwardings: 0 comments: 0
+
+6:戚风蛋糕几乎是烘焙爱好者最爱尝试的不变主题，最近问戚风蛋糕的童鞋很多，所以我把第一季的视频又翻出来啦！这是最容易成功的一个戚风方子，非常适合新手，大家可以先尝试它，再去尝试其他更多方子。加油吧童鞋们！（微笑脸） 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+7:分享图片 
+num_like: 0   forwardings: 0 comments: 0
+
+8:为了一个人留在一座城，为了一个人放弃一座城！！   http://weibo.com/u/3729614010 
+num_like: 0   forwardings: 0 comments: 0
+
+9:无处安放的情绪 http://weibo.com/u/3729614010 
+num_like: 0   forwardings: 0 comments: 0
+
+10:还能看见你真好 http://weibo.com/u/3729614010 
+num_like: 0   forwardings: 0 comments: 0
+

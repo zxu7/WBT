@@ -1,0 +1,43 @@
+user_info or user_nickname: 扎着天线的女孩O_o
+user_id: 5982763976
+weibo_Num: 12
+Num_followings: 41
+Num_followers: 11
+
+weibo content: 
+1:涂鸦爱好者21号男神太酷不解释[污][污][污]他的快手： The 21st 
+num_like: 1   forwardings: 0 comments: 0
+
+2:城市真的不及农村一半好，不是说物质方面的而且一个人的心是否会被改变虚荣心，攀比，心机重，环境差，声音吵，车祸多，这些在农村很少的，只是期盼有些坏人不要破坏 
+num_like: 1   forwardings: 0 comments: 0
+
+3:我男神是一个一米八多没有固定的恋情，女朋友很多，偶不，前女友很多，他心挺软的，只要是对方向他告白一般都接受[哼]他打篮球挺厉害的，但不经常打他还会涂鸦，超帅[哆啦A梦花心]我也喜欢打球，就是太粗鲁了，擅长排球，羽毛球，偶尔也会卖萌每次见到他都会害羞，从没交往过，所以正在努力把自己 全文
+num_like: 1   forwardings: 0 comments: 0
+
+4:#熊出没##小时候#满满都是回忆啊微博视频 
+num_like: 1   forwardings: 0 comments: 0
+
+5:拿去套路朋友吧[污][污][污]不敢直视 
+num_like: 1   forwardings: 0 comments: 0
+
+6:这部动漫讲述的是两只熊和光头强的人生人与动物之间的障碍不能为了自己的利益，为了金钱而破坏别人的生活，不乱砍伐树木会招到报应的光头强知错能改也是一件不错的事情他本性不坏，只是生活所迫一个森林该有的安逸这么深的道理你们看的出来么？ 
+num_like: 1   forwardings: 0 comments: 0
+
+7:祝你生日快乐 
+num_like: 1   forwardings: 0 comments: 0
+
+8:明明可以两个人，偏偏要一个人朋友圈越来越小喜欢一个人听歌，懒的讨好别人说好做一个坏人但还是那么执着主动惯了，热度慢慢消失了也许友情真的会随着时间越变越淡一个人也许会更好你们喜欢的游戏我不懂只记得我儿时玩过的游戏 
+num_like: 1   forwardings: 0 comments: 0
+
+9:【系统】：距离荣耀第十区开服还有24小时 。#全职不败，荣耀不灭#在#全职高手动画#开播倒计时24小时之际，我们又迎来一位新朋友：大东@汪东城 ！[许愿]来听听他有什么话想对你说吧~[撒花]#全职高手动画4月7日开播# 秒拍视频 . 
+num_like: 1   forwardings: 0 comments: 0
+
+10:作弊的最好高境界，我服了[给力][doge] 
+num_like: 1   forwardings: 0 comments: 0
+
+11:小时候最喜欢看这部电视剧了[色]（熊出没）现在还是那么爱[熊猫][熊猫][熊猫] 
+num_like: 1   forwardings: 0 comments: 0
+
+12:生活要是较真了你就输了狗咬了你你也不能像它一样咬回去把它带回家天天虐它[二哈][笑cry] 
+num_like: 1   forwardings: 0 comments: 0
+

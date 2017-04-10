@@ -1,0 +1,331 @@
+user_info or user_nickname: 用户5532082411
+user_id: 5532082411
+weibo_Num: 108
+Num_followings: 171
+Num_followers: 4
+
+weibo content: 
+1:我28.5元拼了破洞牛仔裤女九分裤宽松BF乞丐裤学生小脚哈伦裤，大家快来拼多多吧！ http://t.cn/R6BQjXW (来自-拼多多) 
+num_like: 0   forwardings: 0 comments: 0
+
+2:我29.9元拼了正宗 海南小贵妃芒果5斤（单果70-150g） 芒果之王【预售：4月6日发完】，大家快来拼多多吧！ http://t.cn/R6RyypR (来自-拼多多) 
+num_like: 0   forwardings: 0 comments: 0
+
+3:快艾特出你最想艾特的人[笑cry][笑cry][笑cry]震惊了                                                    #低调炫技# #笑点清奇# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+4:衣服在哪买的...[doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 1
+
+5:艾玛，我反正信了[赞] 
+num_like: 0   forwardings: 0 comments: 0
+
+6:卧槽！干了这碗提神又醒脑的鸡汤，瞬间神清气爽！[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+7:#让红包飞#Boomshakalaka！我在让红包飞 的红包中抽到了@微博会员 提供的“1G流量包”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+8:[强壮][强壮][强壮]努力让自己吃胖，体会一下，爽歪歪的酸爽～ 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+9:#让红包飞#Boomshakalaka！我在让红包飞 的红包中抽到了@聚美陈欧 提供的“聚美百元礼包”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+10:这样的比舞，这创意，帅炸啦！ 秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+11:#李晨的红包#Boomshakalaka！我在李晨 的红包中抽到了@理财平台 提供的“188元理财大礼包”，2017年的小惊喜！也许你的惊喜更大哦~李晨 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+12:感受一下这个女团，跟外面那些妖艳贱货不一样，哈哈哈哈哈哈真是女团中的一股泥石流！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+13:过年怼不过七大姑八大姨怎么办？教你三招白酒的奇妙喝法，喝倒她们就没人来烦你啦[二哈]#一杯# @鲜城 #年夜饭暴击# 一杯的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+14:哈哈哈看完这些个奇葩的醉酒经历，你们还敢喝酒么[二哈]  
+num_like: 0   forwardings: 0 comments: 0
+
+15:用一张纸币折成的 I  U ，撩妹神技～#热门搞笑小视频#YouTube精彩视频的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+16:你年轻时在学校做过什么事而一举成名全校皆知？卧槽，瞧瞧人家的青春，笑劈叉了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+17:一句话反驳心灵鸡汤 ~果然还是毒鸡汤好喝！！！好有营养，好受用，看完浑身都舒坦了。[笑cry][笑cry] #全国搞笑排行# 
+num_like: 0   forwardings: 0 comments: 0
+
+18:传说中的泰国广告又来了，看着看着笑了，笑着笑着飙泪了……有点长，一定要看到最后，又是一个没想到的结局……环球时报的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+19:知识改变命运！！服了[笑cry][笑cry] #笑点清奇# 最神奇的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+20:马云PK王健林对唱《演员》！哈哈哈哈差一点就信了[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+21:一开口瞬间冷静了[doge]#我的女友嘴很贱##蜜汁笑点##搞笑视频扛把子# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+22:当时拿到牌的时候，我大写的懵逼。。 #特长生视频#  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+23:《客官不可以》这谁做的，被洗脑了！[笑cry] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+24:儿子问问题。妈妈当初为何给爸爸，看看爸爸如何答。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+25:耿直男儿唱《醉酒歌》吐槽酒后窘态，歌词改得太形象了，陈赫都笑了，张全蛋什么鬼？秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+26:搞笑幽默---哈哈我竟然不厚道的笑了，原谅我根本停不下来#莫名的喜感#秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+27:90后的也一把年纪了，真的很纠结。 
+num_like: 0   forwardings: 0 comments: 0
+
+28:当男盆友在床上喊累时……[笑cry] #满满的套路# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+29:异国情侣共谱美丽神话，全程满满的爱意，超美！一定要看！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+30:一人一句最龌蹉的句子，你们都是污妖王。。 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+31:不要碰我肩膀哈哈哈哈哈哈哈哈哈哈 渣蜀黍的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+32:一个让人深思的视频，看完沉默了很久，现在行动还不晚·····秒拍视频 #搞笑培训班# 
+num_like: 0   forwardings: 0 comments: 0
+
+33:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 0   forwardings: 0 comments: 0
+
+34:他还只是个孩子！！！干哈凶他！！[doge] 全世界最美丽的人啊的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+35:绝对是福利，别问我怎么知道～ 
+num_like: 0   forwardings: 0 comments: 0
+
+36:你第一看出来的是什么字？ 
+num_like: 0   forwardings: 0 comments: 0
+
+37:复旦大学配音系女生完美演绎各种呻吟声！这个口技我给满分！ [笑cry] http://t.cn/RbBdfZF #莫名的喜感# 
+num_like: 0   forwardings: 0 comments: 0
+
+38:兄弟，你知道的太多！愣是被你说死了~[哈哈] http://t.cn/RVT7rsG 
+num_like: 0   forwardings: 0 comments: 0
+
+39:你好毒嘟嘟嘟嘟嘟嘟嘟嘟，果然……有……有……毒……（卒）[doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+40:来呀互相伤害！夫妻洞房夜老婆卸妆后把丈夫给吓哭了[哈哈]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+41:所以说晚上一定要早睡！说的好有道理，我竟无言以对！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+42:TOM FORD口红广告[舔屏]OMG 太撩人了秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+43:开场就被吓到，辣眼睛…厉害呢[偷笑][偷笑][偷笑]#内涵博士有点污##污力搞笑##拯救不开心##搞笑培训班##蜜汁笑点# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+44:#鱼的功课# 如何制作gif动图最重要的是发微博里的点在原图才会动哦！嘻嘻 是不是很棒棒 
+num_like: 0   forwardings: 0 comments: 0
+
+45:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+46:"#尖叫耐撕男女# 没想到还是分手了，千防万防，闺蜜难防啊！ @尖叫耐撕男女#尖叫耐撕男女# #逗比的日常# ", 分享自秒拍用户 @尖叫耐撕男女 的作品,一起来看~秒拍视频（使用#秒拍#录制） 
+num_like: 0   forwardings: 0 comments: 0
+
+47:看看吧！新技能 [笑cry] 微博视频 #莫名的喜感# 
+num_like: 0   forwardings: 0 comments: 0
+
+48:下次结婚不要叫我了 我已经很久没有钱吃肉 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+49:让陈赫和张全蛋告诉你为什么会越来越胖，何苦拆穿啊！[摊手] 秒拍视频 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+50:快快快~这样的男朋友给我来一打 [笑cry] 能遇到你…竟花光所有运气 秒拍视频 #莫名的喜感# 
+num_like: 0   forwardings: 0 comments: 0
+
+51:[笑cry][笑cry]陈赫、张全蛋神吐槽，决心是送给狗吃的，真像了 ！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+52:该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY
+num_like: 0   forwardings: 0 comments: 0
+
+53:讲真 导演你是不是吃货月经泡饭…[怒][怒][怒][怒][怒][怒][怒][怒] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+54:一点都不好笑，我也就看了几十遍。Ps：一定要看最后的彩蛋#你开心就好#  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+55:日本人的各种开门方式！如果上厕所会被憋死吧！[二哈] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+56:#全世界资源集#【掷地有声Bl剪辑版】完整版[心]颜值高得不要不要的，身材超级劲爆[色]帅死了，简直把持不住[坏笑]流鼻血啦！前方高能！转发微博后，再私信“掷地有声"[酷]不转不给！微博全世界都不如一个你的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+57:让这两口子逗死我了，这位大哥一看就是个好男人！[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+58:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+59:【鸡蛋高能做法】万万没想到，鸡蛋竟然可以这么吃，值得get√  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+60:电影学院的学生表演各种死法！女神就是女神，死都死得那么好看！#蜜汁笑点##幽默风趣# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+61:我喜欢你，你知道嘛？献给所有不曾被听见的爱情。二更视频的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+62:#蜜汁笑点#小姑娘好好珍惜吧，这世界上再也找不到这么有耐心的男生了！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+63:网友在地铁上遇到一神人，神密码，这逼装的，我给满分！！！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+64:卧槽，这套路我服！[笑cry]#搞笑连连看# 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+65:真是两人才，来啊，互相伤害啊！！[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+66:哈哈哈哈太搞笑了，一看就是亲爹啊 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+67:一年不啪啪啪和一年不买买买，你会选择哪个 ？[doge]我需要一包强力去污粉！[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+68:分享一段泰国仪仗队的神级表演，我说咱们能不能稍微严肃一点，这么卖萌真的好么[摊手] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+69:张艺兴凭《what U need》成为YouTube上MV点击量最快突破200万的中国歌手[心]！！！这首中文歌目前在iTunes泰国歌曲榜、MV榜第一，土耳其MV榜第一，日本MV榜第五，加拿大总榜16，并在美国itunes MV全分类榜第四，pop分类排第二。张艺兴成为有史以来第一位登上美国iTunes流行音乐榜前60的中国籍艺 全文
+num_like: 0   forwardings: 0 comments: 0
+
+70:#最搞笑视频大全# 黄渤将催情粉丢进河里，全村人一起啪啪啪！哈哈！这场面~~[笑cry] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+71:男人可以不帅 但是一定要骚！卧槽，太他妈骚气了，简直辣眼睛[污]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+72:小伙模仿18个地方口音，口才真是了得，看样子是要把地球村黑一遍才罢休啊！！ #搞笑#http://t.cn/R5S27TM 
+num_like: 0   forwardings: 0 comments: 0
+
+73:三十秒内转发可以实现一个愿望！ 
+num_like: 0   forwardings: 0 comments: 0
+
+74:陈赫和张全蛋的“什么情况”，你们俩绝壁是亲生的！[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+75:这段太经典了，被精神病给套路了[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+76:【《白蛇传》翻拍啦！[围观]】演员竟然是一群平均年龄只有7、8岁的孩子！作业太少系列，你来看看演得怎样？[坏笑] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+77:为什么上帝不买A片看？涨姿势了[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+78:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+79:信息量太大，原谅我的笑点低，哈哈 。。。 [笑cry]#这个技能你没有# 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+80:这视频我也就只看了二十几遍，腐女千万别错过！！！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+81:#再见x先生#基腐悬疑网剧，大部分演员都是同志[心]关键颜值超级高，每个都好帅[飞吻]期待！关注@全世界都不如一个你 转发微博后，私信我【再见x先生】[心]每周两集！赶紧来看！ 
+num_like: 0   forwardings: 0 comments: 0
+
+82:【网络剧《错生》】改编自耽美小说作家王泡小泡的小说《错生的瞳孔》，攻的颜值真心不错，这大长腿这身材，冲着这颜值也值得一看[doge]关注@全世界都不如一个你 转发微博后，私信我【错生】即可[挤眼]不断更新中，来看帅哥！ 
+num_like: 0   forwardings: 0 comments: 0
+
+83:抱歉，由于作者设置，你暂时没有这条微博的查看权限哦。查看帮助：http://t.cn/RfdBWwP 
+num_like: 0   forwardings: 0 comments: 0
+
+84:#盖世英雄#讲真讲真讲真，本菌真的是要给大老师跪了，最新神曲出炉了，嗨爆了！老司机＋小鸡小鸡＋喜唰唰＋江南style....神曲太多，大家一起来数数大老师@大张伟 这次唱了多少神曲！[笑cry][笑cry][笑cry]不能我一个人跪，此视频有毒，慎点秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+85:【九月必然翻身的星座，神准！】狮子、摩羯、天蝎、射手、双子、金牛、白羊、巨蟹、水瓶、处女72小时内拿走，九月必然翻身。准到可怕，每次好事连连，桃花朵朵，财运旺旺[爱你] 
+num_like: 0   forwardings: 0 comments: 0
+
+86:真心喜欢一个人是什么感觉[doge] 1分钟的哥们喜欢上室友了 [嘻嘻] 逗逼榜的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+87:自己可以编发，十字交叉瀑布辫，最后可以扎马尾，也可以直接披肩，都很有气质很漂亮哦[good]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+88:《异国色恋浪漫谭》转发后私信我【浪漫】拿资源~这个动漫非常甜~超喜欢攻的霸道帅气(*/ω＼*)受也好看！！！    秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+89:这告白简直无法拒绝。。。。！！[爱你]一万个同意！[爱你]一万个同意！[爱你]一万个同意！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+90:据说，如果你第一眼看到的是眼睛那就一定要转，其实它只是个洗碗水。它会带走所有不幸，冲走所有烦恼。 
+num_like: 0   forwardings: 0 comments: 0
+
+91:GD这个mv真的帅哭我了[色]#权志龙GD# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+92:#bigbang# 最感人版《一天一天》 最美不过 皇冠海大合唱 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+93:#上瘾资源#网络剧 上瘾网络剧宣传平台的秒拍视频 当我知'道'黄/景'瑜'要演于.正的剧的时候 我就知道我被黄景瑜迷倒的日子不久就要到头了 于正解救了现在如此脑残的我最后放1-15集...点赞后戳： http://t.cn/RGWtaFX 
+num_like: 0   forwardings: 0 comments: 0
+
+94:#BIGBANG##李胜利##BIGBANG胜利##MADE南京站#   一开始手太抖    后面就好了    观看时请自动忽略我和小伙伴的鬼叫   主要这段胜利太帅     想和他睡觉[喵喵][喵喵][喵喵] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+95:三观正，口味轻[偷笑][偷笑]  你怎么打到我的蛋了 妈呀花絮污得我好喜欢 这一班拍摄的助理其实都是腐海中人吧[doge][doge]@大美人么么操 『《上瘾》追剧太辛苦？！幕后花絮49分钟更劲爆-今日头条』《上瘾》追剧太辛苦？！幕后花絮49分钟更劲爆 
+num_like: 0   forwardings: 0 comments: 0
+
+96:五角星折够了，我们来折一朵五星花吧！！！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+97:看到这儿，我承认我哭了#太子妃升职记#[悲伤][悲伤][悲伤] 
+num_like: 0   forwardings: 0 comments: 0
+
+98:这世界上没有所谓的玩笑，所有的玩笑都有认真的成分[心] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+99:好污的一个游戏，这特效我给101分，多给一分不怕你骄傲！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+100:“调整一下自己，你也是人才！”这#乞丐#太特么励志了![笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+101:据说转发这条微博并写上你希望别人或者自己未来的体重，就会在2016年灵验。 
+num_like: 0   forwardings: 0 comments: 0
+
+102:无需工具，只需用自己的手就能织出的围脖！方法不算太难，多看几遍就可以get到了~@酷文艺 
+num_like: 0   forwardings: 0 comments: 0
+
+103:好甜蜜的技能！这样秀恩爱吊打单身狗真的好吗？！[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+104:一个社会实验，你帮助一个人时会在意他的外表吗？ 看完这个视频后，长得丑的都不敢随便出门了！[拜拜]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+105:最近台湾一段婚礼视频在网上爆红，新娘超正热舞high翻全场！！[鼓掌] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+106:每个人都很美，别让其他人对你妄下评论！[心] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+107:【六月必然翻身的星座，神准！】最近不太顺的狮子、摩羯、天蝎、射手、双子、金牛、白羊、巨蟹、水瓶、处女72小时内拿走，刚开始的六月必然翻身。准到可怕，每次好事连连，桃花朵朵，财运旺旺。。见图即转，好运相伴～！ 
+num_like: 0   forwardings: 0 comments: 0
+
+108:没事儿玩玩这个：一个好玩的APP， 2张图片N种有趣的玩法 - “图片合成器”。立刻点我下载吧！ 应用详情 
+num_like: 0   forwardings: 0 comments: 0
+

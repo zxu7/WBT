@@ -1,0 +1,25 @@
+user_info or user_nickname: 新边城磊啊磊
+user_id: 5984249401
+weibo_Num: 6
+Num_followings: 90
+Num_followers: 8
+
+weibo content: 
+1:#顾问平原的红包#Boomshakalaka！我在顾问平原 的红包中抽到了@众筹吧 提供的“众筹现金券”，2017年的小惊喜！也许你的惊喜更大哦~顾问平原 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+2:#王尼玛的红包#Boomshakalaka！我在王尼玛 的红包中抽到了@理财平台 提供的“188元理财大礼包”，2017年的小惊喜！也许你的惊喜更大哦~王尼玛 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+3:#让红包飞的红包#boom boom boom！我在@让红包飞 的红包中抽到了“处女座财神卡”！2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+4:#让红包飞的红包#Boomshakalaka！我在让红包飞 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+5:#让红包飞的红包#Boomshakalaka！我在让红包飞 的红包中抽到了@聚美陈欧 提供的“聚美百元礼包”，2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+6:#让红包飞的红包#boom boom boom！我在@让红包飞 的红包中抽到了“处女座财神卡”！2017年的小惊喜！也许你的惊喜更大哦~让红包飞 的红包 
+num_like: 0   forwardings: 0 comments: 0
+

@@ -1,0 +1,178 @@
+user_info or user_nickname: 阿biu哇
+user_id: 5601788142
+weibo_Num: 67
+Num_followings: 101
+Num_followers: 125
+
+weibo content: 
+1:好饿[抓狂][舔屏] 长沙·井湾子 
+num_like: 2   forwardings: 0 comments: 4
+
+2:有些时候你不能和讨厌的人计较 你是小仙女 不能泄露了仙气 长沙·井湾子 
+num_like: 4   forwardings: 0 comments: 6
+
+3:[思考] 长沙·井湾子 
+num_like: 4   forwardings: 0 comments: 1
+
+4:我告诉你 没有人可以从我身边把你抢走 长沙·井湾子 
+num_like: 9   forwardings: 0 comments: 5
+
+5:难得出趟门[思考] 浏阳·美神广场 
+num_like: 13   forwardings: 0 comments: 14
+
+6:大学生的寒假假期 浏阳市 
+num_like: 8   forwardings: 0 comments: 5
+
+7:分享一下每天1.2米长的手绘作业#手绘# 浏阳市 秒拍视频 . 
+num_like: 3   forwardings: 0 comments: 2
+
+8:都是照骗！图三是我！一年多前的发型 
+num_like: 2   forwardings: 0 comments: 3
+
+9:肯定是恰好灯光打在我脸上才显得如此白[污] 
+num_like: 5   forwardings: 0 comments: 1
+
+10:[污]凤凰#凤凰古城#两年前自己拍的景今天偶然翻出照片画的 长沙·上海城 
+num_like: 12   forwardings: 0 comments: 6
+
+11:合肥动漫嘉年华 合肥 秒拍视频 . 
+num_like: 1   forwardings: 0 comments: 0
+
+12:有些话还是没能说到嘴 
+num_like: 9   forwardings: 0 comments: 0
+
+13:还好有口罩可以挡住没化妆的脸 长沙·井湾子 
+num_like: 4   forwardings: 0 comments: 0
+
+14:工作室[鼓掌] 长沙·井湾子 
+num_like: 9   forwardings: 0 comments: 0
+
+15:只是爱与美之间 若只能二选一的话 它总是留下真 长沙·湘江大桥橘子洲头 
+num_like: 8   forwardings: 0 comments: 11
+
+16:无  聊  啊 长沙·井湾子 
+num_like: 7   forwardings: 0 comments: 1
+
+17:今天装可爱 长沙·井湾子 
+num_like: 9   forwardings: 0 comments: 1
+
+18:爬山 长沙·岳麓山（商圈） 
+num_like: 7   forwardings: 0 comments: 1
+
+19:校公寓聚餐 长沙·井湾子 
+num_like: 3   forwardings: 0 comments: 2
+
+20:[哈哈] 临湘市 
+num_like: 9   forwardings: 0 comments: 0
+
+21:再见 我们的青春 临湘市 
+num_like: 15   forwardings: 0 comments: 0
+
+22:我应该可以把自己照顾好 临湘市 秒拍视频 . 
+num_like: 2   forwardings: 0 comments: 1
+
+23:顾德百[哈欠] 浏阳市 
+num_like: 5   forwardings: 0 comments: 0
+
+24:终于铺完地板 只差粉色的墙纸了[污][鼓掌][舔屏] 长沙·井湾子 
+num_like: 7   forwardings: 0 comments: 6
+
+25:被爱的都是祖宗 
+num_like: 8   forwardings: 0 comments: 8
+
+26:你曾说你喜欢猫 猫是我的 你还能继续喜欢我吗 
+num_like: 4   forwardings: 0 comments: 0
+
+27:分享图片 
+num_like: 5   forwardings: 0 comments: 0
+
+28:浏阳焰火晚会 美到爆 长沙·花炮观礼台公交站 
+num_like: 4   forwardings: 0 comments: 7
+
+29:对 这就是我的上班加业务生活 长沙·浏阳市体育运动中心 
+num_like: 5   forwardings: 0 comments: 0
+
+30:关于吃喝玩乐 浏阳·美神广场 
+num_like: 9   forwardings: 0 comments: 0
+
+31:以前以为那些能一辈子陪我 天天念叨的某某某和某某某一个也没在身边了 浏阳·美神广场 
+num_like: 4   forwardings: 0 comments: 0
+
+32:跟谁舒服就跟谁在一起 无论友情还是爱情 浏阳·社港镇 
+num_like: 7   forwardings: 0 comments: 0
+
+33:在社港的墙绘与三国杀 浏阳·美神广场 
+num_like: 5   forwardings: 0 comments: 3
+
+34:好久不见的你与曾经的我们 长沙·君悦城 大润发商业广场 
+num_like: 8   forwardings: 0 comments: 4
+
+35:暑假生活开始了[害羞][哈欠] 浏阳市 
+num_like: 4   forwardings: 0 comments: 2
+
+36:再见了相互嫌弃的老同学 再见了来不及说出的谢谢 长沙·浏阳市仿古步行街 
+num_like: 6   forwardings: 0 comments: 0
+
+37:毕业快乐 秒拍视频 . 
+num_like: 3   forwardings: 0 comments: 0
+
+38:真想快点高考毕业 一切都快点快点吧 
+num_like: 6   forwardings: 0 comments: 0
+
+39:哈哈哈一考完就去玩的感觉真特么爽 看着天黑终于到了 临湘·长安街区 秒拍视频 . 
+num_like: 6   forwardings: 0 comments: 2
+
+40:分享这几天的生活（其实我天天在考试） 长沙·河西大学城 
+num_like: 4   forwardings: 0 comments: 4
+
+41:情人节快乐！没有花那就画一束花 [口罩] [眼泪] 长沙·长沙玫瑰园 
+num_like: 4   forwardings: 0 comments: 1
+
+42:迟早会有一个眼瞎的看上你然后对你好得没话说。 
+num_like: 6   forwardings: 0 comments: 0
+
+43:等风也等你 浏阳市 
+num_like: 4   forwardings: 0 comments: 0
+
+44:溜冰被我们包场了哈哈哈哈哈 浏阳·步行街 
+num_like: 0   forwardings: 0 comments: 1
+
+45:明天回家过年年后继续校校考 长沙·长沙玫瑰园 
+num_like: 5   forwardings: 0 comments: 0
+
+46:猜猜我在画谁 猜中了奖鞠钰乾壁咚一个[喵喵] 长沙·月亮岛 
+num_like: 4   forwardings: 0 comments: 6
+
+47:超级可爱就是有时候很凶抓的我满手呢血痕 长沙·长沙玫瑰园 秒拍视频 . 
+num_like: 2   forwardings: 0 comments: 0
+
+48:昨天晚上早早洗完澡坐在床上跟鞠钰乾视频 分享一张他的截屏[向右] [哆啦A梦微笑] 长沙·望城区 
+num_like: 6   forwardings: 0 comments: 0
+
+49:六年时间 三张试卷[拜拜] 长沙·罗家嘴 
+num_like: 5   forwardings: 0 comments: 1
+
+50:艺考加油 一月后见[祈祷] 浏阳·体育中心 
+num_like: 4   forwardings: 0 comments: 0
+
+51:没有你 良辰美景可与何人说 浏阳·体育中心 
+num_like: 4   forwardings: 0 comments: 0
+
+52:不要从别人的嘴里听说我 浏阳·美神广场 
+num_like: 15   forwardings: 0 comments: 2
+
+53:还记得那场音乐会的烟火还记得那个凉凉的深秋 还记得人潮把你推向了我 游乐场拥挤的时候 浏阳·美神广场 
+num_like: 6   forwardings: 0 comments: 0
+
+54:画了将近六个小时 浏阳·步行街 
+num_like: 5   forwardings: 0 comments: 0
+
+55:啊哈哈哈 浏阳·集里医院 
+num_like: 3   forwardings: 0 comments: 3
+
+56:很多时候都不尽如人意可总得微笑去面对 浏阳·步行街 
+num_like: 14   forwardings: 0 comments: 0
+
+57:我就是来秀友情的 还有一个手镯但被我带上了拍出来不好看 翠园路 
+num_like: 3   forwardings: 0 comments: 0
+

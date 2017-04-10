@@ -1,0 +1,7 @@
+user_info or user_nickname: mymymymymymimi
+user_id: 2438679064
+weibo_Num: 1
+Num_followings: 76
+Num_followers: 96
+
+weibo content: 

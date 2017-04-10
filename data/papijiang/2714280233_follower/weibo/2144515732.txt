@@ -1,0 +1,7 @@
+user_info or user_nickname: 罗健飞29114
+user_id: 2144515732
+weibo_Num: 0
+Num_followings: 5
+Num_followers: 1
+
+weibo content: 

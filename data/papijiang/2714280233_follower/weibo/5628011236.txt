@@ -1,0 +1,403 @@
+user_info or user_nickname: 猫步留爪
+user_id: 5628011236
+weibo_Num: 132
+Num_followings: 42
+Num_followers: 3
+
+weibo content: 
+1:论猫咪错误的打开方式，欢迎来到喵星人的逗逼世界[喵喵]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+2:国外网友用披萨逗家里哈士奇玩，为了吃到披萨，二哈化身忍者一点一点靠近，叼起披萨就跑，任主人怎么叫都不停！[doge]笑话，到二哈嘴里的东西怎么可能要回去...[摊手][哈哈]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+3:有些宠物都成精了，不自觉的看了好几遍家有一狗的秒拍视频（使用 #秒拍# 录制） 
+num_like: 0   forwardings: 0 comments: 0
+
+4:魔术师Simon用Ipad给黑猩猩各种变吃的出来，给它乐坏了。感觉小黑猩猩发现了一片新世界，想拜师！(FB:Simon Pierro)英国报姐的秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+5:这个叫penbeat，卧槽，太酷炫了，全程看手！！！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+6:治愈系动画短片《小红帽与狼》，人们常常被外表所欺骗，从而忽略掉 那些真真想要保护你的人[心] 秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+7:卧槽，一个逆天的广告，再忙，也要陪陪你爱的人！！！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+8:气球奇遇记！“爱笑的人运气都不会太差”！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+9:快乐就这么简单[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+10:一只棕色的肉团子，挺凶的，还咬人[喵喵]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+11:圆圈圈画一大波呆萌可爱神表情，喜欢简笔画手帐的童鞋收好~用画画来减压吧！~ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+12:有个主银出去旅行，然后他便把喵星人寄养在宠物酒店，当他去完旅行去接喵星人的时候，看到了这个景象。。。喵：''还以为你不要宝宝了，快回来帮朕铲屎！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+13:又是一个暴露年龄的视频，听过这些歌曲的人已经快奔3了吧，不过中间有个错误的地方 秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+14:【锅包肉】非常好吃的一道荤菜！赶紧把菜谱收好，送给吃肉的吃货们！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+15:小狗不慎掉入陡峭的大坑里，喵星人看到后勇敢的跳入坑内将它救起。。。。好暖心 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+16:这可能是狗狗最高难度的合影了，画风变得我猝不及防[doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+17:汪星人在教奶咪爬楼梯，看到小喵星人爬楼梯爬得这么辛苦，它便好心的把小喵星人给叼上去了。。。喵：''宝宝的发型都要被你叼坏了''(⊙﹏⊙)秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+18:【史上最全的生活技巧】40分钟的视频，整理了一些生活上最棒的技巧。值得收藏！[good]YouTube精彩视频的秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+19:[喵喵]竟敢动朕的小钱钱！微博视频  
+num_like: 0   forwardings: 0 comments: 0
+
+20:【20种方形简笔画！小动物们都好方 】由方形画出一个个可爱的小动物，马着教熊孩子！许小丫iamya的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+21:插画家Pic Candle一分钟教你画出30种简单又可爱的表情~！！简单又可爱，只要一分钟，收了学习吧！[赞]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+22:10种海绵宝宝的画法，卧槽，碉堡了，留着以后备用！！秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+23:泰国一个超火的MV《多少的爱都不要》，卧槽，泰国的MV拍的跟电视剧一样，女主看的大快人心！！！[doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+24:16岁的柴犬Shino患了老年痴呆，经常不自觉地抽搐，主人特地给它圈了一块地方，铺上软垫和毯子，以免它磕伤或摔伤，而以前特别傲娇的喵星人Kuu也察觉到了Shino的异样，几乎时时刻刻在边上守着…喵：我从来没有真的讨厌你，你快好起来行吗？好感人啊！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+25:《疯狂动物城》主题曲《Try Everything》超好听！大胡子唱的好棒！纯人声唱  全球最电影的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+26:主人给阿拉买了新玩具，因为玩具跟狼一样还会狼嚎！阿拉特别生气吃醋，阿拉：我不要二胎，什么玩意！[嘻嘻]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+27:世界本来就该这样！曾风靡全球的一段视频《One Day》，耐心看完，你会感觉这世界真的太美好。微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+28:情侣朋友圈秀恩爱标准动作！甜翻了 单身狗慎点！ 
+num_like: 0   forwardings: 0 comments: 0
+
+29:爸爸会做特效，儿子会演，随便拍这么几个生活小视频，竟然比某些国产剧还好看，哈哈。[围观][围观] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+30:谢耳朵学说普通话，哎呀，吓死我了。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+31:妈妈总说我睡的跟死猪一样，于是我就拿这个视频给她看。。。太魔性了。。哈哈哈。 [笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+32:10种海绵宝宝的画法，太流弊了，留着以后备用！！！喜欢海面宝宝的果断get√秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+33:那些年陪我们长大的音乐 糗事大百科的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+34:快#过年#了，各种小偷正是冲业绩的时候，发组图警示大家加强防范小偷。[围观]转出去让更多人加强防范小偷意识。 
+num_like: 0   forwardings: 0 comments: 0
+
+35:汪星人：烟花才不是你们这样玩儿的！哈哈哈愚蠢的人类受死吧[笑cry] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+36:一只和兔子一起长大的汪星人，太魔性了。[doge] 全球热门搜罗S的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+37:狗狗得到救助变化惊人，多幸运，遇见你，愿每个生灵都被温柔对待。[心]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+38:这个世界远远比你想象中的更温暖。[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+39:这就是为什么我想做坏人的原因！很现实！共勉！！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+40:简单易学的30种手绘植物，这个很适合拿去教小朋友，建议留着，以后和孩子一起画起来！！！ [good]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+41:一部国产良心动画片，看完心里酸酸的，也许长大了才能体会！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+42:经典合集，都很牛[笑cry][笑cry][笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+43:年少时最熟悉的那些神曲！一边哼着听到了最后一秒，满满青春的回忆！[心]报新鲜的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+44:小盆友，我想拜你为师啊！最后的击掌太特么帅了！！！[doge]冷笑话精选的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+45:一位脑洞开得很大的艺术家tango，看完他的画感觉对这个世界有了比较不一样的 认识[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+46:21世纪全球最畅销单曲前100！简直是一波神曲大集合，Adele，Ariana Grande，Britney Spears，Bruno Mars，Beyonce，Coldplay，Eminem，Ed Sheeran，Justin Bieber，Katy Perry，Kesha，Maroon 5，Lady Gaga，One Direction，Rihanna，Taylor Swift等众多歌手均上榜！来看看这些红遍全球的神曲吧[色] 全文
+num_like: 0   forwardings: 0 comments: 0
+
+47:【贼拉逗！东北话十级神曲《全世界都在说东北话》】“你瞅啥拥物啥，瞅你咋的想噶哈”这不是要茬架. 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+48:3岁前提高智力的最佳方案，一定要收藏！ 
+num_like: 0   forwardings: 0 comments: 0
+
+49:天下武功，唯快不破！！别人家的狗又来啦~看，我会变魔术~哈哈哈~[二哈] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+50:吊炸天，感觉好爽！我也就看了10遍。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+51:现代舞,霹雳舞加机械舞，还有中国武术的味道在里面，每个人的舞蹈掌控都特别好，整体动作流畅协调，好帅啊[good]牛逼666！  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+52:当扫地机器人遇上连屁股都懒得挪的小狗时，“看在你萌的份上，我走～秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+53:假装自己是玩具的狗狗，真是萌炸了！[太开心]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+54:主人拿出根骨棒，二哈直接进入了瞬间移动模式……说出来你可能不信，我是一只忍者哈……[doge] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+55:愿所有需要家和爱的狗狗，都能被温柔以待秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+56:别人家的磨人小妖精秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+57:哈哈哈哈最后詹姆斯直接懵了……你玩我呢吧？！我可没你那么长的腿？！掉水里可咋整…[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+58:哈哈哈狗力倒车雷达……严谨、热情并且很专业……[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+59:陛下的谜之高冷：呵呵，果然是没见过世面的兔子呢……[喵喵] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+60:人生不作死，那和咸鱼还有什么区别！哈哈哈哈哈根本停不下来 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+61:当喵星人遇到乌龟之后......  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+62:手写臂，瞬间我就爱上了这个发明，感觉太爽了！这视频我能看一天！[doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+63:“爸爸是个骗子（一则风靡全球的短片）” 最神奇的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+64:狗狗：你这该死的木头~[哼][哼]看了真叫一个着急[笑cry]智商是硬伤啊！[最右][doge]哈 哈 哈 哈 哈[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+65:汪：有鱼溺水了，我要去救他！[哆啦A梦吃惊]汪：我好腻害[芒果得意]鱼：妈的智障！[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+66:世界上最动听的话不是“我爱你”，而是 “走 带你去吃肉！” 
+num_like: 0   forwardings: 0 comments: 0
+
+67:生活坏到一定程度就会好起来，挺一挺，就过去了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+68:宫保鸡丁，糖醋里脊，鱼香肉丝，牛肉饭，土豆丝，溜肉段，孜然鸡胗，红酒小土豆，豆腐炒苦瓜，想学的赶紧get！ 
+num_like: 0   forwardings: 0 comments: 0
+
+69:面试经典问题要这样回答↓↓↓ 
+num_like: 0   forwardings: 0 comments: 0
+
+70:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+71:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+72:此视频对单身狗会造成10000点伤害，慎点。 微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+73:早上不想起床的你.[哈欠][哈哈][哈哈][哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+74:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+75:又是一波神配乐，太魔性了哈哈哈哈！那只鸭子被玩坏了秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+76:一段故事，一段情。慢慢看，你肯定会有心灵的触动。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+77:镜头下这位网友去巴哈马游玩的时候，她的手机不小心掉落在了水中。但没过多久一只海豚便叼着手机露出了水面，并且交还了手机。真是有爱的一幕 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+78:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+79:一条单身狗的歌声，这绝对是一只有故事的汪 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+80:看一次笑一次。羊与牛的决斗，这场面简直让人不忍直视！ 
+num_like: 0   forwardings: 0 comments: 0
+
+81:喂！等。。等等我，我还没有坐上去。。。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+82:泰国真实温情广告《在你的身上看到我的成长》,伟大的母爱秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+83:8分钟将10部好莱坞经典机器人电影连成一个故事，却毫无违和感，脑洞太大了[笑cry]秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+84:看完这些，才发现自己真的真的知道的太少了！！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+85:主银被一大群小汪星人攻击，感觉好像一团团小棉花糖啊。。。萌得不要不要 (((o(*▽*)o))) 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+86:周一上午，整个人状态如图[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+87:战五渣地球人与动物的日常……哈哈哈哈，弱爆了好嘛！ 
+num_like: 0   forwardings: 0 comments: 0
+
+88:#最萌大厨李云迪#睡姿太销魂了，一副懒到爽的脸[带感] 
+num_like: 0   forwardings: 0 comments: 0
+
+89:小羊羔掉进了水里受到了惊吓，一只小猪不慌不忙的游了过去，仿佛在说有我在。心都要化了 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+90:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+91:一只趴在地上吃东西的小汪星人，简直萌的不要不要的啊 
+num_like: 0   forwardings: 0 comments: 0
+
+92:【你从没见过的中国宣传片《Hi，I'm China》，5分钟震撼灵魂】你所站立的地方，正是你的中国；你怎么样，中国便怎么样；你是什么，中国便是什么；你有光明，中国便不黑暗。最神奇的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+93:妹纸独自一人在家里用手机玩自拍…结果屏幕里出现了一个陌生人影… 卧槽大上午的瞌睡都吓没了，挖掘机也吓的开翻了！！！！！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+94:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+95:2岁的小女孩一直说自己有男朋友，结果被爸爸泼冷水，这委屈的表情简直萌碎了！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+96:一个魔性的视频，自己都不知道为啥满足的笑了 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+97:一花一世界 一木一浮生 一吃一大碗 一睡一整天 
+num_like: 0   forwardings: 0 comments: 0
+
+98:点个餐都这么任性。。。[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+99:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+100:哪里有卖这样的机器人，被萌死了~哎呀，脚脚卡住啦！[哈哈] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+101:卧槽，配上这熟悉的旋律，居然毫无违和感！！！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+102:正在努力学习嚎叫的哈士奇宝宝，我觉得你将来一定可以成为一匹嚎声犀利的二哈呢秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+103:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+104:在家录视频记得关门，不然被哥哥看到。。。。 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+105:一只小博美听到电脑播放狼的嚎叫声，先是被吓退回到了狗窝，然后好奇的歪着小脑袋，最后鼓起勇气学叫了几声「 嗷呜～」...这小脑袋歪的，太萌了~[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+106:一个视频告诉你鹅的战斗力有多强，这特效满分！[doge] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+107:卖萌大赛，现在开始！ 
+num_like: 0   forwardings: 0 comments: 0
+
+108:老实交代，你是不是棉花糖派来的卧底！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+109:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+110:那些聪明、懂事的汪星人，都是别人家的！[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+111:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+112:贾乃亮、李小璐夫妻神配合，彻底笑尿了 馨爷你要挺住啊！！！ 秒拍的秒拍视频 更多明星小咖秀视频请猛戳[右边亮了][右边亮了]http://t.cn/R2LQNOK 
+num_like: 0   forwardings: 0 comments: 0
+
+113:【什么是好朋友？？】好朋友就是关键时候能帮你一把的人 
+num_like: 1   forwardings: 0 comments: 0
+
+114:好了主人，可以走了[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+115:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+116:做一只企鹅有多难你造吗！！脚下是冰！很滑哎！！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+117:打个喷嚏都这么魔性，吓死本宝宝了！哈哈哈太可爱！[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+118:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+119:无论多么庞大的身躯都抵不过喵星人的强大的气场[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+120:阿汪的球掉进了泳池，但是它又不敢游过去捡，犹豫了好久，最后智商爆表了。。。[哈哈] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+121:我感觉这围巾在她手里完全像拉面[拜拜]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+122:3分钟告诉你，我们的地球在什么位置，人类有多么渺小！！[吃惊]#喜剧班的春天# 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+123:奶奶带大的孩子果然都是多才多艺的，萌翻了[笑cry] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+124:一只小萌告诉你什么叫“吃奶的劲儿”，艾玛萌我一脸！[哈哈]微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+125:我不能接受这是翡翠……绝！对！不！（转） 
+num_like: 0   forwardings: 0 comments: 0
+
+126:史诗级说唱历史大战来了！！[笑cry][笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+127:家庭主妇型的狗狗，和哈士奇完全不同[doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+128:你知道在南极当一只企鹅有多难吗！[偷乐]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+129:武侠电影片段配上《难念的经》，看完让人感叹经典永远是经典，而时光却如流水般飞逝。。。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+130:男声演绎泰勒热单《I Knew You Were Trouble》 ，太帅！好听得不行！ #一起zuo的姐妹花#   秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+131:迪斯尼公主版撕逼大战，这节奏感简直了........[拜拜]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+132:茹凉，遇到这样的好男人就嫁了吧。。。 
+num_like: 0   forwardings: 0 comments: 0
+

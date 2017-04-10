@@ -1,0 +1,16 @@
+user_info or user_nickname: 你好早安ywy
+user_id: 1302344770
+weibo_Num: 3
+Num_followings: 35
+Num_followers: 68
+
+weibo content: 
+1:【中国人为外国人辱华洗白，连美国人都看不下去了！】希望大家在评论之前看完整个视频，感谢@KatAndSid 为我们科普在美国最常见的用来歧视中国人的言论，以及解释为什么这些言论十分具有挑衅意味。鳯凰視頻的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+2:这就是健身和不健身的差别，太触目惊心了！共勉！                                              秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+3:静静滴，走到下一个路口。。 
+num_like: 0   forwardings: 0 comments: 0
+

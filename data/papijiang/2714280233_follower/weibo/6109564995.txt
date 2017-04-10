@@ -1,0 +1,46 @@
+user_info or user_nickname: 唔里琛琛
+user_id: 6109564995
+weibo_Num: 13
+Num_followings: 112
+Num_followers: 55
+
+weibo content: 
+1:好了，过来抱抱[抱抱] 
+num_like: 1   forwardings: 0 comments: 0
+
+2:#每周读物##王小波，爱你就像爱生命#《爱你就像爱生命》“你好哇，李银河”王小波写过很多故事，写过很多爱情，写过很多甜言蜜语最好的，大概就是这一句了。 
+num_like: 1   forwardings: 0 comments: 0
+
+3:#小情书# 这些年听过无数的歌，可愿意分享的人只有你[心] 小情书lovote的秒拍视频 
+num_like: 2   forwardings: 0 comments: 0
+
+4:早上好呀!啊不对，中午好[太阳]#你是我看过最好的风景# 
+num_like: 2   forwardings: 0 comments: 0
+
+5:#晚安，行者# 
+num_like: 2   forwardings: 0 comments: 0
+
+6:初恋有什么重要啊此刻在身边的人才重要啊——《请回答1997》 
+num_like: 2   forwardings: 0 comments: 0
+
+7:英文influenza（流行性感冒）一词实际上的意思是“受到星星的不良影响” 
+num_like: 2   forwardings: 0 comments: 0
+
+8:心里有什么事就说出来吧！[心][心] 
+num_like: 1   forwardings: 0 comments: 0
+
+9:“喜欢一个不可能的人久了，好像就变成了一种日常的惯性喜欢， 然而到了最后，我们自己都分不清 是习惯 还是那种奋不顾身的感觉！ 
+num_like: 1   forwardings: 0 comments: 0
+
+10:不管多么深的爱 多大的努力都不能保证一定会幸福不要过度的美化爱——《圣女》 
+num_like: 1   forwardings: 0 comments: 0
+
+11:现实和理想差了十万八千里 我鞭长莫及 却又马不停蹄[心]#晚安# 
+num_like: 2   forwardings: 0 comments: 0
+
+12:#晚安，自己#都是小人物就别说大话了-------乘风破浪 
+num_like: 1   forwardings: 0 comments: 0
+
+13:大家好[doge] 
+num_like: 2   forwardings: 0 comments: 0
+

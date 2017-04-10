@@ -1,0 +1,370 @@
+user_info or user_nickname: 李慧家的小公举
+user_id: 2932237660
+weibo_Num: 129
+Num_followings: 155
+Num_followers: 66
+
+weibo content: 
+1:白猫浮绿水，红掌拨清波，这一定是个假猫！喵星人的喵星球的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+2:作为一只汪，不乖乖地狗刨，竟然还学会了蛙泳?![doge]让身为旱鸭子的同学们情何以堪！[哈哈]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+3:特别喜欢洗完澡澡的时候小猫贴着我嗅嗅嗅嗅嗅嗅[心]………虽然我觉得吧……她可能觉得我老掉进水里蠢得要死……[二哈]#这是小猫# 
+num_like: 0   forwardings: 0 comments: 1
+
+4:一个老奶奶给老爷爷变魔术，老奶奶说啥，爷爷都跟着重复一遍。最后魔术超精彩，老爷爷被吓得捂着小心脏！感觉是那种甜了一辈子，开心了一辈子的爱情。[心]英国报姐的秒拍视频 
+num_like: 0   forwardings: 0 comments: 1
+
+5:安徽一女子报警称自己的小猫掉进通风口，怕消防不出警，于是有了下面一段对话↓女子：那人你救不救？消防员：人？人肯定救啊！女子：那我钻进去，你们连人带猫一起救上来？消防员：哈哈哈……马上就去。小猫掉进通风口 主人报警求助逗乐消防员 你可能永远猜不到铲屎官会为了他的宠物做到何种地步[二哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+6:#好玩的表情包# 要饭表情包，被最后一张感动了 
+num_like: 0   forwardings: 0 comments: 0
+
+7:聊天套路表情包，防不胜防[doge]原图在评论里自取吧[偷乐] 
+num_like: 0   forwardings: 0 comments: 0
+
+8:女生出游，学会这几招，拍照美十倍！ 
+num_like: 0   forwardings: 0 comments: 0
+
+9:主银在洗手台帮喵星人洗澡，一切发展得太迅速，喵星人都懵逼了。。。喵：''朕要被煮了吗？''Σ(っ °Д °;)っ 
+num_like: 0   forwardings: 0 comments: 1
+
+10:猫咪为什么会忘记收回舌头？[喵喵]萌哭了啊啊啊啊啊啊啊！ #漫画# 
+num_like: 0   forwardings: 0 comments: 0
+
+11:有哪些水果搭配榨汁对身体最好，而且最好喝呢？ 
+num_like: 0   forwardings: 0 comments: 1
+
+12:【别再透支健康了，男人拼搏别拼命！】他是父亲、儿子、丈夫、朋友，是别人眼里的男子汉，也是家人眼中的顶梁柱。其实，他也很累，默默扛着生活的重担。国家卫计委数据显示，我国男性比女性的平均寿命短3-5年，这与不良的生活作息有很大关系。今天，把这份健康提醒转给你关心的他↓↓辛苦，保重！ 
+num_like: 0   forwardings: 0 comments: 2
+
+13:一波最近很火的猫表情包。 [喵喵]喜欢的赶紧收藏，这还有更多表情等着你哟 
+num_like: 0   forwardings: 0 comments: 1
+
+14:女儿被嫁到了农村，父亲婚礼讲话听哭了所有人！#来与本王一起乐起来##微博红人榜# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+15:有女朋友是一件多棒的事？ 
+num_like: 0   forwardings: 0 comments: 1
+
+16:月经期间杜绝的食物，转给你身边的女孩子吧！！！ 
+num_like: 0   forwardings: 0 comments: 1
+
+17:你的表情包里一定有这只扭屁股猫！更多的扭屁股来啦~~原来他的日常就是不断的扭屁股跳高...难怪屁股扭的如此熟练如此销魂~ 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+18:【陈奕迅串烧近30首经典！】台下张学友 周杰伦 莫文蔚都陶醉了！鸡皮疙瘩直起[可怜] 秒拍视频  
+num_like: 0   forwardings: 0 comments: 0
+
+19:这才是女生理想中的化妆台[doge] 
+num_like: 0   forwardings: 0 comments: 2
+
+20:听说岛国出了一款新甜品，柴犬小丸子[doge]这么可爱，你怎么吃得下[悲伤] 
+num_like: 0   forwardings: 0 comments: 1
+
+21:「叫板宜家！某宝有哪些性价比超高的家居店铺？」#收罗好店# #收物家居手册# 
+num_like: 0   forwardings: 0 comments: 0
+
+22:如图 
+num_like: 0   forwardings: 0 comments: 0
+
+23:不废话了，周末快乐，爱大家，看图吧！ 
+num_like: 0   forwardings: 0 comments: 0
+
+24:#吴磊LEO的红包#哟！2017伊始运气不错哦！我刚刚抢到吴磊LEO 和@天猫 发出的联手现金红包！你也快来领比比谁的红包更大吧~吴磊LEO 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+25:#尚雯婕的红包#Boomshakalaka！我在尚雯婕 的红包中抽到了@聚美陈欧 提供的“聚美百元礼包”，2017年的小惊喜！也许你的惊喜更大哦~尚雯婕 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+26:#酷派官方微博的红包#哟！2017伊始运气不错哦！我抽中了@酷派官方微博 的现金红包，你也快一起来比比谁的红包更大吧~酷派官方微博 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+27:【紫菜包饭的正宗做法】速速收了，需要的时候露一手，一定惊艳你的小伙伴们！ 
+num_like: 0   forwardings: 0 comments: 0
+
+28:#天猫超级品牌日#天上掉红包，不捡白不捡！ヽ(^。^)ノ我刚抢到@天猫 的现金红包喔~不要太幸运，你也别错过哇！天猫 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+29:朋友聚会总会有这样的自拍，总有心大的站第一个，仿佛看到了为显脸小往后躲的你[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+30:约会除了吃饭看电影还有其他项目吗？ 
+num_like: 0   forwardings: 0 comments: 0
+
+31:有哪些软件堪称「神器」，却不为大众所知？ 
+num_like: 0   forwardings: 0 comments: 0
+
+32:这次厉害了，做了个【家庭版牛油火锅】，吃了简直要升天，朋友说味道不输给店里的。在外面吃火锅虽然方便，但在家做的火锅，每一顿都会记得。冬天很短，有空试试吧。日食记的秒拍视频#一日一食一记# #吃货秀# @鲜城 
+num_like: 0   forwardings: 0 comments: 10
+
+33:如何用电饭煲做出超好吃的肉？之前吃了工作室老万做的【电饭煲猪蹄】后惊了，立马拍成了视频。等汁水凝成冻，挖一勺放在冒热气的米饭上慢慢融化，感觉活着真美好[喵喵]#一日一食一记##吃货秀# @鲜城 日食记的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+34:【房子要是这样装修】以后一定会后悔！过来人的经验之谈，学习了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+35:【3岁男童头上磕个包家长没在意 1天后突然昏迷后身亡】21日，3岁男童乐乐额头上不知何时磕了一个血包，由于孩子不哭不闹，照样玩耍，家人也没在意。22日晚，乐乐突然倒地昏迷。经查，乐乐右侧额颞顶部硬膜下血肿、颅内出血。虽全力抢救，但乐乐仍不幸离世。不料一天后，3岁男童突然昏迷平顶山晚报 宝宝受伤正确 全文
+num_like: 0   forwardings: 0 comments: 0
+
+36:为了感染弓形虫，我要以身试法去大口吃猫便便了... 
+num_like: 0   forwardings: 0 comments: 1
+
+37:【清蒸大闸蟹】在这个秋天，帅气的本老丘深情地邀你赴一场海鲜盛宴，历历万乡，你会发现，还是大闸蟹的味道最难忘，最勾人魂魄，最让人欲罢不能。其实吧，我就是螃蟹买了太多[doge] 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+38:这8种水果晚上不宜吃，喜欢也要戒口哦 
+num_like: 0   forwardings: 0 comments: 0
+
+39:【你真的会跑步吗？这样跑才正确】近日，北京一中年男子在朝阳公园夜跑时不慎跌倒，经抢救无效不幸身亡。夜跑，一定要注意安全！为了家人也为了自己，正确跑步，你还需要了解：跑步前要做哪些准备？什么时间跑更好？什么样的跑步姿势才不会受伤？跑步结束易犯哪些错？……戳图学习↓↓提醒爱运动的TA！ 全文
+num_like: 0   forwardings: 0 comments: 0
+
+40:【喝牛奶的这些误区，你知道吗？】近日，我国口岸检验检疫机构在多批次澳大利亚进口巴氏杀菌乳产品中发现不合格产品，国家认监委决定暂停该乳品企业在华注册资格，并加强相应后续监管。喝牛奶除了需要购买质量合格的产品，一些饮用的误区也不可忽视。戳图了解常见的喝牛奶误区↓↓转给爱喝牛奶的朋友！ 
+num_like: 1   forwardings: 0 comments: 2
+
+41:冰箱里的灯如果不是为了夜里吃东西准备的，难道是担心食物晚上怕黑[笑cry] 
+num_like: 1   forwardings: 0 comments: 0
+
+42:【烤土豆泥】把土豆弄成小小的花状，吃起来脆脆的，一级棒！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+43:酸奶这样喝，简直抵燕窝！ 
+num_like: 0   forwardings: 0 comments: 0
+
+44:#captain龙的红包#天上掉红包，不捡白不捡！ヽ(^。^)ノ我刚抢到captain龙 的现金红包喔~不要太幸运，你也别错过哇！captain龙 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+45:恋爱中男生应该知道的一些小道理。 
+num_like: 0   forwardings: 0 comments: 1
+
+46:一只全心全意看奥运比赛的喵星人.......喵：中国队加油~秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+47:这么多博主都在抽奖，那我们也来一发吧。同时关注我和@阿花花酱 ，并转花此微博，抽一个宝宝送【Prada CAHIER】秋冬新款的小牛皮斜挎包，颜色任选，七夕晚上开奖！ 
+num_like: 0   forwardings: 0 comments: 0
+
+48:【8条关于“招蚊子”的真相，你需要知道[doge]！】在讨厌夏天的n个理由中，蚊子绝对是其中之一。很多总被蚊子袭击的人会问：“为什么那么多人在一起，蚊子就咬我一个？”好吧，如果你或者身边的朋友有这样的遭遇，那么西妹儿就告诉你——为什么你更招蚊子[思考]？@华西都市报 
+num_like: 0   forwardings: 0 comments: 0
+
+49:转发加关注@疯一样得胖子 和@小二来一吨白菜 8月2号由@微博抽奖平台 抽一人，送出ysl圆管口红24只，包括了国内专柜的所有色号，中了就回家慢慢涂吧[哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+50:Modobag, 移动的行李箱，不光是能动，关键是能驼着人移动， 可USB充电，能充手机，带GPS定位系统，这呲溜溜的画风也是很迷醉。。 
+num_like: 0   forwardings: 0 comments: 0
+
+51:#最萌宠物# 这是Ins上的猫奴所养的喵星人家族太可爱了！[可爱] 
+num_like: 0   forwardings: 0 comments: 0
+
+52:爸爸和妈妈的区别…… 
+num_like: 0   forwardings: 0 comments: 2
+
+53:小编今天为大家带来新房装修十大技巧，保你既省钱实用又少走弯路，记得给我32个赞啊！ [羞嗒嗒][羞嗒嗒] 新房装修技巧 省钱实用少走弯路 
+num_like: 0   forwardings: 0 comments: 0
+
+54:熬过了异地恋，就是一生。[心]#九哥信箱# 
+num_like: 1   forwardings: 0 comments: 2
+
+55:一位颜值爆表的小公举[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+56:#情感名言#  如何最一对好夫妻~[good] 
+num_like: 0   forwardings: 0 comments: 0
+
+57:看看我们引以为傲的帅气外长！人格魅力爆表，有没有被帅到。http://t.cn/RyjcY5R 
+num_like: 1   forwardings: 0 comments: 0
+
+58:如果有一天我突然用很奇怪的内容联系你，记得来救我。。女性尤其要看看...（转） 
+num_like: 0   forwardings: 0 comments: 2
+
+59:黄渤庾澄庆《水手》串烧，卧槽，现场燃爆，跪着看完了~ [赞]秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+60:上海迪士尼即将开园，您有什么样的梦想想在里面完成呢？一次毕业旅行？一次浪漫求婚？一次寻找童年记忆的旅程？还是一家人其乐融融的家庭之旅？说出你的梦想，转发@3最亲近的人 并关注我们就有机会赢取上海迪士尼度假区门票助您造成梦想之旅！ 
+num_like: 0   forwardings: 0 comments: 0
+
+61:上海迪士尼即将开园，您有什么样的梦想想在里面完成呢？一次毕业旅行？一次浪漫求婚？一次寻找童年记忆的旅程？还是一家人其乐融融的家庭之旅？说出你的梦想，转发@3最亲近的人 并关注我们就有机会赢取上海迪士尼度假区门票助您造成梦想之旅！ 
+num_like: 0   forwardings: 0 comments: 0
+
+62:上海迪士尼即将开园，您有什么样的梦想想在里面完成呢？一次毕业旅行？一次浪漫求婚？一次寻找童年记忆的旅程？还是一家人其乐融融的家庭之旅？说出你的梦想，转发@3最亲近的人 并关注我们就有机会赢取上海迪士尼度假区门票助您造成梦想之旅！ 
+num_like: 1   forwardings: 0 comments: 2
+
+63:上海迪士尼即将开园，您有什么样的梦想想在里面完成呢？一次毕业旅行？一次浪漫求婚？一次寻找童年记忆的旅程？还是一家人其乐融融的家庭之旅？说出你的梦想，转发@3最亲近的人 并关注我们就有机会赢取上海迪士尼度假区门票助您造成梦想之旅！ 
+num_like: 0   forwardings: 0 comments: 0
+
+64:男女朋友最温暖的相处方式是什么？ 
+num_like: 0   forwardings: 0 comments: 1
+
+65:见过懒的，很少见到这么懒的。。。哈哈哈哈哈哈哈哈这姿势太销魂惹[笑cry] #汪星人日记# 
+num_like: 0   forwardings: 0 comments: 1
+
+66:#不可辜负的美食# 夏季快手凉菜之【姜末皮蛋】热情欢乐的夏季少不了朋友小聚，如果你能躲进厨房快速变出几道爽口讨喜的小菜，一定会让你变成聚会小明星，撩妹小高手[doge]，叔知道这就是你要的。皮蛋，爱他的欲罢不能，恨他的避之不及，但是作为夏季啤酒的最佳拍档，你值得拥有。#擀叔食谱# @鲜城 
+num_like: 0   forwardings: 0 comments: 0
+
+67:#重庆城食# 【干煸豆角】一道快手家常菜，做法很简单，非常下饭，好吃停不住，马了~[太开心] 
+num_like: 0   forwardings: 0 comments: 0
+
+68:神经质的喵星人，吓死本宝宝系列[笑cry][笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+69:【孕期营养补充时间表】0-8周补叶酸，防畸形；9-12周补镁和维生素A；13-16周补碘，胎儿甲状腺工作需要；17-20周维生素D和钙；21-24周补铁；25-28周补食物纤维，防便秘；29-32周补不饱和脂肪酸；33-36周补蔬果；37-40周补维生素B12和维生素K！好全！转走留住~ 
+num_like: 0   forwardings: 0 comments: 4
+
+70:摊上一个逗比主人也是够了哈哈哈哈哈哈[笑cry]  秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+71:汪星人散步的时候听到消防车的声音，然后，然后就模仿起来！现在的动物都怎么了！ 微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+72:【又一中国制造让人惊艳！不占车道，“最牛巴士”亮相】上层载客，下层架空，小汽车在它“肚里”穿行。近日，在第19届中国北京科技产业博览会上，“巴铁”成为焦点。它完全靠电力驱动，时速可达60公里，能容纳1200至1400人。预计投入运营后，可减少干道35%以上拥堵。“中国创造”集体亮相北京科博会 描绘未来生活图景你期待吗？ 
+num_like: 0   forwardings: 0 comments: 0
+
+73:给爸转 你知道戒烟的好处都有哪些吗？ 
+num_like: 1   forwardings: 0 comments: 0
+
+74:重庆真的太美了，不论白天黑夜[大哭] [图片来自lof 重慶物语] 
+num_like: 0   forwardings: 0 comments: 0
+
+75:5.11武汉宏兴球员场上照片和注册照片对比图。目前看来，14个人当中，将近一半相似度不高，疑似冒名顶替，已有部分球员被球迷认出了真身。具体像不像，各位看官自己来个“大家来找茬”吧。 
+num_like: 0   forwardings: 0 comments: 0
+
+76:国外网友路过一个“内有恶犬”的牌子，结果被里面一群“恶犬”给调戏了！[doge][笑cry] 秒拍视频 . 
+num_like: 1   forwardings: 0 comments: 0
+
+77:妈妈让喵星人去叫爸爸吃饭，喵瞬间就去拍爸爸肩膀去了...真是好乖啊，这喵没白养！[哈哈]秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+78:因为太阳的后裔而意外爆.红的旅游胜地——扎金索斯！已经成为2016年的新晋热.门蜜月地点，想浪漫的童鞋可以带着你的ta跟着宋仲基欧巴来这座岛！别只知道马尔代夫了，这里如痴如醉的景色胜过一万个撩妹技.能，送上超全的游玩资料，马住去玩！更多旅行攻略关··注@我是旅行攻略菌 
+num_like: 1   forwardings: 0 comments: 0
+
+79:有位网友家的汪星人犯错被罚站，这表情简直萌得心都化了， 好委屈啊！！！ 微博视频 
+num_like: 1   forwardings: 0 comments: 0
+
+80:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 1   forwardings: 0 comments: 0
+
+81:有人说俄罗斯人养猫是为了挖开挡门的雪……[笑cry][笑cry][笑cry] 
+num_like: 2   forwardings: 0 comments: 0
+
+82:猫咪被宝宝欺负后，它竟然这样反击。。。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+83:永远不要和打排球的人打篮球[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+84:我发起了一个投票 【#顺丰快递员被打#，你怎么看？】#顺丰快递员被打#，你怎么看？ 
+num_like: 0   forwardings: 0 comments: 0
+
+85:【福利抽奖】明天是猪可的森日，知道你们都很想要保护机机的那个贴纸，所以拿出两套超大整版贴纸出来抽奖，每版有60多枚贴纸，这种超大整版的我也就这么两套了，本来想自己留着的，不过拿出来送给喜爱猪可的你们也一样的哈哈~【抽2人】关注＋@ 三位好友+转发即可。明天晚上公布抽奖结果~不知道会猪落谁 全文
+num_like: 1   forwardings: 0 comments: 1
+
+86:#这次红包玩大了#跟我一起唱：恭喜恭喜恭喜我呀，恭喜恭喜我~我刚抢到@我的头好重啊啊啊 的新年红包喔，就喜欢这么有诚意的新年祝福！我的头好重啊啊啊 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+87:看到岛国的地铁欣慰了，外国的月亮也没有更圆嘛[doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+88:@李慧是个怪人_Eason不怪 给我配一个呗 
+num_like: 1   forwardings: 1 comments: 1
+
+89:完全停不下来！已被喵星人的腰摆臀给洗脑了[笑cry] 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+90:关于球员埃尔克森转会公告广州恒大淘宝足球俱乐部－关于球员埃尔克森转会公告 
+num_like: 0   forwardings: 0 comments: 0
+
+91:养了猫后再养只狗，这样喵星人就有床睡了[哈哈] 
+num_like: 1   forwardings: 0 comments: 2
+
+92:我正在看#网罗天下# 60秒挥40拳！喵星人将老虎玩偶视为威胁 用力攻击 @腾讯视频 @李慧是个怪人_Eason不怪 60秒挥40拳！喵星人将老虎玩偶视为威胁 用力攻击  
+num_like: 0   forwardings: 0 comments: 0
+
+93:走路界的四大天王到齐了：以为自己是狗的羊、以为自己是羊的犀牛、以为自己是贵妇的马、以为自己是马的喵 
+num_like: 2   forwardings: 0 comments: 1
+
+94:这就是吃货的爱情，电光火石间画风突变……谁让你有着令人情不自禁的颜……[笑cry]秒拍视频 
+num_like: 2   forwardings: 0 comments: 1
+
+95:今天最开心莫过于收到快递出发的消息了 
+num_like: 0   forwardings: 0 comments: 1
+
+96:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+97:不瞒你说，这个投篮我循环看了20遍[微笑]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+98:小动物打喷嚏瞬间，真是太蠢萌了，最后一张请勿打开！ 
+num_like: 1   forwardings: 0 comments: 0
+
+99:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 2
+
+100:爱你，爱李@李慧是个怪人_Eason不怪 
+num_like: 3   forwardings: 0 comments: 7
+
+101:#2015东亚杯#8月1日就将在武汉体育中心开幕啦！开幕式上，@王啸坤 领衔的中韩歌手将激情演唱！随后，朝日、中韩女足将献上两场精彩对决。关注@2015东亚杯武汉 ，@ 3名好友转发评论本条微博，10张门票等你来拿！ 
+num_like: 1   forwardings: 0 comments: 0
+
+102:被吓惨了是一种怎样的体验？哈哈哈哈哈哈笑疯掉了[笑cry]#就是这么搞笑# 
+num_like: 0   forwardings: 0 comments: 0
+
+103:世上最牢固的感情不是“我爱你”，而是“我习惯了有你”。彼此依赖，才是最深的相爱。 
+num_like: 1   forwardings: 0 comments: 7
+
+104:一张图讲明“大不列颠”，“联合王国”与“不列颠群岛”的区别。 
+num_like: 0   forwardings: 0 comments: 0
+
+105:分享一组以「礼让」为主题的表情包，转需！！！喜欢面瘫的表情[呵呵] 
+num_like: 0   forwardings: 0 comments: 0
+
+106:好朋友就是真正了解你，并在关键时刻会帮你一把的人。。。[太开心] 
+num_like: 0   forwardings: 0 comments: 0
+
+107:宝宝不慎掉到自家游泳池淡定自救！这让旱鸭子们情何以堪啊！[笑cry]微博视频 
+num_like: 9   forwardings: 7 comments: 4
+
+108:网友教你哄女朋友入睡的正确方式！卧槽好主意啊哈哈哈！[眼泪][眼泪][眼泪] 微博视频 
+num_like: 0   forwardings: 0 comments: 2
+
+109:大哥，我已经被你这高超的舞技惊呆了！我读书少，你不要骗我！[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+110:让你彻底。惊。呆。的魔术。。。。。/net 
+num_like: 1   forwardings: 0 comments: 1
+
+111:【全国白领平均月薪排行榜】近日，某大型招聘网站发布春季求职高峰期全国各城市平均薪酬排名，其中，上海以7214元的月薪高居中国各城市薪酬排行榜榜首，北京、深圳紧随其后。这次你拖后退了吗？ 
+num_like: 0   forwardings: 0 comments: 0
+
+112:史上最坑爹的电梯。。。 
+num_like: 0   forwardings: 0 comments: 1
+
+113:29岁生日快乐！勒布朗-詹姆斯！ 
+num_like: 0   forwardings: 0 comments: 0
+
+114:【雪花是什么形状的？】俄罗斯的学校助理Alexey Kljatov用普通照相机和微距镜头拍摄到了图案形状各异的雪花。。。看似千篇一律的雪花其实各有各的美！[雪] 
+num_like: 0   forwardings: 0 comments: 0
+
+115:不回短信的原因，你是哪一种呢？【转 
+num_like: 0   forwardings: 0 comments: 1
+
+116:没有人是生下来就懂得歧视（转 
+num_like: 0   forwardings: 0 comments: 0
+
+117:【南京！南京！】76年前的今天,1937年12月1日,日军下达进攻命令，南京笼罩在战火之中。8.1万中国守军殊死抵抗，伤亡惨重，“阵地上尸体堆了好几层”。13天后，南京沦陷，屠杀开始！整整6周，30多万中国军民惨遭杀戮。这是中国人血与泪的记忆，是人类文明史上的黑暗一页。历史不容遗忘，吾辈更当自强！ 
+num_like: 0   forwardings: 0 comments: 0
+
+118:看到一个员工只是想请一天假，被老板说得低头认错的全过程。 
+num_like: 0   forwardings: 0 comments: 0
+
+119:【可增高的七种食物】1每天3杯牛奶，不喜欢牛奶就喝酸奶吃奶酪；2每天吃一两个鸡蛋，不喜欢鸡蛋可多吃豆腐；3 黑大豆，可用花生替代；4沙丁鱼，更易消化吸收；5菠菜，不喜欢可用青椒替代；6橘子，利于钙吸收；7胡萝卜，可与苹果一起榨汁喝。转 推荐@小小的镜界  微相册http://t.cn/zRMN8Ms 
+num_like: 0   forwardings: 0 comments: 2
+
+120:【梅西5项纪录写进吉尼斯纪录】梅西就是一名为创造纪录而生的球员。近日，最新一期的《吉尼斯世界纪录大全》即将在10月15号出版，其中还...http://t.cn/zR4tEKW  
+num_like: 0   forwardings: 0 comments: 0
+
+121:LZ第二次发，早上起来看到的，笑死我樂，看到它们我就觉得机会来啦，这还能不过嘛  来自@百思不得姐应用  http://t.cn/zQe1jp8 
+num_like: 0   forwardings: 0 comments: 0
+

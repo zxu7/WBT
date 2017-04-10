@@ -1,0 +1,28 @@
+user_info or user_nickname: 小可爱的KiKi
+user_id: 5023736434
+weibo_Num: 7
+Num_followings: 287
+Num_followers: 581
+
+weibo content: 
+1:感觉自已没睡醒 
+num_like: 11   forwardings: 0 comments: 13
+
+2:@电影西游伏妖篇 电影很好看，整个电影很搞笑，星爷和徐克联手就是不一样，@Mr_凡先生 唐僧在里面很萌呢[太开心]，哈哈就是可怜了孙悟空[笑cry]@林更新 
+num_like: 3   forwardings: 0 comments: 0
+
+3:#李小璐的红包#Boomshakalaka！我在李小璐Super璐 的红包中抽到了@让红包飞 提供的“旺仔财神卡”，2017年的小惊喜！也许你的惊喜更大哦~李小璐Super璐 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+4:[困][睡][摊手] 
+num_like: 9   forwardings: 0 comments: 5
+
+5:随便发发 
+num_like: 8   forwardings: 0 comments: 9
+
+6:分享图片 
+num_like: 8   forwardings: 0 comments: 0
+
+7:[太阳] 
+num_like: 12   forwardings: 0 comments: 6
+

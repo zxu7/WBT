@@ -1,0 +1,31 @@
+user_info or user_nickname: 大喜子biu
+user_id: 1608833982
+weibo_Num: 8
+Num_followings: 140
+Num_followers: 41
+
+weibo content: 
+1:还不起床还不起床!! 
+num_like: 0   forwardings: 0 comments: 0
+
+2:【2分钟虐腹计划，专减肚子肥肉】就算身体被掏空，也要坚持锻炼。一套动作，强力燃烧腹部脂肪，男女通用！每个动作15-20次，重复3组，连续坚持10天就能感觉到腹部变得紧实。现在开始练，5月告别大肚腩！人民日报的秒拍视频（健身君） 
+num_like: 0   forwardings: 0 comments: 0
+
+3:元气少女赖床记[喵喵] 
+num_like: 0   forwardings: 0 comments: 0
+
+4:快来抓我呀！ 
+num_like: 0   forwardings: 0 comments: 0
+
+5:看了日版的嫌疑人X的献身!!!简直不要太震撼!放张汤包压压惊哼！ 
+num_like: 0   forwardings: 0 comments: 0
+
+6:还能再战五百年! 
+num_like: 0   forwardings: 0 comments: 0
+
+7:嘻嘻哈哈嘿嘿吼吼~ 
+num_like: 0   forwardings: 0 comments: 0
+
+8:蓝天 白云[白云] 
+num_like: 0   forwardings: 0 comments: 0
+

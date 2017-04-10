@@ -1,0 +1,52 @@
+user_info or user_nickname: _薛之谦·
+user_id: 3869171735
+weibo_Num: 15
+Num_followings: 417
+Num_followers: 143
+
+weibo content: 
+1:一绿爆红#一绿爆红# 
+num_like: 2   forwardings: 0 comments: 0
+
+2:小时候家里穷.一年只能吃两次肯德基.每顿不能超过20块钱.想多要一对鸡翅我爸爸都会挥拳.吃完盒子都舔.下楼时连扶手都舔.每到深夜我都会祈祷.希望有一天肯德基爷爷是我爷爷.希望以后我吃肯德基不要钱.今天梦想成真了.我.为肯德基代言. 牛油果香辣鸡腿堡 #一绿爆红# @肯德基 肯德基KFC的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+3:你们喜欢这个至尊宝吗[doge]喜欢点赞啊 
+num_like: 2   forwardings: 0 comments: 0
+
+4:以此纪念....我的十年.....还在陆续加场中.....愿我能到你的城市....当面感谢.... 你的陪伴..... 
+num_like: 0   forwardings: 0 comments: 0
+
+5:这首歌送给所有...为生活... 献出过自己的人.... 分享单曲高尚（@网易云音乐） 
+num_like: 0   forwardings: 0 comments: 0
+
+6:点赞这条微博的颜值越来越高了[doge] 
+num_like: 3   forwardings: 0 comments: 0
+
+7:听过薛之谦10首歌以上的点个赞[doge][doge][doge] 
+num_like: 6   forwardings: 0 comments: 0
+
+8:#吴亦凡的红包#boom boom boom！我在Mr_凡先生 的红包中抽到了“吴亦凡财神卡”！2017年的小惊喜！也许你的惊喜更大哦~Mr_凡先生 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+9:#李易峰的红包#boom boom boom！我在李易峰 的红包中抽到了“李易峰财神卡”！2017年的小惊喜！也许你的惊喜更大哦~李易峰 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+10:#杨幂的红包#boom boom boom！我在杨幂 的红包中抽到了“杨幂财神卡”！2017年的小惊喜！也许你的惊喜更大哦~杨幂 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+11:#范冰冰的红包#boom boom boom！我在范冰冰 的红包中抽到了“范冰冰财神卡”！2017年的小惊喜！也许你的惊喜更大哦~范冰冰 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+12:#范冰冰的红包#Boomshakalaka！我在范冰冰 的红包中抽到了@微博会员 提供的“50元会员红包”，2017年的小惊喜！也许你的惊喜更大哦~范冰冰 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+13:#范冰冰的红包#Boomshakalaka！我在范冰冰 的红包中抽到了@理财平台 提供的“188元理财大礼包”，2017年的小惊喜！也许你的惊喜更大哦~范冰冰 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+14:#M鹿M的红包#Boomshakalaka！我在M鹿M 的红包中抽到了@让红包飞 提供的“限量版财神卡-要”，2017年的小惊喜！也许你的惊喜更大哦~M鹿M 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+15:#M鹿M的红包#Boomshakalaka！我在M鹿M 的红包中抽到了@让红包飞 提供的“限量版财神卡-更”，2017年的小惊喜！也许你的惊喜更大哦~M鹿M 的红包 
+num_like: 0   forwardings: 0 comments: 0
+

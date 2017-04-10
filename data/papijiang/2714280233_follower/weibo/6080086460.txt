@@ -1,0 +1,7 @@
+user_info or user_nickname: 蕾哈蕾L
+user_id: 6080086460
+weibo_Num: 0
+Num_followings: 66
+Num_followers: 8
+
+weibo content: 

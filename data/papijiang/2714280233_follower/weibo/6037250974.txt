@@ -1,0 +1,7 @@
+user_info or user_nickname: li-mei-feng
+user_id: 6037250974
+weibo_Num: 1
+Num_followings: 74
+Num_followers: 24
+
+weibo content: 

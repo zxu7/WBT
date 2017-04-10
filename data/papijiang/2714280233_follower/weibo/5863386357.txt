@@ -1,0 +1,7 @@
+user_info or user_nickname: 
+user_id: 5863386357
+weibo_Num: 0
+Num_followings: 0
+Num_followers: 0
+
+weibo content: 

@@ -1,0 +1,34 @@
+user_info or user_nickname: 2550712606zAHVs
+user_id: 5685428330
+weibo_Num: 9
+Num_followings: 91
+Num_followers: 3
+
+weibo content: 
+1:#TFBOYS快跑猎人来了# #TFBOYS三人同行# 【《全员加速中》前三期TFBOYS暖心细节大盘点】玩游戏都如此认真的你们，汗水、泪水和伤痕，一定不会辜负温暖善良的少年。期待你们接下来更精彩的表现。兄弟齐心，继续勇往直前吧[心] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+2:#1128易烊千玺的浪漫玫瑰园##1128我们从世界赶来# 这是一份来自油管平台上外国Reaction博主的生日礼物。是你通过你的优秀让越来越多的人认识到，遥远的东方有一个叫Qianxi的男孩。@TFBOYS-易烊千玺 一直以来，你有很多很多的粉丝，在全世界祝福着你。(片尾彩蛋&采编 by @大N_1128) 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+3:在韩国看到了wuli小王子～BTW哥们你为毛中分了[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+4: #全员即刻加速1128迈#  #全员加速中# 分享一个男孩子爽朗的笑声 @TFBOYS-易烊千玺  看完这个笑再去看看他的舞蹈，你就知道舞蹈链接→秒拍视频 神马叫做！反！差！萌！ 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+5:#1128易烊千玺的浪漫玫瑰园# 拍了个有点儿矫情的视频，还有瑕疵，但就怕时间来不及。每次提起想对你说的话，比起喜欢你，更多的是谢谢你。总的来说，生日快乐，易烊千玺。@TFBOYS-易烊千玺 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+6:世界上有那么多的玫瑰花，但是只有你们是一直陪伴在我身边，我们相互灌溉。来自B612星球的#小王子来了# 我是你们的      _________ 
+num_like: 0   forwardings: 0 comments: 0
+
+7:九百万粉丝福利来咯～这次不像800w那么傻了，分享一组两周年前夜兴奋的睡不着的我[doge]谢谢大家的关注[鼓掌] 
+num_like: 0   forwardings: 0 comments: 0
+
+8:大家好，高中生易烊千玺报道！这边风景不错，只是高一了书包好像更沉了[挤眼] 
+num_like: 0   forwardings: 0 comments: 0
+
+9:#易烊千玺# 工作手记更新[泪][泪][泪][泪][泪] 
+num_like: 0   forwardings: 0 comments: 0
+

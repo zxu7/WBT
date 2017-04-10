@@ -1,0 +1,13 @@
+user_info or user_nickname: 娜只烊
+user_id: 5227573473
+weibo_Num: 2
+Num_followings: 95
+Num_followers: 94
+
+weibo content: 
+1:沉迷学习日渐消瘦 
+num_like: 1   forwardings: 0 comments: 1
+
+2:You should get used to everyone's sudden departure.[太阳] 
+num_like: 2   forwardings: 0 comments: 2
+

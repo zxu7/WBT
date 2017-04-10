@@ -1,6 +1,8 @@
 import re
 import os
+import numpy as np
 import requests
+import time
 from lxml import etree
 import traceback
 import unicodecsv
@@ -20,7 +22,7 @@ def counted(f):
     return wrapped
 
 
-class Weibo(object):
+class WeiboScrape(object):
     _info_url = 'http://weibo.cn/%d/info'
     _filter_url = 'http://weibo.cn/u/%d?filter=%d&page=1'
     _page_url = 'http://weibo.cn/u/%d?filter=%d&page=%d'
@@ -32,6 +34,7 @@ class Weibo(object):
     # initialize weibo parameters
     def __init__(self, filter=0):
         self.filter = filter
+        self.start_time = datetime.utcnow()
 
     # start scrapping
     def scrap_user(self, user_id):
@@ -61,7 +64,7 @@ class Weibo(object):
         try:
             url = self._info_url % user_id
             html = self.weibo_request(url)
-            # self.check_requests_time()
+            self.check_requests_time()
             selector = etree.HTML(html)
             userName = selector.xpath("//title/text()")[0]
             self.userName = userName[:-3].encode('gbk')
@@ -75,7 +78,7 @@ class Weibo(object):
         try:
             url = self._filter_url % (user_id, self.original_weibo_filter)
             html = self.weibo_request(url)
-            # self.check_requests_time()
+            self.check_requests_time()
             selector = etree.HTML(html)
             pattern = r"\d+\.?\d*"
 
@@ -105,7 +108,7 @@ class Weibo(object):
         try:
             url = self._filter_url % (user_id, self.original_weibo_filter)
             html = self.weibo_request(url)
-            # self.check_requests_time()
+            self.check_requests_time()
             selector = etree.HTML(html)
             if not selector.xpath('//input[@name="mp"]'):
                 pageNum = 1
@@ -115,7 +118,7 @@ class Weibo(object):
             for page in range(1, pageNum + 1):
                 url2 = self._page_url % (user_id, self.original_weibo_filter, page)
                 html2 = self.weibo_request(url2)
-                # self.check_requests_time()
+                self.check_requests_time()
                 selector2 = etree.HTML(html2)
                 info = selector2.xpath("//div[@class='c']")
                 if len(info) > 3:
@@ -165,7 +168,6 @@ class Weibo(object):
             :param save_to_csv: whether save the results to csv file
             :return: None
         """
-        start_time = datetime.utcnow()
         print("get userId %s following's information..." % user_id)
         followings = self.get_following_info(user_id, to_csv=save_to_csv)
         folder_name = '{}_following'.format(user_id)
@@ -188,8 +190,7 @@ class Weibo(object):
             if ticker % 10 == 0:
                 print("{} of {} followings' weibo posts parsed...".format(ticker, len(followings)))
         os.chdir('..')
-        print(datetime.utcnow() - start_time)
-
+        print(datetime.utcnow() - self.start_time)
         print ("%s weibo requests have been called in total" % self.weibo_request.calls)
 
     def get_following_info(self, user_id, to_csv=False):
@@ -201,7 +202,7 @@ class Weibo(object):
         following_url = self._following_url % (user_id, 1)
         # number of followers
         html = self.weibo_request(following_url)
-        # self.check_requests_time()
+        self.check_requests_time()
         selector = etree.HTML(html)
         selector_span = selector.xpath("//span[@class='tc']")
         nb_following = int(re.findall(r"\d+\.?\d*", selector_span[0].text)[0])
@@ -213,7 +214,7 @@ class Weibo(object):
         for page in range(1, pages+1):
             url = self._following_url % (user_id, page)
             html = self.weibo_request(url)
-            # self.check_requests_time()
+            self.check_requests_time()
             selector = etree.HTML(html)
             # all td tags
             selector_tdtag = selector.xpath("//td[@valign='top']")
@@ -246,16 +247,14 @@ class Weibo(object):
                 print("file {} created...".format(csv_filename))
         return following_info
 
-    # def check_requests_time(self):
-    #     """
-    #     make sure the request frequency is under 900 requests/hour
-    #     :return:
-    #     """
-    #     time_elapsed = datetime.utcnow() - self.start_time
-    #     req_time_ratio = self.num_requests/time_elapsed
-    #     if req_time_ratio > 900/3600: # 900 requests per hour
-    #         time.sleep(3600/900*self.num_requests-time_elapsed)
-    #     return None
+    def check_requests_time(self):
+        """
+        make sure the request frequency is under 200 requests/hour
+        """
+        time_elapsed = (datetime.utcnow() - self.start_time).total_seconds()
+        req_time_ratio = self.weibo_request.calls / time_elapsed
+        if req_time_ratio > 200/3600:
+            time.sleep(3600/200*self.weibo_request.calls-time_elapsed + abs(np.random.normal(0, 1)))
 
     ''' Save restuls in TXT file'''
     def save_results(self, user_id):
@@ -289,7 +288,7 @@ class Weibo(object):
 if __name__ == "__main__":
     user_id = 1917901324
     post_filter = 0
-    wb = Weibo(post_filter)
+    wb = WeiboScrape(post_filter)
     wb.get_1stlayer_info(user_id, threshold=3000)
 
     print('username: ', wb.userName.decode('gbk'))  # need to decode to 'gbk' to display chinese

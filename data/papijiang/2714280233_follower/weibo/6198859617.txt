@@ -1,0 +1,7 @@
+user_info or user_nickname: 长草的皮卡丘
+user_id: 6198859617
+weibo_Num: 1
+Num_followings: 24
+Num_followers: 7
+
+weibo content: 

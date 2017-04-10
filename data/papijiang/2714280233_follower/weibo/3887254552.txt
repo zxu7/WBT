@@ -1,0 +1,49 @@
+user_info or user_nickname: 孙明喆-
+user_id: 3887254552
+weibo_Num: 17
+Num_followings: 203
+Num_followers: 971
+
+weibo content: 
+1:往事隨風.心隨你動 
+num_like: 7   forwardings: 0 comments: 3
+
+2:@黄晓明 #黄晓明# 晓明哥我是黄小明[喵喵] 
+num_like: 10   forwardings: 0 comments: 1
+
+3:為什麼？我連猜也不想猜！ 
+num_like: 2   forwardings: 0 comments: 0
+
+4:2017 RWB Porsche Tokyo Meet [闪电] 秒拍视频 . 
+num_like: 1   forwardings: 0 comments: 0
+
+5:如何做到心口不一手脑不一全身心都在违背自己的嘴做事情我想那就是一个人最大的良善？ 
+num_like: 3   forwardings: 0 comments: 0
+
+6:分享新鮮事..... 秒拍视频 . 
+num_like: 5   forwardings: 0 comments: 0
+
+7:. 秒拍视频 . 
+num_like: 1   forwardings: 1 comments: 0
+
+8:ye 
+num_like: 4   forwardings: 0 comments: 3
+
+9:@张一山 嘻嘻嘻刘星 秒拍视频 . 
+num_like: 5   forwardings: 0 comments: 1
+
+10:@edc陳冠希 正式签约摩登天空。作为中文Hip Hop音乐与潮流文化推广的先驱人物，陈冠希与摩登天空在音乐创作的独立性和青年潮流文化的前瞻性上一拍即合，二者将联手创造更多可能。近期陈冠希正积极筹备全新国语Hip Hop专辑，不喜欢跟人废话的EDC要再次用音乐表达自己的态度。详情：http://t.cn/Rf9VOJZ 
+num_like: 1   forwardings: 0 comments: 0
+
+11:暖心与凄凉 
+num_like: 10   forwardings: 0 comments: 0
+
+12:热.静 
+num_like: 9   forwardings: 0 comments: 0
+
+13:据说男生都喜欢这样的姑娘。。。。 
+num_like: 4   forwardings: 0 comments: 0
+
+14:是你 
+num_like: 9   forwardings: 0 comments: 0
+

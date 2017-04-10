@@ -1,0 +1,58 @@
+user_info or user_nickname: 前后左右hy
+user_id: 1748907490
+weibo_Num: 18
+Num_followings: 77
+Num_followers: 347
+
+weibo content: 
+1:我参与了@人民日报 发起的投票 【调查：今晚，国足VS伊朗，能拿下吗？】，我投给了“没戏”这个选项。你也快来表态吧~调查：今晚，国足VS伊朗，能拿下吗？ 
+num_like: 1   forwardings: 0 comments: 0
+
+2:分享图片 
+num_like: 2   forwardings: 0 comments: 1
+
+3:高逼格[广告] 
+num_like: 0   forwardings: 0 comments: 4
+
+4:竟然要我看新聞才知道，我實在太傷心了[大哭]但怎樣也好，恭喜你們，祝福你們[爱心][男孩] 
+num_like: 1   forwardings: 0 comments: 0
+
+5:谢霆锋今天生日，分享这首《别来无恙》，处女座的小谢已经36岁，愈发成熟，拍电影，霸道总裁，厨房男神，虽很少唱歌，但我相信音乐在他心中肯定有不可替代的位置，听着过去的歌，忽然有种韶光流逝的美好错觉。 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+6:分享图片 
+num_like: 1   forwardings: 0 comments: 1
+
+7:有同感的举爪!!! 
+num_like: 0   forwardings: 0 comments: 2
+
+8:我要做车手 
+num_like: 0   forwardings: 0 comments: 4
+
+9:《速度与激情7》片尾曲《See You Again》MV大曝光！这个片段剪辑了片尾致敬保罗·沃克的部分。最后，大家看着保罗一家人快乐地在沙滩玩耍，发出会心一笑。而最后当保罗和范·迪塞尔各自驶离，MV泪点满满。看哭了！[泪]致敬【保罗·沃克】微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+10:见到男朋友时的你[doge] 
+num_like: 0   forwardings: 1 comments: 2
+
+11:@施唐WanJing [嘻嘻][嘻嘻][嘻嘻] 
+num_like: 3   forwardings: 0 comments: 5
+
+12:学不进去无非五个原因： 1，手里有个手机。 2，心里有个傻逼。 3，旁边有个逗逼。 4，智商不在服务区。5，窗外有台挖掘机。 
+num_like: 0   forwardings: 0 comments: 1
+
+13:始终抱着从一而终的美好念想@sundyou [月亮] 
+num_like: 1   forwardings: 0 comments: 7
+
+14:白云苍狗 
+num_like: 3   forwardings: 0 comments: 1
+
+15:[嘻嘻][嘻嘻][嘻嘻] 
+num_like: 3   forwardings: 0 comments: 1
+
+16:大王马上就要回山了[嘻嘻][嘻嘻][嘻嘻] 
+num_like: 3   forwardings: 0 comments: 0
+
+17:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+

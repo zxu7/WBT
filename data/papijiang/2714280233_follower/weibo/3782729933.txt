@@ -1,0 +1,55 @@
+user_info or user_nickname: 黄家有大宝
+user_id: 3782729933
+weibo_Num: 16
+Num_followings: 69
+Num_followers: 11
+
+weibo content: 
+1:做一个努力的人好处在于，人家见了你都会想帮你。如果你自己不做出一点努力的样子，人家想拉你一把，都不知你的手在哪里！ 
+num_like: 0   forwardings: 0 comments: 0
+
+2:我围观了@皮肤美容李远宏教授 的回答，该问题价值50.00元，围观仅1元，快来一起围观~ 微博问答:李教授，我想问下，我脸上的斑用什么方法能治好？？？ 
+num_like: 0   forwardings: 0 comments: 0
+
+3:#阿里小喵喵的红包#Boomshakalaka！我在阿里小喵喵 的红包中抽到了@粉丝夺宝 提供的“粉丝夺宝大礼包”，2017年的小惊喜！也许你的惊喜更大哦~阿里小喵喵 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+4:#实惠小宝贝的红包#Boomshakalaka！我在实惠小宝贝 的红包中抽到了@聚美陈欧 提供的“聚美百元礼包”，2017年的小惊喜！也许你的惊喜更大哦~实惠小宝贝 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+5:#SsssxLiv的红包#Boomshakalaka！我在SsssxLiv 的红包中抽到了@粉丝夺宝 提供的“粉丝夺宝大礼包”，2017年的小惊喜！也许你的惊喜更大哦~SsssxLiv 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+6:#範進入市的红包#Boomshakalaka！我在範進入市 的红包中抽到了@滴滴出行 提供的“滴滴贺岁感恩券”，2017年的小惊喜！也许你的惊喜更大哦~範進入市 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+7:#时空爱的红包#Boomshakalaka！我在时空爱 的红包中抽到了@众筹吧 提供的“众筹现金券”，2017年的小惊喜！也许你的惊喜更大哦~时空爱 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+8:#周华松的红包#boom boom boom！我在周华松 的红包中抽到了“松霖10元代金券”！2017年的小惊喜！也许你的惊喜更大哦~周华松 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+9:#nicole8926的红包#Boomshakalaka！我在nicole8926 的红包中抽到了@理财平台 提供的“188元理财大礼包”，2017年的小惊喜！也许你的惊喜更大哦~nicole8926 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+10:#阿希哥VCRUAN的红包#Boomshakalaka！我在阿希哥VCRUAN 的红包中抽到了@让红包飞 提供的“双鱼座财神卡”，2017年的小惊喜！也许你的惊喜更大哦~阿希哥VCRUAN 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+11:#杨坤的红包#Boomshakalaka！我在杨坤 的红包中抽到了@让红包飞 提供的“巨蟹座财神卡”，2017年的小惊喜！也许你的惊喜更大哦~杨坤 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+12:#郎平的红包#Boomshakalaka！我在郎平 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~郎平 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+13:老师你这样我看不起你，咱能有点骨气？ 秒拍视频 #新年乐不停# 
+num_like: 0   forwardings: 0 comments: 0
+
+14:差一点我们就没办法相遇 我居然看了好几遍！哈哈 看一遍笑一遍 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+15:能拿奖品这种事一定要和大家说一说的，否则以后还怎么在一起愉快的玩耍[酷]我正在领取#微博等级专享礼#，这里的奖品太给力了，快去试试人品吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+16:今天我的「微博等级」又升一级，记录一下我在微博的成就微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+

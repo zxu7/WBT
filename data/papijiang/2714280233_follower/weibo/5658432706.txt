@@ -1,0 +1,16 @@
+user_info or user_nickname: 冰的温度5658432706
+user_id: 5658432706
+weibo_Num: 3
+Num_followings: 112
+Num_followers: 25
+
+weibo content: 
+1:祝你生日快乐 
+num_like: 1   forwardings: 0 comments: 0
+
+2:19个深度清洁的小妙招，柠檬和醋几乎解决了一切！实用帖，转需[耶]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+3:分享图片 
+num_like: 1   forwardings: 0 comments: 0
+

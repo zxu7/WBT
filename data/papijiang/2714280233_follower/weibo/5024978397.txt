@@ -1,0 +1,7 @@
+user_info or user_nickname: 用户s6dach1wll
+user_id: 5024978397
+weibo_Num: 1
+Num_followings: 83
+Num_followers: 2
+
+weibo content: 

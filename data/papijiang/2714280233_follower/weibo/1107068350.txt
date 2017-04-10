@@ -1,0 +1,64 @@
+user_info or user_nickname: 楊豆豆L
+user_id: 1107068350
+weibo_Num: 21
+Num_followings: 41
+Num_followers: 8
+
+weibo content: 
+1:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+2:爱美必看！史上最全的个人护理手册，学会了想不漂亮都不行。[偷乐] 
+num_like: 0   forwardings: 0 comments: 0
+
+3:关于情感选择的九段话。人重要的是选择，你选择了什么人，就选择了什么样的生活~ 
+num_like: 0   forwardings: 0 comments: 0
+
+4:去哪儿员工发30薪，再撒10亿回馈用户，三位数起领，数到你手软！ 活动地址：http://t.cn/RAJaNLw //分享自@去哪儿网 客户端，下载地址: http://t.cn/zQ4Q2hx 
+num_like: 0   forwardings: 0 comments: 0
+
+5:【史上最简单易学的瘦 身瑜伽动作】瑜伽既可以瘦腰、美腿、美臀、塑型，又可以让身体筋骨越来越舒展，身体越加柔软！特别适合没时间去健身房和长期坐在电脑前的人。九个动作，每个拉伸30秒。绝对是姑娘们的最佳之选，许多艺人都是采取此法瘦下去的哦!  
+num_like: 0   forwardings: 0 comments: 0
+
+6:折腾头发的大礼包来啦~[xkl转圈][xkl转圈][xkl转圈] 
+num_like: 0   forwardings: 0 comments: 0
+
+7:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+8:我刚刚在#微博等级专享礼#中领取了由@快的打车 提供的打车现金券专享礼包[礼物]新等级华丽变身，iPhone6、拍立得、大牌明星签名礼、综艺门票、百万现金券…..人人升级有福利，让你任性让你high！[噢耶]快去领取你的等级专享礼吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+9:我多么希望能和你一辈子在一起，我多么希望，我的希望不要成为绝望。 
+num_like: 0   forwardings: 0 comments: 0
+
+10:【一个月减10斤的小动作】每个动作重复20次，给你漂亮身材。 不用控制食欲 ，但一定要坚持，每天每个动作做20次。（转） 
+num_like: 0   forwardings: 0 comments: 0
+
+11:巨蟹座——脾气来的快去的也快；巨蟹座——重感情，讲义气；巨蟹座——别人对她好，定加倍奉还的典型代表；巨蟹座——不计前嫌，容易哄；巨蟹座——单纯没心机；巨蟹座——喜怒言于表，不伪装；巨蟹座——做事雷厉风行，有效率！同意的巨蟹们转走！  
+num_like: 0   forwardings: 0 comments: 0
+
+12:得了一种聊天不配个表情就害怕思想表达不到位的毛病[呵呵] 
+num_like: 0   forwardings: 0 comments: 0
+
+13:【睡前吃什么容易胖，吃什么瘦】胖瘦只在一念间！到底哪些该吃哪些不该吃？po主为你整理了一个睡前食物红黑榜，乃们拿去看一下吧get√ 
+num_like: 0   forwardings: 0 comments: 0
+
+14:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+15:别人拥有的，你不必羡慕，只要努力，你也会拥有；自己拥有的，你不必炫耀，因为别人也在奋斗，也会拥有。多一点快乐，少一点烦恼，生活就是这么简单。 
+num_like: 0   forwardings: 0 comments: 0
+
+16:微博等级送礼啦，只要你升级就有福利享！我刚获得了@微彩票 提供的大乐透彩金，变身土豪就靠它了[酷]快去看看你的#微博等级专享礼#吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+17:我刚刚在#微博等级专享礼#中领取了由@微博会员 提供的“7天会员体验”专享礼包[发红包]这里人人升级有福利，让你任性让你high！快去领取你的专享礼吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+18:秒懂这是什么的高调转走(*/ω＼*) 
+num_like: 0   forwardings: 0 comments: 0
+
+19:曾经哭过笑过，曾经爱过恨过，曾经拥有过失去过 ，但只是曾经。从我遇见你的那一天起，我就在心里恳求你，如果生活是一条单行道，就请你从此走在我的前面，让我时时可以看到你；如果生活是一条双行道，就请你让我牵着你的手，穿行在茫茫人海里，永远不会走丢。#情感# 
+num_like: 0   forwardings: 0 comments: 0
+

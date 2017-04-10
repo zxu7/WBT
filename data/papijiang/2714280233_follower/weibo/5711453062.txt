@@ -1,0 +1,7 @@
+user_info or user_nickname: 亲亲肉肉耶
+user_id: 5711453062
+weibo_Num: 0
+Num_followings: 61
+Num_followers: 25
+
+weibo content: 

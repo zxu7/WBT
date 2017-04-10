@@ -1,0 +1,7 @@
+user_info or user_nickname: 阳光微凉888
+user_id: 6203969306
+weibo_Num: 0
+Num_followings: 84
+Num_followers: 6
+
+weibo content: 

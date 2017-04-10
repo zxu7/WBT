@@ -1,0 +1,13 @@
+user_info or user_nickname: 他很喜欢C罗
+user_id: 6029142581
+weibo_Num: 2
+Num_followings: 85
+Num_followers: 14
+
+weibo content: 
+1:哈哈哈哈哈哈哈哈哈哈哈像不像窗外班主任[二哈] 鹿晗式惊恐～～ 
+num_like: 0   forwardings: 0 comments: 0
+
+2:#陈伟霆南方有乔木#我有毒吧买什么书什么书拍电视[doge] 
+num_like: 0   forwardings: 0 comments: 0
+

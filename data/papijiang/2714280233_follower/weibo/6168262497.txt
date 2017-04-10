@@ -1,0 +1,7 @@
+user_info or user_nickname: 超可爱阿娇
+user_id: 6168262497
+weibo_Num: 0
+Num_followings: 12
+Num_followers: 4
+
+weibo content: 

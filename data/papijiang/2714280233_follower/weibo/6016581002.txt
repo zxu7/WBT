@@ -1,0 +1,34 @@
+user_info or user_nickname: 用户6016581002
+user_id: 6016581002
+weibo_Num: 9
+Num_followings: 61
+Num_followers: 10
+
+weibo content: 
+1:愿你成为一个懂事的男票，恋爱中该知道的一些小case。 
+num_like: 1   forwardings: 0 comments: 0
+
+2:奇葩贴！你最孤独的时刻是什么？卧槽，扎心了老铁！[微笑] 
+num_like: 1   forwardings: 0 comments: 0
+
+3:据说男生都喜欢这样的姑娘：愿好姑娘光芒万丈。[太阳] 
+num_like: 1   forwardings: 0 comments: 0
+
+4:卧槽！活着不好吗？[摊手]特别是最后一个[拜拜] 
+num_like: 1   forwardings: 0 comments: 0
+
+5:【奇葩帖】一句话的神评论，卧槽，扎心了老铁[二哈][二哈] 
+num_like: 1   forwardings: 0 comments: 0
+
+6:【十万网友晒温暖“奇遇”，你有没有被陌生人感动过？】近日微博搞笑排行榜一条“哪件事让你感受到，来自陌生人的感动”的微博引发关注。十多万评论，每条评论都是一个感人的故事，原来真的有人被这个世界温柔的爱过。那些陌生人在我们身边一闪而过，却带给我们了感动和欢乐……十万网友晒温暖“奇遇”，你有没有被陌生人感动过? 
+num_like: 1   forwardings: 0 comments: 0
+
+7:能拿奖品这种事一定要和大家说一说的，否则以后还怎么在一起愉快的玩耍[酷]我正在领取#微博等级专享礼#，这里的奖品太给力了，快去试试人品吧微博等级，升等级享好礼 
+num_like: 1   forwardings: 0 comments: 0
+
+8:今天我的「微博等级」又升一级，记录一下我在微博的成就微博等级，升等级享好礼 
+num_like: 1   forwardings: 0 comments: 0
+
+9:情侣之间恋爱初期和恋爱很久之后的变化，你们中枪了吗[doge]#笑话趣图大百科# 
+num_like: 1   forwardings: 0 comments: 0
+

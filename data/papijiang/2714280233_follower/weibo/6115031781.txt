@@ -1,0 +1,73 @@
+user_info or user_nickname: ffmmnn
+user_id: 6115031781
+weibo_Num: 22
+Num_followings: 176
+Num_followers: 6
+
+weibo content: 
+1:错误的撩妹示范：千万不要这样逗女生[摊手]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+2:当有负面情绪的时候，不要说。管好自己的嘴，有时候做哑巴，是一种境界。 . 
+num_like: 0   forwardings: 0 comments: 0
+
+3:【奇葩贴】好久没喝过如此美味的毒鸡汤了[doge]我干了你们随意[笑cry] #女生学化妆##初学者化妆教程##顶尖化妆视频# 
+num_like: 0   forwardings: 0 comments: 0
+
+4:卧槽，这游戏简直毁三观！！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+5:夭寿啦，这只车载语音成精了….[哆啦A梦吃惊]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+6:终于找到这个完整版，我就静静的看着你装逼[笑cry] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+7:外国蛋疼青年制作奇怪MV，在外国网站三天播放超过一千万。。我已经循环看了N遍，除了惊叹还是惊叹[赞]我的脑壳长了个包的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+8:家总要成，钱总要挣。奔走红尘，莫忘曾经是书生。        ——陈正宏 
+num_like: 0   forwardings: 0 comments: 0
+
+9:#低调炫技##搞笑小兵#迪拜交警这宣传片拍的，也没sei了！每次出警都是一次车展  笑话菌的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+10:#低调炫技##搞笑小兵#外国小哥用2000颗弹珠做了个可以演奏的巨型音乐盒，不就是膝盖吗？我都给你！  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+11:#低调炫技##搞笑小兵#学渣和学霸英语听力的区别，哈哈哈简直形象！  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+12:这个艺术品实在太赞了！流弊的不行 #低调炫技##搞笑小兵#.  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+13:原来八分音符可以这样解关，要笑岔气了[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+14:卧槽，编剧这是要上天啊！[哆啦A梦吃惊]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+15:涨知识：教你如何手绘制图！这是看到的最实用的视频了！[赞] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+16:卧槽 这样也可以！涨姿势了！[笑cry] 以饮水机里面的含菌量，吃完基本就进医院了。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+17:20种方形简笔画！由方形画出一个个可爱的小动物，春节快到啦，马着教熊孩子！#秀个假恩爱#  许小丫iamya的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+18:用一张memo纸叠出一只皮神，简直萌飞~(,,  ,,) 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+19:一个很火的鬼步舞，简单易学，卧槽，碉堡了，好帅！！！秒拍视频 .  
+num_like: 0   forwardings: 0 comments: 0
+
+20:卧槽，大写的服！满满的都是套路啊，涨知识了[doge]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+21:#吃在成都#【柠檬鸭胸清爽不油腻】[馋嘴]鸭肉先煎后烤，保持内部柔软多汁。将皮下脂肪用火力逼出来，只留下薄薄的一层油脂，配以柠檬的清新酸甜，口感味道层次丰富，又不会太过油腻，多吃两块也不怕长胖~[哆啦A梦微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+22:简单步骤教你叠出红玫瑰 ，碉堡了！赶紧get   秒拍视频 .  
+num_like: 0   forwardings: 0 comments: 0
+

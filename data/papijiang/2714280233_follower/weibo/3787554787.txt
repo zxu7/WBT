@@ -1,0 +1,364 @@
+user_info or user_nickname: 资源小能手s
+user_id: 3787554787
+weibo_Num: 126
+Num_followings: 188
+Num_followers: 100
+
+weibo content: 
+1:《星球大战外传：侠盗一号》 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+2:一只流浪猫遇到一只被遗弃的熊。“你也一个人吗？没关系，我陪你。” 有点心酸有点暖[悲伤][抱抱][抱抱] 
+num_like: 0   forwardings: 0 comments: 0
+
+3:自从有了这件衣服，吃饭都不要钱，进门直接把饭递给我 还叫我快点走！[眼泪][眼泪] 
+num_like: 0   forwardings: 0 comments: 0
+
+4:腐女福利：吸血鬼日记2极夜物语。 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+5:重庆马桑溪古镇 
+num_like: 0   forwardings: 0 comments: 0
+
+6:感动亿万人的视频。好好孝顺自己的母亲吧。 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+7:其实根本没有所谓的高冷，在你面前沉默寡言的人，在另一个人面前说不定会变成话唠，大多数人都可以在高冷和逗逼中随时切换毫不费力，区别在于你面对的人是谁。”所谓高冷，只是没敞开心扉的前奏……        早上好[可爱]  
+num_like: 0   forwardings: 0 comments: 0
+
+8:[火焰][火焰]她有最新影视资源，你想看的电视剧、电影、综艺还有其他的都可以找她     ～快去骚扰她 
+num_like: 0   forwardings: 0 comments: 0
+
+9:每天坚持这[9]件事，就会有越来越多的人喜欢你哦。[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+10:腐剧 
+num_like: 0   forwardings: 0 comments: 0
+
+11:#我与你的光年距离#我与你的光年距离已完结双结局[心][心]还没看的宝宝们速度来秒[色][色]一次看个够！ 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+12:#行尸走肉第七季第十三集#行尸走肉13已更新，看阿里尔跟亚伦射杀行尸……没看的速度！ 
+num_like: 0   forwardings: 0 comments: 0
+
+13:#电影喜欢你#那年夏天你去了哪里，金刚骷髅岛，铁道飞虎，健忘村，金刚狼3，极限特工3，莫斯科陷落，你好疯子，一狱一世界，奇异博士，老师也疯狂，希莉娅归来，阎王特工队，王者之剑，大闹天竺，摆渡人，西游伏妖篇，海洋奇缘，无间道，欢乐好声音，魔发奇缘，血战钢锯岭，三少爷的剑，我不是潘金莲， 全文
+num_like: 0   forwardings: 0 comments: 0
+
+14:#爱乐之城#给大家安利一部超级喜欢的电影《爱乐之城》！还没看的宝宝速度 
+num_like: 0   forwardings: 0 comments: 0
+
+15:#与你分享#一花一世界，一叶一菩提 
+num_like: 0   forwardings: 0 comments: 0
+
+16:#愿有人陪你颠沛流离#优酷独播（愿陪你颠沛流离）想看吗[色][色] 秒拍视频 . 
+num_like: 1   forwardings: 0 comments: 1
+
+17:[导演]精彩预告《美女与野兽》2017年3月17日美国、中国内地同步上映。影片改编自迪士尼的经典动画。 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 1
+
+18:#美女与野兽#[导演]精彩预告《美女与野兽》2017年3月17日美国、中国内地同步上映。影片改编自迪士尼的经典动画。 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+19:#因为刚好遇见你#晚点遇见你  余生全是你 
+num_like: 0   forwardings: 0 comments: 0
+
+20:高仿手表找smsc66888/【手】，放开了才明白拥有时的珍贵；泪，落下了才知道心真的会很痛；心，碎了才了解爱情带来的苦涩；爱，走了才清楚被爱抛弃的痛楚；在一段刻骨铭心的爱情中，我们曾开心过、快乐过、幻想过、幸福过。然而最终爱情还是由甜蜜变为伤疤，由亲密变为冷漠，由两个人的牵手变为无所谓的 
+num_like: 0   forwardings: 0 comments: 0
+
+21:#Voice#[导演]今日推荐【美人如玉剑如虹全集】又名战争与爱情年代情感战争剧。该剧以民族大义和兄弟情义为线索，讲述了温义和罗敷等一行人用青春热血捍卫革命的故事。 
+num_like: 0   forwardings: 0 comments: 2
+
+22:#最美那一刻#热爱生活 努力工作！ 
+num_like: 0   forwardings: 0 comments: 0
+
+23:#大量游客韩国拒下邮轮#霸气侧漏的中国人！[鼓掌][鼓掌][鼓掌][鼓掌][鼓掌] 
+num_like: 0   forwardings: 0 comments: 0
+
+24:[爱心发光]电影推荐：莫斯科陷落 ——战斗民族有拍大片的硬件，却没有讲故事的软件。视效堪比好莱坞，演员颜值还凑，片子某些方面同美式灾难片泾渭分明，不换是从群众的表现还是军队的动向。都非常俄罗斯。 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 1
+
+25:早上好[太阳] 
+num_like: 0   forwardings: 0 comments: 0
+
+26:[导演]推荐电影《招魂2》 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 1
+
+27:如何把一只松鼠变扁，哈哈太可爱了，好想试一下！[爱你] 
+num_like: 0   forwardings: 0 comments: 0
+
+28:3月10日更新推荐我的老婆是狐仙21恶魔少爷别吻我06黎明决战更新13missing9（完结）鸡毛飞上天更新13通灵之战17季04因为遇见你更新15樱桃小丸子更新12那片星空那片海（完结）更多精彩滴滴我[鼓掌][鼓掌][鼓掌] 
+num_like: 0   forwardings: 0 comments: 1
+
+29:哈哈我觉得好像是这样的！ 
+num_like: 0   forwardings: 0 comments: 0
+
+30:更新推荐：幻城凡世（完结）恶魔少爷别吻我0黎明决战更新11missing9更新16鸡毛飞上天更新11闪电侠更新15因为遇见你更新12樱桃小丸子更新11我与你的光年距离（完结）更多精彩滴滴我哦 
+num_like: 0   forwardings: 0 comments: 0
+
+31:能拿奖品这种事一定要和大家说一说的，否则以后还怎么在一起愉快的玩耍[酷]我正在领取#微博等级专享礼#，这里的奖品太给力了，快去试试人品吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+32:忽如一夜春风来，千树万树梨花开！ 
+num_like: 0   forwardings: 0 comments: 0
+
+33:【当心！吃了没洗的草莓，安徽两名儿童感染诺如病毒】上周末，合肥的郭女士带两个孩子到农场摘草莓。“老板说不打农药，可以免费试吃，所以孩子边摘边吃。”当晚，两个孩子就相继呕吐和腹泻，被诊断为感染诺如病毒。专家：每年11月到次年4月是诺如病毒高发季，吃瓜果前一定要洗！【注意】吃了草莓，合肥两儿童感染诺如病毒…… 
+num_like: 0   forwardings: 0 comments: 0
+
+34:                一个姑娘最酷的时候，        是该看书时看书，该玩时尽情玩，看见优秀的人欣赏，看到落魄的人也不轻视，有自己的小生活和小情趣，不用去想改变世界，        努力去活出自己。没人爱时专注自己，              有人爱时，有能力拥抱彼此。 
+num_like: 0   forwardings: 0 comments: 0
+
+35:是不是每个人都有一个【家里又有钱】【长得又好看】【还爱健身】的舍友[拜拜]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+36:你是要上天了2！（这种女人真是要血命[doge]）nG家的猫的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+37:一个人在宿舍，好无聊呀 
+num_like: 0   forwardings: 0 comments: 0
+
+38:男生没房没车你愿意跟他结婚吗？回答太现实！请看完...拜托啦学妹的秒拍视频  #女生节# 
+num_like: 0   forwardings: 0 comments: 0
+
+39:对某些人来说有周末是一种奢望[悲伤][悲伤]比如我！明天又要上班班！ 
+num_like: 0   forwardings: 0 comments: 0
+
+40:腐剧《着魔》1～4集完结！沉迷男色无法自拔！[鼓掌][鼓掌] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 2
+
+41:#2017奥斯卡# 获得本届奥斯卡最佳视觉效果奖的《奇幻森林》花费了整整3年时间，这部依靠强大CG效果的电影除了主演的小男孩，其他场景和动物几乎都是假的。来看看这些特效是怎么拍出来的。太强大了，厉害！（via Insider Video） 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 1
+
+42:[太阳] 科幻动作冒险巨制【最终幻想15:王者之剑】超清1080p，国内10号才上映，已有[酷][酷] 
+num_like: 0   forwardings: 0 comments: 0
+
+43:重庆洪崖洞，星期六人好多，一楼一楼的逛[太开心][太开心]遗憾的是光顾着吃忘了拍照了[悲伤][悲伤] 
+num_like: 0   forwardings: 0 comments: 0
+
+44:开了两个小时车 屁股好疼！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+45:中国股市沪综指周三连续第二日收高,受政策放松预期和房地产调控松动迹象刺激,地产股大幅上扬提振大盘收于2,400点上方.分析人士认为,场外资金料持续入市,股指短线继续上涨并测试前期高点2,478点可能性较大. 
+num_like: 0   forwardings: 0 comments: 0
+
+46:分享图片 黄家驹-海阔天空-t.cn/qsaf4 
+num_like: 0   forwardings: 0 comments: 0
+
+47:做人不要太过分管好你们家儿子'不要因为害怕就无辜的诋毁老子！要冤枉我就么被我晓得'不然么怪我闹得你们全家不得安宁贱就算了'不要太贱了！特别不要害我'我贱起来'你们hold不住的！诅咒那些冤枉我和相信冤枉话的人'不得善终 
+num_like: 0   forwardings: 0 comments: 0
+
+48:又见隧道…这个一千多米，刚才过的是两千多米，下一个隧道又有多长呢 
+num_like: 0   forwardings: 0 comments: 0
+
+49:总是有这样的感觉：一一会是个乖孩子。我们声音分贝都没高，也没给他使脸色，只是让他别那么做。一一就一脸委屈的嘴巴一瘪一抿，眼泪掉下来了。让人看了顿觉不舍。 
+num_like: 0   forwardings: 0 comments: 0
+
+50:人生一梦，白云苍狗。错错对对，恩恩怨怨，终不过日月无声、水过无痕。所难弃者，一点痴念而已！---何止一点痴念？ 
+num_like: 0   forwardings: 0 comments: 0
+
+51:全国人大常委会24日审议的出境入境管理法草案规定，国家建立统一的出境入境管理信息平台，实现有关管理部门信息共享。在普通签证类别中增加“人才引进”一类，以更好地吸引海外优秀人才。加大了对非法出入境或协助他人非法出入境，容留、藏匿非法入境的外国人，非法介绍、聘用外国人等行为的处罚力度。 
+num_like: 1   forwardings: 0 comments: 0
+
+52:我在这里: #昭觉寺#请副碗筷，当个干爹不易啊。 t.cn/zOPyRWX 
+num_like: 0   forwardings: 0 comments: 0
+
+53:乐一乐:公孙策舞文弄墨之后，总会惯性地轻舔笔头，有时嘴唇便不免沾墨泛黑，展昭第一次看见时，神色古怪。“公孙先生，展某有一问题不知当不当讲……” “展护卫但说无妨。”“你是不是刚亲了包大人？“”靠。” 
+num_like: 0   forwardings: 0 comments: 0
+
+54:我真的超級厭惡冬天！凍死我了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+55:恭喜来自玉林的陈女士获得第一台IPAD，撒花撒花~~今晚18:50都市剧场开播前会播出今天抽奖的精彩瞬间哦，锁定都市频道哦，才送出第1台，还有11台在等着大家哦，加油加油！ 
+num_like: 0   forwardings: 0 comments: 0
+
+56:一模考考试能力,二模考心理承受能力!多杯具 
+num_like: 0   forwardings: 0 comments: 0
+
+57:2小时前刚刚从树上摘下的洋槐花，加上鸡蛋清炒一下，清香无比。绝对的绿色无污染，无农药，无化肥，纯天然，超新鲜。 
+num_like: 0   forwardings: 0 comments: 0
+
+58:#先验后收很难实施#赶脚要看运气啦，不过有的东西你会当面拆开验收吗？ 
+num_like: 0   forwardings: 0 comments: 0
+
+59:奢侈品上帝肯定会原谅我的，因为那是他[给力]的职业。 
+num_like: 0   forwardings: 0 comments: 0
+
+60:奢侈品行[污]到水穷处，口渴；坐看云起时，头晕。 
+num_like: 0   forwardings: 0 comments: 0
+
+61:奢侈品 可以低调 的基础是随时都能高[威武]调。 
+num_like: 0   forwardings: 0 comments: 0
+
+62:奢侈品我爸面对我发胖一事发表了看法：没有韩红的命，还得了韩[挖鼻]红的病。 
+num_like: 0   forwardings: 0 comments: 0
+
+63:工程建设领域中出现的规避招标、串通投标、以他人名义投标等违法违规行为严重破坏建筑市场秩序，为工程质量和安全埋下隐患。为进一步规范房屋市政工程项目招标投标活动，住房城乡建设部近日出台相关指导意见，重点加强政府和国有投资房屋市政工程项目招标投标监管。 - 建设网   t.cn/zOlTCLs 
+num_like: 0   forwardings: 0 comments: 0
+
+64:教练会问，“如果不想焦虑，那你想要用什么感觉代替它呢？”或者“如不想对自己苛刻，那么你怎样对待自己？”或者“你不想见到同事就产生不愉快的感觉，那你喜欢见到同事时的感觉是什么呢？”大体上讲，客户追求一个正面成果要比教他逃避一个负面结果容易得多。——罗伯特·迪尔茨《从教练到唤醒者》 
+num_like: 0   forwardings: 2 comments: 0
+
+65:北阳台外的三枝槐树，抽芽不过半个月，叶子还嫩绿弱受似的，居然已经满树打起一串串花苞，最边上的那颗还全部开出了一挂挂小白花……在这个神奇的国度，是气候季节变了，地质水土变了，还是物种转基因了= = 
+num_like: 0   forwardings: 1 comments: 0
+
+66:娜是不能说的秘密 昨天看了电影《我的见鬼女友》，很俗套的恐怖+很俗套的搞笑+很俗套的浪漫，真爱拼接出的俗套还挺奇妙。希望有一个如此的男人这般对你，我才放心。 
+num_like: 0   forwardings: 1 comments: 0
+
+67:【乐昌25日天气】今天夜间到明天白天，我市阵雨转多云，北风1~2级，温度18~25℃，相对湿度45~85%，感觉较凉爽。 
+num_like: 0   forwardings: 1 comments: 0
+
+68:院子里的牡丹开得挺好其实。 
+num_like: 0   forwardings: 1 comments: 0
+
+69:药，药，切克闹！艾瑞巴蒂，黑喂够！你是我心中最美的云彩 
+num_like: 0   forwardings: 0 comments: 0
+
+70:我在这里:#DQ冰淇淋(东方店)#王府井敢少点人不？ t.cn/zOy0dY0 
+num_like: 0   forwardings: 0 comments: 0
+
+71:下午飲左杯豆漿就去運動.吾知系米咩都冇食所以打完羽毛球手軟腳軟. 出到體育場仲要落大雨冇的士系米感濕制阿 
+num_like: 0   forwardings: 0 comments: 0
+
+72:恶心的是东风的自主品牌风神A60，完全就是老轩逸的壳子，换个死难看的前大灯，再加个C5的后屁股。哎，如此悲哀！ 
+num_like: 0   forwardings: 0 comments: 0
+
+73:陈思成佟丽娅承认恋情了，祝福他们吧~~ 希望你们能够长长久久の嚄！！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+74:太佩服这个老师了，三个小时的课，中间只休息五分钟，讲起来滔滔不绝，不带停顿的 
+num_like: 0   forwardings: 0 comments: 0
+
+75:两岸的交流从版图上升到了意识形态。大陆人一直在主张马克思主义。两个台湾人默不做声。我们这些听众表示毫无压力。 
+num_like: 0   forwardings: 0 comments: 0
+
+76:还要个半钟就要起身,究竟训悟训好啊? 
+num_like: 0   forwardings: 0 comments: 0
+
+77:在合肥已经8家店了，这家厅比较多，停车也方便！地址位于凤凰城家景园渭河路上，它家最辣的也是最特殊的就是鸭五件，绝对滴好吃 
+num_like: 0   forwardings: 0 comments: 0
+
+78:念奴娇·妻亡后首次森林公园与诗友聚会    花前林下，总萦怀，刹那别情离绪。林荫道边青草地，曾与伊人闲聚。风景如前，繁华依旧，总觉无人语。清风无际，几丝白发飞舞。  ... ——看到蜀水钓客的博文《词曲  千秋岁引.寄娄季初》有感而发的评论。t.cn/zOpoUPc 
+num_like: 0   forwardings: 0 comments: 0
+
+79:发表了博文 《醉客的记忆》 - 当我开始做梦做到忘记了自己 庄周就开始讲蝴蝶的故事 并不是要让乏味的夜更加短浅 我拥有千里的光阴 万年的距离 只想要忘记白雪掩埋尸骨的凄寒 或许这凄寒的背后却是温暖依稀 t.cn/zOl8SAZ 
+num_like: 0   forwardings: 0 comments: 0
+
+80:迈阿密机场的装置（miami airport installation），由美国建筑师克里斯托弗·詹尼（christopher janney ）设计。该装置以“谐波衔接的声音”为主题，展示了一个互动的声音和灯光装置。 以色彩和声音创建不断变化的声波肖像。 
+num_like: 0   forwardings: 0 comments: 0
+
+81:我昨晚选片子选到晚上11点，直到实在熬不住，眼睛都睁不开。看在我这么辛苦的份儿上，如果我哪天木有更新，基本上是要么实在木有好片子，要么我还需要上班赚钱，要么我实在是想睡个懒觉偷会儿懒神马的。微博是我和大家交流的平台，所以原谅我把它放在比工作赚钱、做家务、睡懒觉更次要的位置。 
+num_like: 0   forwardings: 0 comments: 0
+
+82:认认真真地哭一次，认认真真的怀念一次。《A-Lin - 分手需要练习的 MV 完整版》 天生歌姬A-Lin第二波深情主打歌曲《分手需要練習的》演出: 彭于晏、柯佳嬿。由偲 菘老師擔綱製作，並由擅長描寫... t.cn/zOz0SMh  （分享自 土豆网音乐） 
+num_like: 0   forwardings: 0 comments: 0
+
+83:你讲比我听，仲有咩系可以食得架 
+num_like: 0   forwardings: 0 comments: 0
+
+84:玉++从来没有追杀过素还真和叶小钗！是派兵去请他们赴鸿门宴的！！你们这些只看过霹雳没看过霹雳王姐传奇的人不要满口乱喷！！碎岛永不覆灭，王树传统万世长存！小王子们快回碎岛再创王树霸业！延续霹雳之王树天下！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+85:【别墅与住宅】 一天，住宅（住债）说：你想不想别墅，我想，你敢？你若住进去就给你背一辈子的债！第二天，别墅（别疏）说：你想不想住宅 ，也想，你想？以后就和你永别，跟你疏远！哎~~那我不想别墅也不想住宅了，想家了可以吗？ 
+num_like: 0   forwardings: 0 comments: 0
+
+86:亲爱的 在这个之后发过三张 一张是勇敢孩子版 一张是一只猫的旅行 最后一张是 羽绒服 
+num_like: 0   forwardings: 0 comments: 0
+
+87:华盖九州，越千年，数番风雷激荡。际会嘉兴湖上客，红星照耀中国。肃贼荡寇，一统河山，换了新气象。雄鸡唱晓，抖擞傲东方。观今承荣盛德，六秩初度，屡见奇功惊世，和合立本昭宇内，灾煞安能撼众志。飞天揽月，屋脊漫步，有朋未来迟。万众击缶，环球同此律时。so~ 
+num_like: 0   forwardings: 0 comments: 0
+
+88:我承认，昨天是一边偷笑一边看完的比赛，这两位“左后卫”太强悍了，果断把他们调到左后卫位置踢了场实况。 
+num_like: 0   forwardings: 0 comments: 0
+
+89:【中国十大雄关--偏头关】于山西忻州，与宁武关、雁门关合称“三关”，因其地势东仰西伏，故名偏头关。 “雄关鼎宁雁，山连紫塞长，地控黄河北，金城巩晋强。”这是古人对偏头关的赞誉。“黄河曲曲涛西下，紫塞隆隆障北环”。明人崔镛的《偏头关》诗说明了偏头关在当时边防上的重要地位。 
+num_like: 0   forwardings: 0 comments: 0
+
+90:【必须要排毒的征兆】1.胃要排毒：舌苔发黄、口臭，好多人都感觉“吃不饱”；2.脾要排毒：面部长斑、白带增多；小肠要排毒：下巴出现痘痘；3.肾脏要排毒：面部或者身体水肿、疲倦感增加；4.心脏要排毒：溃疡长在舌头;5.肝要排毒：指甲上会有明显的信号。 
+num_like: 0   forwardings: 0 comments: 0
+
+91:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+92:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+93:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+94:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+95:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+96:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+97:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+98:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+99:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+100:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+101:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+102:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+103:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+104:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+105:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+106:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+107:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+108:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+109:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+110:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+111:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+112:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+113:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+114:#干杯欢聚这一刻！#曾经，看球时的激情、胜利后的狂喜，都有你相伴。因为有你，青春才更值得追忆。@俊佳雅淳1455 @高佳伟涵君松凡 一起来！快乐源于分享，碰撞才更快乐。青岛啤酒110周年派对盛大开启，即刻参加赢德国游。110年只为酿造好啤酒!  活动地址:http://t.cn/zQ2X2Vb   
+num_like: 0   forwardings: 16 comments: 16
+
+115:#干杯欢聚这一刻！#曾经，看球时的激情、胜利后的狂喜，都有你相伴。因为有你，青春才更值得追忆。@wuping455 @果果泉 一起来！快乐源于分享，碰撞才更快乐。青岛啤酒110周年派对盛大开启，即刻参加赢德国游。110年只为酿造好啤酒!  活动地址:http://t.cn/zQ2X2Vb   
+num_like: 0   forwardings: 0 comments: 0
+
+116:#干杯欢聚这一刻！#曾经，看球时的激情、胜利后的狂喜，都有你相伴。因为有你，青春才更值得追忆。@陈宝昇彦铭 @曾淑新67128 一起来！快乐源于分享，碰撞才更快乐。青岛啤酒110周年派对盛大开启，即刻参加赢德国游。110年只为酿造好啤酒!  活动地址:http://t.cn/zQ2X2Vb   
+num_like: 0   forwardings: 0 comments: 0
+
+117:#干杯欢聚这一刻！#曾经，看球时的激情、胜利后的狂喜，都有你相伴。因为有你，青春才更值得追忆。@张宗礼雅凤珊强 @杜思生珮乐嘉娟 一起来！快乐源于分享，碰撞才更快乐。青岛啤酒110周年派对盛大开启，即刻参加赢德国游。110年只为酿造好啤酒!  活动地址:http://t.cn/zQ2X2Vb   
+num_like: 0   forwardings: 0 comments: 0
+
+118:hello world. 
+num_like: 0   forwardings: 0 comments: 0
+
+119:hello 
+num_like: 0   forwardings: 3 comments: 3
+

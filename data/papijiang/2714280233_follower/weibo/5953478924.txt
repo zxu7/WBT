@@ -1,0 +1,325 @@
+user_info or user_nickname: w听风的声音08256
+user_id: 5953478924
+weibo_Num: 107
+Num_followings: 260
+Num_followers: 84
+
+weibo content: 
+1:乘法口诀还可以这样背，这个泰国女老师是个被数学耽误的舞蹈老师吧！[笑cry][笑cry]英国报姐的秒拍视频  晚安 
+num_like: 1   forwardings: 0 comments: 0
+
+2:这幅麻将有效的解决了牌友们沉迷麻将，运动不足的问题......不说了请给我来一幅！#被戳中了# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+3:#来自86君的礼物#有奖品这件事是要拿出来和大伙说说的，要不然心里堵得慌！我参加了活动“每天三次机会抽流量”，拼人品的时候到了！ 每天三次机会抽流量 
+num_like: 0   forwardings: 0 comments: 0
+
+4:【老师你出来，我要膜拜你，卧槽，请收下我的膝盖！】 老师你出来，我要膜拜你，卧槽，请收下我的膝盖！ 
+num_like: 0   forwardings: 0 comments: 0
+
+5:168cm妹纸们的穿搭[doge]舒服而简约 
+num_like: 0   forwardings: 0 comments: 0
+
+6:【纸币折出「我爱你」，情人节撩妹技能满分～】 阳光宽频网 
+num_like: 0   forwardings: 0 comments: 0
+
+7:预告九：2月10日上午10:10左右，有【moninft慕玲妃旗舰店】清爽柔亮控油洗发乳，两款组合任你选，2瓶洗发液780ml或洗发液390ml+115ml发膜，卷后只要9.9！约！！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+8:预告十：2月10日   上午10点，韩束专场：（1）玻尿酸面膜10片，卷后19.9，拍韩束玻尿酸面膜女补水保湿深层清洁控油收缩毛孔非美白淡斑化妆品（2）芦荟胶180g ，卷后15.9，拍韩束芦荟胶官方正品女祛痘淡化痘印补水保湿晒后修护舒缓面膜面霜（3）去角质，卷后15.9 ，拍韩束去角质女去死皮膏啫喱面部温和祛黑头全身温和补水凝胶磨砂膏（4）卸妆水320ml ，卷后25.9，拍韩束橄榄卸妆水温和深层清洁眼唇部脸部卸妆乳液淡妆卸妆油正品 
+num_like: 0   forwardings: 0 comments: 0
+
+9:这是一个连爹妈都靠不了的世界，到头来还是得靠自己 抚州·南城县 
+num_like: 0   forwardings: 0 comments: 0
+
+10:《神奇的孩子》彤宝暖心表白，女孩子做饭有妈妈的味道，谢娜都要感动哭了！[心] #爆笑生活# 爆笑小视频的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+11:不要以貌取人。。 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+12:精心为你们准备了一系列的过年表情包以及新年的重磅福利，希望你们能喜欢，鸡年大吉吧！ 
+num_like: 0   forwardings: 0 comments: 0
+
+13:#设计秀#水彩大神drawholic手绘作品！赞！ librier的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+14:装修最后悔的34件事，都是网友们的血泪史，必须收！ #皓伦王明川# 
+num_like: 0   forwardings: 0 comments: 0
+
+15:要么敢爱敢恨快意人生，要么没心没肺扮傻到底，别让自己活成了那种懂得很多道理却也过不好这一生的人。 
+num_like: 0   forwardings: 0 comments: 0
+
+16:#M鹿M的红包#Boomshakalaka！我在M鹿M 的红包中抽到了@让红包飞 提供的“处女座财神卡”，2017年的小惊喜！也许你的惊喜更大哦~M鹿M 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+17:#李晨的红包#Boomshakalaka！我在李晨 的红包中抽到了@粉丝夺宝 提供的“粉丝夺宝大礼包”，2017年的小惊喜！也许你的惊喜更大哦~李晨 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+18:#吴尊的红包#Boomshakalaka！我在吴尊 的红包中抽到了@让红包飞 提供的“处女座财神卡”，2017年的小惊喜！也许你的惊喜更大哦~吴尊 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+19:#马伊琍的红包#哟！2017伊始运气不错哦！我抽中了马伊琍 的现金红包，你也快一起来比比谁的红包更大吧~马伊琍 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+20:除夕夜，你和谁一起看烟花？ 
+num_like: 0   forwardings: 0 comments: 0
+
+21:#精分君的红包#红包不停，好运不停！d(≧▽≦*d)我刚刚抢到了精分君 的现金红包！小心脏激动得扑通扑通哒~新的一年跟我一起抢红包吧！精分君 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+22:#Gemma李璐的红包#Boomshakalaka！我在Gemma李璐 的红包中抽到了@理财平台 提供的“188元理财大礼包”，2017年的小惊喜！也许你的惊喜更大哦~Gemma李璐 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+23:#Gemma李璐的红包#Boomshakalaka！我在Gemma李璐 的红包中抽到了@众筹吧 提供的“众筹现金券”，2017年的小惊喜！也许你的惊喜更大哦~Gemma李璐 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+24:#李小璐的红包#Boomshakalaka！我在李小璐Super璐 的红包中抽到了@众筹吧 提供的“众筹现金券”，2017年的小惊喜！也许你的惊喜更大哦~李小璐Super璐 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+25:#李小璐的红包#Boomshakalaka！我在李小璐Super璐 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~李小璐Super璐 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+26:#彭于晏的红包#Boomshakalaka！我在彭于晏 的红包中抽到了@有信电话 提供的“有信180分钟话费”，2017年的小惊喜！也许你的惊喜更大哦~彭于晏 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+27:#彭于晏的红包#Boomshakalaka！我在彭于晏 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~彭于晏 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+28:#百度手机助手#Boomshakalaka！我在百度手机助手 的红包中抽到了@聚美陈欧 提供的“聚美新春福袋”，2017年的小惊喜！也许你的惊喜更大哦~百度手机助手 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+29:#TFBOYS-王源的红包#Boomshakalaka！我在TFBOYS-王源 的红包中抽到了@粉丝夺宝 提供的“粉丝夺宝大礼包”，2017年的小惊喜！也许你的惊喜更大哦~TFBOYS-王源 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+30:#TFBOYS-王源的红包#Boomshakalaka！我在TFBOYS-王源 的红包中抽到了@让红包飞 提供的“天蝎座财神卡”，2017年的小惊喜！也许你的惊喜更大哦~TFBOYS-王源 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+31:#TFBOYS-王源的红包#Boomshakalaka！我在TFBOYS-王源 的红包中抽到了@滴滴出行 提供的“滴滴贺岁感恩券”，2017年的小惊喜！也许你的惊喜更大哦~TFBOYS-王源 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+32:#TFBOYS-王源的红包#Boomshakalaka！我在TFBOYS-王源 的红包中抽到了@微博会员 提供的“50元会员红包”，2017年的小惊喜！也许你的惊喜更大哦~TFBOYS-王源 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+33:很喜欢这句话：与其违心赔笑，不如一人安静，与其在意别人的背弃和不善，不如经营自己的尊严和美好。 
+num_like: 0   forwardings: 0 comments: 0
+
+34:结婚的时候你想穿哪一件？[太开心] 
+num_like: 0   forwardings: 0 comments: 0
+
+35:盘点女生此生必败的34支大牌口红！！！款款经典，每支都适合收藏！！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+36:【￥44】晚上0点（前10分钟拍）奥利奥 年货定制零食礼盒1460g，18种口味22包零食，想吃奥利奥的一次吃个过瘾[舔屏]到点拍http://t.cn/RM5NErL 
+num_like: 0   forwardings: 0 comments: 0
+
+37:同学妈妈突然患病，希望大家能伸出援助之手，谢谢了[微笑]http://t.cn/RMvb2Qz 南昌·南昌县 
+num_like: 0   forwardings: 0 comments: 0
+
+38:双马尾小萝莉跳《shake it》 ，浑身都是戏啊，萌爆了！！！[笑cry] #年末穷开心# 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+39:#微博会员福利# word亲，还没领小会长发的新年礼物吗？我已领取 10点成长值 ，还有iPad mini、黄玉龙月亮灯、耳机、流量包、公仔、成长值等你抽哟！百分百中奖，速来领取吧>>会员发福利，快来收礼物欢喜跨年！ 
+num_like: 0   forwardings: 0 comments: 0
+
+40:#微博讲礼#红包出现，两眼放电。小手一抖，红包到手！我刚抽到了@微博讲礼 的现金红包喔！你也抽个红包开心下吧~微博讲礼 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+41:一位被教育事业埋没的相声演员！张老师又来了[笑cry][笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+42:你总以为是感情伤害了你，其实伤到你的人，永远是自己。所以，做人最高的境界，不是全心全意去爱，而是过好自己的人生，让别人来死缠烂打吧。图： 杨洋 
+num_like: 0   forwardings: 0 comments: 0
+
+43:[哆啦A梦微笑]宝宝们，国庆节送福利啦。这几天很多大宝宝小宝宝们想要拉杆箱，因为前几天有个活动很便宜，但数量有限，所以后来的宝宝们都没看到箱子。为此我为大家争取到了以下这个福利：[坏笑]福利要求：在这条微博下点赞+转发并@好友 有机会中奖。活动时间：10月2日-10月7日20点通过 全文
+num_like: 0   forwardings: 0 comments: 0
+
+44:想要电影资源请加qq2014673477 抚州·南城县 
+num_like: 1   forwardings: 0 comments: 0
+
+45:【30天甩掉小肚腩】1分钟7个高强度减腹动作，充分燃烧腹部脂肪！连续坚持30天即可拥有马甲线或者6块腹肌！男人练腹肌，女人练马甲，胖子减肚皮！[来]每个动作20次，连续2-3组，实际做完真的会抖！大家10月先定个目标，比如练个6块腹肌[嘻嘻]健身君的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+46:这次恶作剧玩大了，把无知路人吓出了神经病当场抽风！我要麻麻，我要找麻麻，好怕怕，带我回家！ 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+47:[绿叶]为什么形容一个人要用【人老珠黄】[疯了]时光流逝，不只肌肤，你的眼珠也在变老！ [看看]做面部清洁和护理的同时，你可曾为你的眼睛做过这些[疑问] 眼睛也需要补水 [水滴] 和保养仁和闪亮复方精油蒸汽眼罩，市面上唯一一款使用精油的眼罩，让你的双眸焕发年轻光彩 南昌·南昌县 
+num_like: 0   forwardings: 0 comments: 0
+
+48:早安[微笑][微笑] 南昌·南昌县 
+num_like: 0   forwardings: 0 comments: 1
+
+49:#流利说打卡#刚获得了首日打卡徽章，还剩四个就大满贯了，嗯，等我一个一个完成>>> http://t.cn/RcJOa8v (@英语流利说) 
+num_like: 0   forwardings: 0 comments: 0
+
+50:[微笑][微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+51:幸福就是找一个温暖的人过一辈子，你不放下我，我不放下你，愿所有相爱的人都能从独家记忆到相依为命。[心] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+52:#微博卡片背景# 我正在使用“洪荒之力”卡片背景，对此表示很满意了！ 卡片背景：洪荒之力 
+num_like: 0   forwardings: 0 comments: 0
+
+53:游厦门10个不容错过的地方，还没有去过的，趁暑假的尾巴，约上小伙伴一起吧~ 
+num_like: 0   forwardings: 0 comments: 0
+
+54:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+55:别人家的汪，太听话了，被萌到了[爱你] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+56:七夕快乐！准备了很多礼物送给大家，你们想不到的惊喜福利！谢谢一路支持我的人们！[抱抱][抱抱]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+57:#宁泽涛比赛时间#8月8号02：06首秀，4*100米自由泳接力！迷妹们定好闹钟哈，毕竟辣么多人觊觎你老公[哈哈]送上wuli宁泽涛卖萌合集get[心] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+58:“活了二十几年，从来没有人给过我一次意外感动或惊喜，也没有人在我生日的时候给过我特别的礼物，生病的时候得到的只是一些不在身边的语言安慰，也不见谁真正的照顾过自己，甚至有的时候自己蒙头睡一觉就好了，掏心掏肺为你我受冷风吹，也曾有人喜欢过我，却没见谁坚持过。” 
+num_like: 1   forwardings: 0 comments: 0
+
+59:上不了ins，这里骂吧，霍顿你真是一泡洋垃圾。孙杨不哭！中国游泳队加油！晚上8点抽送这只45cm的超人羊公仔，不用关注，转发就行。@微博抽奖平台 
+num_like: 0   forwardings: 0 comments: 0
+
+60:Sam Tsui、Kurt、 Madilyn Bailey、Alex G四人纯人声翻唱Adele热单《Send My Love》！开口脆，好棒！！ [赞]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+61:成都高校学生用13国语言，现场演唱Bigbang的《IF YOU》，卧槽，太好听了，耳朵怀孕了！！！全球热门搜罗S的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+62:卧槽。。这舞蹈差点把所有人都吓尿了，最后那几十秒给跪了 [吃惊] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+63:#最搞笑视频大全# 一姑娘与男朋友吵架遭曝光！女生要买20一瓶的矿泉水，男的说她浪费，女的说：你现在吃我的、住我的、穿我的，套子都是我来买。。。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+64:一个7岁小正太跳《GOOD BOY》，全程吊炸天，太帅了！！！！！！[太开心] 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+65:用泡泡糖DIY，在家自制口红。学会了这招，卖口红的店都没生意做了果断get 美妆小技巧的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+66:你在意什么 什么就会折磨你 。 
+num_like: 0   forwardings: 0 comments: 0
+
+67:我们引以为傲的帅气外长 面对外国记者的质疑，回应果断霸气！ 人格魅力爆表 气场强大 ， 帅就一个字 我只说一次 ！这才应该是男神的定义啊，有没有被帅到[good] #济南分享指南# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+68:“你背后有条蛇！”国外小伙街头恶搞路人。。。[笑cry] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+69:我老了以后 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+70:昨天越来越多，明天越来越少。走过的路长了，遇见的人多了，不经意间发现，人生最曼妙的风景是内心的淡定与从容，头脑的睿智与清醒。 
+num_like: 0   forwardings: 0 comments: 0
+
+71:终于到了这一天 我不想再爱你了，那些被耗尽的耐心大概再也回不来了，不是我不坚持，是你一次次打破我隐忍的理由，对你的那种感觉，我会记在心里 再也不提及。 
+num_like: 0   forwardings: 0 comments: 0
+
+72:路星河的56次求婚,比不上余淮的一句: '耿耿我来晚了' ；或许爱情就是这样，即使再久伴的深情，也抵不过内心深处的喜欢。 
+num_like: 0   forwardings: 0 comments: 0
+
+73:#逼死原唱系列# 美国11岁童星Lexi Walker联手英国男星Alex Boyé及少年合唱团One Voice Children's Choir惊艳献唱《冰雪奇缘》主题曲Let It Go轰动网络，这首翻唱真是吊炸天！这位极具天赋的小姑娘唱功了得声音丰厚，有如冰雪中一簇闪亮的星火。关注@私人音乐厅，每一首歌都为你而选私人音乐厅的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+74:“仲裁你大爷！！！一！滴！海！水！都！不！给！你！！！@报告老板@暴走大事件@暴走街拍@后舍男生_黄艺馨@淮秀帮@羅志祥 #南海主权不让步！#”我的秒拍作品，一起来看~秒拍视频（使用#秒拍#录制） 
+num_like: 0   forwardings: 0 comments: 0
+
+75:南海仲裁结果出炉，案仲裁庭12日作出非法无效的所谓最终裁决。但对此，中国不接受，不承认。 若想仅凭一纸仲裁就想拿走中国的海上国土和权益，中国绝不接受绝不答应！祖国南海寸土不让，犯我中华者，虽远必诛，朋友来了有好酒，豺狼来了有猎枪！#南海仲裁案# [拳头][拳头]一风之音的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+76:Alex Goot翻唱的《Good Time》，一开口就惊艳了，听起来很舒服的一-一首歌 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+77:我捧你的时候你是杯子，松手的时候你就是个玻璃碴子。有些事，就是不值得被原谅，跟大不大度没有关系；各有各的底线，做错了，就应该考虑为自己的错误付出代价。 不是每个对不起，都能换回来一个没关系，珍惜！ 
+num_like: 0   forwardings: 0 comments: 0
+
+78:【太可怕，这个一定要扩！】夏季到了，切记！在任何地方的溪流戏水，就算没有下雨，原本很清的溪水只要发现浑浊，你只有极短的时间可逃离。请永远记在你脑海中，不要丧失良机！随手转给还不知道的朋友们！#皓伦王明川# 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+79:#快乐大本营张一山# 张一山余罪小咖秀合集，没想到你是这样的余小二@张一山 [doge][挖鼻]秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+80:你的名字我的心事，把你的名字做成项链戴离我心脏最近的地方[心]喜欢就加我win-xin: luyan141228[心]定制专属于你一个人的项链手链戒指[心]更多新款 
+num_like: 0   forwardings: 0 comments: 0
+
+81:“爱对了一个人是什么样的感觉？” 
+num_like: 0   forwardings: 0 comments: 0
+
+82:#早安成都#手工达人教你怎么做出最好看的蝴蝶结，简直美翻[爱你]新技能get√！转给美女和家有小美女的同学！[微笑][爱你][赞]（@我们爱讲俏皮话 ）秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+83:手把手教你纸折蝴蝶结，大家学起来！！！get√ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+84:发誓要一辈子不分开的大多分开了 约好一起走的半途大多散了 当初的我们比谁都坚定 结果我们比谁都无法接受 最后我们比谁都明白一切原来是正常的 就像你哭着喊着要死要活的某一刻你也知道会过去 只是当时自己和别人的安慰都只是当时 所有的结局和过去永远不是现在能体会的请关注我，这里有你想 全文
+num_like: 0   forwardings: 0 comments: 0
+
+85:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+86:愿你早日领教过这世界深深的恶意然后开启爱他妈谁谁谁的快意人生 
+num_like: 0   forwardings: 0 comments: 0
+
+87:当喜剧玩起了深沉，所有的孤独都不再只是玩笑。#电影发条城市# 主题曲《未了歌》MV曝光，好声音张磊@大磊1941 走心献唱。风吹脸庞，指缝流光，泪水滚烫，酒湿胸膛。游荡城市的孤单灵魂，欲言又止的寂寞心情，似懂非懂，似梦非梦。7月8号，我们一起“贱”证孤独！ 电影《发条城市》主题曲《未了歌》MV 
+num_like: 0   forwardings: 0 comments: 0
+
+88:一个男人最牛的地方，是让自己身边的人觉得有安全感，无论是物质上还是精神上。 
+num_like: 0   forwardings: 0 comments: 0
+
+89:张一山翻唱动力火车《那就这样吧》，撩妹技能满分～你们觉得好听吗[害羞]喜欢就 关 注我吧[兔子]湖南卫视芒果捞的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+90:见过声音最销魂的女神级歌手翻唱《Trouble Is a Friend》，声音迷人，好听极了！！！阅读手册的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+91:卧槽要不要这么样，太他妈霸气了 bigbang的日常的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+92:1987年《西游记》剧组原班人马，齐天乐春节晚会，全程太搞笑了#每日笑话精选# [笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+93:早安~~【送你三句给力话】①年轻必须努力到无能为力，拼搏到感动自己。②用你的奋斗结果，让所有人都闭嘴。③烦恼来自笑太少，快乐来自常微笑——共勉！ 
+num_like: 0   forwardings: 0 comments: 0
+
+94:卧槽，夏天这么热，把我打入冷宫吧！！！[笑cry] 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+95:双马尾小萝莉跳《shake it 》，浑身都是戏啊，萌爆了 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+96:所以说选舍友一定要慎重！要不然在逗比的路上越走越远就回不来了[笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+97:翻唱版《What Are Words》，钢琴伴奏很美，歌声让人陶醉。私人音乐厅的秒拍视频 @资深娱评人  #猪头笑话# 
+num_like: 0   forwardings: 0 comments: 0
+
+98:看完这个，实在是佩服姑娘们的智商！get~[赞]#皓伦王明川#  秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+99:真心相爱的两个人，不会输给外貌距离，不会输给身高年龄，不会输给前任小三，不会输给别人的流言蜚语，不会输给父母的反对，只会输给不珍惜，败给不努力，不信任。 
+num_like: 1   forwardings: 0 comments: 0
+
+100:中国最牛老司机开挂上路，算是开眼了！你们咋不上天呢！[doge]秒拍精选的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+101:#旧梦煽情#   “你是我嘴上说着放弃，可心里却还是念念不忘的人。” 
+num_like: 1   forwardings: 0 comments: 0
+
+102:“结婚不等于幸福单身也不意味着不幸因为我们出生时就一个人最终也不可能同时离去一个人过 只要心态好那就是一种幸福 就这么简单 为自己而活。”秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+103:还记得我们泰国女神Happy Polla么， 她最近出了首中文单曲《Happy》...对，你没看错！她全程用中文演唱了这首歌，更高能的是她还特意拍了个MV！我只能说这画面太美你们留着慢慢看~[微笑] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+104:爱情中 最难办的命题 就是这两个 爱我的人我不爱 和我爱的人不爱我 左右为难之间 往往伤害了三个人 然而 青春里总会有遗憾和后悔 它让我们飞速地成长 在后面的岁月里 不要再错过不该错过的人 
+num_like: 0   forwardings: 0 comments: 0
+
+105:有时候，虽然能想明白，但心里就是接受不了。大道理人人都懂，小情绪却难以自控。 
+num_like: 0   forwardings: 0 comments: 0
+
+106:夏日写照：卧槽好烫，卧槽好烫，卧槽好烫。。[笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+

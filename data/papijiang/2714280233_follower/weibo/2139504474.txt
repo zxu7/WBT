@@ -1,0 +1,76 @@
+user_info or user_nickname: 82475zsvb
+user_id: 2139504474
+weibo_Num: 24
+Num_followings: 26
+Num_followers: 31
+
+weibo content: 
+1:再远一点，再远一点 
+num_like: 0   forwardings: 0 comments: 0
+
+2:大年初一在自己的出租屋里醒来，忍不住嚎啕大哭起来，突然间不知道自己一直以来为这份工作所有的坚持是否真的有意义如果连亲人都无法守候的话，在家人最需要陪伴的时候我却只能在另一个地方让他们听听我的声音 
+num_like: 0   forwardings: 0 comments: 0
+
+3:如果能和你一起看致青春，那应该是件很幸福的事 
+num_like: 0   forwardings: 0 comments: 0
+
+4:但凡未得到 但凡是过去 总是最登对 
+num_like: 0   forwardings: 0 comments: 0
+
+5:努力，努力，必须努力！！ 
+num_like: 2   forwardings: 0 comments: 0
+
+6:兰州终于下雨了 
+num_like: 0   forwardings: 0 comments: 0
+
+7:总有那么些日子是烟雨蒙蒙 
+num_like: 0   forwardings: 0 comments: 0
+
+8:瞌睡死了[抓狂][抓狂][抓狂][抓狂] 
+num_like: 0   forwardings: 0 comments: 0
+
+9:心情就像这花儿一样[求关注][羞嗒嗒][笑哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+10:那些我们儿时的记忆，你是否还记得？ 
+num_like: 0   forwardings: 0 comments: 0
+
+11:在省医培训的日子 兰州·王府井 
+num_like: 1   forwardings: 0 comments: 0
+
+12:你所做的事情，也许暂时看不到成果，但不要灰心或焦虑，你不是没有成长，而是在扎根。 兰州·王府井 
+num_like: 0   forwardings: 0 comments: 0
+
+13:今天做饭不小心把手烫了，突然想到不知道妈妈的手被烫了多少回 兰州·王府井 
+num_like: 1   forwardings: 0 comments: 0
+
+14:告诉你哦，我有新室友了，好开心，怎么办[太开心][太开心] 兰州·王府井 
+num_like: 0   forwardings: 0 comments: 0
+
+15:你能告诉我，该怎么办吗？请赐予我力量 
+num_like: 0   forwardings: 0 comments: 0
+
+16:任性的后果就是眼睛肿得不能出去见人，今天就乖乖待在宿舍学习吧 
+num_like: 0   forwardings: 0 comments: 0
+
+17:一个人在房间里放肆地哭过之后的感觉原来这么爽，你好，明天！ 
+num_like: 0   forwardings: 0 comments: 0
+
+18:昨晚我们还在一起刀削瓜，现在又成了我一个人，相聚离别就像一阵龙卷风，让人手足无措，努力吧，为了更好的相聚 
+num_like: 0   forwardings: 0 comments: 0
+
+19:又是车站，主角是我…… 
+num_like: 1   forwardings: 0 comments: 0
+
+20:今天在车站看见她了，老远看见一个背影，虽然近视到走在路上成了脸盲，但对于她，都不用确认，就条件反射似的喊出了她的名字，估计是昨晚偷偷哭了，薄薄眼皮肿成了水泡眼。 
+num_like: 0   forwardings: 0 comments: 0
+
+21:喜欢你四年了，喜欢你的才华、阳光、率真、善良、活力、认真、帅气还带点任性的小颓，大学四年从love me到boyfriend再到sorry、love yourself…… 一直都用心听着你唱的每个字，每次开心、委屈、孤单、失落或是在外想家时都会点开你的歌，一听到你的声音就会让自己平静下来，相信你就像相信自己一样 
+num_like: 0   forwardings: 0 comments: 0
+
+22:不念过往，不畏远方。女孩子要记得努力（不要熬夜！！！！！）睡觉了，[蜡烛][蜡烛] 
+num_like: 0   forwardings: 0 comments: 0
+
+23:以前怎么都理解不了相濡以沫，不如相忘于江湖这句话，直到看完《好先生》，忘不了陆远在婚礼上送甘敬多年来最喜欢的高跟鞋、牵着甘敬的手走向新郎，还有蹲在甘敬病房门外的场景，触及泪点了。原来爱一个人可以为了她努力让自己变得更好，即便最后守候她的人不是自己，也一样希望她能稳稳的幸福。 
+num_like: 0   forwardings: 0 comments: 0
+

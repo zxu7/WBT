@@ -1,0 +1,7 @@
+user_info or user_nickname: 璐璐lu_3
+user_id: 6048430040
+weibo_Num: 0
+Num_followings: 96
+Num_followers: 4
+
+weibo content: 

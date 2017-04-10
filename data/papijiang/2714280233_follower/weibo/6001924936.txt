@@ -1,0 +1,16 @@
+user_info or user_nickname: 埠芷曙薇灬
+user_id: 6001924936
+weibo_Num: 3
+Num_followings: 26
+Num_followers: 20
+
+weibo content: 
+1:好好活下去 每天都有新打击@拽妹黛薇儿 
+num_like: 0   forwardings: 0 comments: 0
+
+2:能拿奖品这种事一定要和大家说一说的，否则以后还怎么在一起愉快的玩耍[酷]我正在领取#微博等级专享礼#，这里的奖品太给力了，快去试试人品吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+3:今天我的「微博等级」又升一级，记录一下我在微博的成就微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+

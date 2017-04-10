@@ -1,0 +1,55 @@
+user_info or user_nickname: 机智敏ya
+user_id: 2948406743
+weibo_Num: 17
+Num_followings: 87
+Num_followers: 26
+
+weibo content: 
+1:假如你是明星，你愿意接受“潜规则”吗？视频有些意外，尊重每个人的选择。[心] 拜托啦学妹的秒拍视频  #云巅之上# 
+num_like: 0   forwardings: 0 comments: 0
+
+2:分手快乐 谢谢你们陪我喝酒！ 
+num_like: 4   forwardings: 0 comments: 2
+
+3:这世上有一种猫叫做别人家的猫[喵喵] 
+num_like: 0   forwardings: 0 comments: 0
+
+4:据说很准！ 
+num_like: 1   forwardings: 0 comments: 0
+
+5:爱是什么？一个漫画家用6年把自己对爱的体会全部画了下来，作为给妻子一生的礼物 
+num_like: 1   forwardings: 0 comments: 0
+
+6:老公帮老婆在水中分娩，老公帮他按摩，在家里准备温水……老婆在痛苦的呻吟着，老公寸步不离的陪在她的身旁，直到在水里抱着她把孩子生下来……实在感动[泪]微博视频 
+num_like: 1   forwardings: 0 comments: 0
+
+7:看哭了很多人的灵魂段子，也值得所有人好好反思。喜剧做到这样的境界真是太赞了！秒拍视频 
+num_like: 2   forwardings: 0 comments: 0
+
+8:"小时候画在手上的表没有动，却带走了我们最好的时光。这个视频道出多少人童年时代的美好记忆，原来快乐是如此简单！ "#情感小屋# 我的秒拍作品,一起来看~ 秒拍视频（使用#秒拍#录制） 
+num_like: 2   forwardings: 1 comments: 0
+
+9:“Mama”， 你的每一声呼唤，她都在。[心] 秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+10:整人必备，百分之99的人会中招！快和朋友玩起来，看看他（她）中招了吗？[笑cry]秒拍视频 #囧事短片# 
+num_like: 1   forwardings: 0 comments: 0
+
+11:考试的时候那些分分钟让人暴走的瞬间……[拜拜] 
+num_like: 1   forwardings: 0 comments: 0
+
+12:分享20个救命小常识给大家，转发扩散，一起收了~先马，以备不时之需！ 
+num_like: 1   forwardings: 0 comments: 0
+
+13:【英文纪录片《Amazing Henan-Where China Began 》】河南，中华文明的摇篮，河南的变化过程就是中国整个国家的缩影。纯英文字幕，纯正的美英旁白，向老外介绍中国的好材料！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+14:这创意太神奇了，双膝奉上！！[赞]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+15:语言暴力会造成多的影响，怎么让父母和教育者们明白这会造成多大的杀伤力，看完久久不能平静！微博视频 
+num_like: 0   forwardings: 0 comments: 0
+
+16:一旦选择，请终生负责；可以不爱，但不可伤害 [泪流满面]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+

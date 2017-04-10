@@ -1,0 +1,7 @@
+user_info or user_nickname: 赵廷松89870
+user_id: 6198959756
+weibo_Num: 0
+Num_followings: 3
+Num_followers: 1
+
+weibo content: 

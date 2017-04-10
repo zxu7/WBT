@@ -1,0 +1,13 @@
+user_info or user_nickname: 卿孽家的月亮
+user_id: 6169723867
+weibo_Num: 2
+Num_followings: 58
+Num_followers: 5
+
+weibo content: 
+1:好好的照片被我p的 
+num_like: 1   forwardings: 0 comments: 0
+
+2:小恐龙说爱你() 
+num_like: 1   forwardings: 0 comments: 0
+

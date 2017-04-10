@@ -1,0 +1,7 @@
+user_info or user_nickname: Dh-D
+user_id: 1994628000
+weibo_Num: 0
+Num_followings: 79
+Num_followers: 149
+
+weibo content: 

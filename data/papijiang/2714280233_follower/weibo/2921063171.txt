@@ -1,0 +1,52 @@
+user_info or user_nickname: --菓菓--
+user_id: 2921063171
+weibo_Num: 34
+Num_followings: 189
+Num_followers: 88
+
+weibo content: 
+1:乱乱的大浮力来了，关注我+转花，2周后凑1个小仙女送下面四样，通过@微博抽奖平台 公布。1 日立n4000美容仪2 exideal小排灯3 refa日本沙龙版4 松下n57吹风机让你的颜值更上一层楼！！！只送一个小仙女。 
+num_like: 1   forwardings: 0 comments: 0
+
+2:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 2   forwardings: 0 comments: 0
+
+3:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+4:占地1500平的专业密室全国连锁机构：[MR.X] 连放福利咯~所有任务实景照片首次曝光！生日当天凭身份证到场即可免费体验！关注我们，转发此微博并@6位小伙伴也可获得机会免费体验! 请提前至少一天预约哦! 免费热线:4008598298 实景:http://t.cn/zjS9g49 地址:江北区北滨一路258号@重庆龙湖星悦荟 6区6楼 
+num_like: 1   forwardings: 0 comments: 0
+
+5:来自日本的动人三行情书 cr:logo 
+num_like: 0   forwardings: 10 comments: 11
+
+6:当你发现你喜欢的动漫成了这样时，你唯一想做的事情就是去死了。。。[c震惊哭]（转） 
+num_like: 0   forwardings: 0 comments: 0
+
+7:【动漫里经典到让人窒息的那些话】：这些对白，你还记得吗？ 
+num_like: 0   forwardings: 0 comments: 0
+
+8:营养与美食协会“美食达人争霸赛”今天下午6-7点，周二到周三中午12:00-2:30三大食堂报名火热进行中！！！[得意地笑] 时间:初赛为本周六 决赛下周六地点:u城天街柒号床吧  土豪大礼包和校级奖状等你来挑战 所有食材均由营养与美食协会提供 小伙伴们带上你的创意来报名吧[甩甩手][甩甩手][甩甩手] 
+num_like: 0   forwardings: 0 comments: 0
+
+9:新版微博客户端，好听，好看，更好玩！自定义个人封面；音、视频直接播放；好友圈—好友消息不错过；支持屏蔽广告微博；广场音乐、电影、美食等频道升级。[good]快试试一键听歌：夜空中最亮的星 下载地址：http://t.cn/zROKkPS 
+num_like: 0   forwardings: 0 comments: 0
+
+10:慢动作闪电…… [bed凌乱] 绚丽啊有木有[赞] 「转」 
+num_like: 1   forwardings: 0 comments: 3
+
+11:【新浪微博Android客户端4.0版全新发布】你有多久没旅行了？回味旅途点滴，一起来分享旅行中的风景、美食与自拍，完成任务还有大奖哦~快开启旅行模式，#带着微博去旅行#[飞机]！下载地址：http://t.cn/z8vxRTp 
+num_like: 0   forwardings: 0 comments: 0
+
+12:美味[爱你][爱你][爱你]@张梦玲-Elaine 我在:三峡广场步行街 
+num_like: 0   forwardings: 0 comments: 2
+
+13:#青春中国梦传递正能量##青春飞扬#【07】。为中华民族的伟大复兴保驾护航，为实现中国梦而不懈奋斗。这些十八九岁的大学生，他们用汗水浇灌出无悔的青春，用不屈不挠的精神来阐释爱国主义热情。五星红旗迎风飘扬，他们是共和国的预备警官。 
+num_like: 0   forwardings: 0 comments: 0
+
+14:#青春中国梦传递正能量##青春飞扬#【06】。冉冉升起的朝阳如同我们青春的梦想！八九点钟的太阳就是我们青年的化身！我们以热情的微笑、昂扬的斗志、扎实的干劲励志扬鞭！阳光与我们交相辉映，与我们共筑中国梦想！ 
+num_like: 0   forwardings: 0 comments: 0
+
+15:#青春中国梦传递正能量##青春飞扬#【23】头顶警徽，肩负使命，我们是展翅高飞的雄鹰！热情、勇猛、朝气蓬勃，翱翔在中华大地！凭借着锐利的眼神、锋利的爪子，奋战前线。保家卫国！守护平安！ 
+num_like: 0   forwardings: 0 comments: 0
+

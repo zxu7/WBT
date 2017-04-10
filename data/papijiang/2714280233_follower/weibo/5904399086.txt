@@ -1,0 +1,13 @@
+user_info or user_nickname: 00101011H
+user_id: 5904399086
+weibo_Num: 2
+Num_followings: 14
+Num_followers: 15
+
+weibo content: 
+1:浓浓的老香港味道[爱你]丨via 楚梅-  (转) 
+num_like: 0   forwardings: 0 comments: 0
+
+2:我在看【歪果仁沉沦于中国美食以后】  自从这群歪果仁沉沦于中国美食以后。。。 歪果仁研究协会 
+num_like: 0   forwardings: 0 comments: 0
+

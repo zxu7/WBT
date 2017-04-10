@@ -1,0 +1,55 @@
+user_info or user_nickname: WAM_GOOD
+user_id: 6016390936
+weibo_Num: 16
+Num_followings: 263
+Num_followers: 159
+
+weibo content: 
+1:#扇贝打卡# 扇贝英语听力特训第46天：完成5句听力，明天继续 http://t.cn/R6HAKg9 
+num_like: 0   forwardings: 0 comments: 0
+
+2:#扇贝打卡# 扇贝英语炼句和听力特训第45天：完成10炼句，5句听力，明天继续 http://t.cn/R6W3lDM 
+num_like: 0   forwardings: 0 comments: 0
+
+3:已经决定的别有商量的余地 
+num_like: 2   forwardings: 0 comments: 0
+
+4:今天刚聊到墨菲定律来着它是人的影子喜欢逃避的人的影子我的影子。 
+num_like: 5   forwardings: 0 comments: 1
+
+5:Don't be doubting and down[哈哈][哈哈]和Bright pig on the hand[思考] 
+num_like: 5   forwardings: 0 comments: 8
+
+6:希望做的对得起说过的 
+num_like: 2   forwardings: 0 comments: 0
+
+7:喜欢夜晚的自习室嘤嘤[太开心] 
+num_like: 3   forwardings: 0 comments: 2
+
+8:很恨没有奋斗那三年不对那十二年。 
+num_like: 2   forwardings: 0 comments: 0
+
+9:什么时候不拖延才会真正的快乐[白眼] 
+num_like: 1   forwardings: 0 comments: 0
+
+10:2017未来藏在广阔天地和心之间[爱你][爱你] 
+num_like: 0   forwardings: 0 comments: 0
+
+11:ほんとうにありがとう[哆啦A梦微笑][哆啦A梦微笑] 
+num_like: 3   forwardings: 0 comments: 1
+
+12:祝你生日快乐 
+num_like: 3   forwardings: 0 comments: 0
+
+13:はじめまして よろしくお願いします 
+num_like: 3   forwardings: 0 comments: 0
+
+14:马蜂窝 学校 红姑娘 和荒野 
+num_like: 4   forwardings: 0 comments: 3
+
+15:分享图片 大同·南郊区 
+num_like: 2   forwardings: 0 comments: 0
+
+16:#Kpop现场版# 160921 #GOT7#-#金有谦# - Mnet舞蹈竞演节目《Hit The Stage》现场 秒拍视频 . 
+num_like: 2   forwardings: 0 comments: 0
+

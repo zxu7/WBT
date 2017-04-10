@@ -1,0 +1,7 @@
+user_info or user_nickname: 叶子Tel201609
+user_id: 6015040112
+weibo_Num: 1
+Num_followings: 79
+Num_followers: 32
+
+weibo content: 

@@ -1,0 +1,82 @@
+user_info or user_nickname: 黄燕银
+user_id: 5390720284
+weibo_Num: 25
+Num_followings: 64
+Num_followers: 9
+
+weibo content: 
+1:高配女生vs低配女生[doge]看完我觉得我是个假女生[摊手][摊手] http://t.cn/R6jB9Na 黎梨Lee的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+2:渐越熟悉的面孔会越看越美 汕头·潮阳区 
+num_like: 0   forwardings: 0 comments: 0
+
+3:漂泊 汕头·潮阳区 
+num_like: 0   forwardings: 0 comments: 0
+
+4:分享图片 汕头·潮阳区 
+num_like: 0   forwardings: 0 comments: 0
+
+5:遇见真好[微风][太阳] OPPA，有人陪和没人陪的生日都要快乐[兔子][蛋糕] @崔始源 
+num_like: 0   forwardings: 0 comments: 0
+
+6:支持#UNICEF##联合国儿童基金会##UNICEF passport case# 让我们一起支持需要帮助的小朋友们 @崔始源 [约会][爱心] 
+num_like: 0   forwardings: 0 comments: 0
+
+7:扭腰，扭腰腰伸个懒腰，晚安了[哈哈][抓狂][月亮][哈欠][困] 
+num_like: 0   forwardings: 0 comments: 0
+
+8:就想发个自拍[二哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+9:晚安，朋友们[微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+10:拿去，不谢[微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+11:今天会是谁陪你跨年呢[思考][思考]难道不希望是我吗？[鲜花][鲜花] 
+num_like: 1   forwardings: 0 comments: 0
+
+12:优秀的理由，美美的理由，因为大家都过得很好，只有你还在原地，有个活在大家面前的理由，加油黄燕银 深圳·深圳职业技术学院东校区 
+num_like: 0   forwardings: 0 comments: 0
+
+13:【#我们相爱吧#崔始源向刘雯求婚】#石榴夫妇#@崔始源 和@刘雯 拍摄大片，展示恋爱的不同阶段，甜蜜满格！当十元欧巴使出杀手锏，向刘雯下跪求婚，刘雯立刻害羞得不知所措！( ω ) 视频：我们相爱吧 崔始源求婚刘雯害羞 而当十元提出想见刘雯父母时，刘雯却表示too Soon！崔始源想见刘雯父母 
+num_like: 0   forwardings: 0 comments: 0
+
+14:我喜欢的 深圳·深圳职业技术学院东校区 
+num_like: 1   forwardings: 0 comments: 0
+
+15:乔任梁死亡轰动娱乐圈  乔任梁死因是抑郁症  抑郁症患者的心理是怎样的？分享这个视频带你了解和抑郁症共存生活在一起的样子，看完你就知道答案了！Happy张江的秒拍视频 
+num_like: 1   forwardings: 0 comments: 0
+
+16:哈哈，我要笑。因为宝宝心里苦，但是宝宝不哭，心痛，还有心累，心碎，我好害怕，对未来好恐惧，对现在好担忧，不幸，尽管来吧。暴风雨，我等你。 汕头·潮阳区 
+num_like: 0   forwardings: 0 comments: 0
+
+17:盘点娱乐圈里大长腿女神：宋茜、郑爽、刘亦菲、杨幂、唐嫣、迪丽热巴、李宇春、熊黛林、林志玲、莫文蔚、吴佩慈、古力娜扎、刘雯、郭碧婷、宋佳、倪妮、舒淇、江疏影、关晓彤、angelababy、娱乐圈里大长腿女神，你最喜欢谁？ 
+num_like: 0   forwardings: 0 comments: 0
+
+18:喜欢张继科点赞 一个从小帅到大的boy 
+num_like: 0   forwardings: 0 comments: 0
+
+19:堕胎到底有多可怕[拜拜] 
+num_like: 0   forwardings: 0 comments: 0
+
+20:【王者归来！孙杨200米自由泳实力夺冠！[威武][威武]】里约奥运男子200米自由泳决赛，“中国飞鱼”孙杨夺冠，也为中国游泳队获得里约奥运首金！孙杨冠军！致敬“中国速度”！[赞]http://t.cn/RtCWjkZ #孙杨1500米之王 孙杨金牌 
+num_like: 0   forwardings: 0 comments: 0
+
+21:从今天开始我黄燕银要写博客了[嘻嘻][嘻嘻][嘻嘻][嘻嘻] 东莞·长安镇 
+num_like: 0   forwardings: 0 comments: 0
+
+22:别把成败看得太重，以后你会慢慢发现，这只是人生路上的一个小经历，并不会决定你的整段旅程。放平心态，放手去搏吧，做最好的自己！高考加油[拳头][拳头][拳头] 
+num_like: 0   forwardings: 0 comments: 0
+
+23:我刚刚在#微博等级专享礼#中领取了由@微博会员 提供的“7天会员体验”专享礼包[发红包]新等级华丽变身，iPhone6、拍立得、大牌明星签名礼、综艺门票、百万现金券…..人人升级有福利，让你任性让你high！[噢耶]快去领取你的等级专享礼吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+24:今天我的「微博等级」又升一级，记录一下我在微博的成就微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+25:#搞笑##高考状元#【转】记得一次高考之后，校长请来了本市的高考状元来学校作演讲，该状元说：“下面讲一下我的学习方法，一开始，我每天只做一道题。”这时校长忍不住说：“同学们，学习的方法来了，你们的春天就要到了！”这时，状元满眼饱含热泪地说.. 详：http://t.cn/R5WxhAU 
+num_like: 0   forwardings: 0 comments: 0
+

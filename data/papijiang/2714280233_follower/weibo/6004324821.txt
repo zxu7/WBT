@@ -1,0 +1,13 @@
+user_info or user_nickname: 拖塔吉钢蛋
+user_id: 6004324821
+weibo_Num: 2
+Num_followings: 28
+Num_followers: 50
+
+weibo content: 
+1:抱歉，由于作者设置，你暂时没有这条微博的查看权限哦。查看帮助：http://t.cn/RfdBJrG 
+num_like: 0   forwardings: 0 comments: 2
+
+2:【教你轻松搞定小白鞋[耶]】春天，一双百搭的小白鞋是必备。但白鞋易变黄，如何清洗让人苦恼。别担心，实用妙招来帮你！ 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+

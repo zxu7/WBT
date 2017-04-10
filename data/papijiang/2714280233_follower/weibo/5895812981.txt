@@ -1,0 +1,25 @@
+user_info or user_nickname: 黄鱼昂
+user_id: 5895812981
+weibo_Num: 6
+Num_followings: 33
+Num_followers: 25
+
+weibo content: 
+1:我获得了@粉丝红包 发来的红包1.60元。 
+num_like: 0   forwardings: 0 comments: 0
+
+2:哇！集齐20张财神卡财神显灵啦！Ｏ(≧▽≦)Ｏ财神包了1.6元现金红包给我，感觉新的一年都会被财神庇佑哦~！你也快来加入集卡行列，召唤财神吧~ 财神卡PK大厅 
+num_like: 0   forwardings: 0 comments: 0
+
+3:#小俞Yoyo的红包#Boomshakalaka！我在小俞Yoyo 的红包中抽到了@让红包飞 提供的“旺仔财神卡”，2017年的小惊喜！也许你的惊喜更大哦~小俞Yoyo 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+4:#整形医生林潮的红包#Boomshakalaka！我在整形医生林潮 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~整形医生林潮 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+5:#SNH48-张文静-的红包#Boomshakalaka！我在SNH48-张文静- 的红包中抽到了@聚美陈欧 提供的“聚美百元礼包”，2017年的小惊喜！也许你的惊喜更大哦~SNH48-张文静- 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+6:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+

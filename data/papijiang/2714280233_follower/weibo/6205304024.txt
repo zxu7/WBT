@@ -1,0 +1,13 @@
+user_info or user_nickname: 用户6205304024
+user_id: 6205304024
+weibo_Num: 2
+Num_followings: 87
+Num_followers: 5
+
+weibo content: 
+1:今天我的「微博等级」又升一级，记录一下我在微博的成就微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+
+2:能拿奖品这种事一定要和大家说一说的，否则以后还怎么在一起愉快的玩耍[酷]我正在领取#微博等级专享礼#，这里的奖品太给力了，快去试试人品吧微博等级，升等级享好礼 
+num_like: 0   forwardings: 0 comments: 0
+

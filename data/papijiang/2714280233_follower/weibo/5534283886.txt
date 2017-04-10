@@ -1,0 +1,25 @@
+user_info or user_nickname: 用户5534283886
+user_id: 5534283886
+weibo_Num: 6
+Num_followings: 83
+Num_followers: 25
+
+weibo content: 
+1:我参与了@SoCooL杂志 发起的投票 【SoCooL杂志9月刊封面人物薛之谦】，我投给了“百变灵动版”这个选项。你也快来表态吧~SoCooL杂志9月刊封面人物薛之谦 
+num_like: 1   forwardings: 0 comments: 0
+
+2:#绝地逃亡#[玫瑰][玫瑰]能打能笑的成龙大哥+自带助攻洪荒之力的范爷@范冰冰=票房纪录更上一层楼！[心][心]传奇还在继续，为观众带来欢乐的初心也不会变，我们奉陪到底。[haha][haha]#真的很成龙# 
+num_like: 0   forwardings: 0 comments: 0
+
+3:我参与了@拜托了冰箱 发起的投票 【#拜托了冰箱# 哪位嘉宾的冰箱让你印象深刻】，我投给了“薛之谦的冰箱”这个选项。你也快来表态吧~#拜托了冰箱# 哪位嘉宾的冰箱让你印象深刻 
+num_like: 0   forwardings: 0 comments: 0
+
+4:#挑战者联盟#你最希望在《畅响盛典》看见谁呢？[偷乐]#挑战者联盟#你最希望在《畅响盛典》看见谁呢？ 
+num_like: 0   forwardings: 0 comments: 0
+
+5:#挑战者联盟#你最希望在《畅响盛典》看见谁呢？[偷乐]#挑战者联盟#你最希望在《畅响盛典》看见谁呢？ 
+num_like: 0   forwardings: 0 comments: 0
+
+6:#作战吧偶像##作战吧偶像薛之谦#你们久等的谦谦来啦，是不是觉得第一次这么想当一张沙发[羞嗒嗒] 
+num_like: 0   forwardings: 0 comments: 0
+

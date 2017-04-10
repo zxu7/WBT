@@ -1,0 +1,13 @@
+user_info or user_nickname: 用户6197250739
+user_id: 6197250739
+weibo_Num: 2
+Num_followings: 30
+Num_followers: 4
+
+weibo content: 
+1:泰国小女孩零预算模仿MV，好赞啊！自信的女孩最美[兔子][兔子] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+2:谁说有弟弟的姐姐普遍彪悍？看这对姐弟，简直萌化了~[心]#项羽爱虾说# #迷人的大婶# 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+

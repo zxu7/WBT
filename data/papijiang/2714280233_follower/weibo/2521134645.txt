@@ -1,0 +1,433 @@
+user_info or user_nickname: 喔cat
+user_id: 2521134645
+weibo_Num: 155
+Num_followings: 44
+Num_followers: 81
+
+weibo content: 
+1:抽奖了朋友们！这次真的不得了了，是跟各个品牌一起弄的，具体奖品和要求都在图片里，一共259个中奖名额，为了方便抽奖，需要转发这条微博并关注我。奖品会在10天之后会分8次抽完，希望这次的幸运儿就是你本人了。最后记得在评论里夸一夸赞助这次活动的爸爸们，为他们点个赞！ 
+num_like: 0   forwardings: 0 comments: 1
+
+2:吃了一个月的斋念了一个月的佛 感觉自己都和实验室长一块儿了 好在实验取得了挺大的成果。上午灭菌消毒一遍一遍又一遍 结果下午替扯儿看了一下“诶~过了两天变得挺好 不用重做了”我不知道该哭还是笑[眼泪]anyway 望一切继续顺利 耶嘿[爱心] 
+num_like: 2   forwardings: 0 comments: 2
+
+3:在我这里 鹿的喵叫喔cat 吴的汪叫噜喂喂[眼泪]哈哈哈哈哈哈哈哈哈哈哈哈哈#勋鹿# 
+num_like: 5   forwardings: 0 comments: 0
+
+4:评测：可能是全球最好吃的泡面TOP 10!! 吃过之后根本不知道减肥俩字怎么写（友情提示：肚子饿/深夜请别点进来[doge]Bigger研究所的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+5:微博搜鹿晗有惊喜啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊心脏炸裂[二哈]#鹿晗# 
+num_like: 10   forwardings: 0 comments: 0
+
+6:当金钟大的舞蹈有些抢拍后...（请看憋不住笑的都暻秀同学!!!） 
+num_like: 0   forwardings: 0 comments: 0
+
+7:【Daum】演艺界脖子最灵活的爱豆,不愧是鹅王[得意地笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+8:【带话题转发抽送3台R9s】R9s清新绿预约开启！潮流新鲜色搭配氧气主题、精美手机套装，是你春季必备的时尚单品[威武]带#OPPO清新绿R9s#话题转发本条微博并成功预约，随机抽送3台R9s，3月28-30日每天抽出一台！ 预约请戳官网http://t.cn/R6MTQHN天猫http://t.cn/R6JenB2京东http://t.cn/RxqLvXD 苏 全文
+num_like: 0   forwardings: 0 comments: 0
+
+9:【带话题转发抽送3台R9s】R9s清新绿预约开启！潮流新鲜色搭配氧气主题、精美手机套装，是你春季必备的时尚单品[威武]带#OPPO清新绿R9s#话题转发本条微博并成功预约，随机抽送3台R9s，3月28-30日每天抽出一台！ 预约请戳官网http://t.cn/R6MTQHN天猫http://t.cn/R6JenB2京东http://t.cn/RxqLvXD 苏 全文
+num_like: 0   forwardings: 0 comments: 0
+
+10:goodluck xiu[面包] and me（为什咩整体不协调。。。 
+num_like: 1   forwardings: 0 comments: 1
+
+11:重磅福利！关注欧哥并转发此微博，抽一个人送最新版的红色iPhone7一个[熊猫]再送上全新设计的超级红包，点击看看谁运气好[doge]http://t.cn/R6bFlx1 
+num_like: 0   forwardings: 0 comments: 0
+
+12:继续送礼，关注我并转发微博，抽一个人送最近很贵的美图T8一部！抽奖红包继续，速点 http://t.cn/R650JKt 
+num_like: 0   forwardings: 0 comments: 0
+
+13:翻看之前的读书笔记 《追风筝的人》只写了句（亲爱的哈桑 亲爱的阿里 我亲爱的阿里和哈桑。 
+num_like: 0   forwardings: 0 comments: 1
+
+14:密码就是密码 日记就是日记[微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+15:要记得自己是个仙女 anytime anywhere[困死了] 
+num_like: 0   forwardings: 0 comments: 1
+
+16:#XIUMIN金珉锡0326生日快乐# 我发现…智商高/聪明的人都是这样擦手的…难怪我理科不好[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+17:呜哇……被仁妹这里的瞬间变脸戳中了…… 
+num_like: 0   forwardings: 0 comments: 2
+
+18:#吴世勋巴黎时装周##吴世勋# 装酷耍帅时 
+num_like: 0   forwardings: 0 comments: 0
+
+19:我有钟妮妮调皮捣蛋的证据！！[阴险]#金钟仁wowow春天来了#. #金钟仁andante李时京# 
+num_like: 0   forwardings: 0 comments: 0
+
+20:我的字一到派上用场的时候通常都是不忍直视的样子[摊手] 
+num_like: 1   forwardings: 0 comments: 0
+
+21:实习日记写着写着就想添加个颜文字[喵喵] 
+num_like: 0   forwardings: 0 comments: 0
+
+22:喜欢上权烈VJ[羞嗒嗒] #RunningMan# 
+num_like: 2   forwardings: 0 comments: 2
+
+23:#EXO# 在哥哥的美颜暴击下迷妹也被哥哥的腹肌暴击慎点 小心失血过多亻cr 「乖乖暴君」  #小影微视频# 
+num_like: 0   forwardings: 0 comments: 3
+
+24:我內心是咆哮的 
+num_like: 0   forwardings: 0 comments: 0
+
+25:你疯了，boy~ 鹿晗《敢（Roleplay）》剧情版MV 
+num_like: 0   forwardings: 0 comments: 0
+
+26:再次看到还是被可爱晕…[二哈]图一翻译【其实exo的欧赛昏是我的儿时小伙伴. 本来真正想当歌手的是我啊. 但是这小子吃了个辣炒年糕就成为了歌手, 相当的让人恼火. 拜托欧赛昏看到这条. 艺珍美术学院的CA玩的很烂的欧赛昏.】 图二是当年昏昏自己回答的粉丝问题图三四就是CA游戏 叫crazy arcade [眼泪] 
+num_like: 0   forwardings: 0 comments: 2
+
+27:每次看都是一个爆笑 
+num_like: 0   forwardings: 0 comments: 0
+
+28:迷妹来关爱追星狗了，全年任意一场演唱会，我来给你们报销门票费！！任意任意任意，重要的事情说三遍！！[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+29:分享图片 
+num_like: 0   forwardings: 0 comments: 3
+
+30:吴世勋 如果带这样的男朋友逛街啊啊啊啊啊啊啊啊啊啊啊啊怎么办，脑补了，好有面~~  秒拍视频 【撸】 
+num_like: 0   forwardings: 0 comments: 0
+
+31:#吴世勋# 素颜宝宝萌化了 玩游戏突然蹦出奶音 我们的小呜呜最可爱辣 秒拍视频   cr卖血玩微博  【鴉】 
+num_like: 0   forwardings: 0 comments: 1
+
+32:#都暻秀# .#七号室都暻秀# .【图片】170221玉指非纤纤 情愫绵绵 十指连心结 爱意万千 紧扣君指间 携手百年 (cr.logos) 
+num_like: 0   forwardings: 0 comments: 0
+
+33:明天聚美301就要开始了，今天再发一个红包，并且转发本微博，再抽10个每人送10000元现金，帮你清空聚美301购物车。[doge]http://t.cn/Ri404K1 
+num_like: 0   forwardings: 0 comments: 0
+
+34:关注我并转发此微博，抽10个每人送10000元现金，帮你清空聚美301购物车。最近几天持续红包雨，据说特别关注后就漏不掉欧哥的福利了，先来给你们发个雨露匀沾的大大大红包吧。[doge][doge]http://t.cn/RiwvRkG 
+num_like: 0   forwardings: 0 comments: 0
+
+35:Gaon Chart K-Pop Awards（吴世勋获奖）金俊勉自豪欣慰的表情... 好像儿子娶媳妇了一样激动感慨的表情[笑cry][笑cry][笑cry]cr:logo 
+num_like: 0   forwardings: 0 comments: 0
+
+36:～[爱心][爱心][爱心][爱心][爱心][爱心][爱心][爱心][爱心]@wu世勋-EXO #EXO# 
+num_like: 0   forwardings: 0 comments: 0
+
+37:昏昏的solo～棒棒der～()[爱心发光][爱心发光][爱心发光][爱心发光][爱心发光][爱心发光][爱心发光][爱心发光][爱心发光] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+38:小分队这个MV有毒哈哈哈哈哈图二看到了咸咸nnd腿毛[笑cry]图三里兜马上就要暴走了[笑cry]图六的甜甜美得连她亲哥都吓着了[笑cry]p了个s.wuli白熙jinjia美炸了....美炸了....#EXO-CBX# 
+num_like: 0   forwardings: 0 comments: 0
+
+39:【西红柿疙瘩汤】早晚来吃都非常适合，爽口开胃又能解饱，老少皆宜！ ? 
+num_like: 0   forwardings: 0 comments: 2
+
+40:五万抽700多人！！！五万抽700多人！！！五万抽700多人！！！转发+关注即可，具体有啥戳图片喜欢的麻烦点个赞[二哈]@微博抽奖平台 监督 
+num_like: 0   forwardings: 0 comments: 1
+
+41:#EXO# 听说一般女孩子的手机相册里满是自拍，而我，我就知道，我不一般！【曌】 
+num_like: 0   forwardings: 0 comments: 2
+
+42:这双鞋看起来很大 使我有种错觉 前面那半都是空的[眼泪] 
+num_like: 0   forwardings: 0 comments: 0
+
+43:#四年连续大赏组合exo# #EXO-CBX# 170218 K-Drama Festa in 平昌 表演舞台 For You [泪] 哇哇哇哇啊啊啊啊啊百听不厌的OST 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 2
+
+44:#金钟仁# 1.和staff姐姐展示自己的舞蹈2.自己和staff姐姐都困的时候玩她的头发3.staff姐姐不想脸出现在镜头上 金钟仁帮他并且露出宠溺（？）的表情4.Cody姐姐帮化妆的时候[doge][doge][doge] 
+num_like: 1   forwardings: 0 comments: 4
+
+45:吓得我看了三遍，这是灿烈本来要搞事情，还没开始，嘟嘟一个没踩稳摔了一下抱住了灿烈，算灿烈救了他，但是灿烈回去以后会被打 吧[笑cry][笑cry][笑cry][笑cry]cr：oO吖酥咪【爰】秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+46:吴世勋的小脚丫把我萌的嗷嗷叫！挪一下抬两只脚天啦TTTTTTTTTTTT为什么会这么可爱[笑cry] [笑cry] 秒拍视频  【撸】 
+num_like: 0   forwardings: 0 comments: 0
+
+47:papi酱的“30岁30问”答网友问！感谢所有给我提问的盆友们，希望我们以后可以时不时地有些小互动、小交流～（祝我30岁生日快乐～～视频的其余段落见评论！（转发本视频有福利嗷！（不懂为什么我生日要给别人送福利[失望]...比30个心[爱心]papi酱的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+48:好好儿睡吧 
+num_like: 0   forwardings: 0 comments: 1
+
+49:好好儿睡吧 
+num_like: 0   forwardings: 0 comments: 0
+
+50:火柴人版饿了龙夏末的lucky的秒拍视频B站：http://t.cn/RJpFZAP 
+num_like: 0   forwardings: 0 comments: 0
+
+51:刷推全都是这个[眼泪] 合集 cr见logo 不妥删 
+num_like: 0   forwardings: 0 comments: 0
+
+52:[企鹅]操纵师[老虎] 
+num_like: 0   forwardings: 0 comments: 0
+
+53:财运来啦！我在#让红包飞#PK抢卡中击败了 M鹿M，获得Ta的财神卡！集财神卡赢现金大奖，赶快来和我PK吧！财神卡PK大厅 
+num_like: 0   forwardings: 0 comments: 0
+
+54:世勋的中文全程关心 超级可爱的[淚] 这中文很快就能和你lay哥俩腿一盘嗑瓜子中文聊天了  秒拍视频【鳯】 
+num_like: 0   forwardings: 0 comments: 0
+
+55:虐的我姑父呀[泪][泪][泪]三百年的期盼咔嚓就没了#三生三世十里桃花# 
+num_like: 20   forwardings: 1 comments: 4
+
+56:#M鹿M的红包#Boomshakalaka！我在M鹿M 的红包中抽到了@让红包飞 提供的“限量版财神卡-要”，2017年的小惊喜！也许你的惊喜更大哦~M鹿M 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+57:EXO都暻秀：高冷嘟大王最独特的鹅式高萌魅力是这个？[摊手][摊手][摊手]【爰】 秒拍视频 .  
+num_like: 1   forwardings: 0 comments: 0
+
+58:#EXO# 实在是猜不透爱豆的想法 亻 
+num_like: 0   forwardings: 0 comments: 0
+
+59:#wu世勋-EXO的红包#Boomshakalaka！我在wu世勋-EXO 的红包中抽到了@让红包飞 提供的“限量版财神卡-更”，2017年的小惊喜！也许你的惊喜更大哦~wu世勋-EXO 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+60:应广大群众要求，发出今天的福利，兰蔻销量第一的大粉水400ml只要269，化妆水中的大爆款，懂的人赶紧抢。另外，今天关注我转发这条微博，我再送一辆车车车车车[doge]【兰蔻大粉水】兰蔻清滢柔肤水400ml，干皮肤质的救星！ 
+num_like: 1   forwardings: 0 comments: 0
+
+61:izro_official [鼓掌] 
+num_like: 0   forwardings: 0 comments: 0
+
+62:【韩国机场“裸检仪”惹争议：三维影像近乎裸体[污]】近日，韩国仁川机场引进的一款全身安检仪，引发了巨大争议。原因是这台机器采用X光全身扫描，能够穿透衣物，并将被检查者的裸体人形呈现在屏幕上。对于韩国机场引进裸检仪，韩政府如此解释↓↓http://t.cn/RJhYts2 你怎么看？ 
+num_like: 0   forwardings: 0 comments: 1
+
+63:#wu世勋-EXO的红包#Boomshakalaka！我在wu世勋-EXO 的红包中抽到了@让红包飞 提供的“处女座财神卡”，2017年的小惊喜！也许你的惊喜更大哦~wu世勋-EXO 的红包 
+num_like: 1   forwardings: 0 comments: 0
+
+64:财运来啦！我在#让红包飞#PK抢卡中击败了 wu世勋-EXO，获得Ta的财神卡！集财神卡赢现金大奖，赶快来和我PK吧！财神卡PK大厅 
+num_like: 0   forwardings: 0 comments: 0
+
+65:#鹿晗##鹿晗2017央视春晚#【存档耿直鹿】鹿晗春晚接受采访，主持人问：你过年不能回家，鹿晗：啊我能啊，我上完舞台后坐车直接15分钟就到家了[笑cry][笑cry][笑cry]感觉主持人想煽情一下说你因为上春晚不能回家过年很辛苦，结果傻狍子……哈哈哈……太耿直 
+num_like: 0   forwardings: 0 comments: 0
+
+66:#wu世勋-EXO的红包#Boomshakalaka！我在wu世勋-EXO 的红包中抽到了@让红包飞 提供的“限量版财神卡-红”，2017年的小惊喜！也许你的惊喜更大哦~wu世勋-EXO 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+67:呐，春节快到了，一个朋友赞助了我3支YSL的口红，色号自选，转发的粉丝里抽3个，1月19号开抽，是时候该出手了，春节前送到你家！@微博抽奖平台 
+num_like: 1   forwardings: 0 comments: 0
+
+68:【炸鸡妹送福利！[礼物]EXO斐济写真】单本重4斤的#EXO#《DEAR HAPPINESS》斐济写真来了[哆啦A梦吃惊]这本写真记录了成员们在斐济美丽的自然风光下，旅途中的点点滴滴。关注@爱奇艺韩娱，转发@ 1位好友，16号官方平台抽2本。[挤眼] 
+num_like: 0   forwardings: 0 comments: 2
+
+69:【炸鸡妹送福利！[礼物]EXO斐济写真】单本重4斤的#EXO#《DEAR HAPPINESS》斐济写真来了[哆啦A梦吃惊]这本写真记录了成员们在斐济美丽的自然风光下，旅途中的点点滴滴。关注@爱奇艺韩娱，转发@ 1位好友，16号官方平台抽2本。[挤眼] 
+num_like: 1   forwardings: 0 comments: 0
+
+70:#金钟仁# .#金钟仁0114生日快乐# 170114 金唱片 预览cr：@MrDestiny_KAI 饭们喊名字，然后说安对[眼泪]估计时机不对[眼泪]太可爱了啊啊啊啊啊最后小小的比了赞[大哭]太喜欢你了[大哭] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+71:#四年连续大赏组合exo#  恭喜EXO获得第31届金唱片唱片部门大赏！EXO已连续四年蝉联唱片大赏！并成为今晚的三冠王！[加油]历史还在继续书写，接下来的2017也要继续成为彼此的骄傲和自负心[求关注] 
+num_like: 0   forwardings: 0 comments: 0
+
+72:#EXO# #四年连续大赏组合exo# 【TE】170114 金唱片 专辑本赏EXO 中字 【下载：http://t.cn/RM0CSqN】【土豆：【TE】170114 金盘子 专辑本赏 EXO 中字】第二个奖啦！一年累计卖出213万张专辑，这么厉害也是没sei了[威武]还有我们勋的中文，一百级！妥妥哒[赞] 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+73:孔苏吖～迪欧吖～wuli嘟嘟wuli鹅～生日粗卡嘿～[蛋糕][蛋糕][蛋糕][爱心][爱心][爱心]#都暻秀# 
+num_like: 1   forwardings: 8 comments: 1
+
+74:看#真正男子汉#笑到变形污力韬韬承包了真男大半儿的笑点 打个篮球都能变成卧底韬[笑cry][笑cry][笑cry] 
+num_like: 0   forwardings: 8 comments: 0
+
+75:#EXO##你要我的小心心吗#[爱心][爱心][爱心][爱心][爱心][爱心][爱心][爱心][爱心]私心艾特@wu世勋-EXO [害羞]   ps手残是多么痛的领悟[二哈] 
+num_like: 1   forwardings: 0 comments: 2
+
+76:#朴灿烈# #吴世勋# 大庭广众之下这是要分手的节奏么，忙内傲娇的小表情， [哈哈][哈哈] （转）秒拍视频【斿】 
+num_like: 0   forwardings: 0 comments: 0
+
+77:[下]星期五[笑cry][笑cry][笑cry] 
+num_like: 0   forwardings: 0 comments: 0
+
+78:这张图到现在都没出高清 
+num_like: 0   forwardings: 0 comments: 0
+
+79:papi酱的特别篇——如果圣诞节是中国节日，一定别有一番风味[微笑]。鹿肉是千家万户喜爱的圣诞节硬菜，家人团聚，围桌相谈，猛吃鹿肉的景象，洋溢着浓厚的节日气氛。（祝大家周末愉快，比心[心]！也祝要考研的同学周末考得开心（我已经毕业啦嘿嘿[微笑]papi酱的秒拍视频 
+num_like: 2   forwardings: 0 comments: 0
+
+80:EXO中最不能让人理解的成员D.O.[doge][偷乐] 
+num_like: 0   forwardings: 0 comments: 0
+
+81:正确打开Lotto的方式 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 1
+
+82:我就没见oppo打架输过[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+83:我就没见oppo打架输过[doge] 
+num_like: 0   forwardings: 0 comments: 0
+
+84:[心][心]向#SMTOWN_SUM##圣诞树#说出你想要的SUM圣诞礼物吧~大家好，我来啦~一转眼已经是2016年年末了，这一年大家过得怎么样呢，期待的东西都实现了吗？对我来说，2016年是特别意味深长的一年，SUM能与大家见面并进行很多交流是一件很幸福的事情~大家每天都积极参与活动，就算没有被抽到也互相祝福， 全文
+num_like: 0   forwardings: 0 comments: 0
+
+85:大家好！从2016年8月6日开始，跟大家认识刚好过了一个月哦！[鼓掌]在这一个月里，我每次看到留言，都会喜忧参半。[可怜]特别感谢大家把 #漂亮极了# 推到了风口浪尖！也非常感谢大家的关注与支持。[赞]以后希望有更多机会一起交流，大家的留言我都有看哦！[阴险]因为有大家的陪伴，我 #幸福极了#  全文
+num_like: 0   forwardings: 0 comments: 0
+
+86:For life 
+num_like: 0   forwardings: 0 comments: 0
+
+87:吴会长的表情哈哈哈哈 魜crlogo 秒拍视频 
+num_like: 0   forwardings: 0 comments: 1
+
+88:#吴世勋# 被演艺事业耽误的代购小哥[doge]【甜盐勋-】亻 
+num_like: 0   forwardings: 0 comments: 0
+
+89:#朴灿烈# 当年朴灿烈就是因为这个比赛被SM公司看中选为练习生 ~~  秒拍视频 【撸】 
+num_like: 0   forwardings: 0 comments: 0
+
+90:#都暻秀# 我就是我 不一样的烟火[doge]魜 
+num_like: 0   forwardings: 0 comments: 0
+
+91:朴灿烈 想鼓掌总是踩不对点 ，大手举起尴尬拍拍又轻轻放下来。Lay哥到底什么时候讲完  秒拍视频   鮤 
+num_like: 0   forwardings: 0 comments: 0
+
+92:#张艺兴##朴灿烈##金钟大##都暻秀# 回顾之前的中秋特辑 [哈哈][哈哈][哈哈]锅盖头的造型实在太可爱了[笑cry][笑cry][笑cry] cr:logo「馾」 秒拍视频 
+num_like: 0   forwardings: 0 comments: 2
+
+93:#EXO# 韩国梦想演唱会 咆哮完整版 一起来感受一下来自世界劳尔的应援吊炸天 出处见视频 秒拍视频    鮤 
+num_like: 0   forwardings: 0 comments: 0
+
+94:papi酱不定期更新的日常——转发送全套噢！！！有一些朋友很不理智啊，会因为玩具可爱就去买肯德基。我就是这样一个不理智的有着少女心的老阿姨。。。转发这条视频，七天后抽出一个幼稚鬼送ta一整套玩具！（我会告诉你们我已经集齐全套了吗（周末愉快~比心[心] papi酱的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+95:#exo# 艾回官方油管更视频 这次茶蛋新单曲在日本发行的宣传力度，感觉是宣传报告的视频哈哈哈哈，看得一身鸡皮疙瘩！真的是茶蛋承包的整个涉谷，记得那天我说一到涉谷感觉像是茶蛋周边一条街[眼泪][眼泪]【迷妹表示都get了！很满足了[加油]exo继续大发吧 亻【CALLMEQINQIN】 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+96:这个视频差点没笑死我，笑岔气了简直    [笑cry][笑cry] EXO潮流资讯的秒拍视频  【鳯】 
+num_like: 0   forwardings: 0 comments: 0
+
+97:边伯贤 边老师的疯狂汉语第二节开课啦～哈哈哈哈哈哈哈，好可爱  出处见视频  Givexo_Always的秒拍视频 【斿】 
+num_like: 0   forwardings: 0 comments: 0
+
+98:装逼利器，欧哥福利[doge]关注我和@刘惠璞_河马哥 @李雅静Chelsea ，转发微博，欧哥抽10个人送2016限量版资生堂心机蜜粉[微笑] 
+num_like: 0   forwardings: 0 comments: 0
+
+99:#2016MAMA##EXO# 终于找到完整伯贤x秀智表演时的EXO饭拍版 灿烈xiumin和钟大这三个 兴奋的连kai和小哥哥都无奈了[笑cry] DO一个人在神游 完全与旁边7人脱离 感觉只有世勋和艺兴是真正在欣赏人家伯贤表演的 虽然配着姨母笑 这整出大戏 反正我是看了9遍才来发的 cr:rubiikpop &萌萌兔叽779 【爰】 全文
+num_like: 0   forwardings: 0 comments: 0
+
+100:冰水睡了以后世勋的反应…听完一起睡了以后不确定的还又问了一次[doge]【-_-别闹-_-】亻 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+101:#都暻秀# 这个要笑死我了 nayeon 正在给她的粉丝飞吻 可是嘟嘟正好经过 [眼泪][眼泪][眼泪][眼泪][眼泪][眼泪][眼泪]太可爱了魜cr babyso_o 
+num_like: 0   forwardings: 0 comments: 0
+
+102:#张艺兴# 天天向上 你们最期待的地板动作来了 没有小哥哥来扶你了  cr:logo「聃」 秒拍视频 
+num_like: 0   forwardings: 0 comments: 1
+
+103:#鹿晗#突然翻到这首歌曲《鹿晗唱的一句韩语》 声音温柔而让人沉醉，就配着这句歌声剪了一个短频。真的好听爆！！！[鼓掌] 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+104:#EXO闪耀MAMA颁奖盛典# #连续四年大赏组合exo# 2016年MAMA，EXO团体获得【BEST ASIAN STYLE AWARD亚洲风尚奖】【最佳男子团体】【年度专辑大赏】3个大奖！连续第四年拿到专辑大赏！成为MAMA史上第一组达成大赏四连的艺人！实至名归！一个多月的投票期长吗？难熬吗？但是从2012-2016，我们都努力的赢过 全文
+num_like: 0   forwardings: 0 comments: 0
+
+105:#EXO闪耀MAMA颁奖盛典# #连续四年大赏组合exo# 恭喜EXO<EX&#039;ACT>获得 2016 MAMA【年度专辑大赏】大赏！大赏！终极大赏！！四连大赏！！实至名归！果然说到专辑，只能是EXO！唯有EXO！能超越EXO的只有EXO！EXO是MAMA历史上第一组连续四年获得大赏的明星！举世无双EXO！！无与伦比EXO-L！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+106:爱吧 
+num_like: 0   forwardings: 0 comments: 0
+
+107:#EXO闪耀MAMA颁奖盛典# 最好的队长—金俊勉！ 今年也辛苦了[爱心] 
+num_like: 0   forwardings: 0 comments: 0
+
+108:一个喜欢看热闹又好奇的吃瓜群众昏昏[笑cry][笑cry]魜 
+num_like: 0   forwardings: 0 comments: 1
+
+109:#金钟仁# 我们熊可能不会用剪刀吧！戳萌点亻【钟仁的炸鸡】 
+num_like: 0   forwardings: 0 comments: 2
+
+110:妈呀他们太可爱辣，整个视频看完就知道哪个宝宝最有少女心了哈哈哈哈哈哈哈哈哈[笑cry]嘟嘟真是无灵魂的拍掌，萌哭了！！以及被我里兜的突然尬舞笑死了！！！！亻最后说一句看贵族式观看 秒拍视频 
+num_like: 0   forwardings: 0 comments: 2
+
+111:我的妈呀[抓狂][泪] 
+num_like: 0   forwardings: 0 comments: 0
+
+112:这个视频挺让人疑惑的，2016mma现场台上唱歌的是大前辈水晶男孩（和hot同年代的），工作人员直接越过exo，让后排的组合都站起来，只有不知道的exo坐着，chen回头看了一眼，发现除了他们都站起来了，所以提醒成员们，exo才站了起来。如果播出，那么就会说exo不懂礼仪，没有礼貌？不解[摊手] 全文
+num_like: 0   forwardings: 0 comments: 0
+
+113:EXO红高粱模特队，我的天，次元壁被打破了[doge][doge]全程高能哈哈哈哈哈哈哈哈[笑cry][笑cry]秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+114:1.秒杀汽车还在纠结中，但车得继续送2.关注转发就送，这是第五辆3.送上大红包，使用后很多产品免费点 http://t.cn/Rf2kndF 领红包 
+num_like: 0   forwardings: 0 comments: 0
+
+115:11.11 第二辆Mini Cooper汽车了开始抽奖！关注我，并转发微博@ 三位好友，官方抽一个人送装满森田药妆的mini轿车！同时，给每个人都准备了聚美11.11红包点 http://t.cn/RVshowK 领取 
+num_like: 0   forwardings: 0 comments: 0
+
+116:#吴世勋##吴世勋亲爱的阿基米德# 从青涩到成熟，从生涩到流利，一直努力学中文的吴世勋，一直宠着中饭的吴世勋，你们保护我们，我们保护你们。他做的每件事都让粉丝觉得，你不是在单方面付出，一起来见证世勋的中文成长过程，真的努力过，才会有回报。秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+117:半夜看勋鹿哭成狗[泪流满面][泪流满面][泪流满面]#勋鹿# 
+num_like: 4   forwardings: 20 comments: 0
+
+118:酱酱酱酱~打完爱豆照片，开心到飞起~~~[飞机][飞机][飞机]     . @baekhyunee7 @M鹿M @wu世勋-EXO @努力努力再努力x@real__pcyyyyy  嗯~我站鹿勋#勋鹿#,   .     [偷乐][偷乐][偷乐] 
+num_like: 1   forwardings: 0 comments: 5
+
+119:“#吴世勋##吴世勋亲爱的阿基米德#  勋呀，扣子既然开就开了吧，不用系[得意地笑][得意地笑][得意地笑][得意地笑][得意地笑][得意地笑]~秒拍视频    【曌】散漫的喵喵 
+num_like: 0   forwardings: 0 comments: 0
+
+120:#EXO# 现在杭州正在放这个 好可爱 亻 #小影微视频# 
+num_like: 0   forwardings: 0 comments: 0
+
+121:@wu世勋-EXO 已经在#明星势力榜#韩国榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第4位  
+num_like: 0   forwardings: 0 comments: 2
+
+122:[祈祷] 
+num_like: 1   forwardings: 20 comments: 0
+
+123:@wu世勋-EXO 已经在#明星势力榜#韩国榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第4位  
+num_like: 0   forwardings: 0 comments: 0
+
+124:@wu世勋-EXO 已经在#明星势力榜#韩国榜上为你加油啦，你是我今生唯一的执著哦。棒棒哒！明星势力榜第4位  
+num_like: 1   forwardings: 0 comments: 0
+
+125:我相信会有好运[心] 
+num_like: 1   forwardings: 20 comments: 0
+
+126:大写的人见人爱花见花开车见车爆胎的Exo 发新歌啦，来#亚洲新歌榜#为 Lotto-Exo打榜吧！现在参与打榜，还有机会获得9月27日亚洲新歌榜年度盛典入场券及精美礼品！ 
+num_like: 1   forwardings: 0 comments: 0
+
+127:冥冥之中@一哒哒二哒哒六哒哒 
+num_like: 0   forwardings: 0 comments: 3
+
+128:跟寂寞重归于好 。 
+num_like: 1   forwardings: 21 comments: 10
+
+129:消除了大半的糟糕心情.么么哒[亲亲]欧大@聚美陈欧 #你们为国护盘，陈欧为你护脸# 
+num_like: 0   forwardings: 0 comments: 5
+
+130:七月阳光圆了我的长腿梦[杰克逊] 
+num_like: 0   forwardings: 16 comments: 0
+
+131:脚麻背痛地写完论文，才听见外面下着不小的雨。[互相膜拜] 
+num_like: 0   forwardings: 13 comments: 0
+
+132:‘我有多心酸，最终错过你。’ 
+num_like: 0   forwardings: 10 comments: 0
+
+133:#港囧定档925#由徐峥执导，@徐峥 @赵薇 主演的电影《港囧》正式定档9月25日，最强喜剧“笑指”国庆档，“囧神”徐峥爆笑归位！这款海报的风水指南可是经过精心设计的，@港囧电影 千万不要错过！[酷] 
+num_like: 0   forwardings: 0 comments: 0
+
+134:#随手拍#人品爆发！我在随手拍 的红包中抽到了@微博会员 提供的“微博会员7天体验卡”，分享照片/视频，就有机会抽红包哟~快来玩！随手拍 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+135:心慌… 
+num_like: 1   forwardings: 8 comments: 1
+
+136:#本期主题# 如果你想要一个大胸妹纸做女朋友，就让她少喝咖啡！瑞典的一项研究表明，摄取过量的咖啡因可能改变体内的荷尔蒙，从而使胸部变小。特别是每天喝三杯以上的女性，她们的胸部会明显缩水17%。不信你就问问身边的大胸妹纸，一定很少喝咖啡... 
+num_like: 0   forwardings: 1 comments: 5
+
+137:不谢 [doge] @i苏苏不变心 
+num_like: 0   forwardings: 1 comments: 6
+
+138:一直都不喜欢下雨天` 
+num_like: 0   forwardings: 8 comments: 0
+
+139:情窦初开的年纪遇到你. 
+num_like: 0   forwardings: 0 comments: 4
+
+140:晚风都是暖暖的 [月亮] 
+num_like: 1   forwardings: 0 comments: 0
+
+141:The  last  station [奥特曼] 北京·北京西站 
+num_like: 0   forwardings: 0 comments: 0
+
+142:梦回从前。 
+num_like: 1   forwardings: 0 comments: 1
+

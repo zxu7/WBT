@@ -1,0 +1,124 @@
+user_info or user_nickname: 笨笨笨笨装
+user_id: 5549577647
+weibo_Num: 39
+Num_followings: 43
+Num_followers: 10
+
+weibo content: 
+1:离开你是我人生目前做的最正确的事情 
+num_like: 0   forwardings: 0 comments: 0
+
+2:冷静下来 
+num_like: 0   forwardings: 0 comments: 0
+
+3:你TM算个屁 
+num_like: 0   forwardings: 0 comments: 0
+
+4:我只有一点点喜欢你，但是我很多点喜欢我自己 
+num_like: 0   forwardings: 0 comments: 0
+
+5:I Can 
+num_like: 0   forwardings: 0 comments: 0
+
+6:再不努力，我就老了 
+num_like: 0   forwardings: 0 comments: 0
+
+7:" 陪你聊几天你就喜欢他 " 
+num_like: 0   forwardings: 0 comments: 0
+
+8:你TM算个屁！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+9:是我不够好 
+num_like: 0   forwardings: 0 comments: 0
+
+10:你依然是我的软肋，却不再是我的铠甲。那个说永远不会离开我的人，早已离开了；那个说爱我的人，牵着的却是别人的手；那个说会等我的人，却跟另一个人走了。如果没人护你周全，那就酷到没有软肋。一步步走向深渊的我们，活着不好吗，努力变的更优秀  
+num_like: 0   forwardings: 0 comments: 0
+
+11:要成为以前自己厌恶的那种人吗 
+num_like: 0   forwardings: 0 comments: 0
+
+12:病入膏肓 
+num_like: 0   forwardings: 0 comments: 0
+
+13:我想我是有病的 
+num_like: 0   forwardings: 0 comments: 0
+
+14:不要成为自己讨厌的人 
+num_like: 0   forwardings: 0 comments: 0
+
+15:我参与了@同道大叔 发起的投票 【你觉得十二星座谁最慢热？】，我投给了“摩羯座”这个选项。你也快来表态吧~你觉得十二星座谁最慢热？ 
+num_like: 0   forwardings: 0 comments: 0
+
+16:祈祷 
+num_like: 0   forwardings: 0 comments: 0
+
+17:每一次重逢都是我对你的思念 
+num_like: 0   forwardings: 0 comments: 0
+
+18:我怎么可以如此想你？ 
+num_like: 0   forwardings: 0 comments: 0
+
+19:每一场离别都是事先排好的戏。 
+num_like: 0   forwardings: 0 comments: 0
+
+20:还有多远，到幸福的距离。 
+num_like: 0   forwardings: 0 comments: 0
+
+21:不拿别人的错误惩罚自己，情商是个好东西但愿我能有。脑子是个好东西但愿你能有。 
+num_like: 0   forwardings: 0 comments: 0
+
+22:我们终会变的强大 
+num_like: 0   forwardings: 0 comments: 0
+
+23:每年都会有364天的坚强，最后在生日这天一个躲被子里哭个稀里哗啦！22岁的自己欢迎你。 
+num_like: 0   forwardings: 0 comments: 0
+
+24:把接下来的日子当做是一段充电的时光。 
+num_like: 0   forwardings: 0 comments: 0
+
+25:一个人的2015年爱上了打球，一个人的2016年爱上了做菜，我再想一个人的2017年我爱上的是谁？ 
+num_like: 0   forwardings: 0 comments: 0
+
+26:20岁 有没有想过这辈子不结婚了怎么办? 
+num_like: 0   forwardings: 0 comments: 0
+
+27:不能死，就好好活着 
+num_like: 1   forwardings: 1 comments: 0
+
+28:等待着却害怕着，害怕着却期待着。 
+num_like: 0   forwardings: 0 comments: 0
+
+29:得瑟的犯了错 
+num_like: 0   forwardings: 0 comments: 0
+
+30:还需要更加努力 
+num_like: 0   forwardings: 0 comments: 0
+
+31:遇见更好的自己 
+num_like: 0   forwardings: 0 comments: 0
+
+32:Pony彩妆教程合集，方便大家查看[心]范冰冰仿妆：秒拍视频 ；Pony中国行日常妆：秒拍视频 ； 面试妆容：秒拍视频； 拯救起床困难户快妆：秒拍视频； 红唇妆：秒拍视频； 梦幻桃花妆：秒拍视频 ；红褐色烟熏妆：秒拍视频 全文
+num_like: 0   forwardings: 0 comments: 0
+
+33:下辈子如果有选择，化作一缕清风、一滴露水、一片云彩、如此一生便再不想为人。 
+num_like: 0   forwardings: 0 comments: 0
+
+34:越努力就越幸运 
+num_like: 0   forwardings: 0 comments: 0
+
+35:世界让我遍体鳞伤，但伤口长出的是翅膀 
+num_like: 0   forwardings: 0 comments: 0
+
+36:坚持那个单纯美好努力的自己 
+num_like: 0   forwardings: 0 comments: 0
+
+37:先成为值得的人，再去遇见更值得的人。晚安。[心] 
+num_like: 0   forwardings: 0 comments: 0
+
+38:请，让更多人看到。当时我就震惊了的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+39:只有自己经历了一场说走就走的旅程，才能体会当初那个人穿越大半个中国，风尘仆仆的出现在学校门口的勇气！ 杭州·杭州萧山国际机场 
+num_like: 0   forwardings: 0 comments: 0
+

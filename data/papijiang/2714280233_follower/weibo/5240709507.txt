@@ -1,0 +1,13 @@
+user_info or user_nickname: 默默不做声啊
+user_id: 5240709507
+weibo_Num: 2
+Num_followings: 51
+Num_followers: 19
+
+weibo content: 
+1:@BFTK线向上 的文章《展望后市》精彩极了，打赏198元以资鼓励！#微博打赏#展望后市 
+num_like: 0   forwardings: 0 comments: 0
+
+2:@BFTK线向上 的文章《坚定持股》精彩极了，打赏28元以资鼓励！#微博打赏#坚定持股 
+num_like: 0   forwardings: 0 comments: 0
+

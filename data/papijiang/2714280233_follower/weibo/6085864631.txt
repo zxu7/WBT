@@ -1,0 +1,7 @@
+user_info or user_nickname: 超超超爱思考
+user_id: 6085864631
+weibo_Num: 0
+Num_followings: 9
+Num_followers: 15
+
+weibo content: 

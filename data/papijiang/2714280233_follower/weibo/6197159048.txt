@@ -1,0 +1,7 @@
+user_info or user_nickname: 罗weirdo
+user_id: 6197159048
+weibo_Num: 0
+Num_followings: 38
+Num_followers: 15
+
+weibo content: 

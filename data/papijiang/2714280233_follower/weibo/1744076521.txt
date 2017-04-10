@@ -1,0 +1,1876 @@
+user_info or user_nickname: RuidanLv
+user_id: 1744076521
+weibo_Num: 624
+Num_followings: 145
+Num_followers: 386
+
+weibo content: 
+1:艺术家 池田学 Manabu Ikeda 花三年半的时间,完成的巨幅手绘《重生》 #HUAGOGH# 
+num_like: 0   forwardings: 0 comments: 0
+
+2:转走这个逆天幸运的气球，愿你在四月可以梦想成真，好运连连~[心]秒拍视频 
+num_like: 0   forwardings: 1 comments: 0
+
+3:卓别林的那个没有特效的年代，惊险镜头都是这样拍摄！ 
+num_like: 0   forwardings: 1 comments: 0
+
+4:俄罗斯一个渔民开了一个推特，更新他们从深海里捞上来的怪鱼，感觉每个都是外星生物。。可能水下太暗了，啥都看不到，大家随便长长就好了。 
+num_like: 0   forwardings: 0 comments: 0
+
+5:【手机刷个够！充电几秒钟 通话一礼拜 可弯曲的超级电池问世】国外研究人员发明了一种新型的超级电容器制备技术，通过这种技术制备出来的超级电容器可以随便弯曲，而且蓄电能力要远远超过普通的电池，与此同时，它还可以反复充电30000次以上而完全不会降低电池的蓄电能力。#象警官说事# 让你一次刷个够 全文
+num_like: 0   forwardings: 0 comments: 0
+
+6:“虽然我也快60了，但是我觉得，通过这次拍《我不是潘金莲》，拍这个圆的电影，我创作的路才刚刚开始……”——导演@冯小刚 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+7:厉害了我的球，这个灭火球好厉害！科技改变生活[赞]Happy张江的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+8:国外达人秀的一位达人的表演，堪称视觉盛宴，太震撼了！秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+9:#绘画参考#手臂做抬升运动时的肌肉变化（GIF动图，不动戳大） 
+num_like: 1   forwardings: 1 comments: 0
+
+10:原以为他开着超跑，卧槽，知道真相后。。。 冷笑话精选的秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+11:我分享了秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+12:【你愿意进化成这样的超级人类吗：不怕交通事故】汽车给人来带来方便的同时也带来危险，除了提高安全性外，还要怎样才能减少伤亡呢？澳大利亚的交通意外委员会研究后得出一个结论：人类只要进化成这样就可以避免交通事故伤亡，为了直观他们还制做了一个互动人体模型“Graham”。你愿意进化成超级人类吗 
+num_like: 0   forwardings: 1 comments: 0
+
+13:一项新研究发现，生活在北大西洋海域的格陵兰鲨鱼是世界上寿命最长的脊椎动物。研究人员无法用常规方法测定其年龄，因此对这种鲨鱼的晶状体进行了专门研究，科学家使用放射性碳定年法对28头因意外而死亡的格陵兰鲨鱼的晶状体核进行分析后发现，其寿命起码可达272年，而有些个体甚至能存活500年之久。不 全文
+num_like: 0   forwardings: 0 comments: 0
+
+14:看到宇航员近日从空间站拍摄到的北京，深深地觉得：“与世隔绝的不是宇航员，而是我们。” 
+num_like: 0   forwardings: 0 comments: 0
+
+15:北京时间7月28日20时37分，宇宙神五号( Atlas V)运载火箭携带美国国家侦察局的NROL-61卫星，从卡纳维拉尔角发射升空，宇宙神五号高度194英尺，重量95万磅，可产生150万磅的推力，这是宇宙神五号的第64次发射。 
+num_like: 0   forwardings: 0 comments: 0
+
+16:轨道ATK公司QM-2固体火箭助推器的洪荒之力，由NASA的超高速动态摄像机(HiDyRS-X)记录。 秒拍视频 . 
+num_like: 0   forwardings: 0 comments: 0
+
+17:羽毛球比赛开战，但林丹和李宗伟的决赛对决要失约了，因为他们被分在同一个区，将在半决赛中决出胜负。对于这一对跨越国界的羽坛CP，大家的心情是矛盾的，既希望超级丹获得男单三连冠，又希望李宗伟打破冠军为零的封印……好在友情面前没有输赢，就像他们一样：这样运动才够浪 
+num_like: 0   forwardings: 0 comments: 0
+
+18:独立日：卷土重来[星星][星星][星星][星星][星星]，#独立日：卷土重来# 
+num_like: 0   forwardings: 0 comments: 0
+
+19:10秒内转发 近期会有好运发生！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+20:小李子再夺影帝！[给力] 昨夜，有着英国“奥斯卡”之称的英国电影学院奖（BAFTA）结果揭晓，《还魂者》拿下包括最佳影片在内的五项大奖，成为最大赢家！小李子借此获得最佳男演员，将进一步冲击月底的奥斯卡。今年小李子能不能捧回小金人，我们拭目以待[偷乐] 
+num_like: 0   forwardings: 0 comments: 0
+
+21:三级、R级、19禁……你分得清这些重口味吗？三级、R级、19禁……你分得清这些重口味吗 
+num_like: 1   forwardings: 9 comments: 0
+
+22:#热点#【中国也有引力波探测工程，“天琴计划”正立项】美国科学家11日宣布人类首次直接探测到引力波。而记者获悉，去年7月，中国本土引力波探测工程“天琴计划”已启动，部分关键技术研究已有具体进展，目前正在立项中。“天琴计划”拟分四阶段实施，投资约150亿元。中国引力波探测工程正在立项 
+num_like: 0   forwardings: 0 comments: 0
+
+23:忽然想起来，从前我写过一个《功夫熊猫3》的剧情预测：阿宝与亲爹父子相认，羡煞盖世五侠，纷纷辞别师傅下山寻亲，一去渺无音讯。阿宝前去寻访，结果发现猴子被压在山下，蛇被压在塔下，鹤被一枚河蚌夹住了嘴，都动弹不得。老虎正奔景阳冈而去。只有螳螂找到真爱，新婚燕尔，去渡蜜月了… 
+num_like: 1   forwardings: 1 comments: 0
+
+24:【微软推狗脸识别App：根据照片辨别狗狗品种】微软近期开发一款iPhone应用Fetch！，能基于照片帮助用户识别狗狗的品种。Fetch！对狗狗品种的识别准确率非常高。试验中，这款应用成功识别了腊肠犬、西施犬、边牧和德牧。不过，这款应用似乎不熟悉不常见的狗狗品种。(嘀！单身狗)微软推狗脸识别App:可辨品种 
+num_like: 0   forwardings: 0 comments: 0
+
+25:#影讯#派拉蒙公布[变形金刚]系列三部续集定档时间。[变形金刚5]定档2017年6月23日，与华纳的[神奇女侠]同天上映；[变形金刚6]定档2018年6月8日，与华纳的[哥斯拉2]同天上映；[变形金刚7]定档2019年6月28日。迈克尔·贝将继续执导[变形金刚5]；片方透露[变形金刚6]中将会出现一条和大黄蜂有关的故事线。 
+num_like: 0   forwardings: 0 comments: 0
+
+26:#科幻趣闻#在BBC近期的采访中，霍金警告道：由于科学和技术的快速发展，在未来的一百年里，人类将时刻处在自我毁灭的危险之中。对此霍金给出的建议是：殖民火星。他觉得这个方法可以保证在最坏的情况降临时，还能有一部分人类在其他星球的“避风港”中继续生存下去→霍金说人类未来很危险，只有殖民火星这条出路 
+num_like: 0   forwardings: 1 comments: 0
+
+27:【科学家欲“复活”3万年前史前巨型病毒】在俄罗斯东北部冰冻荒原，一种巨型病毒被完好保存。科学家计划将这种病毒重新“复活”。它名为“Mollivirus sibericum”，是自2003年以来发现的第四种史前巨型病毒。科学家希望通过“复活”，了解这类病毒是否会对动物或人类造成威胁。科学家欲复活3万年前巨型病毒 
+num_like: 0   forwardings: 0 comments: 1
+
+28:这强悍的野外生存技能，太强大了！[doge][doge][doge]#逗比的日常# 秒拍视频 
+num_like: 0   forwardings: 0 comments: 0
+
+29:要科幻就得去废厂房.......[喵喵][doge][酷] 
+num_like: 2   forwardings: 1 comments: 0
+
+30:安咯……好梦[打哈气][打哈气][打哈气] 
+num_like: 0   forwardings: 0 comments: 0
+
+31:《寻龙诀》人物海报登场啦，最新预告马上大家就会看到，更惊艳！ 
+num_like: 0   forwardings: 0 comments: 0
+
+32:我们汐丹之光模型作品展示_XiDanLight_Demo_2015，我们会更加努力创作出更多高精度视效作品。2016见~ @徐健疯了@原画人官方微博 @三体电影 @倒吊男Hanger-DK @EnriqueLu  @V电影 @电影美术董承光 @电影工厂 @科幻世界 汐丹之光模型作品展示_XiDanLight_Demo_2015  
+num_like: 0   forwardings: 0 comments: 0
+
+33:炼金术师的信—温情系CG风格动画短片 The Alchemist's Letter vfxinfo  
+num_like: 1   forwardings: 0 comments: 0
+
+34:我看了TOTAL WAR-WARHAMMER mark一下。 TOTAL WAR-WARHAMMER vfxinfo  
+num_like: 0   forwardings: 0 comments: 0
+
+35:#景逸S50让红包飞#挣钱是一种能力，抢红包拼的是技术。我抢到了@东风风行景逸S50 发出的现金红包，超幸运的呢！你也来试试手气~╮ (￣ 3￣) ╭东风风行景逸S50 的红包 
+num_like: 0   forwardings: 0 comments: 0
+
+36:我们都是铁杆的JOJO粉丝，我们希望能成功为我们心中的经典来次电影化！JOJO集结号已经响起，替身使者们都来加入我们吧~！我们已经开启打造《乔乔的奇妙冒险》真人版特效粉丝微电影的众筹网址打造《乔乔的奇妙冒险》真人版特效粉丝微电影系列 @职人山西 @JoJoJoJo黄金之心 @原画人官方微博 @电影美术董承光 @倒吊男Hanger-DK 
+num_like: 56   forwardings: 520 comments: 62
+
+37:挺不错的短片~ 【凌动网】Portal Trick Shots (HD)  
+num_like: 2   forwardings: 1 comments: 0
+
+38:3D圣器始祖软件，强大！ http://t.cn/zQ0ihQp  
+num_like: 0   forwardings: 0 comments: 0
+
+39:时间过的太快，完全没有感觉就过去3年多，还好有他们为我们担当有力的时间“证人”！@职人山西 @JoJoJoJo黄金之心 @空调K太郎 @西北溯北of宫崎骏站 @耀夜液叶夫斯基 @207二零七 @kujou_peko 
+num_like: 5   forwardings: 8 comments: 3
+
+40:黑暗风暴即将登场！@职人山西 @JoJoJoJo黄金之心 @空调K太郎 @西北溯北of宫崎骏站长 @只要是太郎都是好... @耀夜液叶夫斯基 
+num_like: 6   forwardings: 19 comments: 2
+
+41:#你不知道的电影幕后# 导演了《被偷走的那五年》、《闺蜜》等多部知名影片的香港导演黄真真刚开始拍电影时并不顺利，因剧本无人投资而去炒股，结果欠下许多债，却依然用信用卡透支，完成了处女作《留下买路情》。被问到是什么一直支撑着她不断坚持去拍电影时，黄真真不假思索便回答道：“Passion！” 
+num_like: 0   forwardings: 0 comments: 0
+
+42:你的负担将变成礼物，你受的苦将照亮你的路。 
+num_like: 0   forwardings: 0 comments: 0
+
+43:英国的作家兼插画家 Jones 为了打发无聊的上下班时间，用这些卡通图像代替老乡的头，想象出一个个幽默的故事，把火车上的时间变得丰富多彩，我赶明儿也玩一个，想想都有点小激动呢。 
+num_like: 0   forwardings: 0 comments: 0
+
+44:2015的JOJO特别版日历哦，有感觉么？[doge] @JoJoJoJo黄金之心 @职人山西 @原画人官方微博 
+num_like: 1   forwardings: 2 comments: 1
+
+45:【《星际穿越》：剖析黑洞艺术（上）】艺术家们经常被要求做出一些以前从没见过的东西的影像，而且经常要求使之看起来尽量真实，即便根本没人确定它们的真实存在状态。来看《星际穿越》中，视觉特效总监Paul Franklin和Double Negative的团队制作的根本不存在于我们这个维度的影像http://t.cn/RzYzciL 
+num_like: 2   forwardings: 0 comments: 0
+
+46:#影讯# [星球大战：原力觉醒]进入后期，导演J·J·艾布拉姆斯宣布旗下的坏机器人公司正与索尼打造一部神秘科幻电影，他本人将负责影片的全程制作。JJ向来善于提拔新人眼光独到，导演已选定新人克里斯·阿兰德，后者的短片《风暴之眼》在Youtube的点击量超过130万。 -Eye of the Storm- - by Lovett  
+num_like: 0   forwardings: 0 comments: 0
+
+47:【猎户座飞船成功返回！】北京时间6日凌晨00:30许，NASA的新型猎户座飞船在经历4.5小时的测试飞行后，安全返回在加州海岸外的太平洋着陆区，标志着人类40多年来飞行距离最远的载人飞船测试取得完全成功！正如美国宇航局局长博尔顿所言：今天是火星时代的第一天。撒花！庆祝~~~美国猎户座飞船发射升空：已进入地球轨道 
+num_like: 0   forwardings: 0 comments: 0
+
+48:《帝国》杂志2014年度50佳海报 文章 
+num_like: 0   forwardings: 0 comments: 0
+
+49:也不知道在这大冬天里，给件T恤穿，真会有么？敢穿也许说明你们那儿气温高，或许真的心很热~是么？ 
+num_like: 4   forwardings: 4 comments: 2
+
+50:看荒木飞吕彦老师的作画全过程，太棒啦~我们要向他致敬~@JoJoJoJo黄金之心 @职人山西 《乔乔的奇妙冒险 25周年纪念画集》珍藏蓝光特典视频(下)  
+num_like: 7   forwardings: 46 comments: 3
+
+51:2015年你们期待的电影是什么？复仇者联盟？加勒比海盗？阿凡达？星球大战？正义联盟？乔乔的奇妙冒险？至少我会最期待它！@JoJoJoJo黄金之心 @职人山西 @西北溯北of宫崎骏站长 @will石爷 @丶愤怒的粘糕 
+num_like: 6   forwardings: 163 comments: 3
+
+52:我看了ABOUTCG上传《宇宙：时空之旅》 特效镜头制作解析，mark一下。 （分享自 @土豆） ABOUTCG上传《宇宙：时空之旅》 特效镜头制作解析  
+num_like: 1   forwardings: 0 comments: 0
+
+53:我看了《光环2 纪念版》CG动画宣传片，mark一下。 （分享自 @土豆游戏） 《光环2 纪念版》CG动画宣传片  
+num_like: 0   forwardings: 3 comments: 0
+
+54:《最终幻想15》游戏引擎技术DEMO Final Fantasy XV - Tech Demo 凌动网 Final Fantasy XV - Tech Demo  
+num_like: 0   forwardings: 0 comments: 0
+
+55:【视频： 马修·麦康纳 安妮·海瑟薇 《星际穿越》制作花絮  星际背后的科学原理】 （分享自 @优酷） 《星际穿越》制作花絮 星际背后的科学原理  
+num_like: 1   forwardings: 0 comments: 1
+
+56:【《星际穿越》中的科学硬伤：虫洞并不存在】据国外媒体报道，诺兰执导的科幻大片《星际穿越》举行首映，向全世界呈现一场惊心动魄的星际之旅。在获得无数人喝彩的同时，这部科幻巨制也因为科学硬伤遭到一些人的批评，尤其是科学家...《星际穿越》中的科学硬伤：虫洞并不存在 《星际穿越》中的科学硬伤：虫洞并不存在 
+num_like: 0   forwardings: 0 comments: 0
+
+57:jojo奇妙冒险电影剧照发布~！庆荒木老师画展开幕~！！！ 
+num_like: 1   forwardings: 2 comments: 4
+
+58:你们都不知道的事-早在两年前我们就完成了《JOJO的奇妙冒险第四部》的全CG替身制作哦，前期的电影剧本与美术设计也都完成了~我们也很想正式完成电影，但是时间精力有限。如果有支持，我们会做成电影的！[ok] @JoJoJoJo黄金之心 @职人山西 @原画人官方微博 
+num_like: 37   forwardings: 272 comments: 16
+
+59:生命中总有些人，安然而来，静静守候，不离不弃。也有些人，浓烈如酒，疯狂似醉，却是醒来无处觅，来去都如风，梦过无痕。无数的相遇，无数的别离，伤感良多，或许不舍，或许期待，或许无奈，终得悟不如守拙以清心，淡然而浅笑。人生最悲哀的并不是昨天失去得太多，而是盲目的沉浸于昨天的悲哀之中。 
+num_like: 0   forwardings: 0 comments: 0
+
+60:我们的处女独立电影＜Eyes of Mars>（Trailer photos),全片制作由我们的本土团队独立完成，希望它能成为中国科幻电影的里程碑。@EnriqueLu @李瀚清  
+num_like: 0   forwardings: 0 comments: 0
+
+61:3D版《多拉A梦》动画电影制作镜头解析 : ABOUTCG上传 3D版机器猫制作视频解析 详情：http://t.cn/RPgMhxz 
+num_like: 0   forwardings: 0 comments: 0
+
+62:#特效制作#《变形金刚4》的最大看点就是视效，无论是机器恐龙的制作，还是人造变形金刚华丽的“粒子化变形”都令人耳目一新。然而视效看起来过瘾，做起来很难，我们抛开吐槽、广告这些“浮华”，直接看《变4》视效制作的幕后秘密。幕后花絮：TRANSFORMERS AGE OF EXTINCTION - Behind the scenes 特效分解：Transformers Age Of Extinction Featurette - Creation Of The Dinobots 
+num_like: 0   forwardings: 0 comments: 0
+
+63:美版《忍者神龟》渲染&动补&表情幕后制作解密 凌动网上传Animating the turtles in Teenage Mutant Ninja Turtles with Maya  
+num_like: 0   forwardings: 0 comments: 0
+
+64:8月會有錢的星座快轉發起 
+num_like: 0   forwardings: 0 comments: 0
+
+65:【视频：凌动网上传 RealFlow Showreel 2014】 （分享自 @优酷） 凌动网上传 RealFlow Showreel 2014  
+num_like: 0   forwardings: 0 comments: 0
+
+66:War Thunder Battle is on Trailer (HD 凌动网上传War Thunder Battle is on Trailer (HD)  
+num_like: 0   forwardings: 0 comments: 0
+
+67:Making of Kyoto Gakuen University TVC， 凌动网Making of Kyoto Gakuen University TVC  
+num_like: 0   forwardings: 1 comments: 0
+
+68:【视频：《魔兽世界：德拉诺之王》开场动画】 （分享自 @优酷） 《魔兽世界：德拉诺之王》开场动画  
+num_like: 0   forwardings: 0 comments: 0
+
+69:#CG短片#《刺客信条》系列短片，由世界知名CG工作室Digic Pictures制作。游迅网_《刺客信条：大革命》全新CG预告  短片2：E3 2014 刺客信条：大革命 完整CG预告  《刺客信条：兄弟会》CG：http://t.cn/zQARu5O 
+num_like: 1   forwardings: 1 comments: 1
+
+70:惊天巨制，独家发布：【历届奥斯卡最佳外语片总合集】严重推荐！！！从第85届至第20届连续播放链接，囊括历届奥斯卡最佳外语片，绝对值得收藏慢慢欣赏。http://t.cn/8F4LguU 总合集影片简介 《历届奥斯卡最佳外语片合集》(Complete Collection of Best Foreign Language Film Oscar Winners)[MiniSD]_eD2k地址_剧情_电影下载_ED2000资源共享 简介 http://t.cn/8F4yNwg   
+num_like: 0   forwardings: 0 comments: 0
+
+71:海绵宝宝历险记2】首款预告  2D+3D+真人 【海绵宝宝历险记2】首款预告  真人动画结合  迎童年萌物  
+num_like: 0   forwardings: 0 comments: 0
+
+72:“用长曝光拍摄飞机起降，能看到一条通往天空的路”。这几天梦里总是听到的话，昨天查了一下才明白是什么意思... 
+num_like: 1   forwardings: 0 comments: 1
+
+73:我有上将柯基，区区数尺积雪，何足挂齿。 
+num_like: 0   forwardings: 0 comments: 0
+
+74:#变4倒计时#《变形金刚》系列电影的足迹已经遍布半个地球啦，一起来细数一下汽车人战（da）斗（nao）过得地方吧，不知道下一部他们还会去哪里呢~[思考] 
+num_like: 0   forwardings: 0 comments: 0
+
+75:这种极具现代艺术感的设计简直太棒了！ 
+num_like: 0   forwardings: 1 comments: 0
+
+76:最近看到一个30秒的视频..... 虽然短小... 但是精准深刻..... 酒驾，在你放下酒杯拿起车钥匙的那一刹那.... 一切就已经注定了......... 当你喝完酒拿起车钥匙的那一刹那。。。。 
+num_like: 0   forwardings: 0 comments: 1
+
+77:#幕后花絮# 北美铁路公司创意广告《City of Possibilities》：「CGvdo com 」City of Possibilities 广告制作团队The Mill NY把铁路公司和童话完美融合，风格拿捏的很好，游走在天马行空与拟真写实的边缘，从实拍融进奇幻。制作团队讲述广告的设计思路与制作流程：http://t.cn/z8N4kKY 
+num_like: 0   forwardings: 0 comments: 0
+
+78:赞~MAYA高级面部表情插件Snappers Facial RigSnappers Facial Rig http://t.cn/Rv5YSbv  
+num_like: 2   forwardings: 1 comments: 1
+
+79:电影《攻壳机动队》CG元素制作花絮Project 2501 Homage To Ghost in The Shell http://t.cn/Rvt5IWP  
+num_like: 1   forwardings: 0 comments: 0
+
+80:Making of Freeze the World by Bleed VFX http://t.cn/Rvb3lHf  
+num_like: 0   forwardings: 0 comments: 1
+
+81:细腻的瓷娃娃，服饰非常华丽精致。。作者：Sasha Khudyakova 
+num_like: 0   forwardings: 1 comments: 0
+
+82:水很深，圈太乱~ 剧组里那些你不知道的事 演员副导演夜夜当新郎  
+num_like: 0   forwardings: 1 comments: 0
+
+83:#海报#[X战警：逆转未来]无字、无Logo人物海报合集，请戳本刊相关微相册，本刊近期也将在杂志中呈现，希望可以将他们贴在墙上的您，敬请关注[太开心] http://t.cn/8sr3H6p 
+num_like: 0   forwardings: 0 comments: 0
+
+84:《泰坦陨落》Life is Better With a Titan 真人预告 | vfxinfo http://t.cn/8s1n1h4  
+num_like: 0   forwardings: 0 comments: 0
+
+85:泰坦陨落 – 自由边境 预告赏析 | vfxinfo http://t.cn/8s1nmOP  
+num_like: 0   forwardings: 0 comments: 0
+
+86:《Starcraft II World Championship Series 2014 EUROPE - Intro Short(vfxin...》 （分享自 @土豆游戏） http://t.cn/8s1nCf2  
+num_like: 0   forwardings: 0 comments: 0
+
+87:《Elder Scrolls FX Break Down(vfxinfo.net)》 （分享自 @土豆原创） http://t.cn/8s1noFj  
+num_like: 0   forwardings: 0 comments: 0
+
+88:《Vizio - What Is Smart(vfxinfo.net)》 （分享自 @土豆原创） http://t.cn/8s1n6F5  
+num_like: 0   forwardings: 0 comments: 0
+
+89:showreel 2013 from GRAD Studio | vfxinfo http://t.cn/8s1nxfJ  
+num_like: 0   forwardings: 0 comments: 0
+
+90:VFX Reel – March 2014 from James Kirk | vfxinfo http://t.cn/8s1nzzy  
+num_like: 0   forwardings: 0 comments: 0
+
+91:迪士尼《地球回音》最新预告 | vfxinfo http://t.cn/8sG7S1t  
+num_like: 0   forwardings: 0 comments: 0
+
+92:蜘蛛侠Evian饮料广告 | vfxinfo http://t.cn/8sifCIz  
+num_like: 0   forwardings: 0 comments: 0
+
+93:阿迪达斯最新广告赏析 Climachill – A Cooling Revolution | vfxinfo http://t.cn/8s9Uuq6  
+num_like: 0   forwardings: 0 comments: 0
+
+94:Mazda Neuron Directed by Diego Pernia（vfxinfo.net） http://t.cn/8s1EV44  
+num_like: 0   forwardings: 0 comments: 0
+
+95:COOL~标致EXALT概念车广告欣赏 | vfxinfo http://t.cn/8sEQVbP  
+num_like: 0   forwardings: 0 comments: 0
+
+96:vfx/design reel 2012 | vfxinfo http://t.cn/8sEQyNy  
+num_like: 0   forwardings: 1 comments: 0
+
+97:R+D tests from Andre McGrail | vfxinfo http://t.cn/8s1Rmni  
+num_like: 0   forwardings: 1 comments: 0
+
+98:愤怒的小鸟 全新CG预告 | vfxinfo http://t.cn/8s1R6P7  
+num_like: 0   forwardings: 0 comments: 0
+
+99:Mike Kelley是洛杉矶的一名摄影师，特喜欢拍摄飞机。有一天他突发奇想，要是把一天拍到的所有飞机放在一起呢... 于是，便有了下面的这照片和视频，简直壮丽呆了！！！[赞]美摄影师将一天拍到的飞机合成在一个视频里，简直壮丽呆了！！ 
+num_like: 0   forwardings: 0 comments: 0
+
+100:【4AAD讯】去年横扫戛纳奖的大作《蠢蠢的死法》，迈阿密广告学校将其改编成了广告业版本。原来外国的甲方乙方们也差不多嘛~有没有瞬间心理平衡了？【TOPYS】广告淫必看，Meeting时各种蠢蠢的死法_中文字幕 
+num_like: 0   forwardings: 0 comments: 1
+
+101:这是勇敢者的游戏的一种伤感的结局。我们也在游戏的路上，并且会继续下去！ Life After Pi (Chinese sub) _ 少年派之後的日子 (中文字幕)  
+num_like: 0   forwardings: 0 comments: 0
+
+102:#特效制作# 这段《Megalo Meloman》MV创意看看有没有人能看明白怎么做的，据说是由一个个小片段组建而成的……Megalo Meloman 
+num_like: 0   forwardings: 0 comments: 0
+
+103:#特效制作# 韩国特效工作室Digital Idea作品集欣赏，Digital Idea依靠自身多元化的服务和领先的新媒体和3D视效创作技术进行业务扩展，参与过多部国产电影CG特效制作，感觉还是蛮不错的……4月第2周更新-Digital Idea作品欣赏 
+num_like: 0   forwardings: 0 comments: 0
+
+104:酷~合金装备5 引擎&3D扫描&动补 幕后花絮~ Metal Gear Solid 5 Ground Zeroes Behind The Scenes http://t.cn/8sHqObp  
+num_like: 1   forwardings: 0 comments: 0
+
+105:酷~Autodesk 2014 Post & VFX Reel~这部reel是ADSK产品线软件的广告与VFX项目代表集合 http://t.cn/8sWXMXo  
+num_like: 0   forwardings: 0 comments: 0
+
+106:氮气赛车 Nitro Nation 暴酷开场动画：凌动网上传NITRO NATION from Platige Image http://t.cn/8siUbON  
+num_like: 0   forwardings: 0 comments: 0
+
+107:Toolbag 2 引擎官方新功能演示：Toolbag 2  Feature Overview - GDC 2014 (HD) http://t.cn/8sKlTlc  
+num_like: 1   forwardings: 2 comments: 1
+
+108:上古卷轴Online 精美开场动画The Elder Scrolls Online - The Siege Cinematic Trailer http://t.cn/8sHGhed  
+num_like: 0   forwardings: 1 comments: 0
+
+109:Kia起亚汽车 Space Babies系列广告制作花絮：Making of Kia Space Babies by Method Studios http://t.cn/8sWaRwY  
+num_like: 1   forwardings: 0 comments: 0
+
+110:有意思的起亚KIA汽车广告 - Space Babies,由知名工作室Method Studios完成。 http://t.cn/zY5L3aa  
+num_like: 1   forwardings: 0 comments: 0
+
+111:LG Optimus 3D MAX手机北美最新广告,墨水舞蹈不错~ http://t.cn/8sHbVbY  
+num_like: 0   forwardings: 0 comments: 0
+
+112:Waiting is Over 子弹时间,不错~ Waiting is over  
+num_like: 0   forwardings: 0 comments: 0
+
+113:#V电影推荐#特效创意短片【粉笔战争3.0】粉笔画武器之废弃工厂战役 特效短片  Chalk Warfare 3.0 YouTube上的独立短片团队SoKrispyMedia以“粉笔战役”系列视频闻名。继上次威猛的坦克《粉笔战争》后，这轮真人CS再度升级。全文：http://t.cn/8sT9ABU 
+num_like: 0   forwardings: 2 comments: 0
+
+114:《哆啦A梦：伴我同行》发布预告片！为纪念作者藤子F不二雄诞生80周年，新剧场版将以3D格式上映，故事以原作"哆啦A梦初登场"、"再见哆啦A梦"和"野比的结婚前夜"为故事蓝图，据称甚至会加入静香结婚的情节。今年夏天日本公映，内地敢不敢同步[可怜]映画『STAND BY ME 哆啦A梦』予告編 
+num_like: 0   forwardings: 0 comments: 0
+
+115:【漫威影业《王者万岁》】故事讲述了假满大人扮演者特雷弗·斯拉特瑞在《钢铁侠3》中被捕入狱之后的故事。钢1的Raza，钢2的Justin Hammer，钢3的假满大人。一部短片把三部钢铁侠串起来了，而且这下真满大人要来了！真是细思恐极。 一起来欣赏一下吧。漫威短片:王者万岁 
+num_like: 0   forwardings: 0 comments: 0
+
+116:#预告片#[X战警：逆转未来]发布终极预告片，各大角色精彩登场，找自己心仪的逐桢欣赏吧。本片5月23日北美首映。 http://t.cn/8sO3Uxo 
+num_like: 0   forwardings: 0 comments: 0
+
+117:#V电影推荐#科幻动作电影【超凡蜘蛛侠2】预告片超凡蜘蛛侠2电影官方终极预告The Amazing Spider-Man 2安德鲁·加菲尔德与艾玛·斯通主演的漫威科幻大片《超凡蜘蛛侠2》，已定档于5月4日于各大影院上映。这段精彩的官方预告，既解威迷之痒，又吸引未看过该系列的观众想去影院一探究竟。全文：http://t.cn/8sOFXDR 
+num_like: 0   forwardings: 0 comments: 0
+
+118:CGHUB突然关闭了。。。太可惜了。。。今后CG人去哪里集合呢？ http://t.cn/8s030Fc  
+num_like: 0   forwardings: 0 comments: 2
+
+119:2007年,比利时艺术家 Wim Delvoye 在北京建了一个养猪厂，饲养了大约一百头猪，并请纹身师给猪纹身，他把这些猪当成纹身猪皮或者纹身标本猪售卖。这是一个让人难以接受的行为，但是艺术家的行为却得到了他的艺术作品，以及他对艺术系统的界限的质疑，并且对公众理解艺术作品形成的常规思维的一个挑战。 
+num_like: 0   forwardings: 0 comments: 0
+
+120:中国本土太空科幻电影《火星之眼》杀青在即，愿与你们一起开启中国科幻电影类型片新纪元@workership @果壳网 @果壳微科幻 @科幻世界姚海军 @科幻世界  @米家那个山 @科幻电影 @作家吴岩  @电子骑士 @影视工业网 @V电影 @优酷电影 @乐视电影 @高晓松  @郭敬明 @苏毅 @中国电影导演协会 @土豆原创 @張震  
+num_like: 0   forwardings: 0 comments: 0
+
+121:#V电影推荐#囧瑟夫加盟惊悚犯罪大片【罪恶之城2】预告片Sin City 2 A Dame to Kill For - trailer US (2014) 多次跳票的暴力美学代表作《罪恶之城2》首发预告，由“囧瑟夫”约瑟夫·高登·莱维特、美式硬汉布鲁斯·威利斯、法国美人伊娃·格林联袂出演，定档今年8月在美上映。全文：http://t.cn/8s91gtG 
+num_like: 0   forwardings: 0 comments: 0
+
+122:这部ShowReel展示了电影《地心引力》飞船舱内和空间站的CG模型。Gravity Modelling Showreel by Chris Cook http://t.cn/8sosPdp  
+num_like: 0   forwardings: 0 comments: 0
+
+123:电影《美国队长2》VFX制作花絮Captain America The Winter Soldier-Staging http://t.cn/8so0PKc  
+num_like: 1   forwardings: 0 comments: 0
+
+124:不错~ Making of Monolith by Mikros Image http://t.cn/8so5gJi  
+num_like: 0   forwardings: 1 comments: 0
+
+125:#搜寻马航370#【海底4500米什么样？】马航客机失联33天。日前中国和澳大利亚都探测到脉冲信号，水域深度为4500米。水下4500米是什么概念？若该信号真由MH370黑匣子发出，搜寻工作面临怎样的困境？华盛顿邮报制作一图↓↓带你看水下世界。@微天下 
+num_like: 0   forwardings: 1 comments: 0
+
+126:#我是歌手#总决赛已经唱响，最后一役歌王之战震撼你的视听！９１天的音乐旅程，实力唱将的激烈角逐，凝结成周五晚７名歌手的浓情献唱！即使不能亲临现场又怎样？！马上投票给你心中的人气歌王，你的爱与支持，微博帮你传达！ #我是歌手#票选微博 人气歌王 
+num_like: 0   forwardings: 0 comments: 0
+
+127:最新GTC 2014上放出的TITAN Z引擎的实时流体渲染效果，可以实时模拟流体并且还有物体碰撞效果！以后游戏要用上这个技术真实感绝对大增！GTC 2014 TITAN Z Rendering Demos http://t.cn/8sJwjoF  
+num_like: 0   forwardings: 0 comments: 0
+
+128:#V电影推荐# “变形金刚”导演真人科幻电影预告片【忍者神龟】 忍者神龟2014电影预告片——《变形金刚》导演迈克尔贝 短片是2014年上映的《忍者神龟》预告片，变形金刚女主角Megan Fox担纲主演，曾扮演美剧《越狱》中FBI探员Mahone的德国男演员将出演片中最大反派Shredder，《越狱》迷们又有福利了。全文：http://t.cn/8sVQYuw 
+num_like: 0   forwardings: 0 comments: 0
+
+129:【支持的转起：美国纪录片证明钓鱼岛属于中国！】"这是个真相，但日本政府却不肯面对，真相就是钓鱼岛是中国的，几世纪前就是。"美国蒙纳瑞克斯好莱坞电影公司制作的《钓鱼岛真相》11日首映。影片探究历史，阐述钓鱼岛属于中国的事实。导演里比希望，告诉人们真相。转，传播真相。http://t.cn/8szdFRE 
+num_like: 0   forwardings: 0 comments: 0
+
+130:超大型场景制作解析~ ABOUTGK上传_CG场景制作  
+num_like: 2   forwardings: 1 comments: 1
+
+131:安德的游戏制作解析 ABOUTCG上传_安德的游戏制作解析  
+num_like: 0   forwardings: 0 comments: 0
+
+132:新海诚新作！http://t.cn/8FucOwr 和通讯教育会社Z会的合作短片「交叉路口」正式公开(＞д＜)不愧是画质狂魔！简直碉堡了！第一次看到考试场景这么让人震撼的哦。やなぎなぎ的歌也好棒，菊苣我想看后续啊！求出剧场版！ 
+num_like: 0   forwardings: 2 comments: 0
+
+133:【《霍比特人2》恶龙史矛革-制作解密】《霍比特人2》正在内地热映，影片中全CG角色恶龙史矛革是片中的一大亮点，照片真实级的渲染效果，和细节丰富的动画使这一角色真实生动，恶龙的强大气场呼之欲出，使观众仿佛身临其境，影片已提名奥斯卡最佳特效。全文：http://t.cn/8Fn8XBD  Benedict Cumberbatch Performs Mocap 'Smaug' in Making-Of Vid 
+num_like: 0   forwardings: 0 comments: 0
+
+134:Maya 2015 beta 携带Bifrost流出 - Maya 2015 beta 携带Bifrost流出，版本还不稳定，此次Naiad被实装为Bifrost http://t.cn/8FT3Dr7  
+num_like: 0   forwardings: 0 comments: 0
+
+135:#V电影推荐#见证电影变革震撼合集【历届奥斯卡最佳视觉效果影片】 1977-2013历届奥斯卡最佳视觉效果奖合集(星球大战到少年派) 短片集合了上世纪七十年代起至新世纪头十年获得奥斯卡最佳视觉效果奖的影片，列举了自1977年以来36位获奖影片，由芝加哥电影人Nelson Carvajal制作，为即将举行的第86届学院奖预热。全文：http://t.cn/8FYBtT8  
+num_like: 0   forwardings: 0 comments: 0
+
+136:#慢镜头拍摄# 德国特效工作室The Marmalade发明了这种令人难以置信的高速机器，用于拍摄超高帧速率下精确时刻点的画面。真切、细致地记录了被常人忽视的瞬间的精彩，真实世界胜似大片……http://t.cn/zW7h33j  唯美慢镜头集锦：http://t.cn/zW75iyt 
+num_like: 0   forwardings: 0 comments: 0
+
+137:电影《极乐空间》VFX自然景观制作花絮Elysium - Trillions of Surfaces from WHISKYTREE http://t.cn/8F04dng  
+num_like: 0   forwardings: 0 comments: 0
+
+138:Blur续《上古卷轴OL》超赞8分钟CG~The Elder Scrolls Online http://t.cn/8FoDEyC  
+num_like: 0   forwardings: 1 comments: 0
+
+139:数字面部技术发展史（Part2） | Cgangs 创动力 | CG应用,感悟创新 - 如果你需要一个在特定光线环境下的面部参考图像，或者你需要一个用于动画的头部模型和一些纹理贴图，那么Light Stge可以同时处理这两件事情 http://t.cn/8FJdbLv  
+num_like: 0   forwardings: 0 comments: 0
+
+140:#特效制作#《地心引力》已经被公认为是一佳作，这样一部太空电影必须有无与伦比视觉特效做保障，每一个细节都会对影片的成败起关键的作用，片中还包含大量长镜头和流畅的摄影机运动，使得美丽而又危险的太空环境逼真再现，细节丰富……太空站爆炸VFX花絮：http://t.cn/8FxvqyG 
+num_like: 0   forwardings: 0 comments: 0
+
+141:1980年出生的意大利米兰实验动画和电影制作人Rino Stefano Tagliafierro ，日前制作了一部短片《B E A U T Y 》 B E A U T Y - dir. Rino Stefano Tagliafierro ，将百幅世界名画动起来，伴随着柔和的音乐，让寂静之美成为一种运动之美。片中出现的所有名画目录：IIS 8.5 Detailed Error - 404.0 - Not Found 
+num_like: 0   forwardings: 1 comments: 0
+
+142:电影 华尔街之狼 特效镜头制作解析:ABOUTCG上传_Making of THE WOLF OF WALL STREET 详情：http://t.cn/8FMGfvS 
+num_like: 0   forwardings: 1 comments: 0
+
+143:【Brainstorm Digital 2014特效解析集合】这是Brainstorm Digital 2013年度的特效解析集合，向我们展示了众多2D、3D合成的技术。全文：http://t.cn/8FMptpJ   Brainstorm Digital 2014 Demo Reel 
+num_like: 0   forwardings: 0 comments: 0
+
+144:《与恐龙同行3D》肌肉模拟&VFX制作集-Walking With Dinosaurs Muscle Simulation and Feathered Effects http://t.cn/8F5nVrw  
+num_like: 0   forwardings: 0 comments: 0
+
+145:#特效制作#《环太平洋》机甲机器人精彩制作花絮，这两部花絮ILM展示主角机器人Jaegers设计历程、动画绑定和VFX制作特辑。 花絮1：http://t.cn/8FtDlN4 花絮2：http://t.cn/8FcNnPh （来源：凌动网） 
+num_like: 0   forwardings: 1 comments: 0
+
+146:《#西游记之大闹天宫#》终极预告片曝光！角色对白使剧情走向更加明晰，精彩细节让人目不转睛。首轮将在亚洲及全球32个国家和地区公映，2014新年《西游记之大闹天宫》向世界出发。春节假日里，带上一家老小一起奔赴电影院，去品尝“天宫大菜”吧！给力传送：http://t.cn/8Fcp5Bz 
+num_like: 0   forwardings: 0 comments: 0
+
+147:#V电影推荐#洛可可复古剪纸动画【三个发明家】http://t.cn/5GYAE 热衷于发明的一家人，他们创造可以改善人们生活的机械，却被同村人嫉恨。本片荣获英国奥斯卡奖（Bafta），并在法国Annecy国际动画电影节上评选出的“动画的世纪·100部作品”中位列第76名。全文：http://t.cn/8F5jMlS  
+num_like: 0   forwardings: 0 comments: 0
+
+148:又是一个强大的特效团队~Greg Strasz 2014 VFX Reel Greg Strasz 2014 VFX Reel  
+num_like: 0   forwardings: 0 comments: 0
+
+149:再次膜拜ILM~《星际迷航：暗黑无界》中的视觉特效，工业光魔官方发布！@科幻世界 《星际迷航：暗黑无界》创造未来世界，工业光魔官方发布！  
+num_like: 0   forwardings: 0 comments: 0
+
+150:创意广告《你的隐私够安全吗？》后期制作解析 | 现在，全世界有超过六亿的手机用户，很明显，方便快捷的手机就像我们掌中的生命线。但手机的安全性从何说起呢？我们的手机是私人数据的一扇大门，最近由Method工作室制作的诺顿网上广告以出人意料的艺术方式突出强调了这一问题。http://t.cn/8FZZvE4 
+num_like: 0   forwardings: 0 comments: 0
+
+151:ILM工业光魔出来花絮也是那么霸气~必看~《环太平洋》的幕后特效制作花絮~Behind the Magic The Visual Effects of Pacific Rim (HD) http://t.cn/8FZbzbw  
+num_like: 1   forwardings: 39 comments: 4
+
+152:制作很不错的风格片子~HBO 节日贺卡 Holiday Card 正片&幕后花絮 凌动网上传Holiday Card Behind the Scenes from Shilo  
+num_like: 0   forwardings: 0 comments: 0
+
+153:感觉不错~Platige Image展示《Ryse 罗马之子》CG浮雕角色制作花絮    RYSE SON OF ROME Relief Transitions Making Of from Platige Image http://t.cn/8FZ46DA  
+num_like: 0   forwardings: 0 comments: 0
+
+154:Blur《英雄联盟》CG火焰VFX制作花絮    League of Legends - Twist of Fate Fire FX Breakdown http://t.cn/8FZ42rH  
+num_like: 0   forwardings: 0 comments: 0
+
+155:#V电影推荐#三星科幻广告【GALAXY11箭在弦上，一触即发】GALAXY11箭在弦上，一触即发组建一支黄金球队，集全球最优秀的球员为一队可以说是所有足球迷的一个终极梦想。今天三星居然真的在屏幕里建了这样一支超级球队——GALAXY11超级球队，而这支球队的首战对手亦非凡人……全文： http://t.cn/8ksR1aW 
+num_like: 0   forwardings: 0 comments: 0
+
+156:汐丹之光文化传媒诚聘：1.模型贴图师。2.特效师。3.动画师。4.后期合成包装师。发送个人专业作品与简介至应聘邮箱：2667449235@qq.com 公司主页：xidanlight.com 
+num_like: 0   forwardings: 0 comments: 0
+
+157:【新片前瞻】《罪恶之城2》将根据弗兰克·米勒的“罪恶城市”系列漫画第二部《红颜祸水》改编。这一部门的主角正是乔什·布洛林将要饰演的杀手德怀特。在这一部里，德怀特的前女友夏娃当年为了一个有钱人抛弃了他，现在又回过头想和他旧情复燃，结果杀手落入了圈套。同时，囧瑟夫也参演了该片。 
+num_like: 0   forwardings: 0 comments: 1
+
+158:目前惨不忍睹的压缩质量看不出到底最终细节如何，但从先前几个视频预告来看，效果坑定不理想，但如果放在手机里看的话应该过的去。【视频：《大闹天宫》110秒预告 神魔大战 神龙现身】 ） 《西游记之大闹天宫》神魔决战版预告片  
+num_like: 0   forwardings: 0 comments: 0
+
+159:#随手拍#好久没回去了,但那天夜访北影时候突然拉住了我的视线....为啥那么直接啊~ 
+num_like: 0   forwardings: 0 comments: 0
+
+160:#幕后花絮#《霍比特人2：史矛革之战》幕后花絮：ABOUTCG上传_ Making of The Hobbit The Desolation of Smaug 一直以来都觉得霍比特人系列的幕后花絮做很好，它在电影营销中有着很重要的作用和地位，通过花絮讲述电影拍摄的台前幕后，并选取电影精华，由电影延伸开来的话题、演员、故事、拍摄花絮等因素，可以很好的点燃全民观影的热情…… 
+num_like: 0   forwardings: 0 comments: 0
+
+161:脚下的艺术，英国艺术家 Simon Beck 在雪地里行走数英里，用双脚走出来的大地艺术。[雪][雪][雪] 
+num_like: 0   forwardings: 0 comments: 0
+
+162:《狄仁杰之神都龙王》 幕后特效解析 | 徐克的这部影片让许多国内网友称赞：中国终于拍出可以和好莱坞媲美的大电影！通过精致的后期处理，3D拍摄通过镜头追踪后与虚拟场景完美结合，加上对流体、例子特效的精细渲染，让整个电影的特效达到了更高级别。全文：http://t.cn/8k1CKa8  ddee Tech showreel v1 131209(vfxinfo.net) 
+num_like: 0   forwardings: 0 comments: 0
+
+163:不错的可口可乐广告~COCA NOEL 2013 from jean michel drechsler http://t.cn/8k1aGfO  
+num_like: 1   forwardings: 0 comments: 0
+
+164:Houdini FX Reel - by Goncalo Cabaca http://t.cn/8k1Xg0Y  
+num_like: 0   forwardings: 0 comments: 0
+
+165:电影《独行侠》特效花絮Behind The Magic  The Lone Ranger http://t.cn/8knMU5y  
+num_like: 1   forwardings: 0 comments: 0
+
+166:【电影《大明猩》制作幕后及特效制作解析】电影讲述中国某杂技团的延边女孩薇薇与团中擅长打棒球的猩猩Mr.GO远赴韩国加入职业棒球联赛，成长为超级明星的故事。精彩的电影幕后依然精彩，我们可以从拍摄、特效等方面更深入的了解这部电影拍摄的秘密。全文：http://t.cn/8kQgBRn 电影《大明猩》制作解析三 - Making of Mr Go 
+num_like: 0   forwardings: 0 comments: 0
+
+167:《地心引力》官方首支幕后制作及特效花絮《地心引力》幕后制作及特效花絮 。编导摄影特效总监等位你详解从剧本到画面的过程，视觉预览、布光屋、程控机械臂、线偶操控等以往在特效解析类文章（如http://t.cn/8k8raTf）中提到的妙物，都以直观的动态影像出现。想了解2013第一神片是如何制作的？此视频不可不看。 
+num_like: 0   forwardings: 0 comments: 0
+
+168:抱歉，由于作者设置，你暂时没有这条微博的查看权限哦。查看帮助：http://t.cn/RfdBWwP 
+num_like: 0   forwardings: 0 comments: 0
+
+169:風暴製作特輯8之電腦特技 凌动网上传 風暴製作特輯8之電腦特技  
+num_like: 0   forwardings: 0 comments: 0
+
+170:【惊呆了！这竟然是用iPad画出来的……】图片是英国著名的插画师Kyle Lambert笔下的著名好莱坞演员摩根·弗里曼。Lambert这幅作品是在iPad上创作的，一共花了超过200小时，用了28.5万次画笔。你敢相信自己的眼睛吗？ 视频为作品创造过程：iPad_Art Morgan_Freeman_Finger_Painting [赞] 太厉害了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+171:Blur参与制作《雷神2：黑暗世界》VFX制作花絮 blur-_thor-_the_dark_world_vfx_breakdown ABOUTCG上传_blur-_thor-_the_dark_world_vfx_breakdown_  
+num_like: 0   forwardings: 0 comments: 0
+
+172:看着非常酷~！俄罗斯战争巨制《斯大林格勒》VFX制作花絮赏Main Road Post Stalingrad VFX reel  2013 Main Road Post Stalingrad VFX reel  2013  
+num_like: 0   forwardings: 0 comments: 0
+
+173:做的不错的一部国外优秀广告片！！烤豆的广告 凌动网上传Beans  
+num_like: 0   forwardings: 1 comments: 0
+
+174:好像不错。MAYA自动绑定插件Rig & Setup Auto v3.0 Rig & Setup Auto v3.0 http://t.cn/8kNSyRB  
+num_like: 1   forwardings: 0 comments: 0
+
+175:【BBC记录片《南太平洋》】值得终身收藏的纪录片，除了震憾还是震憾！高清在线：（1）大洋小岛http://t.cn/zR7Pz4W （2）四海为家http://t.cn/zR7PZ6D（3）无尽深蓝http://t.cn/zR7PwEt（4）水火相容http://t.cn/zR7P2Jd （5）奇异岛屿http://t.cn/zjh43hn （6）脆弱天堂http://t.cn/zQZ6kqH 
+num_like: 0   forwardings: 1 comments: 0
+
+176:#电影学院#《影视特效幕后技术视频教程》主要讲解电影后期的工作流程以及如何进行人物、动物、建模生物的动态捕捉，利用大量特效电影实例全方位讲解电影工业化及CG真人和全CG动画是如何出炉的，其中还涉及电影的剪辑、拍摄、设备及技术方面的众多知识…对电影特效行业的总结以及对大家的忠告 下载：http://t.cn/8ko6fxm 
+num_like: 0   forwardings: 0 comments: 0
+
+177:忘记有没有收集过了，所以再收集一次MPC展示《普罗米修斯Prometheus》CG角色及场景合成制作花絮MPC Prometheus VFX breakdown http://t.cn/8kSE4JN  
+num_like: 1   forwardings: 0 comments: 0
+
+178:梦工厂动画电影《疯狂原始人》特效制作解析 梦工厂动画电影《疯狂原始人》特效制作解析 - CG织梦网  
+num_like: 1   forwardings: 1 comments: 0
+
+179:专访《无人区》美术指导郝艺，如何营造一个残酷而真实的世界？ @影视工业网 http://t.cn/8k6i63r  
+num_like: 0   forwardings: 0 comments: 0
+
+180:今天我来教大家一个快速涨粉的方法...............[bed凌乱] 
+num_like: 0   forwardings: 0 comments: 0
+
+181:《猩球黎明》发布四张角色海报。这一部的剧情发生在《猩球崛起》后15年，获得智慧的猿族已成为地球的主宰，首领凯撒需要应对来自同类的挑战以及人类的抵抗。凯撒依旧由安迪·瑟金斯扮演，加里·奥德曼饰演一名人类反抗军领袖。北美明年7月11日上映，首款预告片下周发布！ 
+num_like: 1   forwardings: 3 comments: 0
+
+182:《雷神2：黑暗世界》幕后特效全解析（上篇） |  随着《雷神2：黑暗世界》的上映，漫威影业声势浩大的电影宇宙计划得到进一步发展，其充满创造性的视觉特效的世界和角色也随之更加充实。《雷神2：黑暗世界》中大部分视觉特效由Double ... http://t.cn/8kM4BrI  
+num_like: 0   forwardings: 0 comments: 0
+
+183:《 蒸汽朋克 》James Corbett 使用旧汽车零部件创造了惊人的蒸汽朋克動物雕塑。 
+num_like: 0   forwardings: 0 comments: 2
+
+184:今天是日本第17届文化厅艺术奖发表的日子，漫画部门获得大奖的是荒木飞吕彦的《JoJolion》（《乔乔的奇妙冒险》第八部），大家虽然有些意料之外但又觉得是在情理之中。不过几部获得优秀奖的漫画里有一部是石黑正数的《女仆咖啡厅》这就让人没有想到了，石黑正数老师以后也要多加努力呀！ @ZCloud 
+num_like: 0   forwardings: 0 comments: 0
+
+185:迪士尼 雪 模拟技术展示，这个技术主要是为迪士尼最新动画电影“冰雪公主”而研发的。雪地的模拟和流体还是有很大区别的，感觉要比流体难很多。看视频效果真的非常真实！Disneys Frozen Snow Simulation 凌动网上传Disneys Frozen Snow Simulation  
+num_like: 1   forwardings: 1 comments: 1
+
+186:奥迪传承 TVC~不错~Audi Markenfilm by NHB Studios 凌动网上传Audi Markenfilm by NHB Studios  
+num_like: 0   forwardings: 0 comments: 0
+
+187:MPC新作！FIFA 14 暴酷宣传片&制作花絮 http://t.cn/8kq0F68  
+num_like: 0   forwardings: 0 comments: 0
+
+188:【人类是公猪与母猩猩杂交的产物？[吃惊]】据每日邮报,乔治亚大学遗传学家麦卡锡认为:人类是由公猪跟母黑猩猩杂交而成;人类除了与猩猩存在很多相似特征外,其他特征"皮肤无毛,皮下脂肪,眼珠较浅色,鼻子突出浓密睫毛"等都和猪相似,最初的"猩猪"物种经过多代繁衍后,进化成人类.大师兄和二师兄发生了什么?! 
+num_like: 0   forwardings: 0 comments: 0
+
+189:"我把我喜欢的事情变成了我终身的职业，没有什么比这更棒了！  "John Dykstra讲述视觉特效的昨天和今天 |他将在2014年2月12日的视觉效果协会年度颁奖礼上接受VES终身成就奖。他凭借《星球大战》和《蜘蛛侠2》获得过两次奥斯卡最佳视效奖，他是《星球大战》视效团队的创始人之一 http://t.cn/8kGUfIe  
+num_like: 0   forwardings: 0 comments: 0
+
+190:很不错的流程花絮~从发动机到机器人—是如何渲染出来的呢？在为Total Quartz 润滑油制作的这个新广告中，Mikros Image 用动画制作了一个可变形的机器人，广告中机器人穿越丛林，草原，城市等。---视频在原始网页里。 http://t.cn/8kGy1Yz  
+num_like: 0   forwardings: 0 comments: 1
+
+191:本年度最后期待的大作了~DD是如何做到失重 - 在导演加文·胡德的电影《安德的游戏》中这些让人眼花缭乱排列有序的图片是在一个太空‘战斗室’的一些失重训练项目，由DD(DigitalDomain数字领域)提供的特色视觉特效。  @电影美术董承光 @科幻世界 http://t.cn/8kGyi3f  
+num_like: 0   forwardings: 1 comments: 0
+
+192:看不懂的饕餮Lead Me - by Omar Meradi (HD) 凌动网上传Lead Me - by Omar Meradi (HD)  
+num_like: 0   forwardings: 1 comments: 0
+
+193:钟表王子PK太阳公公，风格不错~ 凌动网上传Oru Burus  
+num_like: 0   forwardings: 1 comments: 0
+
+194:焦雄屏对话陈丹青，丹青谈中国电影与导演 http://t.cn/8k4xH7l  
+num_like: 0   forwardings: 1 comments: 0
+
+195:【视频：绝对震撼！恒星大小对比【中字】】 http://t.cn/hbWEzL  
+num_like: 0   forwardings: 0 comments: 0
+
+196:看到突然想起早年我制作的一个星际旅行的短片，星际公民 Anvil Aerospace 官方CG预告 凌动网上传Anvil Aerospace Hornet F7C  
+num_like: 1   forwardings: 0 comments: 0
+
+197:都玩子弹时间，龙歌在线 DRAKENSANG ONLINE 高清CG预告片 凌动网上传Drakensang Online from axisanimation  
+num_like: 0   forwardings: 0 comments: 0
+
+198:#特效制作#Whiskytree工作室电影场景制作花絮，集合了《创战纪》、《美国队长》、《兰戈》、《饥饿游戏》、《极乐空间》等一线大片的Matte painting，真实、细致，全逼真融合了其他场景整体服务于电影……http://t.cn/8kAsh98 
+num_like: 0   forwardings: 0 comments: 0
+
+199:3D电影动画《泰山》即将到来，官方预告片：Tarzan 3D - Official Trailer 3D版电影动画《泰山》官方预告片  官网：http://t.cn/8k22czi 超期待啊！ by Constantin Film 
+num_like: 0   forwardings: 0 comments: 1
+
+200:#南都荐影#“年度神片”好莱坞年度科幻大作《#地心引力#》今日登陆中国院线。神作之名是否过誉？外界盛赞的长镜头、细腻场面到底长啥样？前日，南都记者在京观影鉴定后，温馨提示——【请晕车晕船者入场前做好心理建设，并把期待值校正，你不会失望的。】http://t.cn/8kPD7p3 http://t.cn/zRH7zTu 
+num_like: 0   forwardings: 0 comments: 0
+
+201:RealFlow 2013最新技术Demo http://t.cn/zQ6IDkA  
+num_like: 0   forwardings: 0 comments: 0
+
+202:谨 献 给那些把自己化作一滴水，在接受日月光辉的同时又将光芒折射向四周，感化影响、渲染美化着这个世界的人们！-----《映月井》 
+num_like: 0   forwardings: 0 comments: 0
+
+203:终于拿到成品书了，父亲的长篇小说《映月井》历时大概8年多，不管是否写得好与不好，不管制作是否精良，能出版印刷拿到成品就算是成功了！也算让他老人家心里踏实些了。 
+num_like: 0   forwardings: 0 comments: 1
+
+204:从一维空间到十二维空间，你看得懂吗？ 到4维后就不懂了，学霸们快来看！看完物理白痴表示疯了，疯了。。。。如果你的认知还停留在三维世界，那就大大的无知了！http://t.cn/zRUcJv8 [转] 
+num_like: 0   forwardings: 20 comments: 3
+
+205:城市表现。作者：Jazzberry 
+num_like: 0   forwardings: 0 comments: 0
+
+206:急速小乌龟~U盘的系列广告 CGI 3D Animated Spot HD- _Viva Cell MTS Montage CGI 3D Animated Spot HD- _Viva Cell MTS Montage_   
+num_like: 0   forwardings: 0 comments: 0
+
+207:从头打到尾~还不错的动作设计~《热血无赖》由United Front Games和Square Enix伦敦工作室共同开发，一场设定在香港都市的开放世界的警察戏码。玩家将以卧底警察沈威体验游戏，攻入敌人内部，毁灭全球最顽劣的犯罪团伙。 凌动网上传Sleeping Dogs Fight Film  
+num_like: 0   forwardings: 0 comments: 0
+
+208:目测没感觉，大型制作部门及渲染农场应该用得到。这个视频是Autodesk最新云技术版3Dsmax，可以在任意电脑上使用浏览器运行3Dsmax软件，功能完全一样，不要求计算机配置，计算完全由云端处理，是传统单机计算速度的200倍以上！ 凌动网上传 浏览器云版3DSMAX  
+num_like: 0   forwardings: 1 comments: 0
+
+209:#V电影推荐#德国CG动画短片【Liten】http://t.cn/zRicG08一部优秀的CG作品，2分钟足以让你分不清什么是现实什么是虚拟。短片内容为一只飞蛾破茧新生的过程，其画面精细逼真，制作精良且充满诗意。全文：http://t.cn/8DkSMzJ 
+num_like: 0   forwardings: 0 comments: 0
+
+210:【《哆啦A梦》40年来首登3D银幕[花心]】《哆啦a梦》动画化40年将首次推出3D电影版！电影名为《STAND BY MY 哆啦a梦》，将作为原作者藤子·F·不二雄80周年生辰纪念作品于明年夏季上映。该片执导八木监督表示“特别值得那些以前看过的现在成熟了的大人看。”瞬间被感动到了！[泪]新娱http://t.cn/8Dk7Vrh 
+num_like: 0   forwardings: 0 comments: 1
+
+211:JOJO 冒險野郎 × 彩妝大師原田忠 @资生堂中国 http://t.cn/8DD0efS 
+num_like: 0   forwardings: 2 comments: 0
+
+212:风暴英雄CG--Heroes of the Storm 是一个由暴雪娱乐发布的一款多人在线竞技游戏。游戏中玩家所扮演的英雄角色全部来自于暴雪的《魔兽争霸》、《暗黑破坏神》和《星际争霸》。它是一款免费的在线网络游戏，匹配系统基于暴雪的战网Heroes of the Storm  Cinematic Trailer 【风暴英雄】Heroes of the Storm  Cinematic Trailer  
+num_like: 0   forwardings: 2 comments: 0
+
+213:后期文章-流体模拟科学 流体模拟已成为众多视觉特效电影中极其重要的一部分，尽管大多数普通设计师并不能完全理解其中的奥妙。我们试着去解释流体模拟背后的技术，在我们的朋友Exotic matter的帮助下去密切关注其中的一种，那就是Naiad。http://t.cn/8DDfsn7 
+num_like: 0   forwardings: 0 comments: 0
+
+214:韩国CG天后李素雅Soa Lee的部分新作（2011左右的吧），很多年没见到了，但天后还是无闻的努力的啊~ 
+num_like: 1   forwardings: 2 comments: 1
+
+215:让人泪奔的剪辑《A New Day Has Come》，远在天边心却紧紧相连的知己，是深锁心中最为笃真却相隔最远的爱恋…… 来自电影《一天》http://t.cn/zWl7BNc 
+num_like: 0   forwardings: 0 comments: 0
+
+216:疯狂的香蕉人，无厘头。。。late for meeting (HD) http://t.cn/zRlKg45  
+num_like: 0   forwardings: 4 comments: 1
+
+217:以真乱假的雷克萨斯Lexus Swarm 创意广告。真的服了老外的强大。 http://t.cn/zRlKlOw  
+num_like: 0   forwardings: 0 comments: 1
+
+218:Xbox One 宣传片  不错的想法~ http://t.cn/zRlKI4y  
+num_like: 0   forwardings: 1 comments: 0
+
+219:《精灵旅社》中的VFX、配音与原画创作 | 各式各样的“小怪物”，他们的性格各异，对于自己情感的表达方式也各有不同。所以为每个角色进行贴切的配音真的需要花费一番功夫，配音演员们在录音时，身边要摆放对应角色的照片，以便随时提醒自己的身份。全文：http://t.cn/zRWnRER  Hotel Transylvania - Behind The Scene Extras Meet The Staff  
+num_like: 0   forwardings: 0 comments: 0
+
+220:#汐丹之光作品# 玩具再爆狂--汐丹之光3D南孚电池广告之二---再发一张，由我们汐丹之光上半年参与McCann制作的3D南孚电池广告之二， 强劲的动力~玩具车也爆狂~！ 与之前猴子们的制作要求一样，原尺寸12K，同期制作时间也是20天。 @原画人官方微博 @国际4A广告网 
+num_like: 0   forwardings: 3 comments: 1
+
+221:一直以为片中许多是CG的，但实际都是实拍的，有实拍的技术就别CG了。值得一看与学习！《卡地亚奇遇记》之完美缔造.法国视效和动态影像工作室Digital District与导演Bruno Aveillan合作创作了L'Odyssée de Cartier 《卡地亚奇遇记》 http://t.cn/zRWifoa  
+num_like: 0   forwardings: 0 comments: 0
+
+222:【外星人发来求救信号：请指示第四宇宙】据法国报界披露，前苏联和美国两国科学家们研究了一个来自外太空的神秘无线电讯号。据分析，这个讯号是5万年前从某个星球发出的求救唤。"大意是：请指示我们到第4宇宙，发生爆炸。我们处境十分危险。我们的位置在12银河系。"[衰]请戳右边：http://t.cn/zROo8Th 
+num_like: 0   forwardings: 0 comments: 0
+
+223:#V电影推荐#使命召唤游戏宣传短片【史诗之夜】http://t.cn/zRN8gCf本片是《使命召唤10·幽灵》的真人宣传片，由好莱坞性感女星梅根·福克斯参演。片中主角们开始一场“火爆无比欢乐异常”的虚拟战争。其中轻重武器尽数登场，大展霸气杀伤力。无论玩家与否看后都会热血沸腾。全文：http://t.cn/zR0f9aI 
+num_like: 0   forwardings: 0 comments: 0
+
+224:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 4 comments: 1
+
+225:《地心引力》：视觉特效就是要脚踏实地 |  阿方索·卡隆的《地心引力》（Gravity）绝对是今年最吸引人的“神作”之一。片中的视觉特效成功地呈现出震慑人心，令人畏惧却又精美绝伦的浩瀚太空，让观众在“WOW”的同时禁不住战栗之感... http://t.cn/zR02Qjt  
+num_like: 0   forwardings: 0 comments: 1
+
+226:太酷了特效~强烈期待！科幻巨制《安德的游戏 Ender's Game》幕后拍摄花絮 http://t.cn/zRCnLmL  
+num_like: 0   forwardings: 1 comments: 0
+
+227:【 NHK纪录片《井上雄彦创作的秘密》】"专业，就是指不断向上的人。"如此贴身了解井上的日常工作、创作的理念，以及在漫画创作时所遇到的困难、内心的痛苦……认真的男人最帅！http://t.cn/zYB2IVA 
+num_like: 0   forwardings: 0 comments: 0
+
+228:虚幻4引擎技术展示。VFX 篇: http://t.cn/zRJtKm4 模型篇：http://t.cn/z8FA9j0 最终Demo演示欣赏：http://t.cn/zTZi4J9 
+num_like: 0   forwardings: 0 comments: 0
+
+229:全球变暖后，我们该何去何从？Eric Bates 短片《sayonara》，很清新的一个3D动画：http://t.cn/zR9p5XP 
+num_like: 0   forwardings: 0 comments: 0
+
+230:《雪国列车》口碑比“年度神作”的《地心引力》还好。法国10家媒体都给出★★★★★评价力压《地心引力》四星，《首映》等15家媒体则给出了四星评价。《首映》杂称赞：《雪国列车》会在科幻电影历史上留下新的脚印，在观看电影时我们可看出奉俊昊导演所具的自由感觉充满了艺术性。” 好期待国内引进！ 
+num_like: 0   forwardings: 0 comments: 0
+
+231:Miquel Campos 角色动画TD reel 2013：http://t.cn/zR9Vanf 详情：http://t.cn/zR9Vanc 
+num_like: 0   forwardings: 0 comments: 0
+
+232:【入选IMDB TOP250影片最多的导演】看看你心目中最当之无愧的电影大师是谁？（via 日不落影视帝国）  
+num_like: 0   forwardings: 0 comments: 1
+
+233:《饥饿游戏2：星火燎原》IMAX版海报。11月11日在英国伦敦首映，11月21日登陆内地影院，领先北美一天上映！ 
+num_like: 0   forwardings: 0 comments: 0
+
+234:Digital District展示电影《Delta Lloyd》VFX海洋幕后制作花絮  今年一直与流体打交道，不仅搞定了Naiad，也会游泳了~继续加油~ http://t.cn/zRoDZo7  
+num_like: 0   forwardings: 0 comments: 1
+
+235:【读图|给亿元票房俱乐部分分级：土豪首富都是谁】国庆档观影热度持续至今，整个10月华语片票房喜人，仅《狄仁杰》就打破9项国庆档纪录。细盘算，这两年中国“亿元导演俱乐部”人数猛涨数倍。小编综合票房数字和吸金指数对这些大咖简单划分，各位名导指点一二对数入座，各位网友也尽可消遣娱乐~[嘻嘻] 
+num_like: 0   forwardings: 0 comments: 0
+
+236:在美国视觉特效行业协会的年度高峰论坛上，电影艺术科学学院前院长等人聊到了一个新话题：鉴于像《阿凡达》《少年派的奇幻漂流》尤其是最新的《地心引力》不断打破摄影、美工、特效之间的传统界限（http://t.cn/zRSv6LJ），可能有必要设立一个新的奥斯卡奖项"视觉成像"（Visual Imaging）奖。via THR 
+num_like: 0   forwardings: 0 comments: 0
+
+237:Dvein为美国Terminix杀虫公司做的一则广告，天啊，快保护好你的房子！http://t.cn/zRi8T6p 更多Dvein导演的精彩片段：http://t.cn/7wJDp 
+num_like: 0   forwardings: 0 comments: 0
+
+238:法国电影动画《机械之心》即将在14年2月5日上映，一颗时钟心脏的男孩有着什么样的奇遇和恋情呢，先来看看这部古典浪漫而富有奇幻色彩动画的精彩预告：http://t.cn/zRJsfUy  via：Mathias Malzieu 
+num_like: 0   forwardings: 0 comments: 0
+
+239:史上最牛逼的城市宣传片！我伙呆了！以前的城宣弱爆了，看看人家加尔各答吧！这手影、这创意，必须给够一万个赞啊！！！http://t.cn/zRxhlXe 
+num_like: 0   forwardings: 1 comments: 1
+
+240:蜘蛛侠的幕后动作特效制作，太帅！对漫画的还原度很高啊。http://t.cn/zRJQQFy  
+num_like: 0   forwardings: 0 comments: 0
+
+241:诚实预告片之《环太平洋》，吐槽深得我心！“暑期档最逆天的无脑电影，它不是有史以来最牛逼的二逼电影，就是有史以来最二逼的牛逼电影！”“这片太二了，但我等不及要看续集了！”...黑到尽头是真爱啊！！（译制/@环球电影小报 ）http://t.cn/zRxBVsq 
+num_like: 0   forwardings: 0 comments: 0
+
+242:TRIXTER工作室展示《钢铁侠3 Iron Man 3》CG元素幕后花絮 http://t.cn/zRxdjnd  
+num_like: 0   forwardings: 1 comments: 0
+
+243:这几个月老是骗子来骚扰，有冒充邮局，说你邮件未取，如果你问是什么邮件时候，她帮你查看后说你个人信息在外地被使用买车，注册什么等，被消费被罚款等，然后热心帮你分析并让你报案，帮你转接当地公安局，警察叔叔热心为你记录个人信息...       有的是说 你猜我是谁的老套路，http://t.cn/zRx44P4 
+num_like: 0   forwardings: 0 comments: 1
+
+244:《蝙蝠侠：阿甘起源》电视广告，不错的感觉~高水准~ http://t.cn/zRf2w9o  
+num_like: 0   forwardings: 0 comments: 0
+
+245:惊叹啊！一个长镜头涉及如此多的演员表演。【视频：费里尼调度】 （分享自 @优酷网） http://t.cn/zHCc5o6  
+num_like: 0   forwardings: 0 comments: 0
+
+246:虽然没玩过，但是这个还是很不错的参考【视频：EVE舰船大小对比 最新版】 http://t.cn/zHSbmIP  
+num_like: 0   forwardings: 1 comments: 0
+
+247:渲染的现状（二） | 在《渲染的现状》第一部分中，我们看到了视觉特效产业的最新发展趋势，包括大势趋向的物理可信的着色与灯光。第二部分将会探讨在视觉特效和动画渲染市场中的主要产品，也会展望渲染技术的未来。 http://t.cn/zRMGK9Z  
+num_like: 0   forwardings: 0 comments: 0
+
+248:今天抢先看了俄罗斯国产全3D、IMAX技术摄制的影片《斯大林格勒》。真心被震撼到了，场面宏大、情感细腻、将战争中的浪漫主义呈现的淋漓尽致！本片将于10月31日全国上映，诚心推荐各位去看3D原声版，你会感受到影片中传达的高尚情怀！http://t.cn/z8jlvwl 
+num_like: 0   forwardings: 1 comments: 0
+
+249:火星海波老师的又一力作，支持一下~《After Effects CS6 高级特效火星课堂》 上市 - withAE - 博客大巴http://t.cn/zRfLdoX http://t.cn/zRfJk4a  
+num_like: 0   forwardings: 0 comments: 0
+
+250:好似动画快照 http://t.cn/zRcI0Ed  
+num_like: 0   forwardings: 0 comments: 0
+
+251:暴怒小狗狗！突然像欠呆呆了，小短片《Carpark》欣赏@矜汐 http://t.cn/zRcxdkn  
+num_like: 0   forwardings: 0 comments: 0
+
+252:#特效制作# 实拍电影及特效电影的区分，是基于技术的拍摄制作模式为对象的，并不指代影片的主题思想、人物刻画等，技术不过是实现手法而已。剧中的特技效果，第一不应该喧宾夺主、脱离剧情；第二应该“真实可信”，做到与剧情水乳交融……Alt.vfx 影视特效：http://t.cn/zRqKDEG 
+num_like: 0   forwardings: 0 comments: 0
+
+253:汐丹之光招聘：模型/贴图/灯光方向的制作师、实习生。真诚的态度比能力更总要！有意者请发简历和作品至：2667449235@qq.com 
+num_like: 0   forwardings: 0 comments: 0
+
+254:#荒木时尚值+MAX# 众所周知JOJO里经常出现乐队名&歌名，也知道sensei喜欢借鉴米开朗琪罗的神体位，更知道他喜欢看时尚杂志寻找灵感。其中有一本神书名叫「Men without Ties」by Gianni Versace……可谓#JOJO体位教科书#DA★ZE （图来自2ch）【左图非出自教科书 仅仅觉得老谢很美丽而已 HHH 
+num_like: 0   forwardings: 1 comments: 0
+
+255:动画MV音乐“League of Legends”欣赏    感觉还不错~ http://t.cn/zRtukOy  
+num_like: 1   forwardings: 1 comments: 0
+
+256:Modus FX工作室2013年电影VFX镜头制作花絮 http://t.cn/zRbL3wX  
+num_like: 1   forwardings: 0 comments: 0
+
+257:曾参与电影“钢铁苍穹”制作的Troll影视特效工作室2013年电影&广告作品ShowReel花絮欣赏，不错~ http://t.cn/zR2dIka  
+num_like: 0   forwardings: 0 comments: 0
+
+258:机器人战警“Keloid”科幻短片欣赏，非常不错的CG水平~ http://t.cn/zR2D5DX  
+num_like: 0   forwardings: 1 comments: 0
+
+259:PS4独占大作《教团1886》放出的宣传视频及概念图欣赏 http://t.cn/z8vwTXZ 
+num_like: 0   forwardings: 0 comments: 0
+
+260:好多孩子看了这个根本把持不住 
+num_like: 1   forwardings: 0 comments: 0
+
+261:话说。。大家都已经知道鸡头的稳定性了。。有个摄影师。。做了个头盔。。绑了个摄影机在鸡头上。。。于是，鸡头稳定架就这么诞生了-。- 各种实拍视频果断很稳定。。。。。 
+num_like: 0   forwardings: 1 comments: 0
+
+262:一把神器的椅子，坐它的人就倒霉！挺好的片子~《Assembly - NZI 'The Devil's Chair'》 http://t.cn/z8D2wLd  
+num_like: 0   forwardings: 0 comments: 0
+
+263:冰花很好看【视频：最终幻想13 雷霆归来5分钟完整片头CG】 http://t.cn/z8F3pOO  
+num_like: 0   forwardings: 0 comments: 0
+
+264:神一样的印度电影，你们感受一下。 [哈哈] 
+num_like: 0   forwardings: 0 comments: 0
+
+265:印度百事可乐广告“Ramadan”，老头的头部CG的 http://t.cn/z8DKZdM  
+num_like: 0   forwardings: 0 comments: 1
+
+266:渲染的现状（一） | Cgangs 创动力 | CG应用,感悟创新 - 本文是fxguide之前非常受欢迎的《渲染的艺术》一文的跟进文章，我们会探究视觉特效和动画领域的渲染器的现状。第一部分提供了今天现状的一些背景，而第二部分则会突出展示每一款主要的渲染器，内容是基于我们... http://t.cn/z8DAs3j  
+num_like: 0   forwardings: 0 comments: 0
+
+267:【视频：中国第一部3D电影】 （分享自 @优酷网） http://t.cn/SiWcET  
+num_like: 0   forwardings: 0 comments: 0
+
+268:#汐丹之光# 我们汐丹之光上半年参与McCann制作的3D南孚电池广告之一,强劲的动力~原尺寸12K。制作时间20天。@饭饭愈佳 @国际4A广告网 @万德兰国际 @Mpanda马健翔 @电影美术董承光 
+num_like: 0   forwardings: 1 comments: 0
+
+269:今年给电影《白狐》做的一些Matte Painting, 由于魔幻题材的要求和整体美术设计风格，色调都比较艳丽。 这个项目我一共弄了两张图，一个沙漠和一个超宽幅海报的背景，过几天发沙漠的过程。这里是一些局部。 
+num_like: 0   forwardings: 1 comments: 0
+
+270:【豆瓣高分短片《苍蝇一分钟的生命》】故事描绘了一只苍蝇在短短的一分钟生命中的各种精彩。如果你的人生只有一分钟，你会何去何从？但是对于只有一分钟生命的苍蝇来说，那意味着匆匆的人生。结尾，居然感动到想哭！！苍蝇一分钟的生命 短暂而辉煌的一生 [转] 
+num_like: 0   forwardings: 0 comments: 0
+
+271:#CG花絮# MIRADA展示《环太平洋 Pacific Rim》机甲战士幕后制作花絮,机甲真的很难看 http://t.cn/z8EVJAq  
+num_like: 0   forwardings: 0 comments: 0
+
+272:#CG广告# 英菲尼迪超跑广告“Blue Essence”欣赏,很炫的一部汽车广告 http://t.cn/z83yq4d  
+num_like: 0   forwardings: 0 comments: 0
+
+273:V-Ray 2013年 VFX & 游戏片头ShowReel欣赏 http://t.cn/z83LDwu  
+num_like: 0   forwardings: 1 comments: 1
+
+274:挺不错~无尽之剑是一款在IOS平台上使用虚幻引擎3运行的RPG游戏。 其出色的画面， 人设， 音效和操作是整部游戏的亮点。 游戏风格独具一格， 是IOS平台上一款划时代意义的优秀作品。Infinity Blade Origins http://t.cn/z8Yl4Zh  
+num_like: 0   forwardings: 0 comments: 0
+
+275:CG动画短片《稻草人 The Scarecrow》欣赏，风格不错~内容也可以【视频：The Scarecrow】 http://t.cn/z8WyT5R  
+num_like: 0   forwardings: 0 comments: 0
+
+276:感觉优酷前面的百丽广告更吸引人呢--（NUKE 8.0 新功能官方展示NUKE 8.0，NUKE 8.0在3D合成上的更新幅度很大。） http://t.cn/z8WHvx6  
+num_like: 0   forwardings: 0 comments: 0
+
+277:电影《诸神之怒 Wrath of the Titans》CG角色&流体制作解析MPC Wrath of the Titans VFX breakdown (HD-720p) http://t.cn/z8pEhRw  
+num_like: 0   forwardings: 0 comments: 0
+
+278:CG动画短片《布片世界 The Travellers Guide to Happiness》 ,清新柔美~ http://t.cn/z80zktf  
+num_like: 0   forwardings: 0 comments: 0
+
+279:SIGGRAPH 2013 基于图片的建模新技术展示Sweep_ Extracting Editable Objects http://t.cn/z8N50xG  
+num_like: 0   forwardings: 7 comments: 0
+
+280:【看不见的特效？-剖析8部大片中逼真细腻的特效合成技术】 CG特效并不单纯的为了“炫”，也可以节省大量的成本，也可实现很多现实中无法实现的拍摄。CG特效在电影中的使用广泛程度大大超乎我们的想象，凡是难以掌控的元素，都可以通过CG特效轻松实现。全文：http://t.cn/z89F1KM Invisible Effects 
+num_like: 0   forwardings: 0 comments: 0
+
+281:万妖集结 《斗战神》史诗CG全篇（分享自 @优酷网） http://t.cn/z8IHlLA  
+num_like: 0   forwardings: 2 comments: 2
+
+282:Digital Domain Productions,你看过多少？ http://t.cn/z8GX872  
+num_like: 0   forwardings: 0 comments: 0
+
+283:列除狐臭神器北美广告欣赏UFCece - A Liga dos Cheiros Pesados (HD) http://t.cn/z8qfSvJ  
+num_like: 0   forwardings: 0 comments: 0
+
+284:子弹时间！游戏《战争雷霆英雄 War Thunder Heroes》高清CG宣传片欣赏 http://t.cn/z8VH998  
+num_like: 0   forwardings: 0 comments: 0
+
+285:#国外CG作品#偶然看到老外的萌龙珠3D作品，真不错~@饭饭愈佳 
+num_like: 1   forwardings: 1 comments: 1
+
+286:中文翻译配音字幕~【视频：工业光魔加勒比海盗漩涡制作】 http://t.cn/zQGVv1B  
+num_like: 0   forwardings: 0 comments: 0
+
+287:大反派们 from tumblr 
+num_like: 0   forwardings: 1 comments: 1
+
+288:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+289:MPC展示《刺客信条4:黑旗》CG预告片制作花絮Making of Assassins Creed IV Black Flag http://t.cn/z8Z4l5j  
+num_like: 0   forwardings: 0 comments: 0
+
+290:加州《怪物高能饮料 Monster Energy》超个性广告欣赏Monster Energy - Unleash the Beast from Rich Lee http://t.cn/zQF8SBA  
+num_like: 2   forwardings: 4 comments: 2
+
+291:#汐丹之光# 被遗弃的小红帽--我们汐丹之光参与BBH制作的3D作品“每一本书都是树的悲剧”其中放弃的一版主题。@lvhaoxi吕皓曦 @国际4A广告网 @饭饭愈佳 
+num_like: 1   forwardings: 0 comments: 0
+
+292:《暗黑破坏神3》“夺魂之镰”开场动画。智慧大天使、死亡天使，他会是夺魂死神么？《暗黑破壞神III：奪魂之鐮》中文開頭動畫 资料参考：http://t.cn/zQkeVb0 
+num_like: 0   forwardings: 0 comments: 0
+
+293:NIKE AD【视频：Fa13_FreeFlyknit_RN_RevolutionarySecondSkinFitCOLORPACK_CN_w】 （分享自 @优酷网） http://t.cn/zQ6je2r  
+num_like: 0   forwardings: 0 comments: 0
+
+294:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 1 comments: 0
+
+295:Eidos的神偷系列作为早期的潜入动作游戏，一直被认为是潜入游戏的典范，自1998年的第一款神偷上市以来，玩家们一直都对本系列的作品赞誉有加。【视频：[Thief] Uprising Gamescom 2013 Trailer】 （分享自 @优酷网） http://t.cn/zQgDv3k  
+num_like: 0   forwardings: 1 comments: 0
+
+296:Rising Sun应该是一家水平很高的电影特效制作工作室。看这部他们放出来的花絮参与制作了很多一线大片 Rising Sun Pictures FX and Simulation Breakdown http://t.cn/zQgGXtv  
+num_like: 0   forwardings: 1 comments: 0
+
+297:#幕后花絮# 这部有37分钟左右的视频是由Pixomondo工作室VFX部主管介绍《星际迷航：暗黑无界》中的VFX镜头制作流程，是一段幕后人物采访视频，应该很有价值，可以详细了解这部影片视效制作的来龙去脉……http://t.cn/zQ1GI7G （来源：凌动网） 
+num_like: 0   forwardings: 0 comments: 0
+
+298:#V电影推荐# Vimeo视频教学短片【片场分工大揭秘】http://t.cn/zQuI16E该片适合从来没去过片场，且对片场工作有强烈好奇心的电影爱好者们观看，采用动画形式，生动详细地讲解了片场不同工种的职能，及他们在片场的分工合作过程。全文：http://t.cn/zQuIX6l 
+num_like: 0   forwardings: 0 comments: 0
+
+299:#ASB##MAD#自制。up主新手，水平低，所以作品除了敢说饱含着爱以外其他的什么都不敢说_(:з」∠)_送给所有喜欢JOJO的亲们。@JOJO茶话会 @LV4_何嘉明君 @腦洞使者大尾巴狼 @白浊小天使    【JOJO MAD】完全感覚Dreamer（ASB）  UP主：朽城   下载地址http://t.cn/zQ3jFO1 http://t.cn/zQ3OGD2  
+num_like: 0   forwardings: 0 comments: 2
+
+300:#电影学院# 摄影摄像要想出感觉，最重要的因素之一便是光。在电影的制作中，好的灯光师可以让EX1也拍出电影级别质感的画面。对于棚内摄影来讲，灯光的布置更是至关重要。我们可以通过国外的Snapfactory出品的这个教程来基本了解下在摄影棚中拍人像该如何布光。http://t.cn/zWEM2b9 
+num_like: 0   forwardings: 1 comments: 0
+
+301:强烈推荐!!巫师3 最新CG短片:http://t.cn/zQu7J2q 详情:http://t.cn/zQu7J25 
+num_like: 0   forwardings: 0 comments: 0
+
+302:【曼妥思广告】老板笑脸相迎？妹子主动搭讪？曼妥思清劲无糖薄荷糖推出全新TVC，沿用曼妥思式幽默，讲述因为曼妥思引发的搞笑情节。和绿箭的小清新相比，你更喜欢谁呢[疑问]话说那个胖老板最后的表情真是贱的可爱[嘻嘻][嘻嘻] | http://t.cn/zQ0WNiP http://t.cn/zQ0WNiS 曼妥思Mentos 清劲无糖薄荷糖 公交车篇 
+num_like: 0   forwardings: 0 comments: 0
+
+303:【不可错过的超棒动画小短片——致敬漫威】不到40秒带你看N部英雄动画，美国队长、蜘蛛侠、金刚狼、独眼龙、神奇四侠、钢铁侠、雷神…你认出了多少？[好喜欢] http://t.cn/zTvjT9W （优酷网友：电影翔子） 
+num_like: 0   forwardings: 0 comments: 0
+
+304:和同类型软件插件相比，我觉得人能变成猿这是挺有趣的。模型结构清晰，还是高模，给基础不好的和为了项目高效制作是挺棒的。以后就不用做人了，直接做装备了。【视频：CG人体模型生成器 - Human ZBuilder for Zbrush (HD)】 （分享自 @优酷网） http://t.cn/zjkpQCc  
+num_like: 0   forwardings: 0 comments: 1
+
+305:本周星期五，Nike 利用自己在上海南京东路的店铺外墙的大广告牌，来真正开始编织一双“袜子鞋”，进一步传播“极致贴合”的产品概念，而这样从赤脚到穿鞋的创作过程，也很容易能够抓住我们的目光了。 
+num_like: 0   forwardings: 1 comments: 0
+
+306:【#灌篮高手#大结局--湘北VS山王工业】看灌篮高手长大的朋友们，不要错过它，没错！这不是漫画，这是视频！网友用3D游戏制作了湘北大战山王的比赛....听着这振奋人心的音乐，看着赤木、三井这些熟悉的身影，随着最后一刻流川枫传球、樱木绝杀，眼眶已禁不住湿润...[泪] http://t.cn/SPsUli [转] 
+num_like: 0   forwardings: 0 comments: 1
+
+307:【每一本书都是树的悲剧】毋庸置疑，书的原材料是树。无论你读的是天真的童话《白雪公主》，精彩的人物传记《堂吉诃德》，还是扣人心弦的侦探小说《福尔摩斯》，对树来说，无一例外，都是悲剧 ——它将被砍伐。我们主张的阅读方式，既能维护你的求知欲，又能维护环境的生态。这个方式就是 ——电子书。 
+num_like: 0   forwardings: 1 comments: 0
+
+308:这部ArtFX的学生作品描述了人类文明的循环。可能我们上一次文明就是这样消失的，不错的微电影 http://t.cn/zQXN20d  
+num_like: 0   forwardings: 0 comments: 0
+
+309:评论：中国若动荡只会比苏联更惨  （分享自 @头条新闻） http://t.cn/zQaCbZp  
+num_like: 0   forwardings: 0 comments: 1
+
+310:看过《环太平洋》：洋人版奥特曼打怪兽，看的IMAX，特效真棒，但是夜景比较多，有些打斗看不太清，当然也跟影院放映有些关系。本片主打特效，故情节上不做苛求。另外，似乎看到了居合道、剑道等日式武道。看得真是热血沸腾呀！ ★★★★★ 环太平洋 (豆瓣) 
+num_like: 0   forwardings: 0 comments: 0
+
+311:看起来不错的~NewTek研发最新雕刻模拟软件Chrono Sculpt功能展示LightWave3D ChronoSculpt】 （分享自 @优酷网） http://t.cn/zQMGbu7  
+num_like: 0   forwardings: 0 comments: 0
+
+312:实在是恶心啊~~~【视频：凌动网上传 Sink  by - Dvein   Blacklist】 （分享自 @优酷网） http://t.cn/zQx46Gm  
+num_like: 0   forwardings: 0 comments: 0
+
+313:ArtFX艺术学院学生科幻短片《RUNAWAY 》高清正片&制作花絮-这个学校的全称是 ecole d'effects speciaux et animation 3D简称 ARTFX这个学校是全法唯一一所以特效为主的3D学校也就是以技术为主。正片：http://t.cn/zQx7LOW （分享自 @优酷网） http://t.cn/zQx74G6  
+num_like: 0   forwardings: 0 comments: 0
+
+314:Houdini Demo Reel 2013 http://t.cn/zQczLDT 
+num_like: 0   forwardings: 0 comments: 0
+
+315:Pacific Rim -  The Digital Artistry of Pacific Rim http://t.cn/zQtuVFk  （ 
+num_like: 0   forwardings: 0 comments: 0
+
+316:挺有意思的Honda - Hands http://t.cn/zQGZ0Us 
+num_like: 0   forwardings: 1 comments: 1
+
+317:【最偶然的事件都隐藏着因果的必然】 作者：布莱恩.尼格雷摘 要 　　1、物理实验表明：宇宙只是一个幻象，一个巨大而细节丰富的全像摄影相片...  --分享@休因 微刊《正觉》里的文章  http://t.cn/zQbyXzr 
+num_like: 0   forwardings: 0 comments: 0
+
+318:Johnnie Walker - Change The Game Behind The Scenes http://t.cn/zQ4iniJ 
+num_like: 0   forwardings: 0 comments: 0
+
+319:疯狂的AI数字群集~【 World War Z Exclusive】 http://t.cn/zQAm945 
+num_like: 0   forwardings: 0 comments: 0
+
+320:世界顶级MPC特效工作室商业广告ShowReel -Global Advertising Reel 2013 by MPC http://t.cn/zQw5lGL 
+num_like: 0   forwardings: 2 comments: 0
+
+321:外星怪物又来了。。。好像塑料。。。城市爆破很棒~奥特曼哪去了。。Watch Videos Online http://t.cn/zQwrRoI 
+num_like: 0   forwardings: 0 comments: 0
+
+322:一千万，一千万的李小龙广告哦~~~来自英国某CG公司耗时6个月制作~【视频：尊尼获加全新广告大片 - 敬致变革者】 http://t.cn/zQZXt3B  （分享自 @优酷网） 
+num_like: 1   forwardings: 3 comments: 0
+
+323:【12宫黄金圣斗士圣衣现身】来自国外网友发布在facebook上的图片，展示了传说中12位黄金圣斗士的圣衣，背景是希腊圣域，是实物还是CG，难以分辨，碉堡了！这个拍成电影绝对不比变形金刚票房低啊！！！（图转） 
+num_like: 0   forwardings: 0 comments: 0
+
+324:有意思的CG广告，漂亮的节奏，艺术感的搔动带着某种情绪，力量感对非器官的冲击，把棉染纺织裁剪完美展现[思考]话说 不就是个卖牛仔吗！广告要不要帅成这样！http://t.cn/zYa5PaT 
+num_like: 0   forwardings: 0 comments: 0
+
+325:在youku点击超过34万的视频：1953年吴氏太极宗师吴公仪迎战白鹤派拳师陈克夫的擂台赛。人们对于功夫的印象是不是深受影视作品的影响？ http://t.cn/hbz5bF 
+num_like: 0   forwardings: 5 comments: 1
+
+326:决定再看看JOJO全套了，再好好理解JOJO的精神！ 
+num_like: 2   forwardings: 3 comments: 2
+
+327:JOJO电影海报系列--温故而知新.据说集齐全部时候，就会有奇迹发生...下一个会是...@JoJoJoJo黄金之心 @lvhaoxi吕皓曦 @电影工厂 @饭饭愈佳 @许飞CG @原画人官方微博 
+num_like: 10   forwardings: 355 comments: 6
+
+328:大穿越！北美《芬达汽水》广告。主题创意似乎与当年的可口可乐动画有点相似 http://t.cn/zHgy7dR  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+329:看了超人-钢铁之躯感觉酷到爆了！！！这也许是好莱坞最具毁灭范围的高速战斗片了，太震撼了，之前所有的超级英雄都无法比拟，另外，剪辑也相当不错，人性情节也到位！但超人的衣服很耐打而且不沾灰尘啊~超长制作特辑： http://t.cn/zHW6W6n 
+num_like: 0   forwardings: 1 comments: 0
+
+330:感觉没有之前的好《刺客信条4：黑旗》时空背景将回到1715年的加勒比海.Assassin s Creed 4 Black Flag】 http://t.cn/zHmcryM 
+num_like: 0   forwardings: 0 comments: 0
+
+331:真是体力活的电影啊~看到道具喷水过去，还在担心那些机器会不会漏电...【视频：环太平洋 Pacific Rim 2013(机器人制作特辑)】 http://t.cn/zHOCCN6  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+332:环太平洋2013年7月31日中国上映,虽然这几个机器人的外形设计有点土，但是还是要看的啊~【视频：环太平洋 Pacific Rim 2013(制作特辑2)】 http://t.cn/zHEcypm  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+333:【下半年前途一片光明的星座】第一：狮子座；第二：摩羯座；第三：天蝎座。 【最能旺夫旺妻的星座】第一：狮子座；第二：双鱼座；第三：白羊座。【天生能干大事的星座】第一：狮子座；第二：天蝎座；第三：双子座。狮子要低调顶起~~~ [转] 
+num_like: 0   forwardings: 0 comments: 0
+
+334:#电影学院#《黑客帝国》为了拍子弹时间，导演使用了120架相机，按照电脑预先编程好的顺序和时间间隔，以平均每秒300帧的速度拍照，再使用电脑修补差异形成：http://t.cn/zlygyP7 随着拍摄技术和科技的进步，它实现方式多了起来，不过却有很大的局限。子弹时间的不同实现方式 ：http://t.cn/zHi4HvW 
+num_like: 0   forwardings: 0 comments: 0
+
+335:E3 2013《崛起：罗马之子》E3 Demo演示 ，游戏画面效果不错啊~  http://t.cn/zH84PDe 
+num_like: 0   forwardings: 0 comments: 0
+
+336:《最终幻想15》预告--这么多年了，效果没什么提升！ http://t.cn/zHQuWxB 
+num_like: 0   forwardings: 0 comments: 0
+
+337:CG艺术短片“Court  Light”一部以光为主题的短片，融化了的光们~http://t.cn/SyA9Yc  （ 
+num_like: 0   forwardings: 0 comments: 0
+
+338:风格很棒的短片~一部很富创意的广告“Good Night”欣赏 http://t.cn/S6Zhhg 
+num_like: 0   forwardings: 1 comments: 0
+
+339:估计灵感来自于汉江怪物~  恐龙也爱吃蛋糕！广告“ Le Monstre”欣赏 http://t.cn/S6zs99 
+num_like: 0   forwardings: 0 comments: 0
+
+340:还是那句话：花絮比正片好看~！SONY电子宣传广告“ Two Worlds”制作花絮 http://t.cn/z0e6MgI 
+num_like: 0   forwardings: 0 comments: 0
+
+341:结构复杂，但节奏太拖...百年瑞士“Harry Winston 哈利 温斯顿”手表广告欣赏 http://t.cn/zOI2gWo 
+num_like: 0   forwardings: 0 comments: 0
+
+342:色彩靓丽鲜明！卡通风广告“Release Your Imagination”欣赏 http://t.cn/zOAGM1L 
+num_like: 0   forwardings: 0 comments: 0
+
+343:【视频：“IBM云计算”动画版广告欣赏】 http://t.cn/z0djFX6  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+344:【视频：超漂亮CG广告《Mother Bird 鸟妈妈》欣赏】 http://t.cn/zWwJ3A8  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+345:3D版的就是不错啊~出个3D电影吧~【视频：植物大战僵尸2 官方宣传视频 奇妙时空之旅】 http://t.cn/zH9D23w  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 2
+
+346:子弹时间拍摄现场《Carousel》制作花絮 http://t.cn/zTlvBM3 
+num_like: 0   forwardings: 0 comments: 0
+
+347:《速度与基情6》结尾机、车大战特效分解：http://t.cn/zH0MtWX ，基本上是物理与CG特效结合。其他追车场景更多是替身特技：http://t.cn/zH0MtWS 。另，点http://t.cn/zH0MtWo 看关于flip car的花絮。 
+num_like: 0   forwardings: 0 comments: 0
+
+348:动画小片《愤怒的小鸟 Angry Birds》欣赏  Angry Birds 3D Animation Test by Squeeze Studio Animation 
+num_like: 0   forwardings: 0 comments: 0
+
+349:AMD的APU处理器广告，PS4和Xbox用的都是AMD的APU作为中央处理器。广告用的实时渲染效果很强大。盔甲设计很酷~ 【视频：次时代处理器 AMD A Series APU 宣传影像】 http://t.cn/zHN57fc  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+350:童年必看经典中的经典-七龙珠~不一样的是全3D形态~前几张不错，但还不心中最理想的写实3D效果啊，以后有时间做一套自己心中的写实形象~ @龙珠梦工厂 
+num_like: 1   forwardings: 2 comments: 1
+
+351:魔境仙踪 VFX制作花絮,场景一般，主要是水流难度【视频：凌动网上传Balloon Crash and River Rapids Shot Build】 http://t.cn/zHKidCd  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+352:钢铁侠Layout-自家被端片段。很完整，基本上就是正片内容【视频：IRON MAN 3 animatic Mansion Attack】 http://t.cn/zHPfEon  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 1
+
+353:钢铁侠3D数据分析展示花絮【视频：IRON MAN 3 HUD + GFX PROCESS REEL】 http://t.cn/zHV5XC8  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+354:资生堂美发彩妆师原田忠，以荒木飞吕彦《JOJO的奇妙冒险》为概念，忠实地将作品中的角色风格运用到了时尚之中。 
+num_like: 0   forwardings: 22 comments: 0
+
+355:“动作捕捉系统”开发工作者近日公布了一段视频，展示了他们最新的实时“裸脸”面部动作捕捉系统。以往的动作捕捉都要在演员脸上贴上标志识别点，让机器便于识别，而”裸脸“技术则不需要这些标志识别点，对面部的3D识别更细致更准确。http://t.cn/zTRj0VO 
+num_like: 0   forwardings: 0 comments: 0
+
+356:动画流程分解ABOUTCG上传 IGA Aide Gourmet  Animation from SHED http://t.cn/zHGsCeX  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+357:禁烟环保短片和制作流程解析视频,视频http://t.cn/zTgcPqT  制作过程解析:http://t.cn/zHyv5Ok 
+num_like: 0   forwardings: 0 comments: 0
+
+358:游戏"last of us"中的表情绑定技术演示:http://t.cn/zH4Iynk 详情:http://t.cn/zH4IynD 
+num_like: 0   forwardings: 0 comments: 0
+
+359:Adobe Creative Cloud 的宣传短片http://t.cn/zHGYjCu 详情:http://t.cn/zHGYjC1 
+num_like: 0   forwardings: 1 comments: 0
+
+360:用3D制作这些也挺好~【绮丽纸艺】旅居伦敦的俄罗斯设计师Yulia Brodskaya的的纸艺作品，梦幻般的色彩一定能迷恋住你的眼睛。  http://t.cn/zHGmrZk  （分享自 @花瓣网） 
+num_like: 0   forwardings: 0 comments: 0
+
+361:今年房价1万，明年1万5，涨50%，国家开始控制；今年房价1万5，明年2万，涨33.3%，调控效果显著；今年房价2万，明年2万6，涨30%，调控已见成效；今年房价2万6，明年3万3，涨26.9%，房价涨幅在控制内；今年房价3万3，明年3万9，涨13%——过去5年成功遏制了房价过快上涨势头。(东方财富网) 
+num_like: 0   forwardings: 0 comments: 0
+
+362:三个字形容“酷毙了”~！《蝙蝠侠：阿甘起源》游戏高清CG宣传片。 这部作品作为前传，主要讲述黑面具悬赏追捕蝙蝠侠，招来了很多DC漫画世界的恶人，比如丧钟，蝙蝠侠需要利用智慧找到真相，同时卷入此次行动的哥谭警局还有哪些好警察。 Batman Arkham Origins Official Trailer http://t.cn/zHACPY0 
+num_like: 0   forwardings: 3 comments: 0
+
+363:JOJO'sBizarreAdventureFilm首款海报强势发布！网络上已经被疯狂转了，我很开心，希望大家能支持！再透露些消息：年前还会发布倒计时第二款海报！加油JOJO们~ 
+num_like: 0   forwardings: 1 comments: 0
+
+364:帅爆了！“变形金刚黑月亮”第2部分视觉特效！亮点太多，眼睛都不舍得眨一眨了[群体围观] http://t.cn/zHy7esU 
+num_like: 0   forwardings: 0 comments: 1
+
+365:JOJO里面我最喜欢的是第四部的平衡，剧情有紧有缓。喜欢第五部的剧情刺激迸放，并且是黑帮屌丝的疯狂逆袭，而且有时代感。将来会有机会完成第五部的经典。 
+num_like: 0   forwardings: 1 comments: 0
+
+366:发表了博文 《汐丹之光文化传媒有限公司 打造震撼视觉盛宴！》 - XiDan Light Digital Visual Effects Art CO.,Ltd.  北京汐丹之光文化传媒有限公司 欢迎登 http://t.cn/zH2pgL8 
+num_like: 2   forwardings: 3 comments: 2
+
+367:【最近压力大，正在走霉运的12星座】冠军（射手座）、亚军（狮子座）、季军（处女座）、第四名（天蝎座）、第五名（白羊座）、第六名（双鱼座）、第七名（摩羯座）、第八名（天秤座）、第九名（双子座）、第十名（巨蟹座）、第十一名（金牛座）、第十二名（水瓶座）~~~转发踢出霉运^^ 
+num_like: 0   forwardings: 0 comments: 0
+
+368:《Baby&Me》以劲舞萌爆baby为主题的广告 http://t.cn/zTSi7ha  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+369:相当期待~中国机甲登场~据制作人员说一套机甲的贴图超过2000张，8K、10K贴图是必须的，预告还是相当给力的啊~【视频：《环太平洋》超清预告3 Pacific Rim-HDtrailer3】 http://t.cn/zHPFahy  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+370:阿三的电影业还是很发达的。来自印度的特效作品制作的可以说很精良。他们没有我们的浮躁，做东西很认真。值得我们学习。  RMW IND VFX SHOWREEL 160413 http://t.cn/zTsxNJG 
+num_like: 0   forwardings: 1 comments: 1
+
+371:#特效制作# VFX电影工作室VFXLAB制作花絮：http://t.cn/zTBC3bi 前期拍摄是好莱坞电影工业很重要的一环，甚至是之后所有效果的基础，前期拍摄做的越好，后期抠像质量就越有保证，为实现这个目的，搞清楚原理就很重要……电影特效蓝/绿屏拍的区别与摄材质选择：http://t.cn/zTsy8ub 
+num_like: 0   forwardings: 0 comments: 2
+
+372:很棒的后期合成师，唯一不知道的是他做的遮罩（roto）是手动对位还是自动计算的  但背景音乐很不错啊~  【视频：遮罩改图后期艺术家“Nathaniel Caauwe”商业作品制作花絮】 http://t.cn/zls50vh  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 2
+
+373:【马云：年轻人必须思考的4大问题】1.什么是失败？放弃就是最大的失败。2.什么叫坚强？经历许多磨难、委屈、不爽，你才知道什么叫坚强。3.你的职责是什么？比别人多勤奋一点、多努力一点、多一点理想，这就是你的职责。4.傻瓜用嘴讲话，聪明人用脑袋讲话，智者用心讲话。转 
+num_like: 0   forwardings: 0 comments: 0
+
+374:纽约艺术家 Heather Dewey-Hagborg 开启了一个高端项目。她从街头捡到的烟头、口香糖、毛发等遗留物中提取出DNA（就如侦探小说中描述的那样），再通过3D打印技术输出，从而还原遗留物主人的相貌。（PS：艺术家进军生物科技工程） 
+num_like: 0   forwardings: 0 comments: 0
+
+375:#动图##绘画# 怪兽的奔跑 by 三原三千夫——这是全集。三原三千夫是著名漫画家，参与的作品有恐竜惑星，銀河英雄伝説，真孔雀王等。他喜欢自己独立完成动画的全部制作。这些动图，是他用自己手绘的草图，来说明动画绘制中的有关情形。 
+num_like: 0   forwardings: 1 comments: 0
+
+376:绘·创意为了拍摄此动作大片，已牺牲了多名动作演员…「转」亮点在花絮，一定要耐心看完哪！ 
+num_like: 0   forwardings: 0 comments: 0
+
+377:经典造型版 “变形金刚：赛博坦陨落” 游戏CG宣传片欣赏 http://t.cn/StIIGg  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+378:神奇奶牛制过解析8过程http://t.cn/zTN7q6Y 
+num_like: 0   forwardings: 0 comments: 0
+
+379:再忙里偷闲。。。 
+num_like: 0   forwardings: 0 comments: 1
+
+380:Conan遮罩绘法后期制作http://t.cn/zTHqSMa 
+num_like: 0   forwardings: 0 comments: 0
+
+381:很炫的特效~【视频：销魂的线条！“英菲尼迪”超级概念跑车广告】 http://t.cn/zOMKuyv  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 1
+
+382:越来越好了~【视频：KINGKONG - Marmoset Toolbag Realtime Render】 http://t.cn/zTm4Ow0  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 1
+
+383:真可爱~【萌翻的俄罗斯陶瓷玩偶】（@设计日刊） http://t.cn/zT1uwES  （分享自 @花瓣网） 
+num_like: 0   forwardings: 0 comments: 0
+
+384:这娃好萌阿~上得厅堂下得厨房！那还需要保姆干么..  http://t.cn/zT0ByWw 
+num_like: 0   forwardings: 1 comments: 0
+
+385:当时霍比特人的宣传海报 是画上去的[衰]  
+num_like: 0   forwardings: 1 comments: 1
+
+386:看看这个惊人的音乐视频，以令人难以置信的CGI特效http://t.cn/zTnaJB2 
+num_like: 0   forwardings: 0 comments: 0
+
+387:...忙里偷闲，做了一张概念MP新图，感叹似乎即将消逝的青春，自己老了。 
+num_like: 4   forwardings: 1 comments: 4
+
+388:有多少人，被困在这个名为手机的监狱里。 
+num_like: 0   forwardings: 0 comments: 0
+
+389:突然看到不错，但感觉越看越假，少了些杂毛随机感，动态显僵硬【视频：Structure-Aware Hair Capture (Siggraph 2013)】 http://t.cn/zT8c5ST  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 1
+
+390:【视频：CG静帧作品《EQUAL FORCES》制作流程展示】 http://t.cn/zT8I9Gi  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 1
+
+391:挺不错的~第一人称射击游戏《德军司令部 Wolfenstein》高清CG宣传片欣赏    【视频：Wolfenstein  The New Order - Announcement Trailer】 http://t.cn/zT8dLEn  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+392:【关键是：超高速是否解放了你的创意之灵－－高速 1000fps下的艺术魅力】（http://t.cn/zTWVRr7 ）Phantom Flex 高速摄影机1000fps 拍摄的舞蹈，火是MAYA 做的。视频建议下载高清观看，高清下载地址→：http://t.cn/zTWTuSb 
+num_like: 0   forwardings: 0 comments: 0
+
+393:电影中的打耳光大汇编！挨得了耳光才是好影帝啊！http://t.cn/zWHwXdt 
+num_like: 0   forwardings: 0 comments: 1
+
+394:《金政基笔下的《韩国第一国宝崇礼门》 》 http://t.cn/zTQAo1t  （分享自 @土豆的原创） 
+num_like: 0   forwardings: 1 comments: 0
+
+395:纽约艺术家Kumi Yamashita的人物系列肖像画《Constellation》（星座），艺术家用钉子在画板上作为连接点，再用绳子连接，通过疏密来表现明暗关系，整幅画只用一根线贯彻完成。他的最新作品于4月20日至6月1日期间，在加利福尼亚的Scott White现代展览馆中展出。 
+num_like: 0   forwardings: 0 comments: 0
+
+396:@邹瑜鹏-J神 的组照 【简单分享下后期  利用RAW过曝的风景照片】因为运气关系 去云南的几天天气非常不好 所以原片非常灰。先利用LR调整了下曝光 因为佳能RAW的宽容度 对过曝一些问题不大 还可以保留暗部细节 http://t.cn/zTHMBiE 
+num_like: 0   forwardings: 0 comments: 0
+
+397:俄罗斯莫斯科的电线杆子~ 
+num_like: 0   forwardings: 0 comments: 0
+
+398:《安德的游戏》首款预告发布 震撼星战还原科幻经典【视频：《安德的游戏》超清预告 Ender's Game-HDtrailer】 http://t.cn/zTH3kNd  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+399:三星那个智能电视牛逼广告的制作幕后:http://t.cn/zTcoWlB 
+num_like: 0   forwardings: 0 comments: 1
+
+400:Omega Watches 哦米伽艺术短片,钟表的世界:http://t.cn/zTc2v2F 
+num_like: 0   forwardings: 0 comments: 0
+
+401:如果拍片这么方便的话，人人都是大导演http://t.cn/zTTV63T 
+num_like: 0   forwardings: 0 comments: 1
+
+402:【你知道今天是“微笑日”吗？】5月8日，世界微笑日，在这个特别的日子里，让我们时刻保持嘴角上扬15度。微笑可以对抗地心引力带来的面容衰老，微笑可以解除一个误会，释放善意，与世界和睦相处。在别人的微笑中，你会看到世界对自己也微笑起来！来，笑一个吧！ （转）  
+num_like: 0   forwardings: 0 comments: 0
+
+403:全世界143家主要媒体在谈论中国人吃老鼠肉。这才是软实力！@作家崔成浩 回去告诉金三，吸引全球注意用不着核试验放火箭地穷折腾，几只老鼠就把事办了。 http://t.cn/zTYpuYw  
+num_like: 0   forwardings: 0 comments: 0
+
+404:当你累了，准备放弃时，看看这个吧！送给所有还在坚持的朋友。。（转）  
+num_like: 0   forwardings: 0 comments: 0
+
+405:让你36年每年和同样的人一起拍照你做得到吗？看看下面这姐妹四人36年的情谊有多深！赶超爱情了有木有。。。[心] 「转」 
+num_like: 0   forwardings: 0 comments: 0
+
+406:《绿灯侠》中的CGI VFX特效分解http://t.cn/zTYr0Fg 
+num_like: 0   forwardings: 0 comments: 0
+
+407:真是肯花钱的广告【视频：高通骁龙处理器宣传片 - A dragon is coming】 Framestore制作 http://t.cn/zjdz4ZY  （分享自 @优酷网） 
+num_like: 0   forwardings: 4 comments: 3
+
+408:奥特曼和EVA在哪里，小怪物们又来啦~【视频：Pacific Rim - Con Footage】 环太平洋预告~http://t.cn/zTWDziD  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+409:【中文字幕】战神3制作特辑之波塞冬是怎样炼成的http://t.cn/zT0Kd3D 
+num_like: 0   forwardings: 0 comments: 0
+
+410:#Perspective# 不同的拍摄可以记录摄影机的位置、镜头、倾斜角度等，并在多个位置复位所有的原始元素。如果现有的镜头和剧照不配备摄像头的数据，使用几个角度工具解构画面，可以提供接近摄像机的位置、取景和焦距设置…http://t.cn/zTl3EFN SPIN VFX艺术家Keith Adams作品花絮：http://t.cn/zTlRYum 
+num_like: 0   forwardings: 0 comments: 1
+
+411:【#星映话#《钢铁侠3 英雄归来》重磅上线！】《钢铁侠3》首日票房狂砍1.25亿气势如虹，想知道钢铁侠的新战甲升级换代后有哪些酷炫功能？想了解是什么让曾经的好莱坞吸毒王浪子回头，变身如今的强力吸金王？本期@YOUKU星映话 独家专访小罗伯特唐尼，为你呈现钢3中的新变化！ http://t.cn/zTOYzar 
+num_like: 0   forwardings: 0 comments: 0
+
+412:【2012欧洲喜剧动画《自杀专卖店》】畅销小说改编。一家祖传的夫妻老婆店，贩卖各种帮人自杀的工具，直到有一天热爱生命的小儿子成了他们最大的威胁。如果你认为这是一部令人压抑的作品，那就错了，黑色幽默让人从头笑到尾！「转」http://t.cn/zTp5L8Q  
+num_like: 0   forwardings: 0 comments: 0
+
+413:有几张不错的感觉  摩登印象modekoimpress|创意摄影_时尚摄影_人像摄影作品欣赏_摄影作品分享网 http://t.cn/zTpQ2fr 
+num_like: 0   forwardings: 0 comments: 0
+
+414:人的一生真的需要几个这样的朋友，相互信赖，相互依存。 {转} 
+num_like: 0   forwardings: 0 comments: 0
+
+415:#长镜头# 后期制作形成的一镜到底的完美长镜头，娴熟的剪切技术仍然让我们目不暇接，剪辑点隐藏在场景之中，不容易被发现，明显的场景转换，画面却是连续的。这段视频对于前期分镜、表演、拍摄、剪辑应该都有相当高的技术要求与考验……http://t.cn/zTMlSVS （素材@半句心语 ） 
+num_like: 0   forwardings: 0 comments: 0
+
+416:【成为钢铁侠需要有多少钱？】俗话说权贵高科技，屌丝靠变异…那么要想成为超级英雄界的真·权贵钢铁侠，需要花多少银子呢？Moneysupermarket网站经过估算后认为，成为钢铁侠的总价是：16亿1271万7000元。如果一个月赚5000的话，需要26878年才能达成……老板，请给我来一盘变异蜘蛛！！#今晚出品# 
+num_like: 0   forwardings: 0 comments: 0
+
+417:autodesk2014_Workflow Demonstrations大师流程示范autodesk2014年各种牛逼人的技术示范http://t.cn/zTXDJtk 详情:http://t.cn/zTXDJtF 
+num_like: 0   forwardings: 0 comments: 0
+
+418:#特效制作# Matte painting不仅能实现电影所需要的效果，同时也可节约制作成本。它并不是新的艺术形式，是传统电影特技镜头的一种“绘景”方式，只不过加入了数字技术，使得MP绘制的镜头表现力更强、更真实、更有说服力。MP在国际电影行业已经很普及，但在国内仍有很大的发展空间…http://t.cn/zT6PfHp 
+num_like: 0   forwardings: 0 comments: 1
+
+419:纸做的场景，俄罗斯达人By People的作品 ~~~ [转] 
+num_like: 0   forwardings: 0 comments: 0
+
+420:#治愈系# 给这世界一个温柔的拥抱。 
+num_like: 0   forwardings: 1 comments: 0
+
+421:#特种部队2# 作为一部主打视效的爆米花影片《特种部队：全面反击》，虽然剧情简单粗暴，但片中蛇眼、金克丝在悬崖边对战无数红衣忍者的戏份，犀利又干净的镜头剪辑，将忍者功夫的快准狠呈现的十分到位，堪称影片的一大亮点……http://t.cn/zTJEfPK 特效制作与幕后拍摄专辑：http://t.cn/zTxYGth 
+num_like: 0   forwardings: 0 comments: 1
+
+422:#精彩推荐# 耐克华丽又唯美的一个广告，继承了耐克一贯的创意风格，使用慢镜头效果展现产品的理念，算是一个经典的广告！推荐给做广告的朋友们……http://t.cn/zTt7x6R 
+num_like: 0   forwardings: 1 comments: 0
+
+423:【插画】智利插画师Oscar Ramos作品，丰富的想象力和表达手法，非常的棒！ 
+num_like: 0   forwardings: 0 comments: 1
+
+424:【视频：MPC 展示电影《 黑影 Dark Shadows》VFX制作花絮】 http://t.cn/zTcbd4q  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+425:【据说，今晚12点前转发，本周就会如以下】金牛（红运当头）、双子（花开富贵）、巨蟹（一帆风顺）、狮子（龙马精神）、白羊座（五福临门）、处女（百无禁忌）、天秤（万事如意）、天蝎（身体健康）射手（事事顺利）、摩羯（天天快乐）、水瓶（金银满屋）、双鱼（财源广进） [转] 
+num_like: 0   forwardings: 0 comments: 0
+
+426:推荐给大家三星的智能电视的广告片,超有创意,直接把国内那些找个美女转啊转啊的广告比成了傻逼.http://t.cn/zTcH2dZ 详情:http://t.cn/zTcH2dz 
+num_like: 0   forwardings: 0 comments: 0
+
+427:@RuidanLv @简体中文的幻想 大师的脑袋里你永远不知道都在想啥。。。 
+num_like: 0   forwardings: 0 comments: 0
+
+428:【时光机问世了？？】伊朗科学家阿里·拉兹希宣称发明出名为“Aryayek时间旅行机”的时光机器，可以预测未来5到8年的情况，准确率高达98%，该科学家还指出，在这个新装置帮助下，伊朗政府可以预测与其他国家发生军事冲突的可能性，还能预见外币汇率和石油价格的波动。神人啊~膜拜~http://t.cn/zT5sYHS 
+num_like: 0   forwardings: 0 comments: 0
+
+429:感觉好像是冰河世纪，地心大冒险的翻版啊【视频：疯狂原始人 The Croods 电影剧场版预告片2 2013】 http://t.cn/zYupHrX  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+430:无论你犯了多少错，或者你进步得有多慢，你都走在了那些不曾尝试的人的前面。No matter how many mistakes you make or how slowly you progress, you are already ahead of those who never tried.（转自网络） 
+num_like: 0   forwardings: 0 comments: 0
+
+431:狗狗的一天，太催泪了，慎入！ 
+num_like: 0   forwardings: 1 comments: 0
+
+432:#文豪超能力# 参考众多网友的意见画了“文豪们的奇妙冒险”第二弹…… 
+num_like: 0   forwardings: 0 comments: 0
+
+433:【毁童年】应该有很多人不知道《龙珠》里的命名方式吧？知道后再去看一遍龙珠吧…各种毁童年，各种瀑布汗 
+num_like: 0   forwardings: 1 comments: 0
+
+434:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+435:世界优秀艺术家 VFX Showreel 视频收集_17:http://t.cn/zTb522Q 详情和更多视频:http://t.cn/zTb5228 
+num_like: 0   forwardings: 0 comments: 0
+
+436:人生最美好的事情都不是金钱能买的。 
+num_like: 0   forwardings: 1 comments: 0
+
+437:令人震撼的创意书雕。作者Guy Laramee 
+num_like: 0   forwardings: 0 comments: 0
+
+438:【视频：万德兰 速度与激情4特效Visual Effects】 http://t.cn/zTLvNsr  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+439:被动就是弃权，不去解决也是一种解决，不做决定也是一个决定，消极的解决和决定将使你面前的机会丧失殆尽。 
+num_like: 0   forwardings: 0 comments: 0
+
+440:强烈推荐!!爆炸性的视觉效果,世界优秀艺术家 VFX Showreel 视频收集_13http://t.cn/zT7UWD8 一共三个,其他在此:http://t.cn/zT7UWDR 
+num_like: 0   forwardings: 1 comments: 1
+
+441:强烈推荐::Unreal Engine 4 虚幻引擎4 演示DEMO!Unreal Engine 4 Infiltrator Demohttp://t.cn/zTZUI4i 详情:http://t.cn/zTZUI46 
+num_like: 0   forwardings: 2 comments: 1
+
+442:她的乐观让这世界上大多数“怀才不遇”和“愤世嫉俗”都显得渺小且卑鄙。 
+num_like: 0   forwardings: 1 comments: 0
+
+443:在GDC大会上，动视公司为我们带来了新引擎制作的一段实时人物Demo，从中可以看出他们对次世代游戏的品质期望。【视频：游迅网_动视次世代角色DEMO】 http://t.cn/zT7GlMH  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+444:#CG医学建模#前法国国王亨利四世在1610年杀害，并根据他的头骨CTscan数据库,利用vray、c4d、zbrush重塑他当年外貌http://t.cn/zYs6srC 
+num_like: 0   forwardings: 0 comments: 1
+
+445:【2013年会赚很多钱的星座】 第一名：狮子座！第二名：处女座！第三名：射手座！第四名：天蝎座！第五名：双子座！第六名：天秤座！ 榜上有名的必须转 ！！不转你就木有钱！ （转） 
+num_like: 0   forwardings: 0 comments: 3
+
+446:你觉得孤独就对了，那是让你认识自己的机会。 你觉得不被理解就对了，那是让你认清朋友的机会。 你觉得黑暗就对了，那是你发现光芒的机会。 你觉得无助就对了，那样你才能知道谁是你的贵人。 你觉得迷茫就对了， 谁的青春不迷茫。 
+num_like: 0   forwardings: 0 comments: 0
+
+447:我把甄嬛传改编成了游戏。。。[bed凌乱] 
+num_like: 0   forwardings: 4 comments: 1
+
+448:艺术家Emma Hack创作的人体彩绘，在17个人体身上描绘一辆事故汽车，以此响应南澳大利亚州的反机动车超速行动。 
+num_like: 0   forwardings: 0 comments: 0
+
+449:英国艺术家Jonty Hurwitz 创作的变形雕塑，只有透过圆柱形镜面反射，才能一睹雕塑真容。 
+num_like: 0   forwardings: 0 comments: 0
+
+450:这个叼爆了!!!第一人称视角007特工大战黑帮!超有意思!!http://t.cn/zYe8Scz 
+num_like: 0   forwardings: 0 comments: 0
+
+451:发表了博文 《章鱼小镇》 - 章鱼小镇是一个和谐，平静的小镇。 据说，在很久很久以前，有一只很大很坏的章鱼，总是在村子里欺负村民。 有一天，一个小孩叫呆呆，她想出一个注意，把章鱼套上游泳圈它就不能回不 http://t.cn/zYrGp7P 
+num_like: 0   forwardings: 0 comments: 2
+
+452:一个有趣的软件，3D模型像素建模~【视频：MagicaVoxel 2013-02-16 20-03-33-93_1】 http://t.cn/zYNwdDy  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+453:设计真不错，有些渲染真好~"BLACK PHOENIX" PROJECT作品收集 http://t.cn/zY3Em5F 
+num_like: 0   forwardings: 1 comments: 1
+
+454:世界最新优秀影视特效制作分解收集_1:金城武的西铁城广告制作分解,先不说广告多牛,金城武帅爆了有木有!!!http://t.cn/zYuiJNr 详情:世界最新优秀影视特效制作分解收集_1 | ABOUTCG资讯速递 
+num_like: 0   forwardings: 0 comments: 0
+
+455:Autodesk的Mudbox 2014和Project Pinocchio演示mudbox的自动重新拓扑:http://t.cn/zYmNN84 Pinocchio演示:http://t.cn/zYmNN8b 
+num_like: 0   forwardings: 0 comments: 0
+
+456:叹为观止！超酷的防水材料，颠覆你对“防水”的认识！[震惊]目瞪口呆地看完了，三观又被刷新，太帅了……http://t.cn/zYfOZAv 
+num_like: 0   forwardings: 0 comments: 0
+
+457:波斯王子制作花絮~Prince of Persia The Sands of Time - MPC VFX Breakdown Reel http://t.cn/zWIduq1 
+num_like: 0   forwardings: 1 comments: 0
+
+458:黑色旗帜-震撼CG欣赏 外媒日前泄漏了育碧周一发布的《刺客信条4：黑旗（Assassin’s Creed IV: Black Flag）》CG预告，主角爱德华肯维作为一位劫掠者，海盗，刺客驰骋在加勒比海，还有黑胡子船长，霸气碉堡的枪械数量，耍枪如挥舞袖剑一般，尤其是末尾，杀完抱个妞，相当威武！  http://t.cn/zYQj8ou 
+num_like: 0   forwardings: 1 comments: 0
+
+459:许多场景挺美啊~【视频：《美食从天降2》食物怪兽爆笑逆袭】 http://t.cn/zYHhCwZ  （分享自 @优酷网） 
+num_like: 0   forwardings: 5 comments: 0
+
+460:【是什么，让他们与众不同？】隐忍、勤奋，默默耕耘、始终如一。不去想未来是平坦还是泥泞，只要热爱生命，一切，都在意料之中。 
+num_like: 0   forwardings: 1 comments: 0
+
+461:这个超级强！CG动画制作的#奥黛丽·赫本#主演的英国Galaxy巧克力广告，你能看出来赫本是电脑制作的吗？http://t.cn/zYlDI1I 
+num_like: 0   forwardings: 0 comments: 0
+
+462:模型师的学习参考~模型真不错啊~！【视频：Environments Reel02】 http://t.cn/zYYGR6Y  （分享自 @优酷网） 
+num_like: 0   forwardings: 8 comments: 0
+
+463:挺酷的机械制作过程~【视频：Breakdown for 99Frames -  Flying Leaf】 http://t.cn/zYYMGo1  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+464:@lvhaoxi吕皓曦 @电影工厂《少年派》特效公司破产 致信斥李安：你只想更便宜”文中还称李安甚至感谢了摄影师，但没有致谢特效公司；并指责李安“我希望能做的便宜点”的发言无知不当。对此，李安的弟弟导演李岗在接受台湾媒体采访时，对特效人员把矛头转向李安表示不解：“他 http://t.cn/zYlidXD 
+num_like: 0   forwardings: 3 comments: 1
+
+465:雷神VFX花絮~【视频：Thor Visual Effects Making Of   buf】 http://t.cn/zYWK4WI  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+466:寺田克也ココ10年 -KATSUYA TERADA TEN-，2415日元，4月10日发售。「寺田克也此间10年展」作品图录。「寺田克也ココ10年展」3/16~6/30，京都国际漫画博物馆 。展出彩色插画设定稿等等，约300件作品。展示作品及未展示作品皆收录于本书。收录作品全部有寺田本人的点评说明。 
+num_like: 0   forwardings: 0 comments: 0
+
+467:悲催的同行。。。现实太残酷~：【《少年派》特效公司破产 员工奥斯卡会场抗议】中国新闻网讯据台湾媒体报道，今日台湾导演李安执导的《少年派的奇幻漂流》勇夺奥斯卡4大奖，包括一座最佳导演奖，但曾经为该片制作特效的“节奏特效”(Rhyth... http://t.cn/zYOFipw  （分享自 @21CN新闻） 
+num_like: 0   forwardings: 0 comments: 0
+
+468:[Cute] 打不过你我就出绝招！阿黄你的表情亮了！[偷笑] [#宠物 精选：http://t.cn/zls699Z ] 
+num_like: 0   forwardings: 0 comments: 0
+
+469:真的还是比3D划算靠谱多了~可怜3D同行的痛楚~【广告门adquan.com】庖丁解“年” http://t.cn/zYc2gf2 
+num_like: 0   forwardings: 0 comments: 0
+
+470:依旧很棒~【视频：《刺客信条：启示录》CG预告片】 http://t.cn/aoBTk9  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 5
+
+471:【日本Recruit超[萌]广告第二弹 猫咪师徒一起来踏春】春天来啦，超萌的猫咪师徒又开始了新的旅途！小喵已经长大了，在旅途中它们还邂逅了萌汪俊介！这无敌三萌主，真心要把人萌翻啦！[心]http://t.cn/zYCZqVy 
+num_like: 0   forwardings: 0 comments: 0
+
+472:@lvhaoxi吕皓曦 @饭饭愈佳 @JoJoJoJo黄金之心 【视频：【台湾制作模型大战系列】《七龙珠》短笛VS特兰克斯】 http://t.cn/zYVpvjH  （分享自 @优酷网） 
+num_like: 0   forwardings: 2 comments: 2
+
+473:复仇者联盟花絮----素材收集与运用是关键【视频：Building a Digital New York for  The Avengers】 http://t.cn/zYCr6ld  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+474:简洁的表现好~【视频：十分钟让你看懂中国】 http://t.cn/ShlKUO  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+475:【逆天！3D打印笔！】3Doodler，来自美国波士顿一家公司的技术，可以随心所欲画出你想要的立体画作！目前，3Doodler项目正在国外募集资金进行生产，目标是3万美元，但是目前集资已经超过30万美元！可以想象这支笔的强大！http://t.cn/zYKEmZu [转] 
+num_like: 0   forwardings: 1 comments: 1
+
+476:如此帅气的作品，单看几张怎会过瘾？via@RuidanLv 的【汐丹之光---CG视效作品大集合】更多内容记得点击链接哦http://t.cn/zYKsyA8 
+num_like: 0   forwardings: 0 comments: 0
+
+477:@电影工厂 @lvhaoxi吕皓曦 @电影集结号 @科幻世界 这样神奇的世界视效令人震撼，但据说也有许多人看了想吐...是否看电影前应该先吃一下晕车药~逆世界【视频：《逆世界》超清预告 Upside Down-HDtrailer】 http://t.cn/zYZBTtM  （分享自 @优酷网） 
+num_like: 0   forwardings: 2 comments: 0
+
+478:#特效制作# 粒子系统特效大师Allan McKay作品制作花絮，一位来自加拿大Santa Monica的VFX艺术家。参与制作了很多好莱坞一线电影的VFX，应该是以流体模拟为主……http://t.cn/zYxo4TY （来源：凌动网） 
+num_like: 0   forwardings: 1 comments: 0
+
+479:维塔工作室发布了#霍比特人#的VFX视效制作花絮，逐层解析了画面的生成过程。以及特效总监Letteri在接受采访时也透露了不少幕后故事，比如为了让棕袍巫师Radagast在林中被追的戏里每颗松针看上去都和真的一样，特效师花了一整年时间写新软件..彼得大帝细节控的毛病真是一点没改啊~http://t.cn/zY653XJ 
+num_like: 0   forwardings: 1 comments: 0
+
+480:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 1 comments: 0
+
+481:日前，silhouettefx 发布了最强的手工抠像和特效软件 Silhouette V5版本,本次更新中，Silhouette V5 增加了崭新的 附加S3D模块（单独收费），以应对日益增长的 2D转3D的功能，还有一系列其他重要更新，如mocha跟踪，极大的提高效率，详情：http://t.cn/zYSOARL ， V5版本宣传片：http://t.cn/zYSpqlV 
+num_like: 0   forwardings: 0 comments: 0
+
+482:赞~！！！法国钟表及珠宝奢侈品牌CARTIER北美最新广告【视频：CARTIER WINTERTALE】 http://t.cn/zYS6ynn  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+483:制作相当不错，流程很完整专业！法国钟表及珠宝奢侈品牌CARTIER北美最新广告【视频：CARTIER WINTERTALE MAKING OF】 http://t.cn/zYS6UCo  （分享自 @优酷网） 
+num_like: 0   forwardings: 3 comments: 0
+
+484:云图花絮Cloud Atlas Method http://t.cn/zlFygoW 
+num_like: 0   forwardings: 0 comments: 0
+
+485:【视频：CGI BehindHalo 4 Spartan Ops】 http://t.cn/zYtKRA0  （分享自 @优酷网） 
+num_like: 0   forwardings: 2 comments: 0
+
+486:梦见吉良吉影了，他的真实身份与目的竟然是…剧情的真相马上就要解开的时侯…电话闹醒了…火大啊 
+num_like: 0   forwardings: 0 comments: 2
+
+487:@lvhaoxi吕皓曦 @矜汐 @JoJoJoJo黄金之心 @饭饭愈佳 @杜少泽ze @呂难懂 @持重的蚂蚱 JOJO样片剧照发布一张，加油朋友们,加油JOJO们，加油2013！因为我们一定会变得更好，更强！ 
+num_like: 2   forwardings: 15 comments: 7
+
+488:【视频：奥斯卡最佳动画短片提名之一《纸人》（Paperman）全片发布】 http://t.cn/zYyn3WN  （分享自 @优酷网） 
+num_like: 0   forwardings: 5 comments: 0
+
+489:荷兰培植出的彩虹玫瑰，10秒内转将好运不断哦。。。 （转） 
+num_like: 0   forwardings: 0 comments: 0
+
+490:YES【视频：Ford Cmax TVC  by Analog Studios】 http://t.cn/zYZ3SEB  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+491:学习【视频：Cyberpunk 2077 by Platige Images】 http://t.cn/zYAxut8  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+492:【视频：StarCraft II  Heart of the Swarm Opening Cinematic】 http://t.cn/zYPKjZx  （分享自 @优酷网） 
+num_like: 0   forwardings: 2 comments: 1
+
+493:【视频：游讯网_《上古卷轴ol》联盟电影版预告】 http://t.cn/zYPFrLg  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 1
+
+494:JOJO’s Bizarre Adventure 样片海报发布！ 经历断断续续的持久战，不久样片就会完成，会带来不一样的视觉特效，敬请期待~！ 
+num_like: 7   forwardings: 65 comments: 4
+
+495:2.5亿粒子的奇幻效果！艺术家“Juanjo González”制作的VFX短片欣赏    【视频：250,000,000 Particles】 http://t.cn/zjrjPvy  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+496:超震撼CG！游戏大作《赛博朋克2077 Cyberpunk 2077》高清预告片欣赏    【视频：Cyberpunk 2077 Teaser Trailer】 http://t.cn/zjd2ViR  （分享自 @优酷网） 
+num_like: 0   forwardings: 8 comments: 0
+
+497:【视频：时空穿越！超酷的 “奥迪A4” 广告欣赏】 时空穿越！超酷的 “奥迪A4” 广告欣赏  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+498:ILM工业光魔展示《复仇者联盟 The Avengers》幕后CG制作花絮合集~霸气  【视频：The Avengers Industrial Light and Magic】 http://t.cn/zjEFEA5  （分享自 @优酷网） 
+num_like: 0   forwardings: 4 comments: 0
+
+499:奥特曼与EVA的好莱坞特效大片版。。。【视频：Pacific Rim TRAILER 1】 http://t.cn/zjoUbqg  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+500:《DDO贴图插件制作流程》 http://t.cn/zjYEBmV （分享自 @土豆网教育） 
+num_like: 0   forwardings: 4 comments: 0
+
+501:【视频：ABOUTCG_上传 Making of "Jolie Bobine" 布娃娃的梦想 制作花絮】 http://t.cn/zlCJQP3  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+502:【视频：【一起动画吧中文字幕】梦工厂2013暑期档新片：《蜗牛》四两拨千斤！】 http://t.cn/zjOKvFv  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+503:终于找到了,还高清的 不错的小动画!肥版国家地理三部曲 三集联播 
+num_like: 0   forwardings: 1 comments: 1
+
+504:微博就是我的暂存地，好东西先放在这里【视频：次世代引擎Agni’s Philosophy系统视频二】 http://t.cn/zjKRdJw  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+505:相当不错，比渲染靠谱多了【视频：次世代引擎Agni’s Philosophy系统视频一】 http://t.cn/zjKR1Ov  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+506:父亲耗时8年心血著作的长篇小说《映月井》终于引出来样本了~一共分为：春，夏，秋，冬四部曲！！！ 
+num_like: 1   forwardings: 5 comments: 2
+
+507:挺酷的，有点鬼武者与鬼泣与战神混合体【视频：《恶魔城：暗影之王2》登陆PC】 http://t.cn/zWTgTMT  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+508:【老外自拍七龙珠真人电影 特效堪比好莱坞】因对《全面进化》失望，有一群英国的超级粉丝聚集起来，用超低预算拍出一部他们心目中理想的作品《七龙珠：赛亚人的神话》，并于4日放出首支预告片。短片重现了许多经典画面。。。。这行为本身很感人有没有不准笑！[j撒娇] 老外自拍七龙珠真人电影 特效堪比好莱坞 
+num_like: 0   forwardings: 0 comments: 0
+
+509:很好的效果~3D转手绘技术【视频：papermanbd】 http://t.cn/zlYc3YY  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+510:花絮 冰与火之歌：权力的游戏 第二季VFX特效揭秘 伊 http://t.cn/zjbSCnD 
+num_like: 0   forwardings: 0 comments: 0
+
+511:@lvhaoxi吕皓曦 @天意意意天 JOJO奇妙冒险电影海报-感恩节特别版发布!!!今天是感恩节，特此发布JOJO奇妙冒险电影海报-感恩节特别版，感谢支持和帮助和参与制作的朋友们，你们的名字融入感恩的热雨，融入JOJO的精神之中~！！！希望我们继续努力创造更多的精彩来回馈你们~！ 
+num_like: 2   forwardings: 22 comments: 2
+
+512:@lvhaoxi吕皓曦 挺有意思的视频网页广告~！！！Page not found | vxplo 
+num_like: 0   forwardings: 0 comments: 1
+
+513:昨天报道说 奥巴马连任美国总统其实早在几年前就已经被大家所知了，因为答案来自于世界末日电影《2012》，但可以肯定的说这应该不是玛雅人预测的，是编剧预测的，估计编剧已经提前下赌赢翻了，另外候选人罗姆尼肯定没看过《2012》~ 
+num_like: 0   forwardings: 1 comments: 0
+
+514:挺好看的【视频：奥迪A6旅行版欧洲区广告“AudiA6 Bird”】 http://t.cn/akKAvg  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+515:新西兰航空公司模仿霍比特人和魔戒风格的安全广播视频！ 超油菜有木有！ 我表示这是我看的最认真的一次安全视频了。。。。 （他们还号称自己是 The Airline of Middle Earth 神马的。。。） 墙裂推荐啊啊啊。。。via@英国那些事儿 http://t.cn/zldSLtL 
+num_like: 0   forwardings: 0 comments: 0
+
+516:http://t.cn/zlupt0t 益达酸甜苦辣四部曲上下部，广告播出的时候很多人看不懂，这样剪辑故事脉络就清晰了！ 
+num_like: 0   forwardings: 0 comments: 0
+
+517:偶然看到人类智商排行榜，其中有逆天传说： 国外有研究18位天才人物的智商非常高 华盛顿140，格兰特130，德雷克130，伽利略185，伏尔泰190，牛顿190，歌德210，康德175，马丁·路德170，笛卡儿180，约翰逊165，达·芬奇230，莫扎特165，拿破仑145，富兰克林160，伦布兰特155，林肯150，陶哲轩210 
+num_like: 0   forwardings: 1 comments: 0
+
+518:《已知的宇宙》6分半钟带你看全人类已观测到的宇宙，非常震撼！ (中文字幕)http://t.cn/zOCeQm8 
+num_like: 0   forwardings: 0 comments: 0
+
+519:近日公安部出入境管理局证实,护照姓名拼音中,大写字母ü用YU代替,如吕,统一规定拼写为"LYU”.此前,由于英文无ü,吕字拼写只能用LV或LU代替.受此影响的姓还有"闾","律".今后网上在线申请信用卡或办理其他证件时,都应按照新拼写规则填写表格,在办理签证、提供酒店和机票预订单时也要注意统一姓名拼写！ 
+num_like: 0   forwardings: 0 comments: 0
+
+520:拇指头像,看看你能认出几个?3 
+num_like: 0   forwardings: 0 comments: 0
+
+521:视频:央视“你幸福吗”调查神回复集锦 视频:央视“你幸福吗”调查神回复集锦  （分享自 @新浪视频） 
+num_like: 0   forwardings: 0 comments: 0
+
+522:对@lvhaoxi吕皓曦 说：庆祝10月6至11月4日迎来的《JOJO的奇妙冒险》连载25周年的荒木飞吕彦老师的东京画展，震撼正式连发JOJO FILM POSTER三款！！！HIGH吧~JOJO~~ 
+num_like: 0   forwardings: 3 comments: 1
+
+523:转发，说的太犀利了~！：《中国好声音》结束了，中国好吐槽才刚刚开始，哥整理了一版…http://t.cn/zlf3LoR 
+num_like: 0   forwardings: 0 comments: 0
+
+524:可口可乐CG广告~【视频：spot pour Coca-Cola Zero】 http://t.cn/zlwGuFB  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+525:自己设计公司logo,原来设计的以蒲公英造型的行星，最终不一样了，我自己还是喜欢草稿的感觉。 
+num_like: 0   forwardings: 0 comments: 1
+
+526:《强迫症患者的血腥臆想》第65届威尼斯电影节获奖短片，7分钟的微电影可以将强迫症剖析的如此深刻，太精彩了！！！很特别的表现手法，虽不是恐怖片，但比恐怖片还恐怖！很值得看看的微电影。http://t.cn/zWTTfl9 
+num_like: 0   forwardings: 1 comments: 2
+
+527:古有曹植七步成诗，今有我七日织“围脖”。我获得了【七步成诗】勋章，谢谢大家的支持http://t.cn/zlh90He 
+num_like: 0   forwardings: 0 comments: 0
+
+528:#新浪博客七周年#我的博客今天2岁121天了，我领取了先锋博主徽章。原文地址:http://t.cn/zlhPXAs。你也来领取属于你的博客徽章吧:http://t.cn/zWrsz6f 
+num_like: 0   forwardings: 0 comments: 0
+
+529:【视频：MADE  FUTURE SELF】 http://t.cn/zlPIx1N  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+530:发表了博文 《昨天收到 EXPOS&Eacute; 10》 - 昨天收到 EXPOS&Eacute; 10 啦。。哈哈。。继续加油啊。。。 http://t.cn/zlvHkKc 
+num_like: 0   forwardings: 0 comments: 0
+
+531:祝贺矜汐收到EXPOSE10，还要加油啊！ 
+num_like: 0   forwardings: 0 comments: 0
+
+532:JOJO电影倒计时25海报发布~！ 
+num_like: 0   forwardings: 0 comments: 1
+
+533:他们的英雄拯救的了世界，但阻止不了自己的破产！  经济衰退！《普罗米修斯》特效公司破产 http://t.cn/zWFpuGM  （分享自 @火星网官方微博） 
+num_like: 0   forwardings: 0 comments: 0
+
+534:英雄拯救的了世界，但阻止不了破产！ (评论给 @火星网官方微博 经济衰退！《普罗米修斯》特效公司破产 - CG资讯 | 火星网－中国领先的数字艺术门户 http://t.cn/zWFpuGM ) 
+num_like: 0   forwardings: 0 comments: 0
+
+535:酷就一个字~！《《刺客信条》真人都市跑酷视频》 http://t.cn/zWeGCpK  （分享自 @土豆网游戏） 
+num_like: 0   forwardings: 1 comments: 0
+
+536:3D扫描技术！《Ten24 3D Scanning》 http://t.cn/zWaHKrm  （分享自 @土豆网搞笑） 
+num_like: 0   forwardings: 0 comments: 0
+
+537:把稳生命，开车，从来没有绝对的安全，只有相对安全的态度和方法。【转给开车的人】via 浦东高速交警 
+num_like: 0   forwardings: 0 comments: 0
+
+538:太棒了，主观镜头，最后游戏效果也很棒~【视频：MGS Ground Zeroes游戏宣传片】 http://t.cn/zWrtkHB  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 1
+
+539:发表了博文 《汐丹之光文化传媒有限公司官方主页发布》 - 汐丹之光文化传媒有限公司官方主页发布： xidanlight.com  http://t.cn/zWBU18i 
+num_like: 0   forwardings: 2 comments: 0
+
+540:牛X的肌肉男！《Old Spice Muscle Music》 http://t.cn/zW1lfyP 
+num_like: 0   forwardings: 2 comments: 0
+
+541:几年前的视频了，但再看还是很有趣【视频：世界视错觉大赛一等奖作品】 http://t.cn/hdQDU  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+542:VERY NICE~~~【视频：《刺客信条3》1080p高清CG预告】 http://t.cn/zWuRtyY  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+543:【IT男因工作繁忙 写程序远程喂狗】30岁英国IT男莫里斯工作繁忙,经常不能回家.为了让爱犬吃饱,他专门开发了一套基于Twitter的程序.需要喂食时,莫里斯会发布一条Twitter消息.家中电脑收到后启动蜂鸣器,托比听到声音后便坐在管子下面等着,狗粮便从管子落到托比碗里.(新浪科技)PS:技术控就是不一样! 
+num_like: 0   forwardings: 0 comments: 0
+
+544:没期待中那样好，动画做的一般，暴雪为了迎合中国费尽心思啊！【视频：《魔兽世界：熊猫人之谜》开场动画首映 （中文）】 http://t.cn/zWTdvKB  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+545:风格真棒~【视频：BAFTA获奖定格动画【The Eagleman Stag】】 http://t.cn/zO8EAfO  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+546:【视频：《通灵男孩诺曼（ParaNorman）》预告及制作花絮】 http://t.cn/zWpCKxT  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+547:挺有感觉~美国摄影师Ryan O. Hicks拍摄的一组关于美国消防员的宣传照片。 http://t.cn/zWYk4Ku 
+num_like: 0   forwardings: 0 comments: 0
+
+548:制作还不错的中国风，说是法国毕业于法国动画学院Supinfocom制作的。整体不错，但能看出功夫熊猫等众多片子的模仿。。。。《狐仙记》  http://t.cn/zWOnQ9x  （分享自 @土豆网原创） 
+num_like: 0   forwardings: 0 comments: 0
+
+549:高手啊~技术宅威武！国外玩家用弹弓玩《愤怒的小鸟》 http://t.cn/zWW2lET  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+550:汐丹之光文化传媒有限公司官方主页测试上线啦~！ xidanlight.com 
+num_like: 0   forwardings: 0 comments: 1
+
+551:【经典重现！cosplay灌篮高手~】神COS！神还原啊！太牛逼了！！献给那些曾经喜欢灌篮高手的人们，看到了有没有一丝感动。 http://t.cn/zW0Eodw 
+num_like: 0   forwardings: 0 comments: 0
+
+552:【尸茧：残忍的陪葬品】尸茧呈黄色琥珀状,里面裹有动物或者孩子的尸体。古籍记载，先秦时，方士把不足月的孕妇浸入药液，埋二十七年，腹中胎儿就成尸茧。外面一层，由胎盘石化，琥珀由羊水凝固形成。也有说，这是一种尸体的防腐，用特殊的树脂将尸体裹住。关注@盗墓中国，职业盗墓贼带你走进盗墓江湖 
+num_like: 0   forwardings: 0 comments: 0
+
+553:号称一秒钟十万美元的广告，我被HOLD住了！开眼了！太特么的有创意了！！ 太特么有创意了！必须转！ http://t.cn/zWqE1PK 
+num_like: 0   forwardings: 1 comments: 0
+
+554:李安导演《少年Pi的奇幻漂流》预告片——讲述一位印度男孩在海上遇难，与一头孟加拉虎同乘一艘救生艇，在太平洋上历时227天的生存历险故事。当老虎出现，少年站在无尽的海面上仰望夕阳，一头鲸鱼飞跃而起……忍不住全身发麻眼眶湿润！我果然是大海的儿女…… http://t.cn/zWSF38s 
+num_like: 0   forwardings: 0 comments: 0
+
+555:【李响一秒钟变身四人 《职来职往》显功夫】ESPN体育解说、电视购物节目、新闻节目、生活类型节目，响哥瞬间变身4类节目主播，秒杀全场！这反应太快了，尤其是当他把台本往地上一摔，说：“不要讲这个两块钱，我跟你们讲…”太赞了有木有！！ 一秒钟变身四人 李响真功夫显现 
+num_like: 0   forwardings: 0 comments: 0
+
+556:3D版圣斗士啊~很激动看到~但写实的质感和卡通的面容实在让人想吐啊~！【视频：首播！《圣斗士星矢》热血高清CG电影】 http://t.cn/zWogxIJ  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 1
+
+557:【《职来职往》乡土“林志玲”装嗲不成被批白痴】河南“林志玲”港台腔秀英语，雷焦全场。“我从小就是有点瓦娃音酿紫…”自称月收入一万，每晚在酒吧消费三五千！[bed凌乱]做过演员录过歌演过戏…这正是，我劝天公重抖擞，不拘一格降奇葩！http://t.cn/zWXz4AS 
+num_like: 0   forwardings: 0 comments: 0
+
+558:抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV
+num_like: 0   forwardings: 0 comments: 0
+
+559:效果太棒了~问给100万美刀国内谁与争锋！【视频：百万美金制作 《行星边际2》好莱坞级CG全球首发】 http://t.cn/zWoSAkS  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 2
+
+560:【视频：绝美水墨效果！美国癌症基金会公益广告The Haze欣赏】 http://t.cn/zW64sFK  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+561:jojo奇妙冒险电影剧照发布~！庆荒木老师画展开幕~！！！ 
+num_like: 19   forwardings: 630 comments: 40
+
+562:很高科技，艺术家变成科学家~【视频：绝对奢侈品！Mudbox结合Wacom最新Cintiq 24HD多点触屏操作展示1】 http://t.cn/zWMcfb3  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+563:又是一个神器，场景展示拥有4.9billion的多边形，太牛了~！【视频：超级实时动画预览与渲染软件“Clarisse”官方展示-1】 http://t.cn/zWtqkRB  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+564:庆祝JOJO25周年和荒木7月30的画展，特发jojo海报之五 
+num_like: 0   forwardings: 2 comments: 0
+
+565:这本书真是精华中的精华~！！！替身大集合~【替身篇·第三部】JOJO A-GO!GO! http://t.cn/zWfrXrh 
+num_like: 1   forwardings: 0 comments: 0
+
+566:都说半露就是荒木大师的化身~【法文版jojo】Rohan au Louvre （岸边露伴在卢浮宫） http://t.cn/zWfrMJ0 
+num_like: 2   forwardings: 0 comments: 0
+
+567:不久电影制作也能出书的~JoJo6251 荒木飞吕彦の世界 http://t.cn/zWfrA14 
+num_like: 1   forwardings: 0 comments: 0
+
+568:Fans 的能力才是强大~JOJO冒險奇遇 替身出處補完中…… http://t.cn/zWfrzlG 
+num_like: 0   forwardings: 1 comments: 1
+
+569:Mondo的海报总是不走寻常路，这张【黑暗骑士崛起】的海报来自Jock，明天将于圣地亚哥漫画展上开售，24″ x 36″的印刷尺寸，售价为50美刀。这种电影海报印刷品对于影迷来说，装饰客厅再好不过了。 
+num_like: 0   forwardings: 0 comments: 0
+
+570:实在俗到想要劈烂显示器~.....有妖气漫画动画化计划第一弹【视频：十万个冷笑话 - 哪吒篇(一)】 01 哪吒篇 1  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+571:暴力暴力~【视频：好莱坞电影特效欣赏】 http://t.cn/SUWOW4  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+572:为了纪念日本漫画家荒木飞吕彦的人气作品《JOJO奇妙冒险》连载25周年， 2012年的7月下旬和10月下旬将分别在宫城县仙台市和东京举办“荒木飞吕彦原画展JOJO展”。 
+num_like: 0   forwardings: 4 comments: 2
+
+573:我获得微身份勋章啦！我是个有身份的人了，你也快点来领取吧。咱们都是靠谱的人！微身份 新浪微博-随时随地分享身边的新鲜事儿 
+num_like: 0   forwardings: 0 comments: 0
+
+574:【视频：MPC放出《哈利·波特与死亡圣器》第二部分VFX制作花絮】 http://t.cn/zWyr7C9  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+575:玩这个很刺激啊，原先只听说，今天能看到了~【视频：老外现在不玩快闪玩快倒了！】 http://t.cn/zONpHBc  （分享自 @优酷网） 
+num_like: 0   forwardings: 2 comments: 0
+
+576:越来越简单~【视频：New Element 3D Video Demonstration】 http://t.cn/zWtTZ05  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+577:又来一个老外的~！【视频：《质量效应3》加长版CG预告片】 http://t.cn/zOy84pn  （分享自 @优酷网） 
+num_like: 0   forwardings: 2 comments: 0
+
+578:当今中国的CG镜头和动画肯定是超越不了的，就算再给两三年~【视频：刺客信条2 E3预告片】 http://t.cn/akqZkn  （分享自 @优酷网） 
+num_like: 0   forwardings: 2 comments: 0
+
+579:游戏玩了不怎么样，但游戏CG还是世界顶级的~【视频：《刺客信条：兄弟会》首段CG预告片】 http://t.cn/7whV8  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+580:我喜欢的是片头的素描CG效果~~~【视频：暗黑破坏神3国服版开场CG】 http://t.cn/zOdHdYA  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+581:真是牛人无所不能~【视频：[PSV]DIY全息影像视频制作详细教程--by SavitarLee】 http://t.cn/zOE41NH  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+582:之前看过的不错游戏CG~这比复仇者联盟整容强大多了~【视频：美国漫画超级英雄大混战 高清CG动画】 美国漫画超级英雄大混战 高清CG动画  （分享自 @优酷网） 
+num_like: 3   forwardings: 6 comments: 0
+
+583:#56高校影像力#2012国产动画神作，看看学动画的有多牛逼吧，愣是把阎王爷给逼萌了！中国传媒大学学生作品：【极乐之物】降临兮 一分钟阴间变天堂 http://t.cn/zWbo9rj @格子衫嘉诚 
+num_like: 0   forwardings: 1 comments: 1
+
+584:还不错的游戏CG【视频：【一起动画吧】瞬间把你秒杀的CG动画——《Ruin》】 http://t.cn/zOXLRDU  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 1
+
+585:很棒的游戏CG！！！镜头不错~【视频：超华丽CG片头！blur工作室最新打造“Dishonored”游戏宣传片】 http://t.cn/zOOfgLB  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+586:有电影大片的感觉~《次时代游戏大作《虐杀原形2》 真人版预告片》 www.cgmax.org 更多CG资讯和CG教程可以访问我们的网站 http://t.cn/zWqLzfz  （分享自 @土豆网游戏） 
+num_like: 0   forwardings: 1 comments: 0
+
+587:CG破裂神器啊~！！！【视频：max破裂插件“RayFire”超酷展示动画】 http://t.cn/zOCMHsT  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+588:很大气~！！！【视频：史诗巨作《诸神之战2》导演访谈预告片】 http://t.cn/zOoSJfY  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+589:不错的建筑类表现DEMO~!!!【视频：最新版“SimCity 虚拟城市”游戏宣传片欣赏】 http://t.cn/zOVJzll  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+590:世界顶级电影特效花絮~！！！【视频：ILM光魔放出《Battleship 战艇》幕后制作花絮】 http://t.cn/zONQoIB  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+591:又是顶级的游戏CG~！！！《Guardians of Middle-Earth E3 2012 Announcement Trailer [HD]》 http://t.cn/zODOMFU  （分享自 @土豆网游戏） 
+num_like: 0   forwardings: 2 comments: 0
+
+592:很棒的游戏CG,学习一下~！！！【视频：暴爽格斗游戏《不义联盟：我们之中的神》CG开场游戏画面宣传片】 http://t.cn/zODtBQA  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+593:一个玩火的电影特效师DEMO~!!!《Allan McKay - 2012 Reel (work in progress)》 http://t.cn/zW7odck  （分享自 @土豆网电影） 
+num_like: 0   forwardings: 1 comments: 0
+
+594:世界级游戏CG公司经强大DEMO~!!!《null》 http://t.cn/zWLGX5k  （分享自 @土豆网游戏） 
+num_like: 0   forwardings: 1 comments: 0
+
+595:镜头很不错，值得学习~【视频：曝酷游戏宣传片《僵尸U ZombiU》欣赏】 http://t.cn/zW2cGUf  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 1
+
+596:合成很不错，直得国人CG者学习~PC放出《Prometheus普罗米修斯》飞船场景制作花絮】 http://t.cn/zWhQqI9  （分享自 @优酷网） 
+num_like: 0   forwardings: 1 comments: 0
+
+597:【视频：WETA Digital介绍《PROMETHEUS普罗米修斯》DNA裂变人角色制作花絮】 http://t.cn/zWzCRDG  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+598:【视频：CG动画电影开发工具《Source Filmmaker》发布】 http://t.cn/zW4sEIm  （分享自 @优酷网） 
+num_like: 0   forwardings: 0 comments: 0
+
+599:格兰特·梅杰 Grant Major：著名电影艺术大师，设计大师。曾四次被奥斯卡金像奖提名，并于2004年获得奥斯卡最佳电影指导奖。是金刚，指环王三部曲的艺术设计指导。强大啊。。吕大呆呆，要加油了。合影留念于青岛。 
+num_like: 0   forwardings: 0 comments: 0
+
+600:《圣斗士星矢Ω》第一集熟肉已经出来了，http://t.cn/zOSYX4H 单独看马越嘉彦的造型手稿还是很NB的，只是作为圣斗士系列来说，不知道有多少人能接受这少女派造型呢？大家自行评判下吧。 
+num_like: 0   forwardings: 0 comments: 0
+
+601:看到这位技术达人的创意，我服了[赞] 
+num_like: 0   forwardings: 0 comments: 0
+
+602:乔迷们期待已久的第四款海报终于来了~！！！ 白金之星——世界登场~~~！！！倒计时27！ 操控时间的力量！ 话不用太多，继续加油吧~JOJO~!!! 
+num_like: 1   forwardings: 0 comments: 0
+
+603:发表了博文 《JOJO's Bizarre Adventure Film第四款海报狂澜登场！》 - 乔迷们期待已久的第四款海报终于来了~！！！白金之星——世界登场~~~！！！倒计时27！   操控时间 http://t.cn/zOgy8EM 
+num_like: 0   forwardings: 0 comments: 0
+
+604:一群无德之人在百度百科中,对我的<Maya静帧火星风暴>一书的内容附加误导读者的内容.这些人以不正当竞争的方式来祸害这个行业!http://t.cn/zON2AJL 两个不要脸的东西--本来不想骂 其实这个情况早在去年我就发现了,但每当有人看到问到我时,实在想得火大. 还有上面两人中还有一个也曾是火星时代人...... 
+num_like: 0   forwardings: 1 comments: 1
+
+605:分享Warmhearted的博文：JOJO'sBizarreAdventurePoster3话不多说，继续努力，你们会懂的！发布 推荐给@头条博客 http://t.cn/zOG5gqI  （分享自 @头条博客） 
+num_like: 0   forwardings: 7 comments: 0
+
+606:我们新买的树。。放在房间里还不错。。[兔子] 
+num_like: 0   forwardings: 0 comments: 0
+
+607:Mountain Ships 完成，MP范例MS终于完成，大约三天吧。VUE+MAYA+PS，DEMO也完成了，但上传太麻烦了，就懒得传了。 
+num_like: 1   forwardings: 2 comments: 0
+
+608:不久前的MP范例，MAYA+PS 
+num_like: 1   forwardings: 0 comments: 0
+
+609:我参与了@头条博客 发起的投票【你支持韩寒吗？】，我投给了"支持麦田，分析有理"这1个选项。你也快来表态吧：http://t.cn/z0e2djc  
+num_like: 0   forwardings: 0 comments: 0
+
+610:做项目会遇到几种钱出问题的情况，你是哪种？ 
+num_like: 0   forwardings: 0 comments: 0
+
+611:好莱坞电影海报模式研究，总会看见说哪款海报抄袭这个抄袭那个，其实就是这些套路了。。。。来看看吧：【强烈闪光眼镜式】【红衣女郎式】【背影式】【大眼睛式】【汤姆克鲁斯侧脸式】【蒙眼睛式】【糊一脸字式】【kappa式】【叉开大腿式】。。。。 
+num_like: 0   forwardings: 1 comments: 1
+
+612:我给自己贴了 电影、艺术、CG 标签。 
+num_like: 0   forwardings: 0 comments: 0
+
+613:年前晕头转向的忙啊.................. 
+num_like: 0   forwardings: 0 comments: 0
+
+614:分享Warmhearted的博文：新作一张，贺新年~！祝自己和朋友们事事顺利~！ 推荐给@头条博客 http://t.cn/SxEitv  （分享自 @头条博客） 
+num_like: 0   forwardings: 0 comments: 0
+
+615:大家为什么看微博那么有时间，有精力啊？很有趣吗，我感觉好浪费时间啊。好多事情等着我做，也许是我还年青吧~哈哈，加油工作去了~！！！[嘻嘻] 
+num_like: 0   forwardings: 0 comments: 1
+
+616:妈的，有没有搞错，芙蓉姐姐代言龙岩旅游~搞的姐都要爆粗口了@Q7小蜜全能王 
+num_like: 0   forwardings: 0 comments: 0
+
+617:分享Warmhearted的博文：边缘——给科幻世界杂志做的封面 推荐给@头条博客 http://t.cn/ScopVe  （分享自 @头条博客） 之后还会有好几张科幻的作品，请关注~ 
+num_like: 0   forwardings: 1 comments: 0
+
+618:JOJO'sBizarreAdventureFilm首款海报强势发布！网络上已经被疯狂转了，我很开心，希望大家能支持！再透露些消息：年前还会发布倒计时第二款海报！加油JOJO们~ 
+num_like: 1   forwardings: 33 comments: 2
+
+619:分享Warmhearted的博文：一个MP范例 推荐给@头条博客 http://t.cn/Stmgns  （分享自 @头条博客） 
+num_like: 0   forwardings: 0 comments: 0
+
+620:18次复合 我看过的最好的广告 http://t.cn/a1B2Ql 
+num_like: 0   forwardings: 0 comments: 0
+
+621:分享Warmhearted的博文：在火星最后一期班的日子 推荐给@头条博客 http://t.cn/aeHReH  （分享自 @头条博客） 
+num_like: 0   forwardings: 1 comments: 0
+
+622:分享Warmhearted的博文：第82期影视模型与渲染专业学员作品 推荐给@头条博客 http://t.cn/aeH8BX  （分享自 @头条博客） 
+num_like: 0   forwardings: 0 comments: 0
+
+623:期盼已久的《EXPOSE9》画册今天拿到了，两幅作品入选；另外火星61期模型与渲染专业的一幅学员作品入选！相信后续会有很多火星学员的原创作品入选此套“世界顶级CG艺术画册”！敬请期待！！ 
+num_like: 0   forwardings: 0 comments: 0
+

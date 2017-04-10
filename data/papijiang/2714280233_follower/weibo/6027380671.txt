@@ -1,0 +1,7 @@
+user_info or user_nickname: 谁是萱晴
+user_id: 6027380671
+weibo_Num: 0
+Num_followings: 43
+Num_followers: 3
+
+weibo content: 
