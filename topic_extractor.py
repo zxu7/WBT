@@ -96,8 +96,8 @@ class TopicExtractor (object):
 # ------------------- main function -------------- #
 if __name__ == "__main__":
     tp = TopicExtractor(debug=False, topK=10)
-    path = os.path.abspath('./data/papijiang/2714280233_follower/weibo_new')
-    # path = os.path.abspath('./data/papijiang')
+    # path = os.path.abspath('./data/papijiang/2714280233_follower/weibo_new')
+    path = os.path.abspath('./data/papijiang')
     files = [f for f in os.listdir(path) if os.path.isfile("/".join([path, f])) and f.endswith("new.txt")]
     for f in files:
         fn = "/".join([path, f])
